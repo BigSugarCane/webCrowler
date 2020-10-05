@@ -62,7 +62,7 @@ public class crawlerRun {
                 size = linksOnPage.size();
                 System.out.println(URL);
                 System.out.println("URL Num: "+size);
-                writeToCsv(URL+","+size);
+              //  writeToCsv(URL+","+size);
 
                 //5. For each extracted URL... go back to Step 4.
                 for (Element page : linksOnPage) {
@@ -95,11 +95,11 @@ public class crawlerRun {
 			html = doc.html();
 			
 			System.out.print(html);
-			try (Writer writer = new BufferedWriter(new OutputStreamWriter(
-		              new FileOutputStream(filename.toString ()), "utf-8"))) {
-		   writer.write(html);
-		   counter++;
-		}
+//			try (Writer writer = new BufferedWriter(new OutputStreamWriter(
+//		              new FileOutputStream(filename.toString ()), "utf-8"))) {
+//		//   writer.write(html);
+//		   counter++;
+//		}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
