@@ -8,7 +8,7 @@
   <meta charset="utf-8"> 
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
   <meta content="CPP" property="cludo:category"> 
-  <meta content="2020-09-17T12:06Z" property="date"> 
+  <meta content="2020-09-17T12:08Z" property="date"> 
   <link href="https://www.cpp.edu/prospective-student-gateway/index.shtml" rel="canonical"> 
   <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
   <script>// <![CDATA[
@@ -84,27 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <span>Cal Poly Pomona should be your home away from home. Get to know more about our campus, the services available to you and the opportunities you'll find here.</span>
       </div> 
      </section> 
-     <section class="row  align-items-top card-section primary-blue" id="s1"> 
-      <div class="col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100 circle-image-card">  
-        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
-         <h2 id="ch-0">Online Engagement &amp; Support</h2> <span>Cal Poly Pomona remains committed to keeping students engaged in the virtual environment. Visit the Student Affairs Online Engagement and Support website to learn how to access workshops, wellbeing resources, support services and how to best contact departments remotely.</span> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/student-affairs/covid19.shtml">Visit Online Engagement &amp; Support Website</a> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-      <div class="col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100 circle-image-card">  
-        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
-         <h2 id="ch-1">Academic &amp; Student Services Support</h2> <span>While Cal Poly Pomona course instruction has transitioned to a virtual format given the COVID-19 concerns, the university will continue to offer student services. Visit the Academic and Student Services Support website for information and access to various services.</span> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/studentsuccess/virtual-advising-toolkit.shtml">Visit Virtual Advising &amp; Academics Toolkit Website</a> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </section> 
-     <section class="row card-section" id="s2"> 
+     <section class="row card-section" id="s1"> 
       <div class="col single-card"> 
        <div class="card h-100 normal"> 
         <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
@@ -195,16 +175,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-4 lp-image order-1 order-md-3">  
       </div> 
      </section> 
-     <section class="text-images" id="s3"> 
+     <section class="text-images" id="s2"> 
       <div>
        <span>Campus Life</span>
       </div> 
      </section> 
-     <section class="row card-section" id="s4"> 
+     <section class="row card-section" id="s3"> 
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-4">Diversity</h2> 
+         <h2 id="ch-2">Diversity</h2> 
          <p>The university is committed to learning centeredness accomplished through a network of academic communities, which include multicultural nations of diverse races, ethnicities, socioeconomic backgrounds, national origins, religious and political beliefs, physical abilities, ages, genders and sexual orientations.</p> 
          <ul> 
           <li><a href="http://www.cpp.edu/~officeofequity/">Office of Equity, Inclusion, and Compliance</a></li> 
@@ -221,7 +201,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-5">Student Services</h2> 
+         <h2 id="ch-3">Student Services</h2> 
          <p>Cal Poly Pomona offers a wide array of services that provide critical support, information and guidance for all students.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/~career/">Career Center</a></li> 
@@ -239,7 +219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-6">Student Activities</h2> Many Broncos are involved in one or more of over 250 academic and social clubs and organizations.
+         <h2 id="ch-4">Student Activities</h2> Many Broncos are involved in one or more of over 250 academic and social clubs and organizations.
          <br> 
          <ul> 
           <li><a href="https://asi.cpp.edu/">Associated Students, Inc.</a></li> 
@@ -254,7 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-7">Housing &amp; Dining </h2> 
+         <h2 id="ch-5">Housing &amp; Dining </h2> 
          <p>Cal Poly Pomona offers a variety of housing and dining options across campus.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/~housing/housing-options/index.shtml">Housing Options</a></li> 
@@ -268,7 +248,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-8">Health &amp; Fitness</h2> 
+         <h2 id="ch-6">Health &amp; Fitness</h2> 
          <p>Take advantage of a range of health and wellness services that are affordable, accessible and student-centered.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/health/index.shtml">Student Health Services</a></li> 
@@ -283,7 +263,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-9">Safety</h2> 
+         <h2 id="ch-7">Safety</h2> 
          <p>We’re proactive in making sure students are safe on campus and are aware of all of the resources available to keep them safe.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/~officeofequity/titleIX/index.shtml">Title IX</a></li> 
@@ -299,7 +279,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-10">Getting Around</h2> 
+         <h2 id="ch-8">Getting Around</h2> 
          <p>Whether you’re driving, biking or walking to campus, learn more about how to get to Cal Poly Pomona.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/maps/">Campus Maps</a></li> 
@@ -316,7 +296,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col-md-6 col-sm-12 single-card"> 
        <div class="card h-100">  
         <div class="card-body d-flex flex-column align-items-start"> 
-         <h2 id="ch-11">Online Services</h2> 
+         <h2 id="ch-9">Online Services</h2> 
          <p>Students have access to a wide range of self-service tools, available 24/7.</p> 
          <ul> 
           <li><a href="https://www.cpp.edu/~mobile-app/">CPP Mobile</a></li> 

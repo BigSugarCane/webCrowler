@@ -41,18 +41,17 @@ public class crawlerRun {
         articles = new ArrayList<>();
     }
 
-    public void getPageLinks(String URL) {
+    public void getURLs(String URL) {
     	StringBuilder sb = new StringBuilder();
     	int size;
         //4. Check if you have already crawled the URLs
-        //(we are intentionally not checking for duplicate content in this example)
+        
         if (!links.contains(URL)) {
             try {
                 //4. (i) If not add it to the index
                 if (links.add(URL)) {
                   //  System.out.println(URL);
-                	print(URL);
-                
+                	getHTML(URL);           
                     
                 }
 
@@ -67,7 +66,7 @@ public class crawlerRun {
 
                 //5. For each extracted URL... go back to Step 4.
                 for (Element page : linksOnPage) {
-                    getPageLinks(page.attr("abs:href"));
+                    getURLs(page.attr("abs:href"));
                 }
             } catch (IOException e) {
                 System.err.println("For '" + URL + "': " + e.getMessage());
@@ -76,7 +75,7 @@ public class crawlerRun {
         
 
     } 
-    public static void print(String url) {
+    public static void getHTML(String url) {
     	
     	 String webPage = url;
 
@@ -109,31 +108,13 @@ public class crawlerRun {
          
     	
     }
-//    public void getArticles() {
-//        links.forEach(x -> {
-//            Document document;
-//            try {
-//                document = Jsoup.connect(x).get();
-//                Elements articleLinks = document.select("h2 a[href^=\"http://www.mkyong.com/\"]");
-//                for (Element article : articleLinks) {
-//                    //Only retrieve the titles of the articles that contain Java 8
-//                	 ArrayList<String> temporary = new ArrayList<>();
-//                     temporary.add(article.text()); //The title of the article
-//                     temporary.add(article.attr("abs:href")); //The URL of the article
-//                     articles.add(temporary);
-//                     System.out.print(temporary);
-//                }
-//            } catch (IOException e) {
-//                System.err.println(e.getMessage());
-//            }
-//        });
-//    }
+
 
     public static void main(String[] args) {
         //1. Pick a URL from the frontier
     	crawlerRun bwc = new crawlerRun();
     	//links.add("http://www.cpp.edu/");
-        bwc.getPageLinks("http://www.cpp.edu/");
+        bwc.getURLs("http://www.cpp.edu/");
        // bwc.getArticles();
     //	print("http://www.cpp.edu/");
         
@@ -141,23 +122,21 @@ public class crawlerRun {
     }
     public void writeToCsv(String url) throws IOException{
     	FileWriter pw = new FileWriter("report.csv",true); 
-    		pw.append(url+",");
-        
-        
+    		pw.append(url+",");  
             pw.flush();
             pw.close();
     }
     
     
-    public static String checkLan(String contain,String choice) throws IOException {
-    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
-        QueryParams params = new QueryParams().query(contain);
-        APIResult result = con.detect(params);
-       // get_lang(query = "I really really love R and that's a good thing, right?", api_key = "your_api_key")
-        String language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
-        
-        System.out.println(new ObjectMapper().writeValueAsString(result.getResults()));
-        return language ;
-    }
+//    public static String checkLan(String contain,String choice) throws IOException {
+//    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
+//        QueryParams params = new QueryParams().query(contain);
+//        APIResult result = con.detect(params);
+//       // get_lang(query = "I really really love R and that's a good thing, right?", api_key = "your_api_key")
+//        String language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
+//        
+//        System.out.println(new ObjectMapper().writeValueAsString(result.getResults()));
+//        return language ;
+//    }
 
 }
