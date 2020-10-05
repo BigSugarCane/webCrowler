@@ -5,9 +5,11 @@ import com.github.agogs.languagelayer.api.LanguageLayerAPIConsumer;
 import com.github.agogs.languagelayer.model.APIResult;
 import com.github.agogs.languagelayer.model.Batch;
 import com.github.agogs.languagelayer.model.QueryParams;
+
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
+import java.util.Scanner; 
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -110,14 +112,16 @@ public class crawlerRun {
     }
 
 
-    public static void main(String[] args) {
-        //1. Pick a URL from the frontier
-    	crawlerRun bwc = new crawlerRun();
-    	//links.add("http://www.cpp.edu/");
-        bwc.getURLs("http://www.cpp.edu/");
-       // bwc.getArticles();
-    //	print("http://www.cpp.edu/");
-        
+    public static void main(String[] args) throws IOException {
+//    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+//    	    System.out.println("Please Enter seed WebSite: ");
+//    	    String url = myObj.nextLine();  // Read user input
+//    	    System.out.println("Please Enter Language code(en,cn,sp): ");
+//    	    String lan = myObj.nextLine();  // Read user input
+//    	crawlerRun bwc = new crawlerRun(); 	
+//        bwc.getURLs("http://"+url);
+    	lantest("你好");
+   
         
     }
     public void writeToCsv(String url) throws IOException{
@@ -125,6 +129,12 @@ public class crawlerRun {
     		pw.append(url+",");  
             pw.flush();
             pw.close();
+    }
+    public static void lantest(String contain) throws IOException {
+    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
+    	QueryParams params = new QueryParams().query(contain);
+    	APIResult result = con.detect(params);
+        System.out.println(new ObjectMapper().writeValueAsString(result.getResults()));
     }
     
     
