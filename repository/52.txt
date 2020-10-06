@@ -1,0 +1,185 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
+ <head> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+			Mission, Vision &amp; Values
+		</title> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2019-11-18T10:52Z" property="date"> 
+  <link href="https://www.cpp.edu/aboutcpp/calpolypomona-overview/mission-and-values.shtml" rel="canonical"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
+ </head> 
+ <body>  
+  <div id="consent-box" role="alert" tabindex="0">
+   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
+   <div>
+    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
+   </div> 
+  </div> 
+  <div class="cpp-alert-bar">
+   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
+    <div> 
+     <p>Fall is predominantly virtual/remote. University critical services continue.</p> 
+    </div> 
+   </div>
+  </div> 
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  </a> <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
+    </div> 
+    <form autocomplete="off" class="center-search row justify-content-center" id="searchcpp" method="get" role="search">
+     <label class="sr-only" for="searchbar">SEARCH Box</label> 
+     <input class="search-query_new" id="searchbar" maxlength="256" name="cludoquery" placeholder="What can we help you find?" title="search" type="text"> <button alt="SEARCH" class="button" id="searchbutton" title="SEARCH" type="submit" value="submit"> <i class="fas fa-search"></i> <span class="sr-only">Submit Search</span> </button> 
+     <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+      <div aria-labelledby="suggestedh2" class="dropdown-menu dropdown-menu-right" id="searchhelp"> 
+       <h2 id="suggestedh2">Popular Searches</h2> 
+       <ul id="autocomplete-results"></ul> 
+      </div> 
+     </div> 
+    </form>
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="About Cal Poly Pomona"> <custom /> 
+   <section id="jumbotron">  
+   </section> 
+   <div id="dept-title">
+     About Cal Poly Pomona 
+   </div> 
+  </header> 
+  <main class="container flex-grow"> 
+   <div class="row"> 
+    <div class="col-12 col-md-4 col-lg-3"> 
+     <nav class="navbar navbar-expand-md navbar-light"> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button"> <span class="navbar-toggler-icon"></span> </button> 
+      <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+       <ul class="nav nav-pills left-nav" id="site-nav"> 
+        <li id="li-1"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/index.shtml">Home</a> </li> 
+        <li class="nav-item collapsed" id="li-2"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-1">Why CPP<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-1"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-3"> <a class="nav-link" data-parent="#item-1" href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#poly">A Polytechnic Approach</a> </li> 
+          <li class="nav-item" id="li-4"> <a class="nav-link" data-parent="#item-1" href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#learn">Learning By Doing</a> </li> 
+          <li class="nav-item" id="li-5"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/diverse.shtml">A Diverse Community</a> </li> 
+          <li class="nav-item" id="li-6"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/affordable-and-accessible.shtml">Affordable and Accessible</a> </li> 
+          <li class="nav-item" id="li-7"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/quality-learning-experiences.shtml">Quality Learning Experience</a> </li> 
+          <li class="nav-item" id="li-8"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/well-ranked.shtml">Well Ranked</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-9"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-2">CPP Overview<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-2"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-10"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/presidents-message.shtml">President's Welcome</a> </li> 
+          <li class="nav-item" id="li-11"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/mission-and-values.shtml">Mission, Vision &amp; Values</a> </li> 
+          <li class="nav-item" id="li-12"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/campus-community.shtml">Campus Community</a> </li> 
+          <li class="nav-item" id="li-13"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/facts-and-figures.shtml">Facts &amp; Figures</a> </li> 
+          <li class="nav-item" id="li-14"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/public-good.shtml">Public Good</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-15"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-3">Heritage<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-3"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-16"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/index.shtml">A Brief History</a> </li> 
+          <li class="nav-item" id="li-17"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/kellogg-connection.shtml">The Kellogg Connection</a> </li> 
+          <li class="nav-item" id="li-18"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/history-archives.shtml">University History and Archives</a> </li> 
+          <li class="nav-item" id="li-19"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/kellogg-house-pomona.shtml">Kellogg House Pomona</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-20"> <a aria-controls="menu" aria-expanded="true" class="nav-link expanded-nav" data-parent="#site-nav" data-toggle="collapse" href="#item-4">Visitor Information<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="show" id="item-4"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-21"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/directions.shtml">Directions</a> </li> 
+          <li class="nav-item" id="li-22"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/parking.shtml">Parking</a> </li> 
+          <li class="nav-item" id="li-23"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/getting-around.shtml">Getting Around Campus</a> </li> 
+          <li class="nav-item" id="li-24"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/dining.shtml">Dining</a> </li> 
+          <li class="nav-item" id="li-25"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/shopping.shtml">Shopping</a> </li> 
+          <li class="nav-item" id="li-26"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/lodging.shtml">Lodging</a> </li> 
+          <li class="nav-item" id="li-27"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/attractions.shtml">Attractions</a> </li> 
+         </ul>
+        </div> 
+        <li id="li-28"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/administration.shtml">Administration</a> </li> 
+        <li id="li-29"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/news.shtml">News and Events</a> </li> 
+       </ul>
+      </div>
+     </nav> 
+    </div> 
+    <div class="col-sm col-md-8 col-lg-9" id="main"> 
+     <h1 class="cpp-h1">Mission, Vision &amp; Values</h1> 
+     <section class="row card-section" id="s0"> 
+      <div class="col single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-0">Mission</h2> <span>We cultivate success through a diverse culture of experiential learning, discovery, and innovation.</span> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-1">Vision</h2> <span>Cal Poly Pomona will be the model for an inclusive polytechnic university that inspires creativity and innovation, embraces local and global challenges, and transforms lives.</span> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="row featurette align-items-center primary-blue mb-5"> 
+      <div class="col-md-5 order-1">  
+      </div> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Strategic Plan <br><span class="text-muted"></span> </h2> 
+       <p class="lead"> <span>Cal Poly Pomona launched a new&nbsp;strategic planning initiative&nbsp;&nbsp;in winter quarter 2016. The Strategic Planning website has been launched, giving the campus community an opportunity to share vital input as Cal Poly Pomona charts a course for the next several years.</span></p> <a class="btn btn-primary" href="http://www.cpp.edu/~strategicplan/index.shtml">Strategic Plan</a> 
+      </div> 
+     </section> 
+     <section class="text-images" id="s1"> 
+      <h2>This is Cal Poly Pomona</h2> 
+      <p>Discover the university's core principles in this campaign video.</p> 
+      <div class="video-container">
+       <iframe allow="autoplay; encrypted-media" allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/IiRE14MvdJo" title="campaign video" width="560"></iframe>
+      </div> 
+     </section> 
+     <section class="text-images" id="s2"> 
+      <h2>Values</h2> 
+      <ul type="disc"> 
+       <li><strong>Academic Excellence</strong><span>&nbsp;</span>– We demonstrate academic quality, relevance, and excellence through our teaching, learning, scholarship, and creative activities with student centered faculty in an evidence-based culture.</li> 
+       <li><strong>Experiential Learning</strong><span>&nbsp;</span>– Our polytechnic identity fosters an integrative approach to education through collaboration, discovery, learn-by-doing, and innovation. Our approach encourages reflection, informed risk-taking, and continuous learning.</li> 
+       <li><strong>Student Learning and Success</strong><span>&nbsp;</span>– We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.</li> 
+       <li><strong>Inclusivity</strong><span>&nbsp;</span>– Our diversity across multiple dimensions reflects and enhances our community. We are welcoming and respectful, and we value diversity.</li> 
+       <li><strong>Community Engagement</strong><span>&nbsp;</span>– We nurture mutually beneficial and meaningful relationships with community partners and stakeholders.</li> 
+       <li><strong>Social and Environmental Responsibility</strong><span>&nbsp;</span>– As global citizens, our individual and collective actions reflect our commitment to one another, society, and the environment.</li> 
+      </ul> 
+      <h2>Strategic Initiatives</h2> 
+      <h3>Deliver quality programs that promote integrative learning, discovery and creativity</h3> 
+      <ul> 
+       <li>As an expression of our polytechnic identity, all students at Cal Poly Pomona will engage in experiential applied learning across all disciplines.&nbsp;</li> 
+       <li>Expand opportunities for students to experience the distinguishing hallmarks of a Cal Poly Pomona education: integrative learning, discovery, and creativity.&nbsp;</li> 
+       <li>Establish centers of excellence that will capitalize on our polytechnic identity, strengths and synergistic opportunities for discovery, innovation, and creative expression.&nbsp;</li> 
+       <li>Revitalize the General Education program by reimagining the integration of the liberal arts and sciences within the context of our polytechnic identity.</li> 
+      </ul> 
+      <h3>Enhance student learning, development, and success</h3> 
+      <ul> 
+       <li>Re-envision the co-curricular experience of students as they move in, through and beyond the University community.&nbsp;</li> 
+       <li>Design effective strategies that optimize the retention, persistence and achievement of students from historically underserved communities.&nbsp;</li> 
+       <li>Develop innovative strategies to increase the graduation rates of all students.&nbsp;</li> 
+       <li>Expand the digital student experience to provide timely and effective services that support students and their success.&nbsp;</li> 
+       <li>Encourage widespread student engagement in experiences that foster strong and enduring relationships and a sense of belonging in a vibrant campus community.&nbsp;</li> 
+       <li>Create a culture that promotes wellbeing and resiliency.</li> 
+      </ul> 
+      <h3>Prepare our students for the future of work and civic engagement</h3> 
+      <ul> 
+       <li>Implement a plan for student success that spans preadmission to one-year post-graduation.&nbsp;</li> 
+       <li>Develop a career readiness model that provides students with early and on-going opportunities to engage with alumni, the community, and industry leaders.&nbsp;</li> 
+       <li>Create a civic engagement i-Lab to address and solve community concerns and regional needs.</li> 

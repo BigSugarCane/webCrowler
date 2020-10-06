@@ -253,16 +253,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      </div> 
     </div> 
     <div class="col-lg col-md-7 col-sm-6 footer-links">
-     <a href="https://www.cpp.edu/~aboutcpp/index.shtml" title="Cpp About">About Cal Poly Pomona</a> <a aria-label="Cpp Feedback" href="https://www.cpp.edu/website-feedback.shtml" title="Cpp Feedback">Feedback</a> <a aria-label="Cpp Privacy" href="https://www.cpp.edu/privacy.shtml" title="footer - Privacy">Privacy</a> <a href="https://www.cpp.edu/accessibility.shtml">Accessibility</a> <a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
-    </div> 
-   </div> 
-   <div class="row" id="csu-footer">
-    <a href="https://www2.calstate.edu" title="California state university"></a>
-   </div> 
-   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-   <script src="https://www.cpp.edu/common/2018/assets/js/cpp.js"></script> 
-  </footer>  
- </body>
-</html>
+     <a href="https://www.cpp.edu/~aboutcpp/index.shtml" title="Cpp About">About Cal Poly Pomona</a> <a aria-label="Cpp Feedback" href="https://www.cpp.edu/website-feedback.shtml" title="Cpp Feedback">Feedback</a> <a aria-label="Cpp Privacy" href="https://www.cpp.edu/privacy.shtml" title="footer - Privacy">Privacy</a> <a href="https://www.cpp.edu/accessibility.shtml">Accessibility</a> <a href="https://www

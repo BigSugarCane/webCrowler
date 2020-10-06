@@ -9,6 +9,8 @@ import com.github.agogs.languagelayer.model.QueryParams;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.tika.language.LanguageIdentifier;
+
 import java.util.Scanner; 
 
 import org.jsoup.Jsoup;
@@ -37,38 +39,40 @@ public class crawlerRun {
 	private static HashSet<String> links;
     private List<List<String>> articles;
     static int counter =1;
+    static int limit =0;
 
     public crawlerRun() {
         links = new HashSet<>();
         articles = new ArrayList<>();
     }
 
-    public void getURLs(String URL) {
+    public void getURLs(String URL,String lan) throws IOException{
     	StringBuilder sb = new StringBuilder();
     	int size;
-        //4. Check if you have already crawled the URLs
-        
-        if (!links.contains(URL)) {
+        // Check if you have already crawled the URLs
+        if (!links.contains(URL) && URL != ""  && limit < 130) {
             try {
-                //4. (i) If not add it to the index
+            Document doc = Jsoup.connect(URL).ignoreContentType(true).userAgent("Mozilla").get();
+            	String title = doc.title();
+          //  if(languageCheck(title).equals(lan)) {
+                // If not add it to the index
                 if (links.add(URL)) {
-                  //  System.out.println(URL);
+                	//tester
+                  //  System.out.println(URL); 
+                	limit++;
                 	getHTML(URL);           
-                    
                 }
-
-                //2. Fetch the HTML code
-                Document document = Jsoup.connect(URL).get();
-                //3. Parse the HTML to extract links to other URLs
-                Elements linksOnPage = document.select("a[href]");
+          //  }
+                // Fetch the HTML code
+                // extract links to other URLs
+                Elements linksOnPage = doc.select("a[href]");
                 size = linksOnPage.size();
                 System.out.println(URL);
                 System.out.println("URL Num: "+size);
-              //  writeToCsv(URL+","+size);
-
+                writeToCsv(URL+","+size);
                 //5. For each extracted URL... go back to Step 4.
                 for (Element page : linksOnPage) {
-                    getURLs(page.attr("abs:href"));
+                    getURLs(page.attr("abs:href"),lan);
                 }
             } catch (IOException e) {
                 System.err.println("For '" + URL + "': " + e.getMessage());
@@ -78,9 +82,7 @@ public class crawlerRun {
 
     } 
     public static void getHTML(String url) {
-    	
     	 String webPage = url;
-
          String html;
          StringBuilder filename = new StringBuilder() ;
          filename.append("repository\\");
@@ -88,53 +90,79 @@ public class crawlerRun {
          filename.append (".txt");
 		try {
 			
-			Document doc = Jsoup.connect(webPage).get();
+			Document doc = Jsoup.connect(webPage).ignoreContentType(true).userAgent("Mozilla").get();
 			doc.getElementsByTag("style").remove();
 			doc.removeAttr("style");
 			doc.select("img").remove();
 			doc.select("[style]").removeAttr("style");
+			String title = doc.title();
+			html = doc.html();	
+			//tester
+			System.out.println(title);
 			
-			html = doc.html();
-			
-			System.out.print(html);
-//			try (Writer writer = new BufferedWriter(new OutputStreamWriter(
-//		              new FileOutputStream(filename.toString ()), "utf-8"))) {
-//		//   writer.write(html);
-//		   counter++;
-//		}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			try { 
+				if(doc.toString() != null && !doc.toString().isEmpty()){
+					Writer writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filename.toString ()), "utf-8")) ;
+					writer.write(doc.toString());
+					counter++;
+				}	
+			}catch (IOException ex) {
+				ex.printStackTrace();
+			}
+			//System.out.print(languageCheck(title));
+		
 		}
-
-         
-    	
+		 catch (IOException ex) {
+			ex.printStackTrace();
+			System.out.print(url+"is wrong");
+		 } 
     }
+    
 
 
     public static void main(String[] args) throws IOException {
 //    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 //    	    System.out.println("Please Enter seed WebSite: ");
 //    	    String url = myObj.nextLine();  // Read user input
-//    	    System.out.println("Please Enter Language code(en,cn,sp): ");
+//    	    System.out.println("Please Enter Language code(en,cn,lt): ");
 //    	    String lan = myObj.nextLine();  // Read user input
-//    	crawlerRun bwc = new crawlerRun(); 	
-//        bwc.getURLs("http://"+url);
-    	lantest("你好");
+    	crawlerRun bwc = new crawlerRun(); 	
+     //   bwc.getURLs("http://"+url,lan);
+   
+        chineseC("abc");
+        
+        
+        
+        
+        //	languageCheck("Nada hay más surreal que la realidad");
+    	
+    	bwc.getURLs("https://www.cpp.edu","en");
    
         
     }
     public void writeToCsv(String url) throws IOException{
     	FileWriter pw = new FileWriter("report.csv",true); 
-    		pw.append(url+",");  
+    		pw.append(url+","+"\n");  
             pw.flush();
             pw.close();
     }
-    public static void lantest(String contain) throws IOException {
-    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
-    	QueryParams params = new QueryParams().query(contain);
-    	APIResult result = con.detect(params);
-        System.out.println(new ObjectMapper().writeValueAsString(result.getResults()));
+    public static String languageCheck(String contain) throws IOException {
+    	LanguageIdentifier identifier = new LanguageIdentifier(contain);
+        String language = identifier.getLanguage();
+        System.out.println("Language of the given content is : " + language);
+        return language;
+    }
+    public static String chineseC(String s) {
+    	String language = "";
+    	 for (int i = 0; i < s.length(); ) {
+    	        int codepoint = s.codePointAt(i);
+    	        i += Character.charCount(codepoint);
+    	        if (Character.UnicodeScript.of(codepoint) == Character.UnicodeScript.HAN) {
+    	        	language = "cn";
+    	            return language;
+    	        }
+    	    }
+    	    return language;
     }
     
     
