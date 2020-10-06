@@ -1,142 +1,474 @@
 <!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
+<html prefix="og: http://ogp.me/ns#" lang="zh"> 
  <head> 
-  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
-  <title>
-			Faculty &amp; Staff
-		</title> <!-- Required meta tags --> 
   <meta charset="utf-8"> 
-  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
-  <meta content="CPP" property="cludo:category"> 
-  <meta content="2020-09-12T11:27Z" property="date"> 
-  <link href="https://www.cpp.edu/faculty-staff-gateway/index.shtml" rel="canonical"> 
-  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
-  <script>// <![CDATA[
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PSKJRNV');
-// ]]></script> 
-  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
-  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
-  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
-  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
-  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="keywords" content="比特币,大都会,发生了什么,班农,香港,制裁,丝绸之路,塞尔维亚,电动汽车,周小川,氢弹,原子弹,十九大,共享单车,素质,真子公主,订婚,戴安娜,上海滩,强生爽身粉,卵巢癌,蒋介石,军事演习,文革,海难,巡洋舰,日食,战狼2,知识产权,九寨沟,高通,象牙,数学,万达,J·K·罗琳,星巴克,人权律师,贝佐斯,南海旅游,广深港高铁,中印边境,反华,比特币,孙政才,雄安,白洋淀,星座,占星术,善心汇,博尔特,辛普森,盗墓,台北101,G20,迪士尼,乐视,太阳能,香港回归,20周年,刘晓波,佛光山,星云大师,马布里,哈里王子,戴安娜王妃,万科,症状,切尔西·曼宁,跨性别者,列宁,十月革命,马尔代夫,察哈尔,走私,黄金,安邦,吴小晖,伦敦大火,伦敦恐袭,债务,厦门,印度,人口,007,邦德,罗杰·摩尔,马里兰大学,爆炸,恐袭,卖房,千禧一代,缅甸,石油,马克思,雕像,德国,弹劾,FBI,科米,海航,长沙,新教,教堂,纳米比亚,白金汉宫,菲利普亲王,西非,渔业,尼泊尔,登山,徒步,知识产权,华为,郭文贵,阿尔泰,滑雪,鞋带,巴马,乐视,太阳能,美联航,间谍,普利策,项俊波,保监会,摩根大通,达赖喇嘛,叙利亚,洪水,水灾,气候变化,新加坡,伊拉克,摩苏尔,基督教,地下教会,南航,人工智能,AI,大堡礁,麦当劳,印度洋,福岛,伊万卡,多伦多,房价,大都会艺术博物馆,维基解密,缅甸,萨德,人民币,贬值,纽约,旅游,移民,银监会,瑞典,带薪假,性,优步,金正男,奥威尔,女权,共产党,禽流感,马拉阿歌,煤炭,天然气,加拿大,快递,人工智能,钓鱼岛,习近平,一九八四,1984,涪陵,机器人,游行,众筹,金立群,缅甸,台湾海峡,剖腹产,马云,足球,鄱阳湖,iPhone,富士康,郑州,台湾,同性恋,俄罗斯,星球大战,网络安全,五七干校,香港保卫战,台湾,外交关系,张艺谋,长城,自动驾驶,中国人,柏林,中国游客,刘晓波,记者,监禁,麦当娜,朴槿惠,空军一号,菲律宾,人权,双规,特朗普,《纽约时报》"> 
+  <meta name="description" content="纽约时报中文网 国际纵览(cn.NYTimes.com)是纽约时报公司旗下的首个中文媒介产品，旨在向中国读者提供有关全球时事、商业及文化的高水准报道。它将时报公司屡获大奖之新闻内容中最精华部分带给全球中文读者，这些内容产自《纽约时报》1550名记者和31个全球分社，其中也包括北京、上海及香港记者站。网站内容特为中文读者量身打造，既包括《纽约时报》英文报道的中译版本，也包括本土中文作者及专栏作家专为中文网所撰写的原创稿件。"> 
+  <meta name="lang" property="lang" content="zh-hans"> 
+  <meta name="apple-itunes-app" content="app-id=807498298, app-argument=nytimescn://homepage"> 
+  <link rel="apple-touch-icon-precomposed" sizes="144×144" href="//static01.nyt.com/images/icons/ios-ipad-144x144.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="114×114" href="//static01.nyt.com/images/icons/ios-iphone-114x144.png"> 
+  <link rel="apple-touch-icon-precomposed" href="//static01.nyt.com/images/icons/ios-default-homescreen-57x57.png"> 
+  <meta id="WT.cg_n" name="WT.cg_n" content="homepage"> 
+  <meta id="WT.z_gpt" name="WT.z_gpt" content="Homepage"> 
+  <meta id="WT.LANG" name="WT.LANG" content="zh-hans"> 
+  <meta id="WT.z_rmid" name="WT.z_rmid" content=""> 
+  <script type="text/javascript">
+ var sso_email_sub = "";
+ var js_static_path = "//d3q1qj9jzsu8nw.cloudfront.net/js";
+ var imgs_static_path = "//d1f1eryiqyjs0r.cloudfront.net/style/imgs";
+ var style_static_path = "//d1f1eryiqyjs0r.cloudfront.net/style";
+ var jsonp_path = "//d3lar09xbwlsge.cloudfront.net";
+ var hot_stories_path = "/async/mostviewed/all/?lang=zh-hans";
+
+
+ var cookieString = {"title":"Tracker \u8bbe\u7f6e","headline":"\u6211\u4eec\u4f7f\u7528 cookie \u505a\u4ec0\u4e48\uff1f","summary":"<p>\u6211\u4eec\u4f7f\u7528 cookie \u548c\u7c7b\u4f3c\u7684\u65b9\u6cd5\u6765\u8bc6\u522b\u548c\u8bb0\u5f55\u7528\u6237\u7684\u504f\u597d\u8bbe\u5b9a\u3002\u6211\u4eec\u4e5f\u7528\u8fd9\u4e9b\u6280\u672f\u6765\u8fdb\u884c\u5e7f\u544a\u6548\u679c\u8bc4\u4f30\u3001\u5e7f\u544a\u5b9a\u5411\u6295\u653e\u548c\u6d41\u91cf\u5206\u6790\u3002\u8981\u4e86\u89e3\u66f4\u591a\u4fe1\u606f\uff0c\u5305\u62ec\u5982\u4f55\u7981\u7528\u8fd9\u4e9b\u65b9\u6cd5\uff0c\u8bf7\u67e5\u770b\u6211\u4eec\u7684<a id=\"JSCookiePolicyLink\" href=\"https:\/\/nytimes.com\/cookie-policy\" target=\"_blank\"> cookie \u653f\u7b56<\/a>\u3002<\/p><p>\u70b9\u51fb\u201c\u540c\u610f\u201d\uff0c\u5373\u8868\u793a\u4f60\u540c\u610f\u6211\u4eec\u53ca\u7b2c\u4e09\u65b9\u4f7f\u7528\u4e0a\u8ff0\u65b9\u6cd5\u5904\u7406\u4f60\u7684\u6570\u636e\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u8bbf\u95ee\u6211\u4eec\u7684 cookie \u653f\u7b56\u9875\u9762\u6765\u66f4\u6539\u8bb0\u5f55\u5668\u8bbe\u7f6e\u3002<\/p>","button":"\u540c\u610f","trackerButton":"\u7ba1\u7406 Tracker"};
+ var purrString = {"button":"\u8bf7\u52ff\u51fa\u552e\u6211\u7684\u4e2a\u4eba\u4fe1\u606f","snackbar":"\u4f60\u7684\u8bbe\u7f6e\u5df2\u7ecf\u4fdd\u5b58\u5728\u6b64\u6d4f\u89c8\u5668\u548c\u8bbe\u5907\u4e0a\u3002\u5982\u679c\u4f60\u6e05\u9664\u4e86 cookie\uff0c\u8fd9\u4e9b\u8bbe\u7f6e\u4e5f\u4f1a\u88ab\u6e05\u9664\u3002","snackbarError":"Something went wrong","optedOutText":"\u6211\u4eec\u4e0d\u518d\u51fa\u552e\u60a8\u7684\u4e2a\u4eba\u4fe1\u606f","CFALinkText":"California Notices","purrPopupTitle":"Your request to not sell your data will be stored for this browser and device","purrPopupSummary":"If you clear your cookies, your preference will be forgotten. As a California resident, you have additional rights under the California Consumer Privacy Act of 2018. While The New York Times Company does not \u201csell\u201d personal information of its readers as the term \u201csell\u201d is traditionally understood, \u201csell\u201d under the CCPA is broadly defined. To learn more, review the text below.","purrPopupScrollContent":"<p>The New York Times Company does not sell personal information of its readers as the term \u201csell\u201d is traditionally understood. But \u201csell\u201d under the CCPA is broadly defined. It includes the sharing of personal information with third parties in exchange for something of value, even if no money changes hands. For example, sharing an advertising or device identifier to a third party may be considered a \u201csale\u201d under the CCPA. <\/p><p>To the extent The New York Times Company \u201csells\u201d your personal information (as the term \u201csell\u201d is defined under the CCPA), you have the right to opt-out of that \u201csale\u201d on a going-forward basis at any time. To exercise this right, click the \u201cDo Not Sell My Personal Information\u201d link in the footer of our website or under your \u201cAccount,\u201d which you have already done. You can also submit a request to opt-out by emailing us at privacy@nytimes.com with the subject line \u201cCalifornia Resident - Do Not Sell.\u201d<\/p><p>Once you have opted out, you will see a change to \u201cWe No Longer Sell Your Personal Information.\u201d If you have an account with certain Times Services (specifically nytimes.com, cooking.nytimes.com, nytimes.com\/crosswords, the New York Times app, the New York Times Cooking app and the New York Times Crossword app) and are logged in, we will save your preference and honor your opt-out request across browsers and devices so long as you remain logged in. If you are not logged in, or do not have an account with any Times Services listed above, your opt-out of the \u201csale\u201d of personal information will be specific to the browser or device from which you have clicked \u201cDo Not Sell My Personal Information\u201d and until you clear your cookies (or local storage in apps) on this browser or device. <\/p><p>If your browser or device is using a \u201cdo not track\u201d setting, we will detect it and honor it on that specific browser or device only. If you wish to have a \u201cdo not track\u201d experience across all of your browsers and devices, please make sure that all of your browsers and devices are set on \u201cdo not track.\u201d<\/p><p>After you opt out of the \u201csale\u201d of your personal information, we will no longer \u201csell\u201d your personal information to third parties (except in an aggregated or de-identified manner so it is no longer personal information), but we will continue to share your personal information with our service providers, which process it on our behalf. Exercising your right to opt out of the \u201csale\u201d of your personal information does not mean that you will stop seeing ads on our sites and apps. <\/p><p>To opt-out of interest-based advertising as much as technically possible, go to <a href=\"http:\/\/www.nytimes.com\/privacy\/cookie-policy#how-do-i-manage-trackers\" target=\"_blank\">\u201cHow Do I Manage Trackers\u201d<\/a> in our Cookie Policy. To opt out of the \u201csale\u201d of your personal information from participating companies, please visit the Digital Advertising Alliance <a href=\"https:\/\/optout.privacyrights.info\/?c=1\" target=\"_blank\">website<\/a> or <a href=\"https:\/\/www.privacyrights.info\/appchoices\" target=\"_blank\">apps<\/a>. We do not control these opt-out mechanisms and are not responsible for their operation.<\/p><p>You can designate someone else to make a request on your behalf. To protect your information, we will ask for a signed permission from you authorizing the other person to submit a request on your behalf. We will contact you to verify your identity before we respond to your authorized agent\u2019s request.<p\/><p>After 12 months, we may ask you if you want to opt into the \u201csale\u201d of your personal information.<\/p><p>For further information, please refer to our <a href=\"http:\/\/www.nytimes.com\/privacy\/privacy-policy\" target=\"_blank\">Privacy Policy.<\/a><\/p>","purrPopupButton":"DISMISS"};
+</script> 
+  <meta property="og:title" content="纽约时报中文网 国际纵览"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://cn.nytimes.com/"> 
+  <meta property="og:image" content="//static01.nyt.com/images/icons/t_logo_291_black.png"> 
+  <meta property="og:description" content="纽约时报中文网 国际纵览(cn.NYTimes.com)是纽约时报公司旗下的首个中文媒介产品，旨在向中国读者提供有关全球时事、商业及文化的高水准报道。它将时报公司屡获大奖之新闻内容中最精华部分带给全球中文读者，这些内容产自《纽约时报》1550名记者和31个全球分社，其中也包括北京、上海及香港记者站。网站内容特为中文读者量身打造，既包括《纽约时报》英文报道的中译版本，也包括本土中文作者及专栏作家专为中文网所撰写的原创稿件。"> 
+  <meta property="og:site_name" content="纽约时报中文网 国际纵览"> 
+  <meta property="fb:pages" content="1504603339831430"> 
+  <meta name="PT" content="Homepage"> 
+  <meta name="PST" content="News"> 
+  <meta name="CG" content="Homepage"> 
+  <meta name="SCG" content=""> 
+  <meta name="sourceApp" content="nyt-china-web"> 
+  <link rel="canonical" href="https://cn.nytimes.com/"> 
+  <link rel="alternate" href="https://cn.nytimes.com/" hreflang="zh-Hans-CN"> 
+  <link rel="alternate" href="https://cn.nytimes.com/zh-hant/" hreflang="zh-Hant-TW"> 
+  <title>纽约时报中文网 国际纵览</title> 
+  <link href="/css/homepage.css?v=654732e" rel="stylesheet"> 
+  <link href="//d1f1eryiqyjs0r.cloudfront.net/style/css/slideshow/slideshow.min.css?v=654732e" rel="stylesheet"> 
+  <link href="//d1f1eryiqyjs0r.cloudfront.net/style/css/cookie-banner/style.min.css?v=654732e" rel="stylesheet"> 
+  <script type="text/javascript">
+ var adConfList = [], target = {"edn": "cn","typ": "","plat": "web","lan": "chi","sub": "anon","prop": "cnnyt"};
+ adConfList.push( { "index": 0,"size": [[184,90]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-Left-0","pos": "left" } );
+ adConfList.push( { "index": 1,"size": [[184,91]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-Right-1","pos": "right" } );
+ adConfList.push( { "index": 2,"size": [["fluid"],[728,90],[970,250],[970,90]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-Top-2","pos": "top" } );
+ adConfList.push( { "index": 3,"size": [[300,250],[300,600]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-MiddleRight-3","pos": "" } );
+ adConfList.push( { "index": 4,"size": [[337,180]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-PropGo-4","pos": "propgo" } );
+ adConfList.push( { "index": 5,"size": [[300,250]],"namespace": "29390238/cnnyt/homepage","id": "nytcn-gpt-ad-Box1-5","pos": "mktg" } );
+</script> 
+  <script>
+ var dfpNameSpace = "29390238/cnnyt";
+</script> 
+  <script data-main="/js/homepage"> window.js_version="654732e"; var require = { urlArgs : "v="+'654732e' }; </script> 
+  <script data-main="/js/homepage" src="/js/vendor/require-jquery.js?v=654732e"></script> 
+  <link rel="shortcut icon" type="image/x-icon" href="https://static01.nyt.com/favicon.ico"> 
+  <link rel="alternate" type="application/rss+xml" title="纽约时报中文网 国际纵览" href="/rss/"> 
+  <script src="//d3q1qj9jzsu8nw.cloudfront.net/js/libs/jstz.min.js"></script> 
+  <script>
+ var cbSectionName = 'homepage';
+ var cbByline = '';
+</script> <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-KTDZV8V'); </script> <!-- End Google Tag Manager --> <!-- chartbeat --> 
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> <!-- /chartbeat --> 
  </head> 
- <body>  
-  <div id="consent-box" role="alert" tabindex="0">
-   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
-   <div>
-    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
+ <body class="homepage"> 
+  <div id="page"> 
+   <ul class="top_sites_cont"> 
+    <li class="first"><a href="http://www.nytimes.com/" target="_blank">ENGLISH (英文) </a></li> 
+    <li class="middle not_link">中文</li> 
+    <li class="last"><a href="http://www.nytimes.com/es/" target="_blank">ESPAÑOL (西班牙语) </a></li> 
+   </ul> 
+   <div id="user_info" class="user-info"> <a href="/apps" target="_blank">移动应用 • Apps</a> <span styl="padding: 0 5px;"> | </span> <a href="https://sso.nytcn.me/email/?source=top-right" target="_blank">订阅新闻电邮</a> 
    </div> 
-  </div> 
-  <div class="cpp-alert-bar">
-   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
-    <div> 
-     <p>Fall is predominantly virtual/remote. University critical services continue.</p> 
+   <div id="homepageHeader"> <a href="/" title="纽约时报中文网 国际纵览" class="nyt-logo"> 
+     <svg width="373" height="90" role="img" aria-label="The New York Times"> <image width="373" height="90" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/nameplate.svg" src="/img/nameplate@2x.png" alt="The New York Times" border="0"></image> 
+     </svg> </a> 
+    <div class="headerAd headerAdLeft"> 
+     <div id="nytcn-gpt-ad-Left-0" class="ad ad-dfp ad-Left dfp_ad_container"> 
+     </div> 
     </div> 
-   </div>
-  </div> 
-  <div class="mr-auto">
-   <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
-  </div> 
-  <header title="audience gateway">
-   <nav> 
-    <ul class="audience"> 
-     <li class="afs"><a href="https://www.cpp.edu/prospective-student-gateway/index.shtml">Prospective Students</a></li> 
-     <li class="acs"><a href="https://www.cpp.edu/student-gateway/index.shtml">Current Students</a></li> 
-     <li class="astaff"><a href="https://www.cpp.edu/faculty-staff-gateway/index.shtml">Faculty/Staff</a></li> 
-     <li class="afamily"><a href="https://www.cpp.edu/family/index.shtml">Parents/Family</a></li> 
-     <li class="aalumni"><a href="https://www.cpp.edu/~alumni/">Alumni</a></li> 
-     <li class="amycpp"><a href="https://my.cpp.edu">MyCPP <i class="fas fa-sign-in-alt"></i> </a></li> 
+    <div class="headerAd headerAdRight"> 
+     <div id="nytcn-gpt-ad-Right-1" class="ad ad-dfp ad-Right dfp_ad_container"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="cf" id="tool"> 
+    <div class="searchBox"> 
+     <form class="searchForm" name="searchBox" action="/search" method="GET"> 
+      <input type="text" name="query" class="searchQuery" placeholder="搜索纽约时报"> 
+      <input type="submit" class="searchSubmit" value="搜索"> 
+     </form> 
+    </div> 
+    <div class="dateTool"> <span class="date">2020年10月6日星期二&nbsp;&nbsp;&nbsp;&nbsp;北京时间</span><span class="time">10:48</span> <span class="updated">更新</span> 
+    </div> 
+    <div class="localeTool"> <a rel="nofollow" class="on" href="https://cn.nytimes.com/tools/r.html?url=/&amp;langkey=zh-hans">简体</a> | <a rel="nofollow" class="" href="https://cn.nytimes.com/tools/r.html?url=/zh-hant/&amp;langkey=zh-hant">繁體</a> 
+    </div> 
+   </div> 
+   <div class="cf no-content" id="nav"> 
+    <ul class="navList"> 
+     <li class="mainSection on"> <a href="/">首页</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection  drop"> <a href="/world/">国际</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/asia-pacific/">亚太</a> </li> 
+       <li class=""> <a href="/south-asia/">南亚</a> </li> 
+       <li class=""> <a href="/usa/">美国</a> </li> 
+       <li class=""> <a href="/americas/">美洲</a> </li> 
+       <li class=""> <a href="/europe/">欧洲</a> </li> 
+       <li class=""> <a href="/mideast/">中东</a> </li> 
+       <li class=""> <a href="/africa/">非洲</a> </li> 
+      </ul> </li> 
+     <li class="mainSection  drop"> <a href="/china/">中国</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/policy/">时政</a> </li> 
+       <li class=""> <a href="/china-ec/">经济</a> </li> 
+       <li class=""> <a href="/society/">社会</a> </li> 
+       <li class=""> <a href="/foreign-relations/">中外关系</a> </li> 
+       <li class=""> <a href="/hk-taiwan/">港澳台</a> </li> 
+      </ul> </li> 
+     <li class="mainSection  drop"> <a href="/business/">商业与经济</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/global-ec/">全球经济</a> </li> 
+       <li class=""> <a href="/china-ec/">中国经济</a> </li> 
+       <li class=""> <a href="/dealbook/">交易录</a> </li> 
+      </ul> </li> 
+     <li class="mainSection "> <a href="/lens/">镜头</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection  drop"> <a href="/technology/">科技</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/bits/">科技公司</a> </li> 
+       <li class=""> <a href="/personal-tech/">科技与你</a> </li> 
+      </ul> </li> 
+     <li class="mainSection "> <a href="/science/">科学</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection "> <a href="/health/">健康</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection "> <a href="/education/">教育</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection  drop"> <a href="/culture/">文化</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/books/">阅读</a> </li> 
+       <li class=""> <a href="/art/">艺术</a> </li> 
+       <li class=""> <a href="/film-tv/">电影与电视</a> </li> 
+       <li class=""> <a href="/sports/">体育</a> </li> 
+      </ul> </li> 
+     <li class="mainSection  drop"> <a href="/style/">风尚</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/fashion/">时尚</a> </li> 
+       <li class=""> <a href="/food-wine/">美食与美酒</a> </li> 
+       <li class=""> <a href="/lifestyle/">生活方式</a> </li> 
+      </ul> </li> 
+     <li class="mainSection "> <a href="/travel/">旅游</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection "> <a href="/real-estate/">房地产</a> 
+      <div class="noLine"></div> </li> 
+     <li class="mainSection  drop"> <a href="/opinion/">观点与评论</a> 
+      <div class="noLine"></div> 
+      <ul> 
+       <li class=""> <a href="/op-column/">专栏作者</a> </li> 
+       <li class=""> <a href="/op-ed/">观点</a> </li> 
+       <li class=""> <a href="/cartoon/">漫画</a> </li> 
+      </ul> </li> 
+     <li class="mainSection topicnav"> <a href="//cn.nytimes.com/topic/20160427/pulitzers-topic/?utm_source=news&amp;utm_medium=nav&amp;utm_campaign=nav-topic-nyt-pulitzer-prize">时报普利策获奖作品</a> 
+      <div class="noLine"></div> </li> 
     </ul> 
-   </nav>
-  </header>
-  <header class="fixed-top" title="Cal Poly Pomona Search">
-   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
-    <div class="navbar-nav mr-auto">
-     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  <!--	<img alt="Cal Poly Pomona" id="cpp-logo-octo" src="/common/2018/assets/img/calpoly-3-color-adjusted.png" />--> </a>
-    </div> 
-    <form autocomplete="off" class="center-search row justify-content-center" id="searchcpp" method="get" role="search">
-     <label class="sr-only" for="searchbar">SEARCH Box</label> 
-     <input class="search-query_new" id="searchbar" maxlength="256" name="cludoquery" placeholder="What can we help you find?" title="search" type="text"> <button alt="SEARCH" class="button" id="searchbutton" title="SEARCH" type="submit" value="submit"> <i class="fas fa-search"></i> <span class="sr-only">Submit Search</span> </button> 
-     <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
-      <div aria-labelledby="suggestedh2" class="dropdown-menu dropdown-menu-right" id="searchhelp"> 
-       <h2 id="suggestedh2">Popular Searches</h2> 
-       <ul id="autocomplete-results"></ul> 
+   </div> 
+   <div id="nytcn-gpt-ad-Top-2" class="ad ad-dfp ad-Top dfp_ad_container"> 
+   </div> 
+   <div class="cf lead_package" id="leadNewsHomepage"> 
+    <div class="layoutAB cf"> 
+     <div class="withoutBanner cf" id="leadNewsPackage"> 
+      <div id="packageCross"> 
+       <div class="collection-list  first last " data-tb-region="majornews-package-package-cross-lead-package-without-banner-0"> 
+        <div class="collection-item  first last " data-tb-region-item>
+         <div class="layoutADry"> 
+          <h2 class="leadHeadline"><a target="_blank" href="/usa/20201006/trump-covid/" title="特朗普出院返回白宫">特朗普出院返回白宫</a></h2> 
+          <h3 class="subHeadline"><a target="_blank" href="/usa/20201006/trump-covid/" title="病情仍存疑；白宫疫情暴发加剧">病情仍存疑；白宫疫情暴发加剧</a></h3> 
+          <h6 class="byline">《纽约时报》 <span class="time">10:37</span></h6> 
+          <p class="summary">特朗普回到白宫后就摘下了口罩，继续淡化病毒威胁；医生表示他尚未“脱离危险”，但回避了其肺功能等病情关键问题。总统新闻秘书确诊，白宫病例数攀升。</p> 
+         </div> 
+         <div class="layoutBDry right"> 
+          <div class="photoWrapper photo337 "> <a href="/usa/20201006/trump-covid/" title="特朗普出院返回白宫，发推称“不要害怕”新冠">  </a> 
+           <p class="photoCredit">Anna Moneymaker for The New York Times</p> 
+           <p class="photoCaption">返回白宫后，特朗普总统摘下了口罩。</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="layoutADry"> 
+       <div class="cf regularSummary  first last "> 
+        <ul class="regularSummaryList" data-tb-region="majornews-package-package-left-regular-summary-a-0"> 
+         <li class=" first " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20201004/trump-covid-updates/" title="特朗普病情信息混乱">特朗普病情信息混乱</a></h3> <h6 class="byline"> 《纽约时报》 <span class="time"></span> </h6> 
+          <div class="thumbnail"> <a href="/usa/20201004/trump-covid-updates/" title="“令人担忧”还是“状况很好”？特朗普病情信息混乱">  </a> 
+          </div> <p class="summary">医生在通报会上表示，总统接受治疗后“状态很好”，这与白宫幕僚长的描述矛盾。特朗普开始接受治疗的时间似乎也早于官方通报。</p> 
+          <ul class="referList"> 
+           <li class="article_refer first last "><h3 class="referListHeadline"> <a href="/usa/20201003/trump-coronavirus-symptoms/" title="特朗普出现轻微症状，将留院数日">特朗普出现轻微症状，将留院数日</a> </h3> </li> 
+          </ul> </li> 
+         <li class=" last " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20201002/trump-covid/" title="特朗普夫妇新冠检测呈阳性">特朗普夫妇新冠检测呈阳性</a></h3> <h6 class="byline"> <span class="en_byline">PETER BAKER</span>, <span class="en_byline">MAGGIE HABERMAN</span> <span class="time"></span> </h6> 
+          <div class="thumbnail"> <a href="/usa/20201002/trump-covid/" title="特朗普夫妇新冠检测呈阳性">  </a> 
+          </div> <p class="summary">知情人士称，特朗普表现出类似感冒的轻微症状。第一夫人也被确诊，副总统彭斯检测呈阴性。此前总统的亲密顾问希克斯感染新冠。</p> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="layoutBDry right"> 
+       <div class="cf regularSummary  first last "> 
+        <ul class="regularSummaryList" data-tb-region="majornews-package-package-right-regular-summary-0"> 
+         <li class=" first " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20201004/trump-succession-constitution/" title="若特朗普无法履职怎么办？这里是五种可能性">若特朗普无法履职怎么办？这里是五种可能性</a></h3> <h6 class="byline"> <span class="en_byline">NICHOLAS FANDOS</span>, <span class="en_byline">NICK CORASANITI</span> <span class="time"></span> </h6> 
+          <div class="thumbnail"> <a href="/usa/20201004/trump-succession-constitution/" title="若特朗普无法履职怎么办？这里是五种可能性">  </a> 
+          </div> <p class="summary">宪法明确规定，如果美国总统在任上去世，副总统将是接替他的第一顺位人选。但如果总统不能履职但拒绝放弃权力怎么办？他能在非自愿的情况下被取代吗？</p> </li> 
+         <li class=" last " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20201003/trump-coronavirus-explainer/" title="感染新冠病毒后，特朗普面临怎样的风险？">感染新冠病毒后，特朗普面临怎样的风险？</a></h3> <h6 class="byline"> 黄瑞黎 <span class="time"></span> </h6> 
+          <div class="thumbnail"> <a href="/usa/20201003/trump-coronavirus-explainer/" title="感染新冠病毒后，特朗普面临怎样的风险？">  </a> 
+          </div> <p class="summary">根据科学研究，老年男性病情变重的几率更大，肥胖也是死亡风险的另一个因素，但大多数人仍会很快康复。特朗普已经出现轻微症状，未来一周的情况将至关重要。</p> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="dualLine"></div> 
+     </div> 
+     <div class="twoArea"> 
+      <div class="layoutADry abline"> 
+       <div class="columnA">
+        <div class="cf regularSummary  first "> 
+         <ul class="regularSummaryList" data-tb-region="column-a-regular-summary-a-0"> 
+          <li class=" first " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/china/20200930/hong-kong-protesters-china/" title="乘船出逃的香港抗议者或在大陆受审">乘船出逃的香港抗议者或在大陆受审</a></h3> <h6 class="byline"> 王霜舟, <span class="en_byline">ELAINE YU</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/china/20200930/hong-kong-protesters-china/" title="12名乘船逃亡台湾的香港人预计将在大陆受审">  </a> 
+           </div> <p class="summary">北京当局拒绝将他们保释，在未提出指控的情况下一直将它们关押在深圳的拘留所，也不让他们与亲属指定的维权律师见面。</p> 
+           <ul class="referList"> 
+            <li class="link_refer first last "><h3 class="referListHeadline website_icon"> <a href="https://cn.nytimes.com/topic/20200701/hong-kong-national-security-law/" title="专题：香港国安法">专题：香港国安法</a> </h3> </li> 
+           </ul> </li> 
+          <li class=" " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/china/20200929/xinjiang-china-religious-site/" title="中国在新疆大规模拆毁清真寺">中国在新疆大规模拆毁清真寺</a></h3> <h6 class="byline"> 储百亮, 王霜舟 <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/china/20200929/xinjiang-china-religious-site/" title="中国在新疆大规模拆毁清真寺等宗教场所">  </a> 
+           </div> <p class="summary">一份新报告估计，自2017年以来，新疆全境约有8500座清真寺被完全拆除。这是当局针对维吾尔等少数民族的同化运动的一部分。</p> 
+           <ul class="referList"> 
+            <li class="article_refer first last "><h3 class="referListHeadline"> <a href="/china/20200928/xi-jinping-china-xinjiang/" title="习近平称新疆政策“完全正确”">习近平称新疆政策“完全正确”</a> </h3> </li> 
+           </ul> </li> 
+          <li class=" " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/china/20200930/china-teacher-poison-students/" title="河南焦作幼儿园投毒案教师被判死刑">河南焦作幼儿园投毒案教师被判死刑</a></h3> <h6 class="byline"> 王霜舟 <span class="time"></span> </h6> <p class="summary">2019年3月，幼师王云在与同事发生矛盾后，向同事所在班级的早餐粥里投入亚硝酸盐，导致25名学生中毒，一人死亡。她此前还曾用相同方法向丈夫投毒。</p> </li> 
+          <li class=" " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/business/20200929/china-consumers-beijing-auto-show/" title="中国消费者恢复“买买买”">中国消费者恢复“买买买”</a></h3> <h6 class="byline"> <span class="en_byline">KEITH BRADSHER</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/business/20200929/china-consumers-beijing-auto-show/" title="从珠宝到汽车，中国消费者恢复“买买买”">  </a> 
+           </div> <p class="summary">北京车展人潮涌动、昂贵珠宝脱销、餐馆酒店恢复繁忙……经历了疫情中的恐惧和活动限制，中国的富人和中产阶级渴望花钱。</p> </li> 
+          <li class=" last " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/asia-pacific/20200929/japan-onshoring/" title="日本能摆脱对中国的经济依赖吗">日本能摆脱对中国的经济依赖吗</a></h3> <h6 class="byline"> <span class="en_byline">BEN DOOLEY</span>, <span class="en_byline">MAKIKO INOUE</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/asia-pacific/20200929/japan-onshoring/" title="日本想减少对中国的经济依赖，它能做到吗？">  </a> 
+           </div> <p class="summary">随着疫情暴露出过分依赖中国的风险，日本政府正通过发放补贴等鼓励企业在国内扩大生产，但减轻北京影响的措施结果好坏参半。</p> </li> 
+         </ul> 
+        </div> 
+        <div class="headlineOnly  last "> 
+         <ul class="headlineOnlyList" data-tb-region="column-a-headline-only-a-1"> 
+          <li class=" first " data-tb-region-item><h3 class="headline"> <a target="_blank" href="/world/20200929/covid-1-million-deaths/" title="全球新冠死亡人数超过100万">全球新冠死亡人数超过100万</a> </h3> </li> 
+          <li class=" " data-tb-region-item><h3 class="headline"> <a target="_blank" href="/business/20200928/china-coronavirus-vaccine/" title="中国豪赌新冠疫苗，数万人已接种">中国豪赌新冠疫苗，数万人已接种</a> </h3> </li> 
+          <li class=" " data-tb-region-item><h3 class="headline"> <a target="_blank" href="/business/20200928/commodities-metals-prices-china-coronavirus/" title="中国建设热潮推动全球金属价格飙升">中国建设热潮推动全球金属价格飙升</a> </h3> </li> 
+          <li class=" last " data-tb-region-item><h3 class="headline"> <a target="_blank" href="/asia-pacific/20200925/thailand-protests-women/" title="年轻女性走上泰国民主抗议前线">年轻女性走上泰国民主抗议前线</a> </h3> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="layoutBDry right bline"> 
+       <div class="columnB">
+        <div class="cf regularSummary  first last "> 
+         <ul class="regularSummaryList" data-tb-region="column-b-regular-summary-0"> 
+          <li class=" first " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20200930/trump-biden-debate/" title="美国大选首场辩论：特朗普和拜登的言语互殴战">美国大选首场辩论：特朗普和拜登的言语互殴战</a></h3> <h6 class="byline"> <span class="en_byline">JONATHAN MARTIN</span>, <span class="en_byline">ALEXANDER BURNS</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/usa/20200930/trump-biden-debate/" title="美国大选首场辩论：特朗普和拜登的言语互殴战">  </a> 
+           </div> <p class="summary">特朗普不断挑衅、打断拜登发言；拜登则指责特朗普为“小丑”，让他“闭嘴”。这场90分钟的混战充斥着中伤和恐吓，却可能不会对选举结果产生巨大影响。</p> </li> 
+          <li class=" " data-tb-region-item>
+           <div></div> </li> 
+          <li class=" " data-tb-region-item><h4 class="kicker">总统税务调查</h4> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20200930/trump-750-taxes/" title="特朗普2017年仅缴税750美元，他是如何做到的？">特朗普2017年仅缴税750美元，他是如何做到的？</a></h3> <h6 class="byline"> <span class="en_byline">RUSS BUETTNER</span>, <span class="en_byline">MIKE McINTIRE</span>, <span class="en_byline">SUSANNE CRAIG</span>, <span class="en_byline">KEITH COLLINS</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/usa/20200930/trump-750-taxes/" title="特朗普2017年仅缴税750美元，他是如何做到的？">  </a> 
+           </div> <p class="summary">时报调查文章发表后，特朗普的纳税额成为了外界关注的焦点。我们从特朗普的税单入手，算出了他的会计如何帮助他实现只缴纳750美元所得税。这里是一份详细解析。</p> </li> 
+          <li class=" " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/usa/20200928/trump-taxes-takeaways/" title="18个关键问题揭秘特朗普税单：超十年未纳税">18个关键问题揭秘特朗普税单：超十年未纳税</a></h3> <h6 class="byline"> <span class="en_byline">DAVID LEONHARDT</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/usa/20200928/trump-taxes-takeaways/" title="18个关键问题揭秘特朗普税单：超十年未纳税">  </a> 
+           </div> <p class="summary">时报调查的18年里，特朗普有11年没有缴税，2016年和2017年都仅缴税750美元。巨额退税是他避税的关键；他名下许多企业都报告了巨额亏损，这也帮助他减少了税款。</p> </li> 
+          <li class=" " data-tb-region-item>
+           <div></div> </li> 
+          <li class=" last " data-tb-region-item> <h3 class="regularSummaryHeadline"><a target="_blank" href="/world/20200929/trump-united-states/" title="“我为美国人感到难过”：世界如何看待如今的美国">“我为美国人感到难过”：世界如何看待如今的美国</a></h3> <h6 class="byline"> <span class="en_byline">HANNAH BEECH</span> <span class="time"></span> </h6> 
+           <div class="thumbnail"> <a href="/world/20200929/trump-united-states/" title="“我为美国人感到难过”：世界如何看待如今的美国">  </a> 
+           </div> <p class="summary">全世界以交织着震惊、懊恼和迷惑的心情关注着美国。从缅甸到加拿大，人们都在问：这样一个超级大国怎么就让自己被病毒击倒了？它的总统为什么不愿承诺和平移交权力呢？</p> </li> 
+         </ul> 
+        </div> 
+       </div> 
       </div> 
      </div> 
-    </form>
-   </nav>
-  </header> 
-  <div id="alert"></div> 
-  <header title="Cal Poly Pomona"> <custom /> 
-   <section id="jumbotron">  
-   </section> 
-  </header> 
-  <main class="container flex-grow"> 
-   <div class="row"> 
-    <div class="col-12" id="main"> 
-     <h1 class="cpp-h1">Faculty &amp; Staff</h1> 
-     <section class="text-images" id="s0">  
-      <div>
-       <span>Links to resources, offices and services that support Cal Poly Pomona faculty and staff</span>
-      </div> 
-     </section> 
-     <section class="row  align-items-top card-section primary-blue" id="s1"> 
-      <div class="mx-auto single-card"> 
-       <div class="card h-100 circle-image-card">  
-        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
-         <h2 id="ch-0">Teaching Virtually and Remotely</h2> <span>In partnership with the Center for the Advancement of Faculty Excellence (CAFE), colleges and departments are supporting faculty to teach virtually and/or remotely. The CAFE Website has resources and quick start guides for online tools like Blackboard, Zoom and Kaltura.</span> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/cafe/remote-teaching/">Visit CAFE Website</a> 
-         </div> 
-        </div> 
+    </div> 
+    <div class="layoutC cf"> 
+     <div id="commentPiece">
+      <div class="commentSummary">
+       <div class="commentBigByline  first "> 
+        <h4 class="collectionName"> <a href="/opinion" target="_blank"> 观点与评论 • <span>OPINION</span> </a> </h4> 
+        <ul class="commentSummaryList" data-tb-region="comment-piece-comment-big-byline-0"> 
+         <li class="commentSummaryItem  first " data-tb-region-item> <h3 class="commentSummaryHeadline"><a target="_blank" href="/opinion/20200930/trump-tax-returns-russia/" title="特朗普为何对普京尽显忠诚？可能与钱有关">特朗普为何对普京尽显忠诚？可能与钱有关</a></h3> <h6 class="byline"> <span class="en_byline">MICHELLE GOLDBERG</span> </h6> 
+          <div class="thumbnail"> <a href="/opinion/20200930/trump-tax-returns-russia/" title="特朗普为何对普京尽显忠诚？可能与钱有关">  </a> 
+          </div> <p class="summary">特朗普巨额债务的曝光，为理解美国总统何以不断讨好普京提供了一个合理动机。特朗普认为普京是世上最富有的人，而他可能急需财政援助。</p> </li> 
+         <li class="commentSummaryItem  " data-tb-region-item> <h3 class="commentSummaryHeadline"><a target="_blank" href="/opinion/20200929/us-containment-strategy-against-china/" title="美国遏制中共的战略窗口期究竟有多长">美国遏制中共的战略窗口期究竟有多长</a></h3> <h6 class="byline"> 邓聿文 </h6> 
+          <div class="thumbnail"> <a href="/opinion/20200929/us-containment-strategy-against-china/" title="美国遏制中共的战略窗口期究竟有多长">  </a> 
+          </div> <p class="summary">以中国今天的实力，作者认为，未来五年对美国遏制中共非常关键。但如何在升级围堵中和不给美国造成大麻烦之间平衡，也是一个棘手问题。</p> </li> 
+         <li class="commentSummaryItem  last " data-tb-region-item> <h3 class="commentSummaryHeadline"><a target="_blank" href="/opinion/20200929/trump-taxes-debt/" title="特朗普的债务与美国的未来">特朗普的债务与美国的未来</a></h3> <h6 class="byline"> 保罗·克鲁格曼 </h6> 
+          <div class="thumbnail"> <a href="/opinion/20200929/trump-taxes-debt/" title="特朗普的债务与美国的未来">  </a> 
+          </div> <p class="summary">特朗普是一个负债数亿的企业主，他有各种动机去从事不法行为。让人不寒而栗的是，他除了经营自己的企业之外，还经营着美利坚合众国。</p> </li> 
+        </ul> 
        </div> 
-      </div> 
-     </section> 
-     <section class="row align-items-center landing-page"> 
-      <div class="col-md-8 landing-group-right primary-green order-2"> 
-       <h2 class="featurette-heading">2020 Open Enrollment </h2> 
-       <p class="lead"> </p>
-       <p>This is the time to make changes to your benefits, renew your Healthcare Flexible spending accounts, Dependent Care Flexible spending accounts and compare your new Medical plan premium rates for 2021.The open enrollment period begins&nbsp;September 21- October 16.</p> 
-       <p><a class="btn btn-primary" href="https://www.cpp.edu/benefits/health-benefits/open-enrollment.shtml">Visit Benefits Website</a></p>
-       <p></p> 
-      </div> 
-      <div class="col-md-4 lp-image order-1 order-md-3">  
-      </div> 
-     </section> 
-     <section class="row card-section" id="s2"> 
-      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100 normal"> 
-        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
-         <h2>Email</h2> 
-         <hr> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://outlook.office365.com/cpp.edu">Launch Outlook</a> 
-         </div> 
-        </div> 
+       <div class="commentHeadlineOnly  last "> 
+        <ul class="commentSummaryHeadlineOnlyList" data-tb-region="comment-piece-comment-headline-only-1"> 
+         <li class=" first " data-tb-region-item> <h3 class="commentSummaryHeadline"><a target="_blank" href="/opinion/20200928/australia-zhenhua-data-leak/" title="中国无法用“黑材料”影响澳大利亚人">中国无法用“黑材料”影响澳大利亚人</a></h3> </li> 
+         <li class=" last " data-tb-region-item> <h3 class="commentSummaryHeadline"><a target="_blank" href="/opinion/20200925/tibet-china-labor/" title="中国对西藏的强制同化必将失败">中国对西藏的强制同化必将失败</a></h3> </li> 
+        </ul> 
        </div> 
-      </div> 
-      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100 normal"> 
-        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
-         <h2>MyCPP</h2> 
-         <hr> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="http://my.cpp.edu">Launch MyCPP</a> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100"> 
-        <div class="card-body d-flex flex-column align-items-center center-card text-center">  
-         <h2>BroncoDirect</h2> 
-         <hr> 
-         <div class="card-btn"> <a class="btn btn-primary mt-3" href="http://www.cpp.edu/~broncodirect">Launch BroncoDirect</a> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> 
-       <div class="card h-100"> 
-        <div class="card-body d-flex flex-column align-items
+      </div>
+     </div> 
+     <div id="nytcn-gpt-ad-MiddleRight-3" class="ad ad-dfp ad-MiddleRight dfp_ad_container"> 
+     </div> 
+     <div> <iframe height="180" width="337" scrolling="no" src="https://www.propgoservice.com/CNNYT-Banner337x180.php"></iframe> 
+     </div> 
+     <div class=""></div> 
+    </div> 
+   </div> 
+   <div class="cf lens" id="lens_slideshow"> 
+    <h4 class="collectionName">镜头 • <span>LENS</span></h4> 
+    <div class="mothButton lensButton"> 
+     <div class="pointPrev"> <i class="nyt-icon icon-chevron-thin-left"></i> 
+     </div> 
+     <div class="pointNext"> <i class="nyt-icon icon-chevron-thin-right"></i> 
+     </div> 
+    </div> 
+    <div class="lensBox"> 
+     <div class="storyWindow"> 
+      <table class="cf lensList"> 
+       <tbody>
+        <tr> 
+         <td class="cf">
+          <div class=" first  story"> <a href="/slideshow/20200924/c24ginsburg-ss/" class="lensThumbnail" title="再见，大法官金斯伯格">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200924/c24ginsburg-ss/" title="再见，大法官金斯伯格">再见，大法官金斯伯格</a> </h3> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> <a href="/slideshow/20200911/11travel-highway/" class="lensThumbnail" title="被遗忘的西部——美国66号公路怀旧之旅">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200911/11travel-highway/" title="被遗忘的西部——美国66号公路怀旧之旅">被遗忘的西部——美国66号公路怀旧之旅</a> </h3> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> <a href="/slideshow/20200910/c10fires-sky/" class="lensThumbnail" title="火光蔽日，加州湾区再遭山火侵袭">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200910/c10fires-sky/" title="火光蔽日，加州湾区再遭山火侵袭">火光蔽日，加州湾区再遭山火侵袭</a> </h3> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> <a href="/slideshow/20200904/02ww2-collection/" class="lensThumbnail" title="二战结束75周年：被改变的历史和生活">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200904/02ww2-collection/" title="二战结束75周年：被改变的历史和生活">二战结束75周年：被改变的历史和生活</a> </h3> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> <a href="/slideshow/20200902/c02school-opening-ss/" class="lensThumbnail" title="新冠疫情下的全球返校季">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200902/c02school-opening-ss/" title="新冠疫情下的全球返校季">新冠疫情下的全球返校季</a> </h3> 
+          </div> </td> 
+         <td class="cf">
+          <div class=" last  story"> <a href="/slideshow/20200901/malawi-ss/" class="lensThumbnail" title="马拉维，非洲的“温暖之心”">  </a> 
+           <h3 class=""> <i class="nyt-icon icon-images"></i> <a href="/slideshow/20200901/malawi-ss/" title="马拉维，非洲的“温暖之心”">马拉维，非洲的“温暖之心”</a> </h3> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="cf video"> 
+    <header> 
+     <h4 class="collectionName">时报视频 • <span>TIMES</span><span class="gray-text">VIDEO</span></h4> <a class="viewmore-video-btn" href="//www.nytimes.com/video/china"> 观看全部视频 <i class="nyt-icon icon-chevron-thin-right"></i> </a> 
+    </header> 
+    <div class="videoBox" id="videoCont" data-url="https://www.nytimes.com/svc/video/api/v2/playlist/100000001637619"> <i class="lazyload-loading"></i> 
+    </div> 
+   </div> 
+   <script type="text/html" id="videoBoxTpl">
+    <div class="videoPlayerCont">
+        <figure>
+            <div class="video-container" id="videoContainer">
+            </div>
+            <div class="poster-cont">
+                <img alt="" src="/img/download.gif" class="poster"/>
+            </div>
+            <figcaption class="credit" id="videoCreditBox"></figcaption>
+            <div class="video-share-tools">
+                <ul>
+                    <li>
+                        <a href="javascript:void(0);" title="Email" id="videoShareToEmailBtn">
+                            <i class="nyt-icon icon-mail"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javasscript:void(0);" title="Facebook" id="videoShareToFacebook">
+                            <i class="nyt-icon icon-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javasscript:void(0);" title="Twitter" id="videoShareToTwitter">
+                            <i class="nyt-icon icon-twitter"></i>
+                        </a>
+                    </li>
+                    <li class="last">
+                        <a href="javasscript:void(0);" title="Embed" id="videoShareToEmbed">
+                            <i class="nyt-icon icon-embed"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </figure>
+    </div>
+    <div class="videoListCont">
+        <ul id="videoList">
+        </ul>
+    </div>
+</script> 
+   <script type="text/html" id="videoListTpl">
+{#each videos as video#}
+<li>
+    <a href="javascript:void(0);" data-vid="{#video.id#}">
+        <div class="wide-thumb">
+            <img alt="" src="{#video.thumb.url#}" />
+            <span class="duration">{#video.duration#}</span>
+            <div class="media-action-overlay">
+                <div class="play-icon-cont"><i class="play-icon"></i></div>
+                <p class="media-meta">正在播放</p>
+            </div>
+        </div>
+        <h5>{#video.headline#}</h5>
+    </a>
+</li>
+{#/each#}
+</script> 
+   <div class="cf moth" id="moth"> 
+    <h4 class="collectionName">编辑推荐</h4> 
+    <div class="mothButton"> 
+     <div class="pointPrev"> <i class="nyt-icon icon-chevron-thin-left"></i> 
+     </div> 
+     <div class="pointNext"> <i class="nyt-icon icon-chevron-thin-right"></i> 
+     </div> 
+    </div> 
+    <div class="mothBox"> 
+     <div class="storyWindow"> 
+      <table class="cf mothList"> 
+       <tbody>
+        <tr> 
+         <td class="cf">
+          <div class=" first  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/health/">健康</a></h4> <a href="/health/20200925/childhood-trauma-family/" class="mothThumbnail" title="如何治愈一个有创伤问题的家庭">  </a> 
+           <h3 class=""> <a target="_blank" href="/health/20200925/childhood-trauma-family/" title="如何治愈一个有创伤问题的家庭">如何治愈一个有创伤问题的家庭</a> </h3> <!--<p class="summary">和许多人一样，我的父母带着自己的创伤成为了父母。没有人教过他们如何处理这些创伤，避免充满焦虑的育儿方式，不再让孩子重蹈覆辙。那些未经治愈的痛苦只能一再重复。</p>--> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/china/">中国</a></h4> <a href="/china/20200924/china-climate-change/" class="mothThumbnail" title="中国的“碳中和”承诺意味着什么">  </a> 
+           <h3 class=""> <a target="_blank" href="/china/20200924/china-climate-change/" title="中国的“碳中和”承诺意味着什么">中国的“碳中和”承诺意味着什么</a> </h3> <!--<p class="summary">中国近年排放趋势令人担忧，在2060年达到碳中和是一个雄心勃勃的目标，但习近平几乎未提供细节。这一承诺可能意味着彻底的经济转型，影响所有中国人口。</p>--> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/travel/">旅游</a></h4> <a href="/travel/20200928/lanzarote-canary-islands/" class="mothThumbnail" title="漫步兰萨罗特岛的火山葡萄园">  </a> 
+           <h3 class=""> <a target="_blank" href="/travel/20200928/lanzarote-canary-islands/" title="漫步兰萨罗特岛的火山葡萄园">漫步兰萨罗特岛的火山葡萄园</a> </h3> <!--<p class="summary">西班牙兰萨罗特岛拥有令人惊叹的海岸线和众多火山。在熔岩和火山灰之下，当地人创造性地开垦出艺术品般的葡萄园。这里巨大而荒凉的美丽证明了人类面对逆境时的韧性。</p>--> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/usa/">美国</a></h4> <a href="/usa/20200924/trump-ivy-league-election/" class="mothThumbnail" title="特朗普vs.藤校：大选年的较量">  </a> 
+           <h3 class=""> <a target="_blank" href="/usa/20200924/trump-ivy-league-election/" title="特朗普vs.藤校：大选年的较量">特朗普vs.藤校：大选年的较量</a> </h3> <!--<p class="summary">特朗普本人也是藤校毕业生，近几个月来他的政府却不断针对哈佛、普林斯顿等精英大学。许多藤校领导者认为，特朗普在大选年利用抨击精英教育机构来迎合基层保守选民。</p>--> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/culture/">文化</a></h4> <a href="/culture/20200924/vincent-van-gogh-tree-roots/" class="mothThumbnail" title="揭秘梵高生命中最后的日子">  </a> 
+           <h3 class=""> <a target="_blank" href="/culture/20200924/vincent-van-gogh-tree-roots/" title="揭秘梵高生命中最后的日子">揭秘梵高生命中最后的日子</a> </h3> <!--<p class="summary">法国研究者维恩认为，他发现了这幅画作的确切创作地点。在中枪前，梵高一整天都在画这幅画。“这幅画描绘了生命的挣扎，还有与死亡的抗争……这是用色彩写就的诀别。”</p>--> 
+          </div> </td> 
+         <td class="cf">
+          <div class="  story"> 
+           <h4 class="sectionName"><a target="_blank" class="hintLink more" href="/usa/">美国</a></h4> <a href="/usa/20200923/biden-china-election-trump/" class="mothThumbnail" title="拜登，中国的“老朋友”还是未来敌人">  </a> 
+           <h3 class=""> <a target="_blank" href="/usa/20200923/biden-china-elec

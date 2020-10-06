@@ -54,6 +54,10 @@ public class crawlerRun {
             try {
             Document doc = Jsoup.connect(URL).ignoreContentType(true).userAgent("Mozilla").get();
             	String title = doc.title();
+            	System.out.println(title);
+            	chineseC(title);
+            	checkLan(title);
+            	
           //  if(languageCheck(title).equals(lan)) {
                 // If not add it to the index
                 if (links.add(URL)) {
@@ -67,8 +71,8 @@ public class crawlerRun {
                 // extract links to other URLs
                 Elements linksOnPage = doc.select("a[href]");
                 size = linksOnPage.size();
-                System.out.println(URL);
-                System.out.println("URL Num: "+size);
+//                System.out.println(URL);
+//                System.out.println("URL Num: "+size);
                 writeToCsv(URL+","+size);
                 //5. For each extracted URL... go back to Step 4.
                 for (Element page : linksOnPage) {
@@ -98,7 +102,7 @@ public class crawlerRun {
 			String title = doc.title();
 			html = doc.html();	
 			//tester
-			System.out.println(title);
+			//chineseC(title);
 			
 			try { 
 				if(doc.toString() != null && !doc.toString().isEmpty()){
@@ -129,14 +133,15 @@ public class crawlerRun {
     	crawlerRun bwc = new crawlerRun(); 	
      //   bwc.getURLs("http://"+url,lan);
    
-        chineseC("abc");
+       // chineseC("知乎 - 知乎");
+    //	checkLan("español de Latinoamérica, Estados Unidos");
         
         
         
         
-        //	languageCheck("Nada hay más surreal que la realidad");
+     //   languageCheck("this is good and what   ");
     	
-    	bwc.getURLs("https://www.cpp.edu","en");
+    	bwc.getURLs("https://www.nytimes.com/section/us","en");
    
         
     }
@@ -159,6 +164,7 @@ public class crawlerRun {
     	        i += Character.charCount(codepoint);
     	        if (Character.UnicodeScript.of(codepoint) == Character.UnicodeScript.HAN) {
     	        	language = "cn";
+    	        	System.out.println(language);
     	            return language;
     	        }
     	    }
@@ -166,15 +172,15 @@ public class crawlerRun {
     }
     
     
-//    public static String checkLan(String contain,String choice) throws IOException {
-//    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
-//        QueryParams params = new QueryParams().query(contain);
-//        APIResult result = con.detect(params);
-//       // get_lang(query = "I really really love R and that's a good thing, right?", api_key = "your_api_key")
-//        String language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
-//        
-//        System.out.println(new ObjectMapper().writeValueAsString(result.getResults()));
-//        return language ;
-//    }
+    public static String checkLan(String contain) throws IOException {
+    	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
+        QueryParams params = new QueryParams().query(contain);
+        APIResult result = con.detect(params);
+       // get_lang(query = "I really really love R and that's a good thing, right?", api_key = "your_api_key")
+        String language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
+        language = language.replaceAll("^\"+|\"+$", "");
+        System.out.println(language);
+        return language ;
+    }
 
 }
