@@ -3,8 +3,7 @@
  <head> 
   <meta id="geo-location-data" data-geo-eu="geo-not-eu" data-geo-country-code="US" data-ads-domestic data-ccpa-region>
   <script name="ccpa-onetrust" type="text/javascript" src="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/libs/js/ccpa-onetrust.js"></script>
-  <meta charset="UTF-8">
-  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"d49c44ffcb",applicationID:"359580111"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script> 
+  <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <link rel="apple-touch-icon" sizes="57x57" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-57x57.png"> 
   <link rel="apple-touch-icon" sizes="60x60" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-60x60.png"> 
@@ -19,7 +18,7 @@
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/android-chrome-192x192.png" sizes="192x192"> 
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/favicon-96x96.png" sizes="96x96"> 
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/favicon-16x16.png" sizes="16x16"> <!-- Turner scripts --> 
-  <script class="cnne-ad--config" data-ad-registry-url="//cdn.cnn.com/ads/cnn_espanol/cnnespanol_latinamerica_main.js">
+  <script class="cnne-ad--config" data-ad-registry-url="//cdn.cnn.com/ads/cnn_espanol/cnnespanol_shows_detail_video.js">
 	// define before AIS and AdFuel in wp_head
 	cnneAdTargets = false;
 	CNNESPANOL = window.CNNESPANOL || {};
@@ -50,25 +49,29 @@
 		</script><!-- Jetpack Site Verification Tags --> 
   <meta name="google-site-verification" content="mFBa4OnyEDU23vgVJ6rtX_4izud7FIi9JiscfVsWaKk"> 
   <meta name="msvalidate.01" content="0FC3FD705126161B052E755A56F8952D"> 
-  <meta name="p:domain_verify" content="c8914aa71a2fb984cd5efc279d7428f3"> <!-- This site is optimized with the Yoast SEO Premium plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ --> 
-  <title>Caribe ▷ Noticias Caribe ▷ Últimas noticias sobre Caribe | CNN</title> 
-  <meta name="description" content="➨ Últimas noticias sobre Caribe en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Caribe."> 
+  <meta name="p:domain_verify" content="c8914aa71a2fb984cd5efc279d7428f3"> 
+  <link rel="preload" href="//registry.api.cnn.io/bundles/fave/3.8.0/js" as="script"> <!-- This site is optimized with the Yoast SEO Premium plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ --> 
+  <title>Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU. | Video | CNN</title> 
+  <meta name="description" content="Según un informe de la consultora Check Point Research, los ciberataques que toman el control de las computadoras y las retienen para pedir un rescate, | Estados Unidos | CNN"> 
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"> 
-  <link rel="canonical" href="https://cnnespanol.cnn.com/category/caribe/"> 
-  <link rel="next" href="https://cnnespanol.cnn.com/category/caribe/page/2/"> 
+  <link rel="canonical" href="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/"> 
   <meta property="og:locale" content="es_ES"> 
   <meta property="og:type" content="article"> 
-  <meta property="og:title" content="Caribe ▷ Noticias Caribe ▷ Últimas noticias sobre Caribe | CNN"> 
-  <meta property="og:description" content="➨ Últimas noticias sobre Caribe en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Caribe."> 
-  <meta property="og:url" content="https://cnnespanol.cnn.com/category/caribe/"> 
+  <meta property="og:title" content="Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU. | Video | CNN"> 
+  <meta property="og:description" content="Según un informe de la consultora Check Point Research, los ciberataques que toman el control de las computadoras y las retienen para pedir un rescate, | Estados Unidos | CNN"> 
+  <meta property="og:url" content="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/"> 
   <meta property="og:site_name" content="CNN"> 
-  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png"> 
-  <meta property="og:image:width" content="683"> 
-  <meta property="og:image:height" content="385"> 
+  <meta property="article:publisher" content="https://www.facebook.com/CNNee"> 
+  <meta property="article:modified_time" content="2020-10-06T20:43:52+00:00"> 
+  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/191213170403-encuentro-hacking-full-169.jpg?quality=100&amp;strip=info"> 
+  <meta property="og:image:width" content="1600"> 
+  <meta property="og:image:height" content="900">
+  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/191213170403-encuentro-hacking-full-169.jpg?quality=100&amp;strip=info&amp;w=1024"> 
   <meta property="fb:app_id" content="332357811527942"> 
   <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:creator" content="@CNNEE"> 
   <meta name="twitter:site" content="@CNNEE"> 
-  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://cnnespanol.cnn.com/#organization","name":"CNN Espa\u00f1ol","url":"https://cnnespanol.cnn.com/","sameAs":["https://www.facebook.com/CNNee","https://www.instagram.com/cnnee/","https://www.linkedin.com/company/cnnee","https://www.youtube.com/cnnee","https://www.pinterest.com/cnnee","https://twitter.com/CNNEE"],"logo":{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/#logo","inLanguage":"es","url":"https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png","width":235,"height":235,"caption":"CNN Espa\u00f1ol"},"image":{"@id":"https://cnnespanol.cnn.com/#logo"}},{"@type":"WebSite","@id":"https://cnnespanol.cnn.com/#website","url":"https://cnnespanol.cnn.com/","name":"CNN","description":"\u00daltimas noticias en espa\u00f1ol de Latinoam\u00e9rica, Estados Unidos y el mundo","publisher":{"@id":"https://cnnespanol.cnn.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://cnnespanol.cnn.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"CollectionPage","@id":"https://cnnespanol.cnn.com/category/caribe/#webpage","url":"https://cnnespanol.cnn.com/category/caribe/","name":"Caribe \u25b7 Noticias Caribe \u25b7 \u00daltimas noticias sobre Caribe | CNN","isPartOf":{"@id":"https://cnnespanol.cnn.com/#website"},"description":"\u27a8 \u00daltimas noticias sobre Caribe en CNN.com \u2705 \u00daltimas noticias, fotos, videos e informaci\u00f3n sobre Caribe.","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://cnnespanol.cnn.com/category/caribe/"]}]}]}</script> <!-- / Yoast SEO Premium plugin. --> 
+  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://cnnespanol.cnn.com/#organization","name":"CNN Espa\u00f1ol","url":"https://cnnespanol.cnn.com/","sameAs":["https://www.facebook.com/CNNee","https://www.instagram.com/cnnee/","https://www.linkedin.com/company/cnnee","https://www.youtube.com/cnnee","https://www.pinterest.com/cnnee","https://twitter.com/CNNEE"],"logo":{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/#logo","inLanguage":"es","url":"https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png","width":235,"height":235,"caption":"CNN Espa\u00f1ol"},"image":{"@id":"https://cnnespanol.cnn.com/#logo"}},{"@type":"WebSite","@id":"https://cnnespanol.cnn.com/#website","url":"https://cnnespanol.cnn.com/","name":"CNN","description":"\u00daltimas noticias en espa\u00f1ol de Latinoam\u00e9rica, Estados Unidos y el mundo","publisher":{"@id":"https://cnnespanol.cnn.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://cnnespanol.cnn.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#primaryimage","inLanguage":"es","url":"https://cnnespanol.cnn.com/wp-content/uploads/2020/10/191213170403-encuentro-hacking-full-169.jpg?quality=100&strip=info","width":1600,"height":900,"caption":"Aumentan los ciberataques de cara a elecciones en EE.UU."},{"@type":"WebPage","@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#webpage","url":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/","name":"Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU. | Video | CNN","isPartOf":{"@id":"https://cnnespanol.cnn.com/#website"},"primaryImageOfPage":{"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#primaryimage"},"datePublished":"2020-10-06T19:43:30+00:00","dateModified":"2020-10-06T20:43:52+00:00","description":"Seg\u00fan un informe de la consultora Check Point Research, los ciberataques que toman el control de las computadoras y las retienen para pedir un rescate, | Estados Unidos | CNN","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/"]}]},{"@type":["Article","NewsArticle"],"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#article","isPartOf":{"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#webpage"},"author":{"@id":"https://cnnespanol.cnn.com/#/schema/person/8dd41244f049e0b77858f07215062675"},"headline":"Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU.","datePublished":"2020-10-06T19:43:30+00:00","dateModified":"2020-10-06T20:43:52+00:00","mainEntityOfPage":{"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#webpage"},"publisher":{"@id":"https://cnnespanol.cnn.com/#organization"},"image":{"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#primaryimage"},"articleSection":"Cibercrimen","inLanguage":"es","copyrightYear":"2020","copyrightHolder":{"@id":"https://cnnespanol.cnn.com/#organization"},"video":[{"@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#video"}]},{"@type":"Person","@id":"https://cnnespanol.cnn.com/#/schema/person/8dd41244f049e0b77858f07215062675","name":"\u00c1ngela Reyes","image":{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/#personlogo","inLanguage":"es","url":"https://secure.gravatar.com/avatar/8cb40e72e7451817f8f073673fd45b02?s=96&d=identicon&r=g","caption":"\u00c1ngela Reyes"}},{"@type":"VideoObject","@id":"https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/#video","name":"Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU. | Video | CNN","thumbnailUrl":"https://cnnespanol.cnn.com/wp-content/uploads/2020/10/191213170403-encuentro-hacking-full-169.jpg?quality=100&strip=info&w=1024","description":"Seg\u00fan un informe de la consultora Check Point Research, los ciberataques que toman el control de las computadoras y las retienen para pedir un rescate, | Estados Unidos | CNN","uploadDate":"2020-10-06T15:43:30+00:00","contentUrl":"https://ht.cdn.turner.com/cnn/big/spanish/2020/10/06/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix.cnn_3442021_768x432_1300k.mp4","isFamilyFriendly":"true","inLanguage":"es"}]}</script> <!-- / Yoast SEO Premium plugin. --> 
   <link rel="dns-prefetch" href="//cdn.cnn.com"> 
   <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"> 
   <link rel="dns-prefetch" href="//widgets.outbrain.com"> 
@@ -108,15 +111,14 @@
   <link rel="preconnect" href="//cdn.cookielaw.org"> 
   <link rel="preconnect" href="//cdn.viglink.com"> 
   <link rel="preconnect" href="//api.viglink.com"> 
-  <link rel="alternate" type="application/rss+xml" title="CNN » Categoría Caribe del feed" href="https://cnnespanol.cnn.com/category/caribe/feed/"> 
   <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cnnespanol.cnn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>  
-  <link rel="stylesheet" id="all-css-0" href="https://cnnespanol.cnn.com/_static/??-eJyljksOwjAMBS9EairRAgvEWfIxxZA4Ue0IenvSih1Llk+aGT14FUPsYw0o4EUgkCi4mP3TRHKznRcQXSJ2ibhrwA6a4TMrsoLeMa0eM0qxnGNjrZIHVymGrVdmvNEbAzgr+FfAW8Upz4sJP5lUTYl1IhZ4oBbbzp+686Z/96pc06Uf9/1wHA+H4QP2slvO" type="text/css" media="all">  
+  <link rel="stylesheet" id="all-css-0" href="https://cnnespanol.cnn.com/_static/??-eJyljksOwjAMBS9E6laiBRaIs+RjwOA4UZ0AvT0pYseS5ZNmRg+e2ZB4rgEVvCoE0gKOk78bJjfbeQEtC2MXSboGbKAZPklBKVCuGFdPBDVbSdxYW8iDq8Th08sznumFAZxV/CvwoIDJhJ9GrCZzvZAo3LBk257vu8PH/e5VOcXjMPXDuJu2Y/8G0gRagw==" type="text/css" media="all">  
   <script src="//cdn.cnn.com/ads/adfuel/ais/2.1/cnn_espanol-ais.min.js" id="cnne-ads-ais-js"></script> 
   <script src="//cdn.cnn.com/ads/adfuel/adfuel-2.1.min.js" id="cnne-ads-adfuel-js"></script> 
-  <script type="text/javascript" src="https://cnnespanol.cnn.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/plugins/jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?m=1598987406j"></script> 
+  <script type="text/javascript" src="https://cnnespanol.cnn.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/plugins/jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?m=1598987399j"></script> 
   <script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/js/swiper.min.js?ver=5.5.1" id="swiper-lib-js-js"></script> 
   <script>
 					window.WM.UserConsent.addScript({
@@ -135,13 +137,15 @@
 						}, ['iab', 'vendor', 'data-store', 'ads-contextual', 'ads-person-prof', 'ads-person', 'content-person-prof', 'content-person', 'measure-ads', 'measure-content', 'measure-market', 'product-develop'] );
 				</script>
   <link rel="https://api.w.org/" href="https://cnnespanol.cnn.com/wp-json/">
-  <link rel="alternate" type="application/json" href="https://cnnespanol.cnn.com/wp-json/wp/v2/categories/172051">
+  <link rel="alternate" type="application/json" href="https://cnnespanol.cnn.com/wp-json/wp/v2/videos/902847">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cnnespanol.cnn.com/xmlrpc.php?rsd"> 
   <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cnnespanol.cnn.com/wp-includes/wlwmanifest.xml"> 
-  <meta name="generator" content="WordPress 5.5.1">  
-  <meta property="ia:markup_url" content="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/?ia_markup=1">  
-  <script> cnneAdsLoaded = {"ad_oop_skin_01":false,"ad_bnr_atf_01":false,"ad_bnr_btf_01":false,"ad_rect_atf_01":false,"ad_rect_btf_01":false,"ad_oop_float_01":false,"ad_oop_float_02":false,"ad_nat_btf_02":false}; </script>
-  <link rel="canonical" href="https://cnnespanol.cnn.com/category/caribe/"> 
+  <meta name="generator" content="WordPress 5.5.1"> 
+  <link rel="shortlink" href="https://cnn.it/2GJF5QI"> 
+  <link rel="alternate" type="application/json+oembed" href="https://cnnespanol.cnn.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcnnespanol.cnn.com%2Fvideo%2Fciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="https://cnnespanol.cnn.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcnnespanol.cnn.com%2Fvideo%2Fciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix%2F&amp;format=xml">  
+  <meta property="ia:markup_url" content="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/?ia_markup=1">  
+  <script> cnneAdsLoaded = {"ad_bnr_atf_01":false,"ad_bnr_btf_01":false,"ad_rect_atf_01":false,"ad_oop_float_01":false,"ad_bnr_btf_02":false,"ad_nat_btf_01":false,"ad_bnr_btf_03":false,"ad_rect_btf_01":false,"ad_rect_btf_02":false}; </script> 
   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
   <script type="text/javascript">
 				var _sf_async_config = _sf_async_config || {};
@@ -155,13 +159,13 @@
 					src: "https://static.chartbeat.com/js/chartbeat_mab.js"
 				}, ['data-store', 'content-person', 'measure-content'] );
 			</script> 
-  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2015/10/captura-de-pantalla-2015-10-21-a-las-12-24-48.png?w=150&amp;h=150&amp;crop=1">
+  <link rel="amphtml" href="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/amp/">
   <link rel="icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=32" sizes="32x32"> 
   <link rel="icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=192" sizes="192x192"> 
   <link rel="apple-touch-icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=180"> 
   <meta name="msapplication-TileImage" content="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=235"> 
  </head> 
- <body class="archive category category-caribe category-172051 cnnespanol-site geo--not-eu ads--domestic optanon-categories-enabled ccpa-enabled mobile-video-sticky-enabled"> 
+ <body class="video-template-default single single-video postid-902847 cnnespanol-site category-cibercrimen section-estados-unidos geo--not-eu ads--domestic optanon-categories-enabled ccpa-enabled mobile-video-sticky-enabled"> 
   <svg viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
    <symbol viewbox="0 0 300 206" id="shape-CNNE">
     <title>CNNE</title>
@@ -243,21 +247,15 @@
      <nav id="access" class="nav-access" role="navigation"> <a href="#content" class="skip-link screen-reader-text" title="Skip to content">Skip to content</a> 
      </nav><!-- #access --> 
      <div id="nav-header" class="wrap-nav"> 
-      <nav class="nav-main">
-       <li id="menu-item-467148" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467148 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a></li> 
-       <li id="menu-item-467157" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467157 section-estados-unidos"><a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">EE.UU.</a></li> 
-       <li id="menu-item-455697" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455697 section-mundo"><a href="https://cnnespanol.cnn.com/seccion/mundo/">Mundo</a></li> 
-       <li id="menu-item-899003" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-899003 section-economia-y-negocios"><a href="https://cnnespanol.cnn.com/seccion/economia-y-negocios/">Dinero</a></li> 
-       <li id="menu-item-467158" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467158 section-entretenimiento"><a href="https://cnnespanol.cnn.com/seccion/entretenimiento/">Entretenimiento</a></li> 
-       <li id="menu-item-467159" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467159 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecno</a></li> 
-       <li id="menu-item-455701" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455701 section-deportes"><a href="https://cnnespanol.cnn.com/seccion/deportes/">Deportes</a></li> 
-       <li id="menu-item-455702" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455702 section-viajes-y-turismo"><a href="https://cnnespanol.cnn.com/seccion/viajes-y-turismo/">Viajes</a></li> 
-       <li id="menu-item-467160" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467160 section-salud"><a href="https://cnnespanol.cnn.com/seccion/salud/">Salud</a></li> 
-       <li id="menu-item-633862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633862"><a href="https://cnnespanol.cnn.com/seccion/estilo/">Estilo</a></li> 
-       <li id="menu-item-467161" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467161 section-opinion"><a href="https://cnnespanol.cnn.com/seccion/opinion/">Opinión</a></li> 
-       <li id="menu-item-455706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455706 page-Video"><a href="https://cnnespanol.cnn.com/video/">Video</a></li> 
-       <li id="menu-item-455708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455708 page-Radio"><a href="https://cnnespanol.cnn.com/radio/">Radio</a></li> 
-       <li id="menu-item-481356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481356 page-Especial"><a href="https://cnnespanol.cnn.com/especiales/">Especial</a></li> 
+      <nav class="nav-main section-nav">
+       <div class="menu-item section-menu--name">
+        <a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">Estados Unidos</a>
+       </div>
+       <div class="section-menu--item-wrap">
+        <li id="menu-item-481279" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show menu-item-481279 tv-show-directo-usa"><a href="https://cnnespanol.cnn.com/tv_show/directo-usa/">Directo USA</a></li> 
+        <li id="menu-item-481280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481280 category-donald-trump"><a href="https://cnnespanol.cnn.com/category/donald-trump/">Donald Trump</a></li> 
+        <li id="menu-item-481281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481281 category-inmigracion"><a href="https://cnnespanol.cnn.com/category/inmigracion/">Inmigración</a></li> 
+       </div>
       </nav>
       <div class="edition-language flex-container"> <a id="toggle-edition-mobile" class="edition-toggle-mobile" href="#0"> 
         <svg class="shape-globe"> <use xlink:href="#shape-globe" /> 
@@ -315,17 +313,17 @@
     <div id="js-sub-nav-wrap" class="wrap-sub-nav"> 
      <nav class="menu-sub-menu-flyout-container">
       <ul id="js-sub-nav" class="sub-nav">
-       <li id="menu-item-455717" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section current-menu-ancestor current-menu-parent menu-item-has-children menu-item-455717 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a> 
+       <li id="menu-item-455717" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section menu-item-has-children menu-item-455717 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a> 
         <ul class="sub-menu"> 
          <li id="menu-item-559655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559655 category-argentina"><a href="https://cnnespanol.cnn.com/category/cono-sur/argentina/">Argentina</a></li> 
          <li id="menu-item-559656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559656 category-colombia"><a href="https://cnnespanol.cnn.com/category/zona-andina/colombia/">Colombia</a></li> 
          <li id="menu-item-455718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455718 category-mexico"><a href="https://cnnespanol.cnn.com/category/mexico/">México</a></li> 
-         <li id="menu-item-455719" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-455719 category-caribe active "><a href="https://cnnespanol.cnn.com/category/caribe/" aria-current="page">Caribe</a></li> 
+         <li id="menu-item-455719" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455719 category-caribe"><a href="https://cnnespanol.cnn.com/category/caribe/">Caribe</a></li> 
          <li id="menu-item-481273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481273 category-centroamerica"><a href="https://cnnespanol.cnn.com/category/centroamerica/">Centroamérica</a></li> 
          <li id="menu-item-481271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481271 category-zona-andina"><a href="https://cnnespanol.cnn.com/category/zona-andina/">Zona andina</a></li> 
          <li id="menu-item-481272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481272 category-cono-sur"><a href="https://cnnespanol.cnn.com/category/cono-sur/">Cono sur</a></li> 
         </ul> </li> 
-       <li id="menu-item-455720" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-has-children menu-item-455720 section-estados-unidos"><a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">EE.UU.</a> 
+       <li id="menu-item-455720" class="menu-item menu-item-type-taxonomy menu-item-object-section current-video-ancestor current-menu-parent current-video-parent menu-item-has-children menu-item-455720 section-estados-unidos"><a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">EE.UU.</a> 
         <ul class="sub-menu"> 
          <li id="menu-item-455721" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show menu-item-455721 tv-show-directo-usa"><a href="https://cnnespanol.cnn.com/tv_show/directo-usa/">Directo USA</a></li> 
          <li id="menu-item-455722" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455722 category-donald-trump"><a href="https://cnnespanol.cnn.com/category/donald-trump/">Donald Trump</a></li> 
@@ -359,7 +357,7 @@
         </ul> </li> 
        <li id="menu-item-455745" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-has-children menu-item-455745 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecnología</a> 
         <ul class="sub-menu"> 
-         <li id="menu-item-455746" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show menu-item-455746 tv-show-clix"><a href="https://cnnespanol.cnn.com/tv_show/clix/">Clix</a></li> 
+         <li id="menu-item-455746" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show current-video-ancestor current-menu-parent current-video-parent menu-item-455746 tv-show-clix"><a href="https://cnnespanol.cnn.com/tv_show/clix/">Clix</a></li> 
          <li id="menu-item-455747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455747 category-ciencia-y-espacio"><a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/">Ciencia</a></li> 
          <li id="menu-item-559676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559676 category-facebook"><a href="https://cnnespanol.cnn.com/category/redes-sociales/facebook/">Facebook</a></li> 
          <li id="menu-item-559666" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-559666 tag-google"><a href="https://cnnespanol.cnn.com/tag/google/">Google</a></li> 
@@ -468,237 +466,399 @@
    </header><!-- .header-main-nav --> 
   </div> 
   <div class="normalizecss template--20"> 
-   <main class="section" role="main"> 
-    <header class="section__header"> 
-     <div class="row"> 
-      <div class="section__actions"> 
-       <p>Siguenos</p> <a href="https://www.facebook.com/cnnee" title="Siguenos en Facebook" target="_blank" rel="nofollow" class="cnnicon cnnicon--facebook-square"></a> <a href="https://www.twitter.com/cnnee" title="Siguenos en Twitter" target="_blank" rel="nofollow" class="cnnicon cnnicon--twitter"></a> 
+   <main class="main clearfix" role="main"> 
+    <div class="row pagebuilder"> 
+     <div class="col--aside"> 
+      <div class="module module--playlist module--playlist--active"> 
+       <div class="module__header"> 
+        <h3 class="module__title">Más de Cibercrimen <small>(10 videos)</small></h3> 
+       </div> 
+       <div class="module__content"> <button class="playlist__autoplay playlist__autoplay--active" type="button"> <span class="toggle"> <span></span> </span> <span>Reproducción automática</span> </button> 
+        <div class="playlist__items"> 
+         <article class="news news--summary news--video-playing" data-post-id="902847" data-video-id="spanish/2020/10/06/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/guillermo-arduino/"><span itemprop="name">Guillermo Arduino</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 15:43 ET (19:43 GMT) martes, 6 octubre, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/" title="Aumentan los ciberataques de cara a elecciones en EE.UU." data-imgs="https://cdn.cnn.com/cnnnext/dam/assets/191213170403-encuentro-hacking-hp-video.jpg"> 
+            <noscript></noscript> <span class="news__videoplaying"><span>Reproduciendo</span></span> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:11 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/"> Aumentan los ciberataques de cara a elecciones en EE.UU. </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="900850" data-video-id="spanish/2020/10/01/hackers-hackeos-estados-unidos-reino-unido-canada-ranking-perspectivas-buenos-aires.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/cnn-espanol/"><span itemprop="name">CNN Español</span></a></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 20:58 ET (00:58 GMT) miércoles, 30 septiembre, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/hackers-hackeos-estados-unidos-reino-unido-canada-ranking-perspectivas-buenos-aires/" title="Los 5 países que sufren más intentos de hackeos" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:54 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/hackers-hackeos-estados-unidos-reino-unido-canada-ranking-perspectivas-buenos-aires/"> Los 5 países que sufren más intentos de hackeos </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="895701" data-video-id="spanish/2020/09/18/virus-tecnologia-robo-informacion-tarjetas-perspectivas-buenos-aires.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/ivan-perez-sarmenti/"><span itemprop="name">Iván Pérez Sarmenti</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 21:26 ET (01:26 GMT) jueves, 17 septiembre, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/virus-tecnologia-robo-informacion-tarjetas-perspectivas-buenos-aires/" title="Alertan por un virus que puede vaciar tus cuentas" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:29 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/virus-tecnologia-robo-informacion-tarjetas-perspectivas-buenos-aires/"> Alertan por un virus que puede vaciar tus cuentas </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="895539" data-video-id="spanish/2020/09/17/hackeo-clase-virtual-nueva-york-pornografia-lklv-patricia-ramos-realidades-en-contexto-rec.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/patricia-ramos/"><span itemprop="name">Patricia Ramos</span></a></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 16:36 ET (20:36 GMT) jueves, 17 septiembre, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/hackeo-clase-virtual-nueva-york-pornografia-lklv-patricia-ramos-realidades-en-contexto-rec/" title="Hackearon con pornografía una clase en línea" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:03 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/hackeo-clase-virtual-nueva-york-pornografia-lklv-patricia-ramos-realidades-en-contexto-rec/"> Hackearon con pornografía una clase en línea </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="882862" data-video-id="spanish/2020/09/02/ciberataques-miami-dade-escuelas-publicas-pkg-manuel-rodriguez.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/jose-manuel-rodriguez/"><span itemprop="name">José Manuel Rodríguez</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 20:15 ET (00:15 GMT) miércoles, 2 septiembre, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/ciberataques-miami-dade-escuelas-publicas-pkg-manuel-rodriguez/" title="Ciberataques afectaron a miles de estudiantes en Miami-Dade" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 2:39 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/ciberataques-miami-dade-escuelas-publicas-pkg-manuel-rodriguez/"> Ciberataques afectaron a miles de estudiantes en Miami-Dade </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="864554" data-video-id="spanish/2020/07/21/estados-unidos-acusa-hackers-chinos-eeuu-cnne-panorama-mundial-maria-alejandra-requena.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/maria-alejandra-requena/"><span itemprop="name">María Alejandra Requena</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 17:13 ET (21:13 GMT) martes, 21 julio, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/estados-unidos-acusa-hackers-chinos-eeuu-cnne-panorama-mundial-maria-alejandra-requena/" title="EE.UU. acusa a hackers chinos de intrusión informática" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:24 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/estados-unidos-acusa-hackers-chinos-eeuu-cnne-panorama-mundial-maria-alejandra-requena/"> EE.UU. acusa a hackers chinos de intrusión informática </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="863484" data-video-id="spanish/2020/07/18/hackeo-twitter-podria-ser-peor-de-lo-que-parece-hackers-obama-bill-gates-elon-musk-joe-biden-fbi-investiga-pkg-cnn-dinero.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/cnn-espanol/"><span itemprop="name">CNN Español</span></a></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 20:17 ET (00:17 GMT) viernes, 17 julio, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/hackeo-twitter-podria-ser-peor-de-lo-que-parece-hackers-obama-bill-gates-elon-musk-joe-biden-fbi-investiga-pkg-cnn-dinero/" title="Hackeo a Twitter podría ser peor de lo que parece" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:23 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/hackeo-twitter-podria-ser-peor-de-lo-que-parece-hackers-obama-bill-gates-elon-musk-joe-biden-fbi-investiga-pkg-cnn-dinero/"> Hackeo a Twitter podría ser peor de lo que parece </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="863322" data-video-id="spanish/2020/07/17/twitter-bitcoin-criptomoneda-ataques-hackers-vo-portafolio.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/gabriela-frias/"><span itemprop="name">Gabriela Frías</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 15:33 ET (19:33 GMT) viernes, 17 julio, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/twitter-bitcoin-criptomoneda-ataques-hackers-vo-portafolio/" title="El papel del bitcoin en el ciberataque a Twitter" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:41 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/twitter-bitcoin-criptomoneda-ataques-hackers-vo-portafolio/"> El papel del bitcoin en el ciberataque a Twitter </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="863036" data-video-id="spanish/2020/07/17/asi-operan-hackers-rusos-intentan-hackear-datos-vacunas-apt29-cozy-bear-cibercriminales-rusia-reino-unido-eeuu-pkg-cnn-dinero.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/cnn-espanol/"><span itemprop="name">CNN Español</span></a></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 21:53 ET (01:53 GMT) jueves, 16 julio, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/asi-operan-hackers-rusos-intentan-hackear-datos-vacunas-apt29-cozy-bear-cibercriminales-rusia-reino-unido-eeuu-pkg-cnn-dinero/" title="Ojo, así operan hackers rusos de APT29 para robar datos" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:22 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/asi-operan-hackers-rusos-intentan-hackear-datos-vacunas-apt29-cozy-bear-cibercriminales-rusia-reino-unido-eeuu-pkg-cnn-dinero/"> Ojo, así operan hackers rusos de APT29 para robar datos </a> </h2> 
+          </div> 
+         </article> 
+         <article class="news news--summary" data-post-id="862865" data-video-id="spanish/2020/07/16/consejos-evitar-hackeado-mientras-navegas-internet-pkg-digital-original-cnne-edel.cnn"> 
+          <div class="author-link">
+            Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/egonzalezgarces/"><span itemprop="name">Edel Gonzalez</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> 
+          </div> 
+          <div class="time-stamp">
+            Publicado a las 16:26 ET (20:26 GMT) jueves, 16 julio, 2020 
+          </div> 
+          <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/consejos-evitar-hackeado-mientras-navegas-internet-pkg-digital-original-cnne-edel/" title="Estos 4 consejos te ayudarán a protegerte en internet" data-imgs=""> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:53 </span> </span> </a> 
+          </figure> 
+          <div class="news__data"> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/consejos-evitar-hackeado-mientras-navegas-internet-pkg-digital-original-cnne-edel/"> Estos 4 consejos te ayudarán a protegerte en internet </a> </h2> 
+          </div> 
+         </article> 
+        </div> <button class="button button--medium button--block" type="button">Ver más</button> 
+       </div> 
       </div> 
-      <h1 class="section__title">Caribe</h1> 
-      <p class="section__description">Últimas noticias, videos y fotos sobre Caribe.</p> 
+      <div class="banner"> 
+       <div class="wrap-ad"> 
+        <div id="ad_rect_atf_01" class="ad"></div> 
+       </div> 
+      </div> 
+     </div><!-- end .col-aside --> 
+     <div class="col--main"> 
+      <article class="news news--videofull"> 
+       <div class="news__media"> 
+        <div class="cnnvideo responsive fave-wrapper" data-actual-vid-height="">
+         <script type="text/javascript" src="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/libs/js/fave-omniture.js"></script>
+         <script>
+							CNNESPANOL.getProximicData = function getProximicData() {
+								var proximicValues = {},
+									i;
+								if (Array.isArray(window.proximicData)) {
+									for (i = 0; i < window.proximicData.length; i++) {
+										proximicValues[window.proximicData[i]] = "pconid";
+									}
+								}
+								return proximicValues;
+							};
+							var FAVE = {
+								settings: {
+									freewheel: {
+										keyValuePairs: {
+											guID: window.turner_getGuid,
+											krux: window.krux_getFWKeyValues,
+											krux_user: window.krux_getUser,
+											proximicData: CNNESPANOL.getProximicData,
+											transactionID: window.turner_getTransactionId
+										}
+									},
+									server: {
+										edition: "international"
+									},
+									omniture: {
+										component: FAVE.components.Omniture
+									},
+									conviva: {
+										custom: {
+											applicationName: "CNN-Web-Espanol"
+										}}
+								}
+							};</script> 
+         <script type="text/javascript" src="//registry.api.cnn.io/bundles/fave/3.8.0/js"></script> 
+         <script type="text/javascript" src="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/libs/js/usertiming.js"></script>
+         <div id="fave-video1" class="first"></div> 
+         <script type="text/javascript">
+						FAVE.player({
+							configs: {
+								adsection: "cnnespanol.cnn.com_us_carousel",
+								autostart: true,
+								autoplay: {
+									muted: { enabled: false }
+								},
+								markupId: "fave-video1",
+								video: "spanish\/2020\/10\/06\/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix.cnn",
+								isLive: false,
+								amazonA9: {
+									enabled: true
+								}
+							},
+							callbacks: {
+								onContentComplete: function onContentComplete(containerId, playerId, videoId) {
+									if ( typeof cnnespanolVideoPlaylist === "function" && "undefined" !== cnnespanolVideoPlaylist ) {
+										cnnespanolVideoPlaylist(containerId, playerId);
+									}
+								},
+								onContentPlay: function onContentPlay(containerId, playerId, videoId) {
+									if ( typeof cnnespanolCleanPlayerBlock === "function" && "undefined" !== cnnespanolCleanPlayerBlock ) {
+										cnnespanolCleanPlayerBlock(containerId, playerId, videoId);
+									}
+								}
+							}
+						});
+					</script> 
+        </div> <!-- add the figcaption title for sticky --> 
+        <figcaption class="news__figcaption">
+         <p>Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU.</p>
+        </figcaption> 
+       </div> 
+       <div class="news__data"> 
+        <h1 class="news__title"> Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU. </h1> 
+        <div class="news__excerpt"> 
+         <p>Según un informe de la consultora Check Point Research, los ciberataques que toman el control de las computadoras y las retienen para pedir un rescate, llamados ataques de ransomware, se duplicaron en el tercer trimestre del año con respecto al segundo. El reporte llega a menos de un mes de las elecciones presidenciales en Estados Unidos.</p> 
+        </div> 
+        <div class="news__meta"> 
+         <p class="news__byline"> Por <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="https://cnnespanol.cnn.com/author/guillermo-arduino/"><span itemprop="name">Guillermo Arduino</span></a></span>, <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> <span itemprop="name">CNN</span></span> </p> <time class="news__date" itemprop="datePublished" datetime="2020-10-06" content="2020-10-06"> Publicado a las 15:43 ET (19:43 GMT) 6 octubre, 2020 </time> 
+        </div> 
+        <div class="storyfull__social news__share"> <a data-share="facebook" data-text="Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU." data-link="https://cnn.it/2GJF5QI" class="cnnicon cnnicon--facebook-square" href="//www.facebook.com/sharer/sharer.php?u=https://cnn.it/2GJF5QI" title="Compartir en Facebook" target="_blank"></a> <a data-share="twitter" data-text="Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU." data-link="https://cnn.it/2GJF5QI" class="cnnicon cnnicon--twitter" href="//twitter.com/intent/tweet?text=Aumentan%20ciberataques%20de%20robo%20y%20secuestro%20de%20datos%20de%20cara%20a%20las%20elecciones%20en%20EE.UU.&amp;url=https://cnn.it/2GJF5QI&amp;via=" title="Compartir en Twitter" data-user="CNNEE" target="_blank"></a> <a class="cnnicon cnnicon--mail" href="mailto:?&amp;body=Aumentan%20ciberataques%20de%20robo%20y%20secuestro%20de%20datos%20de%20cara%20a%20las%20elecciones%20en%20EE.UU.+https://cnn.it/2GJF5QI" title="Compartir por correo" target="_blank"></a> <a data-share="copy" data-firsticonclass="icono--copy" data-secondiconclass="icono--check" data-text="Aumentan ciberataques de robo y secuestro de datos de cara a las elecciones en EE.UU." data-link="https://cnn.it/2GJF5QI" class="cnnicon cnnicon--copy" href="#" title="Copiar enlace"></a> 
+        </div> 
+       </div> 
+      </article> 
      </div> 
-    </header> 
-    <div class="section__content"> 
-     <div class="row"> 
-      <div class="zone zone--main clearfix"> 
-       <div class="col--aside"> 
-        <article class="news news--box news--box-style-two  news--with-border-bottom post-type--post" id="article-901939" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/10/03/no-hay-nadie-cuba-sufre-por-la-paralisis-del-sector-turistico/" title="Cuba sufre por la parálisis del sector turístico"> 
-           <noscript></noscript> </a> 
+    </div> 
+    <div class="row"> 
+     <div class="module"> 
+      <div class="OUTBRAIN" data-src="http://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/" data-widget-id="AR_11" data-ob-template="cnnenespanol"></div> 
+     </div> 
+     <div class="module module--slider" data-using-transient data-transient-key="vid_mod_carousel_1"> 
+      <div class="module__header module__header--center"> 
+       <h3 class="module__title"> <span>Crisis en Venezuela</span> </h3> 
+      </div> 
+      <div class="module__content" data-swiper="{slidesPerView:4,slidesPerGroup:4,spaceBetween:24,breakpoints: { 950: { slidesPerView: 3, spaceBetween: 24 } } }"> 
+       <div class="swiper-container"> 
+        <div class="swiper-wrapper"> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="902713" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/venezuela-oro-reino-unido-inglaterra-guiado-maduro-banco-cnn-primera/" title="Guaidó rechaza haber perdido batalla legal por oro" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:39 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/venezuela-oro-reino-unido-inglaterra-guiado-maduro-banco-cnn-primera/"> Guaidó rechaza haber perdido batalla legal por oro </a> </h2> 
+           </div> 
+          </article> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/10/03/no-hay-nadie-cuba-sufre-por-la-paralisis-del-sector-turistico/" title="Cuba sufre por la parálisis del sector turístico"> Cuba sufre por la parálisis del sector turístico </a> </h2> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="902236" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/maduro-envia-mensaje-a-trump-que-tenga-salud-y-vida/" title="Maduro envía mensaje a Trump: Que tenga salud y vida" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/maduro-envia-mensaje-a-trump-que-tenga-salud-y-vida/"> Maduro envía mensaje a Trump: Que tenga salud y vida </a> </h2> 
+           </div> 
+          </article> 
          </div> 
-        </article> 
-        <div class="banner"> 
-         <div class="wrap-ad"> 
-          <div id="ad_rect_atf_01" class="ad"></div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="901538" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/venezuela-elecciones-maduro-presidente-capriles-guaido-cnn-primera/" title="La oposición reacciona frente a la decisión de Maduro" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:24 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/venezuela-elecciones-maduro-presidente-capriles-guaido-cnn-primera/"> La oposición reacciona frente a la decisión de Maduro </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="901399" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/pianista-venezuela-pandemia-desinfeccion-musical-jose-agustin-sanchez-pkg-osmary-hernandez/" title="Entró a un hospital a tocar piano para contagiados de covid-19" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:16 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/pianista-venezuela-pandemia-desinfeccion-musical-jose-agustin-sanchez-pkg-osmary-hernandez/"> Entró a un hospital a tocar piano para contagiados de covid-19 </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="899332" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/mirador-mundial-venezuela-concurso-belleza-osmary-hernandez/" title="Celebran certamen Miss Venezuela de forma virtual y con mascarillas" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:17 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/mirador-mundial-venezuela-concurso-belleza-osmary-hernandez/"> Celebran certamen Miss Venezuela de forma virtual y con mascarillas </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="899184" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/informe-comision-ddhh-onu-protege-fiscalia-venezuela-rafael-romo-conclusiones-cnne/" title="Molly de la Sotta: Informe defiende al Ministerio Público de Venezuela" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:12 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/informe-comision-ddhh-onu-protege-fiscalia-venezuela-rafael-romo-conclusiones-cnne/"> Molly de la Sotta: Informe defiende al Ministerio Público de Venezuela </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="899188" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/violaciones-derechos-humanos-venezuela-presos-politicos-tratos-inhumanos-rafael-romo-conclusiones-cnne/" title="Familiares de presos en Venezuela reiteran tratos inhumanos" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:27 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/violaciones-derechos-humanos-venezuela-presos-politicos-tratos-inhumanos-rafael-romo-conclusiones-cnne/"> Familiares de presos en Venezuela reiteran tratos inhumanos </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="899190" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/derechos-humanos-venezuela-silla-consejo-onu-un-watch-rafael-romo-conclusiones-cnne/" title="¿Debería estar Venezuela en el Consejo de Derechos Humanos?" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:51 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/derechos-humanos-venezuela-silla-consejo-onu-un-watch-rafael-romo-conclusiones-cnne/"> ¿Debería estar Venezuela en el Consejo de Derechos Humanos? </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="898879" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/ricardo-lagos-venezuela-importancia-solucionar-latinoamerica-en-dialogo-con-longobardi-cnne/" title="Ricardo Lagos habla sobre la situación de Venezuela" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:19 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/ricardo-lagos-venezuela-importancia-solucionar-latinoamerica-en-dialogo-con-longobardi-cnne/"> Ricardo Lagos habla sobre la situación de Venezuela </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="898298" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/venezuela-onu-naciones-unidas-maduro-guaido-ayuda-cnn-primera-manana-cnnee/" title="El pedido de Guaidó tras el discurso de Maduro en la ONU" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:17 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/venezuela-onu-naciones-unidas-maduro-guaido-ayuda-cnn-primera-manana-cnnee/"> El pedido de Guaidó tras el discurso de Maduro en la ONU </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="898180" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/rescatar-venezuela-manos-criminales-diego-arria-fernando-del-rincon-conclusiones-cnne/" title="Diego Arria pide &quot;rescatar a Venezuela de manos criminales&quot;" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:25 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/rescatar-venezuela-manos-criminales-diego-arria-fernando-del-rincon-conclusiones-cnne/"> Diego Arria pide "rescatar a Venezuela de manos criminales" </a> </h2> 
+           </div> 
+          </article> 
+         </div> 
+         <div class="swiper-slide"> 
+          <article class="news news--box" data-post-id="898184" data-video-id=""> 
+           <figure class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/no-hay-oposicion-venezuela-diego-arria-fernando-del-rincon-conclusiones-cnne/" title="Diego Arria: En Venezuela no hay una oposición, sino varias posiciones" data-imgs=""> 
+             <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:58 </span> </span> </a> 
+           </figure> 
+           <div class="news__data"> <span class="news__label">Venezuela</span> 
+            <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/no-hay-oposicion-venezuela-diego-arria-fernando-del-rincon-conclusiones-cnne/"> Diego Arria: En Venezuela no hay una oposición, sino varias posiciones </a> </h2> 
+           </div> 
+          </article> 
          </div> 
         </div> 
-       </div> 
-       <div class="col--main"> 
-        <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-902079" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/" title="Agresión en plena calle conmueve a República Dominicana"> 
-           <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:18 </span> </span> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/" title="Agresión en plena calle conmueve a República Dominicana"> Agresión en plena calle conmueve a República Dominicana </a> </h2> 
-          <div class="news__excerpt"> 
-           <p>Un ataque a plena luz del día en la capital de República Dominicana con una mezcla de químicos corrosivos, conocida como "ácido del diablo", dejó una joven madre con graves quemaduras en su cuerpo. Ya hay tres personas arrestadas por el caso, quienes no han ofrecido declaraciones públicas. Su caso ha conmovido al país y a artistas como Cardi B, quien ofreció una recompensa para dar con los responsables. Jessica Hasbún nos informa.</p> 
-          </div> 
-         </div> 
-        </article> 
+        <div class="swiper-actions" data-using-transient> <button type="button" class="swiper-button swiper-button-prev cnnicon cnnicon--arrow"></button> 
+         <div class="swiper-pagination"></div> <button type="button" class="swiper-button swiper-button-next cnnicon cnnicon--arrow"></button> 
+        </div> 
        </div> 
       </div> 
      </div> 
-     <div class="row"> 
-      <div class="module module--lastnews"> 
-       <div class="module__header module__header--center"> 
-        <h3 class="module__title">Últimas noticias</h3> 
-       </div> 
-       <div class="module__content row--container"> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901296" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/rosimar-rodriguez-toa-baja-asesinato-mujer-feminicidios-desapariciones-puerto-rico-pkg-rafy-rivera/" title="Hallaron muerta a Rosimar Rodríguez en Toa Baja"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:07 </span> </span> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/rosimar-rodriguez-toa-baja-asesinato-mujer-feminicidios-desapariciones-puerto-rico-pkg-rafy-rivera/" title="Hallaron muerta a Rosimar Rodríguez en Toa Baja"> Hallaron muerta a Rosimar Rodríguez en Toa Baja </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-900884" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/30/cardi-b-ofrece-us-10-000-de-recompensa-por-la-captura-de-quienes-lanzaron-acido-del-diablo-a-una-joven-dominicana/" title="Cardi B ofrece recompensa en caso de agresión con ácido"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/30/cardi-b-ofrece-us-10-000-de-recompensa-por-la-captura-de-quienes-lanzaron-acido-del-diablo-a-una-joven-dominicana/" title="Cardi B ofrece recompensa en caso de agresión con ácido"> Cardi B ofrece recompensa en caso de agresión con ácido </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-897910" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/23/trump-anuncia-restricciones-adicionales-a-los-hoteles-el-tabaco-y-el-alcohol-de-cuba/" title="Trump anuncia nuevas restricciones en viajes a Cuba"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/23/trump-anuncia-restricciones-adicionales-a-los-hoteles-el-tabaco-y-el-alcohol-de-cuba/" title="Trump anuncia nuevas restricciones en viajes a Cuba"> Trump anuncia nuevas restricciones en viajes a Cuba </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> <!-- native ad here --> 
-         <div id="ad_nat_btf_02" class="cnn_adtag cnn_adtag--dfp"></div> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-898012" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/trump-veteranos-bahia-cochinos-sanciones-tabaco-ron-cuba-pais-comunista-socialista-dusa-sot-cnne/" title="Trump: &quot;EE.UU. nunca será un país socialista o comunista&quot;"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:28 </span> </span> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/trump-veteranos-bahia-cochinos-sanciones-tabaco-ron-cuba-pais-comunista-socialista-dusa-sot-cnne/" title="Trump: &quot;EE.UU. nunca será un país socialista o comunista&quot;"> Trump: "EE.UU. nunca será un país socialista o comunista" </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896866" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/21/opinion-puerto-rico-necesita-mas-que-la-cinica-estratagema-de-trump/" title="Puerto Rico necesita más que la estratagema de Trump"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/21/opinion-puerto-rico-necesita-mas-que-la-cinica-estratagema-de-trump/" title="Puerto Rico necesita más que la estratagema de Trump"> Puerto Rico necesita más que la estratagema de Trump </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-896577" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/fondos-millones-dolares-venezuela-puerto-rico-trump-mirador-mundial-rafael-romo-cnnee-cesar-grajales-live/" title="Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 7:28 </span> </span> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/fondos-millones-dolares-venezuela-puerto-rico-trump-mirador-mundial-rafael-romo-cnnee-cesar-grajales-live/" title="Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela"> Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896255" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/18/fondos-del-gobierno-de-trump-para-puerto-rico-se-usaran-en-reconstruccion-del-sistema-electrico-y-escuelas-publicas/" title="Puerto Rico usará nuevos fondos en energía y educación"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/18/fondos-del-gobierno-de-trump-para-puerto-rico-se-usaran-en-reconstruccion-del-sistema-electrico-y-escuelas-publicas/" title="Puerto Rico usará nuevos fondos en energía y educación"> Puerto Rico usará nuevos fondos en energía y educación </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896039" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/18/gobierno-de-trump-anuncia-13-000-millones-de-dolares-para-puerto-rico-en-ayuda-adicional/" title="Trump destinará otros US$ 13.000 millones a Puerto Rico"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/18/gobierno-de-trump-anuncia-13-000-millones-de-dolares-para-puerto-rico-en-ayuda-adicional/" title="Trump destinará otros US$ 13.000 millones a Puerto Rico"> Trump destinará otros US$ 13.000 millones a Puerto Rico </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <div class="banner"> 
-          <div class="wrap-ad"> 
-           <div id="ad_rect_btf_01" class="ad"></div> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-      <div class="module module--morenews"> 
-       <div class="module__header module__header--center"> 
-        <h3 class="module__title">Más noticias</h3> 
-       </div> 
-       <div class="module__content" data-source-type="category" data-source-var="172051" data-post-count="20" data-total-posts="20" data-format-type="default-archive"> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-896094" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/puerto-rico-fema-fondos-recuperacion-huracan-maria-vo-sot-dusa-juan-carlos-lopez-cnne/" title="Trump: &quot;Soy lo mejor que le ha pasado a Puerto Rico&quot;"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/puerto-rico-fema-fondos-recuperacion-huracan-maria-vo-sot-dusa-juan-carlos-lopez-cnne/" title="Trump: &quot;Soy lo mejor que le ha pasado a Puerto Rico&quot;"> Trump: "Soy lo mejor que le ha pasado a Puerto Rico" </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-895011" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/bahamas-abandonar-monarquia-reina-isabel-ii-republica-2021-aniversario-independencia-imperio-britanico-requena-panorama-cnne/" title="Bahamas dejará la monarquía y se convertirá en república"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/" title="Caribe"> Caribe </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/bahamas-abandonar-monarquia-reina-isabel-ii-republica-2021-aniversario-independencia-imperio-britanico-requena-panorama-cnne/" title="Bahamas dejará la monarquía y se convertirá en república"> Bahamas dejará la monarquía y se convertirá en república </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893735" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/venezolanos-vuelos-humanitarios-desde-republica-dominicana-pkg-jessica-hasbun/" title="Repatrian al menos 200 venezolanos desde Rep. Dominicana"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/venezolanos-vuelos-humanitarios-desde-republica-dominicana-pkg-jessica-hasbun/" title="Repatrian al menos 200 venezolanos desde Rep. Dominicana"> Repatrian al menos 200 venezolanos desde Rep. Dominicana </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893477" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/mirador-mundial-cotorra-ave-extincion-rafy-rivera-puertorico/" title="Coronavirus podría representar una amenaza para la cotorra puertorriqueña"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/mirador-mundial-cotorra-ave-extincion-rafy-rivera-puertorico/" title="Coronavirus podría representar una amenaza para la cotorra puertorriqueña"> Coronavirus podría representar una amenaza para la cotorra puertorriqueña </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893260" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/discrepar-criticar-gobierno-cuba-2020-roberto-quinones-camilo-cnne/" title="¿Se puede discrepar con el gobierno de Cuba actualmente?"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/discrepar-criticar-gobierno-cuba-2020-roberto-quinones-camilo-cnne/" title="¿Se puede discrepar con el gobierno de Cuba actualmente?"> ¿Se puede discrepar con el gobierno de Cuba actualmente? </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893262" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/costo-disentir-cuba-periodista-independiente-maltrato-libertad-roberto-quinones-camilo-cnne/" title="El calvario que vivió un periodista independiente en Cuba"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/costo-disentir-cuba-periodista-independiente-maltrato-libertad-roberto-quinones-camilo-cnne/" title="El calvario que vivió un periodista independiente en Cuba"> El calvario que vivió un periodista independiente en Cuba </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-892921" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/oppenheimer-cuba-kerry-reapertura-biden-campana-patricia-ramos-realidades-en-contexto-rec-cnnee/" title="La pobre respuesta de Cuba en la reapertura, según Kerry"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/oppenheimer-cuba-kerry-reapertura-biden-campana-patricia-ramos-realidades-en-contexto-rec-cnnee/" title="La pobre respuesta de Cuba en la reapertura, según Kerry"> La pobre respuesta de Cuba en la reapertura, según Kerry </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-888517" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/john-kerry-cuba-reapertura-estados-unidos-decepcion-oppenheimer-oped/" title="¿Por qué John Kerry está decepcionado con Cuba?"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/john-kerry-cuba-reapertura-estados-unidos-decepcion-oppenheimer-oped/" title="¿Por qué John Kerry está decepcionado con Cuba?"> ¿Por qué John Kerry está decepcionado con Cuba? </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-883240" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/roberto-clemente-pirtaes-pittsburgh-21-mlb-grandes-ligas/" title="Los Pirates vestirán el número 21 de Clemente"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/roberto-clemente-pirtaes-pittsburgh-21-mlb-grandes-ligas/" title="Los Pirates vestirán el número 21 de Clemente"> Los Pirates vestirán el número 21 de Clemente </a> </h2> 
-         </div> 
-        </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-883003" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/luis-abinader-quien-es-presidente-empresario-republica-dominicana-pkg-jessica-hasbun-camilo/" title="¿Quién es Luis Abinader?"> 
-           <noscript></noscript> </a> 
-         </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/luis-abinader-quien-es-presidente-empresario-republica-dominicana-pkg-jessica-hasbun-camilo/" title="¿Quién es Luis Abinader?"> ¿Quién es Luis Abinader? </a> </h2> 
-         </div> 
-        </article> 
-        <div class="viewmore read-more"> <a href="#0" class="viewmore__button">Más noticias</a> 
-        </div> 
-       </div> 
+     <div class="banner banner__horizontal"> 
+      <div class="wrap-ad"> 
+       <div id="ad_bnr_btf_02" class="ad"></div> 
       </div> 
      </div> 
     </div> 
-   </main><!-- end main.section --> 
+   </main> 
   </div> 
   <script>
 			(function ($j, win, doc, undef) {
@@ -707,7 +867,7 @@
 				if (win.cnn_metadata === undef) {
 					win.cnn_metadata = {};
 				}
-				$j.extend(true, win.cnn_metadata, {"business":{"cnn":{"page":{"video_embed_count":0}}}});
+				$j.extend(true, win.cnn_metadata, {"business":{"cnn":{"page":{"video_embed_count":1}}}});
 			}(jQuery, window, document, undefined));
 		</script> 
   <footer id="footer-primary" class="site-footer-style-two"> 
@@ -717,25 +877,25 @@
       <div id="ad_bnr_btf_01" class="ad"></div> 
      </div> 
     </div> 
-    <div class="OUTBRAIN" data-src="http://cnnespanol.cnn.com/category/caribe" data-widget-id="AR_7" data-ob-template="cnnenespanol"></div> 
+    <div class="OUTBRAIN" data-src="http://cnnespanol.cnn.com/video/ciberataques-robo-secuestro-elecciones-donal-trump-joe-biden-estados-unidos-casa-blanca-computadoras-ransomware-guillermo-arduino-clix/" data-widget-id="AR_7" data-ob-template="cnnenespanol"></div> 
     <div class="site-logo-wrapper"> <a class="site-logo" href="https://cnnespanol.cnn.com/" title="Ir a CNNEspañol.com"> <span class="cnnicon cnnicon--cnne"></span> </a> 
     </div> 
     <div class="nav-footer nav-footer--primary">
      <ul>
-      <li class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467148 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467157 section-estados-unidos"><a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">EE.UU.</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455697 section-mundo"><a href="https://cnnespanol.cnn.com/seccion/mundo/">Mundo</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-899003 section-economia-y-negocios"><a href="https://cnnespanol.cnn.com/seccion/economia-y-negocios/">Dinero</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467158 section-entretenimiento"><a href="https://cnnespanol.cnn.com/seccion/entretenimiento/">Entretenimiento</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467159 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecno</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455701 section-deportes"><a href="https://cnnespanol.cnn.com/seccion/deportes/">Deportes</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455702 section-viajes-y-turismo"><a href="https://cnnespanol.cnn.com/seccion/viajes-y-turismo/">Viajes</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467160 section-salud"><a href="https://cnnespanol.cnn.com/seccion/salud/">Salud</a></li> 
-      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633862"><a href="https://cnnespanol.cnn.com/seccion/estilo/">Estilo</a></li> 
-      <li class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467161 section-opinion"><a href="https://cnnespanol.cnn.com/seccion/opinion/">Opinión</a></li> 
-      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455706 page-Video"><a href="https://cnnespanol.cnn.com/video/">Video</a></li> 
-      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455708 page-Radio"><a href="https://cnnespanol.cnn.com/radio/">Radio</a></li> 
-      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481356 page-Especial"><a href="https://cnnespanol.cnn.com/especiales/">Especial</a></li> 
+      <li id="menu-item-467148" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467148 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a></li> 
+      <li id="menu-item-467157" class="menu-item menu-item-type-taxonomy menu-item-object-section current-video-ancestor current-menu-parent current-video-parent menu-item-467157 section-estados-unidos"><a href="https://cnnespanol.cnn.com/seccion/estados-unidos/">EE.UU.</a></li> 
+      <li id="menu-item-455697" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455697 section-mundo"><a href="https://cnnespanol.cnn.com/seccion/mundo/">Mundo</a></li> 
+      <li id="menu-item-899003" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-899003 section-economia-y-negocios"><a href="https://cnnespanol.cnn.com/seccion/economia-y-negocios/">Dinero</a></li> 
+      <li id="menu-item-467158" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467158 section-entretenimiento"><a href="https://cnnespanol.cnn.com/seccion/entretenimiento/">Entretenimiento</a></li> 
+      <li id="menu-item-467159" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467159 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecno</a></li> 
+      <li id="menu-item-455701" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455701 section-deportes"><a href="https://cnnespanol.cnn.com/seccion/deportes/">Deportes</a></li> 
+      <li id="menu-item-455702" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-455702 section-viajes-y-turismo"><a href="https://cnnespanol.cnn.com/seccion/viajes-y-turismo/">Viajes</a></li> 
+      <li id="menu-item-467160" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467160 section-salud"><a href="https://cnnespanol.cnn.com/seccion/salud/">Salud</a></li> 
+      <li id="menu-item-633862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633862"><a href="https://cnnespanol.cnn.com/seccion/estilo/">Estilo</a></li> 
+      <li id="menu-item-467161" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-467161 section-opinion"><a href="https://cnnespanol.cnn.com/seccion/opinion/">Opinión</a></li> 
+      <li id="menu-item-455706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455706 page-Video"><a href="https://cnnespanol.cnn.com/video/">Video</a></li> 
+      <li id="menu-item-455708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455708 page-Radio"><a href="https://cnnespanol.cnn.com/radio/">Radio</a></li> 
+      <li id="menu-item-481356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481356 page-Especial"><a href="https://cnnespanol.cnn.com/especiales/">Especial</a></li> 
      </ul>
     </div> 
     <div class="share-buttons-style-two"> <span>Síguenos</span> <a class="cnnicon cnnicon--facebook-square" href="https://www.facebook.com/CNNee" title="Síguenos en Facebook" rel="nofollow" target="_blank"></a> <a class="cnnicon cnnicon--twitter" href="https://twitter.com/CNNee" title="Síguenos en Twitter" rel="nofollow" target="_blank"></a> <a class="cnnicon cnnicon--instagram" href="https://www.instagram.com/cnnee/" title="Síguenos en Instagram" rel="nofollow" target="_blank"></a> <a class="cnnicon cnnicon--youtube" href="https://www.youtube.com/cnnee" title="Síguenos en Youtube" rel="nofollow" target="_blank">  </a> 
@@ -746,4 +906,54 @@
       <p> <span>CNN Sans ™ &amp; © 2020 Cable News Network. </span> </p> <span><a href="https://cnnespanol.cnn.com/anunciese/">Anúnciate</a></span> <span><a href="https://cnnespanol.cnn.com/declaraciones-de-privacidad/">Privacidad</a></span> <span><a href="https://cnnespanol.cnn.com/contactanos/">Contáctanos</a></span> <span class="vipfooter">Powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=cnnespanol.cnn.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span> 
      </div> 
     </div> 
-    <script type="text/javascript
+    <script type="text/javascript">
+		// get global WM
+		window.WM = window.WM || {};
+		WM.UserConsent = window.WM.UserConsent || {};
+		// if not empty string, then display <a> tag and set text inside with result
+		if ( '' !== WM.UserConsent.getLinkTitle() ) {
+
+			var aTag = document.createElement('a'); // create <a> tag
+			aTag.className = 'optanon-show-settings'; // set class
+			aTag.innerHTML = WM.UserConsent.getLinkTitle(); // set text inside
+			aTag.onClick = WM.UserConsent.getLinkAction(); // set onClick action (defaults to Preference Center)
+			
+			if ( !! document.getElementById('colophon') ) { // if element exists, then append to it!
+				// add to links in colophon
+				document.getElementById('colophon').appendChild(aTag);
+			} else if ( !! document.getElementById('colophon-mobile') ) {
+				// add to links in colophon-mobile
+				document.getElementById('colophon-mobile').appendChild(aTag);
+			}
+		}
+	</script> <a class="go-top cnnicon cnnicon--arrow-up nav-secundary--active" href="#go-top" title="Subir">Subir</a> 
+   </div> 
+  </footer> <!-- JSMD Tag --> 
+  <script>
+		
+	var src = 'https:' + '//cdn.cnn.com/analytics/cnnespanol/jsmd-prod.min.js',
+		loadJsmd = function loadJsmd( src ) {
+			var e = document.createElement('script');
+			e.setAttribute('id', 'JSMD-script');
+			e.setAttribute('src', src);
+			e.setAttribute('type', 'text/javascript');
+			
+			document.body.appendChild(e);
+
+			e.onload = () => {
+				/* begin Turner JSMD code */
+				var pageURL = window.location.pathname;
+				if (pageURL.indexOf("/.element/ssi/ads.iframes/") == -1 && pageURL.indexOf("/doubleclick/dartiframe.html") == -1) {
+					try {
+						if ( ! jQuery( 'body' ).hasClass( 'search-results' ) ) {
+							if ( 'undefined' !== _jsmd ) {
+								var jsmd = _jsmd.init();
+								jsmd.send();
+							}
+						}
+					} catch (err) {
+						console.log("jsmd did not init or send correctly");
+						console.log(err);
+					}
+				}
+				/* end Turner JSMD c

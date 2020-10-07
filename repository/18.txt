@@ -3,8 +3,7 @@
  <head> 
   <meta id="geo-location-data" data-geo-eu="geo-not-eu" data-geo-country-code="US" data-ads-domestic data-ccpa-region>
   <script name="ccpa-onetrust" type="text/javascript" src="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/libs/js/ccpa-onetrust.js"></script>
-  <meta charset="UTF-8">
-  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"d49c44ffcb",applicationID:"359580111"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script> 
+  <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <link rel="apple-touch-icon" sizes="57x57" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-57x57.png"> 
   <link rel="apple-touch-icon" sizes="60x60" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/apple-touch-icon-60x60.png"> 
@@ -19,7 +18,7 @@
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/android-chrome-192x192.png" sizes="192x192"> 
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/favicon-96x96.png" sizes="96x96"> 
   <link rel="icon" type="image/png" href="https://cnnespanol.cnn.com/wp-content/themes/cnnespanol/static/images/favicon/favicon-16x16.png" sizes="16x16"> <!-- Turner scripts --> 
-  <script class="cnne-ad--config" data-ad-registry-url="//cdn.cnn.com/ads/cnn_espanol/cnnespanol_latinamerica_main.js">
+  <script class="cnne-ad--config" data-ad-registry-url="//cdn.cnn.com/ads/cnn_espanol/cnnespanol_ros.js">
 	// define before AIS and AdFuel in wp_head
 	cnneAdTargets = false;
 	CNNESPANOL = window.CNNESPANOL || {};
@@ -51,16 +50,16 @@
   <meta name="google-site-verification" content="mFBa4OnyEDU23vgVJ6rtX_4izud7FIi9JiscfVsWaKk"> 
   <meta name="msvalidate.01" content="0FC3FD705126161B052E755A56F8952D"> 
   <meta name="p:domain_verify" content="c8914aa71a2fb984cd5efc279d7428f3"> <!-- This site is optimized with the Yoast SEO Premium plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ --> 
-  <title>Caribe ▷ Noticias Caribe ▷ Últimas noticias sobre Caribe | CNN</title> 
-  <meta name="description" content="➨ Últimas noticias sobre Caribe en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Caribe."> 
+  <title>Ciencia y Espacio ▷ Noticias Ciencia y Espacio ▷ Últimas noticias sobre Ciencia y Espacio | CNN</title> 
+  <meta name="description" content="➨ Últimas noticias sobre Ciencia y Espacio en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Ciencia y Espacio."> 
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"> 
-  <link rel="canonical" href="https://cnnespanol.cnn.com/category/caribe/"> 
-  <link rel="next" href="https://cnnespanol.cnn.com/category/caribe/page/2/"> 
+  <link rel="canonical" href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/"> 
+  <link rel="next" href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/page/2/"> 
   <meta property="og:locale" content="es_ES"> 
   <meta property="og:type" content="article"> 
-  <meta property="og:title" content="Caribe ▷ Noticias Caribe ▷ Últimas noticias sobre Caribe | CNN"> 
-  <meta property="og:description" content="➨ Últimas noticias sobre Caribe en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Caribe."> 
-  <meta property="og:url" content="https://cnnespanol.cnn.com/category/caribe/"> 
+  <meta property="og:title" content="Ciencia y Espacio ▷ Noticias Ciencia y Espacio ▷ Últimas noticias sobre Ciencia y Espacio | CNN"> 
+  <meta property="og:description" content="➨ Últimas noticias sobre Ciencia y Espacio en CNN.com ✅ Últimas noticias, fotos, videos e información sobre Ciencia y Espacio."> 
+  <meta property="og:url" content="https://cnnespanol.cnn.com/category/ciencia-y-espacio/"> 
   <meta property="og:site_name" content="CNN"> 
   <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png"> 
   <meta property="og:image:width" content="683"> 
@@ -68,7 +67,7 @@
   <meta property="fb:app_id" content="332357811527942"> 
   <meta name="twitter:card" content="summary_large_image"> 
   <meta name="twitter:site" content="@CNNEE"> 
-  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://cnnespanol.cnn.com/#organization","name":"CNN Espa\u00f1ol","url":"https://cnnespanol.cnn.com/","sameAs":["https://www.facebook.com/CNNee","https://www.instagram.com/cnnee/","https://www.linkedin.com/company/cnnee","https://www.youtube.com/cnnee","https://www.pinterest.com/cnnee","https://twitter.com/CNNEE"],"logo":{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/#logo","inLanguage":"es","url":"https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png","width":235,"height":235,"caption":"CNN Espa\u00f1ol"},"image":{"@id":"https://cnnespanol.cnn.com/#logo"}},{"@type":"WebSite","@id":"https://cnnespanol.cnn.com/#website","url":"https://cnnespanol.cnn.com/","name":"CNN","description":"\u00daltimas noticias en espa\u00f1ol de Latinoam\u00e9rica, Estados Unidos y el mundo","publisher":{"@id":"https://cnnespanol.cnn.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://cnnespanol.cnn.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"CollectionPage","@id":"https://cnnespanol.cnn.com/category/caribe/#webpage","url":"https://cnnespanol.cnn.com/category/caribe/","name":"Caribe \u25b7 Noticias Caribe \u25b7 \u00daltimas noticias sobre Caribe | CNN","isPartOf":{"@id":"https://cnnespanol.cnn.com/#website"},"description":"\u27a8 \u00daltimas noticias sobre Caribe en CNN.com \u2705 \u00daltimas noticias, fotos, videos e informaci\u00f3n sobre Caribe.","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://cnnespanol.cnn.com/category/caribe/"]}]}]}</script> <!-- / Yoast SEO Premium plugin. --> 
+  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://cnnespanol.cnn.com/#organization","name":"CNN Espa\u00f1ol","url":"https://cnnespanol.cnn.com/","sameAs":["https://www.facebook.com/CNNee","https://www.instagram.com/cnnee/","https://www.linkedin.com/company/cnnee","https://www.youtube.com/cnnee","https://www.pinterest.com/cnnee","https://twitter.com/CNNEE"],"logo":{"@type":"ImageObject","@id":"https://cnnespanol.cnn.com/#logo","inLanguage":"es","url":"https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png","width":235,"height":235,"caption":"CNN Espa\u00f1ol"},"image":{"@id":"https://cnnespanol.cnn.com/#logo"}},{"@type":"WebSite","@id":"https://cnnespanol.cnn.com/#website","url":"https://cnnespanol.cnn.com/","name":"CNN","description":"\u00daltimas noticias en espa\u00f1ol de Latinoam\u00e9rica, Estados Unidos y el mundo","publisher":{"@id":"https://cnnespanol.cnn.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://cnnespanol.cnn.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"CollectionPage","@id":"https://cnnespanol.cnn.com/category/ciencia-y-espacio/#webpage","url":"https://cnnespanol.cnn.com/category/ciencia-y-espacio/","name":"Ciencia y Espacio \u25b7 Noticias Ciencia y Espacio \u25b7 \u00daltimas noticias sobre Ciencia y Espacio | CNN","isPartOf":{"@id":"https://cnnespanol.cnn.com/#website"},"description":"\u27a8 \u00daltimas noticias sobre Ciencia y Espacio en CNN.com \u2705 \u00daltimas noticias, fotos, videos e informaci\u00f3n sobre Ciencia y Espacio.","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://cnnespanol.cnn.com/category/ciencia-y-espacio/"]}]}]}</script> <!-- / Yoast SEO Premium plugin. --> 
   <link rel="dns-prefetch" href="//cdn.cnn.com"> 
   <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"> 
   <link rel="dns-prefetch" href="//widgets.outbrain.com"> 
@@ -108,15 +107,15 @@
   <link rel="preconnect" href="//cdn.cookielaw.org"> 
   <link rel="preconnect" href="//cdn.viglink.com"> 
   <link rel="preconnect" href="//api.viglink.com"> 
-  <link rel="alternate" type="application/rss+xml" title="CNN » Categoría Caribe del feed" href="https://cnnespanol.cnn.com/category/caribe/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="CNN » Categoría Ciencia y Espacio del feed" href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/feed/"> 
   <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cnnespanol.cnn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>  
-  <link rel="stylesheet" id="all-css-0" href="https://cnnespanol.cnn.com/_static/??-eJyljksOwjAMBS9EairRAgvEWfIxxZA4Ue0IenvSih1Llk+aGT14FUPsYw0o4EUgkCi4mP3TRHKznRcQXSJ2ibhrwA6a4TMrsoLeMa0eM0qxnGNjrZIHVymGrVdmvNEbAzgr+FfAW8Upz4sJP5lUTYl1IhZ4oBbbzp+686Z/96pc06Uf9/1wHA+H4QP2slvO" type="text/css" media="all">  
+  <link rel="stylesheet" id="all-css-0" href="https://cnnespanol.cnn.com/_static/??-eJyljksOwjAMBS9EaipBKQvEWfIxxZA4Ue0IenvSih1Llk+aGT14FUPsYw0o4EUgkCi4mP3TRHKznRcQXSJ2ibhrwA6a4TMrsoLeMa0eM0qxnGNjrZIHVymGrVdmvNEbAzgr+FfAW8Upz4sJP5lUTYl1IhZ4oBbbzo/dedO/e1Wu6dIP+/54Gg6H8QP2tVvR" type="text/css" media="all">  
   <script src="//cdn.cnn.com/ads/adfuel/ais/2.1/cnn_espanol-ais.min.js" id="cnne-ads-ais-js"></script> 
   <script src="//cdn.cnn.com/ads/adfuel/adfuel-2.1.min.js" id="cnne-ads-adfuel-js"></script> 
-  <script type="text/javascript" src="https://cnnespanol.cnn.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/plugins/jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?m=1598987406j"></script> 
+  <script type="text/javascript" src="https://cnnespanol.cnn.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/plugins/jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?m=1598987398j"></script> 
   <script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/js/swiper.min.js?ver=5.5.1" id="swiper-lib-js-js"></script> 
   <script>
 					window.WM.UserConsent.addScript({
@@ -135,13 +134,13 @@
 						}, ['iab', 'vendor', 'data-store', 'ads-contextual', 'ads-person-prof', 'ads-person', 'content-person-prof', 'content-person', 'measure-ads', 'measure-content', 'measure-market', 'product-develop'] );
 				</script>
   <link rel="https://api.w.org/" href="https://cnnespanol.cnn.com/wp-json/">
-  <link rel="alternate" type="application/json" href="https://cnnespanol.cnn.com/wp-json/wp/v2/categories/172051">
+  <link rel="alternate" type="application/json" href="https://cnnespanol.cnn.com/wp-json/wp/v2/categories/2258892">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cnnespanol.cnn.com/xmlrpc.php?rsd"> 
   <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cnnespanol.cnn.com/wp-includes/wlwmanifest.xml"> 
   <meta name="generator" content="WordPress 5.5.1">  
-  <meta property="ia:markup_url" content="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/?ia_markup=1">  
-  <script> cnneAdsLoaded = {"ad_oop_skin_01":false,"ad_bnr_atf_01":false,"ad_bnr_btf_01":false,"ad_rect_atf_01":false,"ad_rect_btf_01":false,"ad_oop_float_01":false,"ad_oop_float_02":false,"ad_nat_btf_02":false}; </script>
-  <link rel="canonical" href="https://cnnespanol.cnn.com/category/caribe/"> 
+  <meta property="ia:markup_url" content="https://cnnespanol.cnn.com/video/galaxia-espacio-agujero-negro-astronomia-perspectivas-buenos-aires/?ia_markup=1">  
+  <script> cnneAdsLoaded = {"ad_bnr_atf_01":false,"ad_bnr_btf_01":false,"ad_rect_atf_01":false,"ad_rect_btf_01":false}; </script>
+  <link rel="canonical" href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/"> 
   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
   <script type="text/javascript">
 				var _sf_async_config = _sf_async_config || {};
@@ -155,13 +154,13 @@
 					src: "https://static.chartbeat.com/js/chartbeat_mab.js"
 				}, ['data-store', 'content-person', 'measure-content'] );
 			</script> 
-  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2015/10/captura-de-pantalla-2015-10-21-a-las-12-24-48.png?w=150&amp;h=150&amp;crop=1">
+  <meta property="og:image" content="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/descarga-2-2.jpeg?quality=100&amp;strip=info&amp;w=150&amp;h=150&amp;crop=1">
   <link rel="icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=32" sizes="32x32"> 
   <link rel="icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=192" sizes="192x192"> 
   <link rel="apple-touch-icon" href="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=180"> 
   <meta name="msapplication-TileImage" content="https://cnnespanol.cnn.com/wp-content/uploads/2017/01/logo-cnnee.png?w=235"> 
  </head> 
- <body class="archive category category-caribe category-172051 cnnespanol-site geo--not-eu ads--domestic optanon-categories-enabled ccpa-enabled mobile-video-sticky-enabled"> 
+ <body class="archive category category-ciencia-y-espacio category-2258892 cnnespanol-site geo--not-eu ads--domestic optanon-categories-enabled ccpa-enabled mobile-video-sticky-enabled"> 
   <svg viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
    <symbol viewbox="0 0 300 206" id="shape-CNNE">
     <title>CNNE</title>
@@ -315,12 +314,12 @@
     <div id="js-sub-nav-wrap" class="wrap-sub-nav"> 
      <nav class="menu-sub-menu-flyout-container">
       <ul id="js-sub-nav" class="sub-nav">
-       <li id="menu-item-455717" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section current-menu-ancestor current-menu-parent menu-item-has-children menu-item-455717 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a> 
+       <li id="menu-item-455717" class="latam-menu-item menu-item menu-item-type-taxonomy menu-item-object-section menu-item-has-children menu-item-455717 section-latinoamerica"><a href="https://cnnespanol.cnn.com/seccion/latinoamerica/">Latam</a> 
         <ul class="sub-menu"> 
          <li id="menu-item-559655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559655 category-argentina"><a href="https://cnnespanol.cnn.com/category/cono-sur/argentina/">Argentina</a></li> 
          <li id="menu-item-559656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559656 category-colombia"><a href="https://cnnespanol.cnn.com/category/zona-andina/colombia/">Colombia</a></li> 
          <li id="menu-item-455718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455718 category-mexico"><a href="https://cnnespanol.cnn.com/category/mexico/">México</a></li> 
-         <li id="menu-item-455719" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-455719 category-caribe active "><a href="https://cnnespanol.cnn.com/category/caribe/" aria-current="page">Caribe</a></li> 
+         <li id="menu-item-455719" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455719 category-caribe"><a href="https://cnnespanol.cnn.com/category/caribe/">Caribe</a></li> 
          <li id="menu-item-481273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481273 category-centroamerica"><a href="https://cnnespanol.cnn.com/category/centroamerica/">Centroamérica</a></li> 
          <li id="menu-item-481271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481271 category-zona-andina"><a href="https://cnnespanol.cnn.com/category/zona-andina/">Zona andina</a></li> 
          <li id="menu-item-481272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481272 category-cono-sur"><a href="https://cnnespanol.cnn.com/category/cono-sur/">Cono sur</a></li> 
@@ -357,10 +356,10 @@
          <li id="menu-item-455744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455744 category-zona-pop"><a href="https://cnnespanol.cnn.com/category/zona-pop/">Zona Pop</a></li> 
          <li id="menu-item-559670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-559670"><a href="https://cnnespanol.cnn.com/tag/videos-musicales/">Videos musicales</a></li> 
         </ul> </li> 
-       <li id="menu-item-455745" class="menu-item menu-item-type-taxonomy menu-item-object-section menu-item-has-children menu-item-455745 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecnología</a> 
+       <li id="menu-item-455745" class="menu-item menu-item-type-taxonomy menu-item-object-section current-menu-ancestor current-menu-parent menu-item-has-children menu-item-455745 section-tecnologia"><a href="https://cnnespanol.cnn.com/seccion/tecnologia/">Tecnología</a> 
         <ul class="sub-menu"> 
          <li id="menu-item-455746" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show menu-item-455746 tv-show-clix"><a href="https://cnnespanol.cnn.com/tv_show/clix/">Clix</a></li> 
-         <li id="menu-item-455747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-455747 category-ciencia-y-espacio"><a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/">Ciencia</a></li> 
+         <li id="menu-item-455747" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-455747 category-ciencia-y-espacio active "><a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" aria-current="page">Ciencia</a></li> 
          <li id="menu-item-559676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559676 category-facebook"><a href="https://cnnespanol.cnn.com/category/redes-sociales/facebook/">Facebook</a></li> 
          <li id="menu-item-559666" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-559666 tag-google"><a href="https://cnnespanol.cnn.com/tag/google/">Google</a></li> 
         </ul> </li> 
@@ -474,20 +473,19 @@
       <div class="section__actions"> 
        <p>Siguenos</p> <a href="https://www.facebook.com/cnnee" title="Siguenos en Facebook" target="_blank" rel="nofollow" class="cnnicon cnnicon--facebook-square"></a> <a href="https://www.twitter.com/cnnee" title="Siguenos en Twitter" target="_blank" rel="nofollow" class="cnnicon cnnicon--twitter"></a> 
       </div> 
-      <h1 class="section__title">Caribe</h1> 
-      <p class="section__description">Últimas noticias, videos y fotos sobre Caribe.</p> 
+      <h1 class="section__title">Ciencia y Espacio</h1> 
      </div> 
     </header> 
     <div class="section__content"> 
      <div class="row"> 
       <div class="zone zone--main clearfix"> 
        <div class="col--aside"> 
-        <article class="news news--box news--box-style-two  news--with-border-bottom post-type--post" id="article-901939" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/10/03/no-hay-nadie-cuba-sufre-por-la-paralisis-del-sector-turistico/" title="Cuba sufre por la parálisis del sector turístico"> 
-           <noscript></noscript> </a> 
+        <article class="news news--box news--box-style-two  news--with-border-bottom post-type--video" id="article-902893" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/lluvia-meteoros-draconidas-esta-semana-estrellas-constelacion-draco-maria-alejandra-requena-panorama-mundial-cnne/" title="Cuándo ver la lluvia de meteoros de las Dracónidas"> 
+           <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:49 </span> </span> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/10/03/no-hay-nadie-cuba-sufre-por-la-paralisis-del-sector-turistico/" title="Cuba sufre por la parálisis del sector turístico"> Cuba sufre por la parálisis del sector turístico </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/lluvia-meteoros-draconidas-esta-semana-estrellas-constelacion-draco-maria-alejandra-requena-panorama-mundial-cnne/" title="Cuándo ver la lluvia de meteoros de las Dracónidas"> Cuándo ver la lluvia de meteoros de las Dracónidas </a> </h2> 
          </div> 
         </article> 
         <div class="banner"> 
@@ -497,14 +495,14 @@
         </div> 
        </div> 
        <div class="col--main"> 
-        <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-902079" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/" title="Agresión en plena calle conmueve a República Dominicana"> 
-           <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:18 </span> </span> </a> 
+        <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-902928" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/galaxia-espacio-agujero-negro-astronomia-perspectivas-buenos-aires/" title="Encuentran 6 galaxias atrapadas en un agujero negro"> 
+           <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:37 </span> </span> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/mirador-mundial-acido-republica-dominicana-cardi-b-hasbun/" title="Agresión en plena calle conmueve a República Dominicana"> Agresión en plena calle conmueve a República Dominicana </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/galaxia-espacio-agujero-negro-astronomia-perspectivas-buenos-aires/" title="Encuentran 6 galaxias atrapadas en un agujero negro"> Encuentran 6 galaxias atrapadas en un agujero negro </a> </h2> 
           <div class="news__excerpt"> 
-           <p>Un ataque a plena luz del día en la capital de República Dominicana con una mezcla de químicos corrosivos, conocida como "ácido del diablo", dejó una joven madre con graves quemaduras en su cuerpo. Ya hay tres personas arrestadas por el caso, quienes no han ofrecido declaraciones públicas. Su caso ha conmovido al país y a artistas como Cardi B, quien ofreció una recompensa para dar con los responsables. Jessica Hasbún nos informa.</p> 
+           <p>Un grupo de astrónomos encontró seis galaxias atrapadas en la red de un agujero negro. El descubrimiento se logró gracias al uso del Very Large Telescope del Observatorio Europeo Austral. Descubre más en este video.</p> 
           </div> 
          </div> 
         </article> 
@@ -518,83 +516,82 @@
        </div> 
        <div class="module__content row--container"> 
         <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901296" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/rosimar-rodriguez-toa-baja-asesinato-mujer-feminicidios-desapariciones-puerto-rico-pkg-rafy-rivera/" title="Hallaron muerta a Rosimar Rodríguez en Toa Baja"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 3:07 </span> </span> </a> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-902832" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/marte-cerca-tierra-planeta-rojo-luna-astronomia-nasa-octubre-perseverance-guillermo-arduino-encuentro/" title="Marte será visible desde la Tierra durante octubre"> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:19 </span> </span> </a> 
           </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/rosimar-rodriguez-toa-baja-asesinato-mujer-feminicidios-desapariciones-puerto-rico-pkg-rafy-rivera/" title="Hallaron muerta a Rosimar Rodríguez en Toa Baja"> Hallaron muerta a Rosimar Rodríguez en Toa Baja </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-900884" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/30/cardi-b-ofrece-us-10-000-de-recompensa-por-la-captura-de-quienes-lanzaron-acido-del-diablo-a-una-joven-dominicana/" title="Cardi B ofrece recompensa en caso de agresión con ácido"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/30/cardi-b-ofrece-us-10-000-de-recompensa-por-la-captura-de-quienes-lanzaron-acido-del-diablo-a-una-joven-dominicana/" title="Cardi B ofrece recompensa en caso de agresión con ácido"> Cardi B ofrece recompensa en caso de agresión con ácido </a> </h2> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/marte-cerca-tierra-planeta-rojo-luna-astronomia-nasa-octubre-perseverance-guillermo-arduino-encuentro/" title="Marte será visible desde la Tierra durante octubre"> Marte será visible desde la Tierra durante octubre </a> </h2> 
           </div> 
          </article> 
         </div> 
         <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-897910" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/23/trump-anuncia-restricciones-adicionales-a-los-hoteles-el-tabaco-y-el-alcohol-de-cuba/" title="Trump anuncia nuevas restricciones en viajes a Cuba"> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-902646" data-pc=""> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/10/06/marte-esta-mas-cerca-de-la-tierra-en-octubre-de-lo-que-estara-durante-otros-15-anos/" title="¿Por qué Marte está brillando tan intensamente?"> 
             <noscript></noscript> </a> 
           </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/23/trump-anuncia-restricciones-adicionales-a-los-hoteles-el-tabaco-y-el-alcohol-de-cuba/" title="Trump anuncia nuevas restricciones en viajes a Cuba"> Trump anuncia nuevas restricciones en viajes a Cuba </a> </h2> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/10/06/marte-esta-mas-cerca-de-la-tierra-en-octubre-de-lo-que-estara-durante-otros-15-anos/" title="¿Por qué Marte está brillando tan intensamente?"> ¿Por qué Marte está brillando tan intensamente? </a> </h2> 
+          </div> 
+         </article> 
+        </div> 
+        <div class="col col--4"> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-901627" data-pc=""> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/gallery/fotos-la-luna-de-la-cosecha/" title="La Luna de la Cosecha"> 
+            <noscript></noscript> </a> 
+          </div> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/gallery/fotos-la-luna-de-la-cosecha/" title="La Luna de la Cosecha"> La Luna de la Cosecha </a> </h2> 
           </div> 
          </article> 
         </div> 
         <div class="col col--4"> <!-- native ad here --> 
-         <div id="ad_nat_btf_02" class="cnn_adtag cnn_adtag--dfp"></div> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-898012" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/trump-veteranos-bahia-cochinos-sanciones-tabaco-ron-cuba-pais-comunista-socialista-dusa-sot-cnne/" title="Trump: &quot;EE.UU. nunca será un país socialista o comunista&quot;"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:28 </span> </span> </a> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901690" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/influencer-faber-burgos-grabo-tierra-gopro-globo-helio-cnne/" title="&quot;Influencer&quot; graba el planeta con globo y una GoPro"> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 4:31 </span> </span> </a> 
           </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/trump-veteranos-bahia-cochinos-sanciones-tabaco-ron-cuba-pais-comunista-socialista-dusa-sot-cnne/" title="Trump: &quot;EE.UU. nunca será un país socialista o comunista&quot;"> Trump: "EE.UU. nunca será un país socialista o comunista" </a> </h2> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/influencer-faber-burgos-grabo-tierra-gopro-globo-helio-cnne/" title="&quot;Influencer&quot; graba el planeta con globo y una GoPro"> "Influencer" graba el planeta con globo y una GoPro </a> </h2> 
           </div> 
          </article> 
         </div> 
         <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896866" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/21/opinion-puerto-rico-necesita-mas-que-la-cinica-estratagema-de-trump/" title="Puerto Rico necesita más que la estratagema de Trump"> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901663" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/nasa-planet-patrol-project-astronomos-astronomia-planetas-exoplanetas-sistema-solar-mundo-guillermo-arduino-clix-cnne/" title="Así puedes ayudar a la NASA a descubrir exoplanetas"> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 1:08 </span> </span> </a> 
+          </div> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/nasa-planet-patrol-project-astronomos-astronomia-planetas-exoplanetas-sistema-solar-mundo-guillermo-arduino-clix-cnne/" title="Así puedes ayudar a la NASA a descubrir exoplanetas"> Así puedes ayudar a la NASA a descubrir exoplanetas </a> </h2> 
+          </div> 
+         </article> 
+        </div> 
+        <div class="col col--4"> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901316" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/nasa-luna-marte-impresora-3d-construccion-perspectivas-buenos-aires/" title="La NASA planea construir en la Luna y Marte: ¿cómo hará?"> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:32 </span> </span> </a> 
+          </div> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/nasa-luna-marte-impresora-3d-construccion-perspectivas-buenos-aires/" title="La NASA planea construir en la Luna y Marte: ¿cómo hará?"> La NASA planea construir en la Luna y Marte: ¿cómo hará? </a> </h2> 
+          </div> 
+         </article> 
+        </div> 
+        <div class="col col--4"> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-901189" data-pc=""> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/10/01/astronautas-de-la-nasa-no-ven-la-hora-de-despegar-de-la-tierra-para-la-mision-de-spacex/" title="Astronautas de la NASA, emocionados por misión de SpaceX"> 
             <noscript></noscript> </a> 
           </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/21/opinion-puerto-rico-necesita-mas-que-la-cinica-estratagema-de-trump/" title="Puerto Rico necesita más que la estratagema de Trump"> Puerto Rico necesita más que la estratagema de Trump </a> </h2> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/10/01/astronautas-de-la-nasa-no-ven-la-hora-de-despegar-de-la-tierra-para-la-mision-de-spacex/" title="Astronautas de la NASA, emocionados por misión de SpaceX"> Astronautas de la NASA, emocionados por misión de SpaceX </a> </h2> 
           </div> 
          </article> 
         </div> 
         <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-896577" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/fondos-millones-dolares-venezuela-puerto-rico-trump-mirador-mundial-rafael-romo-cnnee-cesar-grajales-live/" title="Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela"> 
-            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 7:28 </span> </span> </a> 
+         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--video" id="article-901211" data-pc="" data-video-autostart="false" data-video-autoplay-muted="false"> 
+          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/estudio-universidad-california-riverside-venus-habitable-jupiter-planetary-science-journal-sol-orbita-clima-cambio-requena-panorama-cnne/" title="El planeta Venus pudo haber sido habitable"> 
+            <noscript></noscript> <span class="news__videotime"> <span class="news__videoicon"></span> <span> 0:45 </span> </span> </a> 
           </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/fondos-millones-dolares-venezuela-puerto-rico-trump-mirador-mundial-rafael-romo-cnnee-cesar-grajales-live/" title="Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela"> Análisis: EE.UU. brinda ayuda a Puerto Rico y Venezuela </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896255" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/18/fondos-del-gobierno-de-trump-para-puerto-rico-se-usaran-en-reconstruccion-del-sistema-electrico-y-escuelas-publicas/" title="Puerto Rico usará nuevos fondos en energía y educación"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/18/fondos-del-gobierno-de-trump-para-puerto-rico-se-usaran-en-reconstruccion-del-sistema-electrico-y-escuelas-publicas/" title="Puerto Rico usará nuevos fondos en energía y educación"> Puerto Rico usará nuevos fondos en energía y educación </a> </h2> 
-          </div> 
-         </article> 
-        </div> 
-        <div class="col col--4"> 
-         <article class="news news--box news--box-style-two not-sticky-post news--with-border-bottom post-type--post" id="article-896039" data-pc=""> 
-          <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/18/gobierno-de-trump-anuncia-13-000-millones-de-dolares-para-puerto-rico-en-ayuda-adicional/" title="Trump destinará otros US$ 13.000 millones a Puerto Rico"> 
-            <noscript></noscript> </a> 
-          </div> 
-          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/18/gobierno-de-trump-anuncia-13-000-millones-de-dolares-para-puerto-rico-en-ayuda-adicional/" title="Trump destinará otros US$ 13.000 millones a Puerto Rico"> Trump destinará otros US$ 13.000 millones a Puerto Rico </a> </h2> 
+          <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+           <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/estudio-universidad-california-riverside-venus-habitable-jupiter-planetary-science-journal-sol-orbita-clima-cambio-requena-panorama-cnne/" title="El planeta Venus pudo haber sido habitable"> El planeta Venus pudo haber sido habitable </a> </h2> 
           </div> 
          </article> 
         </div> 
@@ -611,85 +608,85 @@
        <div class="module__header module__header--center"> 
         <h3 class="module__title">Más noticias</h3> 
        </div> 
-       <div class="module__content" data-source-type="category" data-source-var="172051" data-post-count="20" data-total-posts="20" data-format-type="default-archive"> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-896094" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/puerto-rico-fema-fondos-recuperacion-huracan-maria-vo-sot-dusa-juan-carlos-lopez-cnne/" title="Trump: &quot;Soy lo mejor que le ha pasado a Puerto Rico&quot;"> 
+       <div class="module__content" data-source-type="category" data-source-var="2258892" data-post-count="20" data-total-posts="20" data-format-type="default-archive"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-901164" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/nasa-voto-2020-elecciones-estacion-espacial-guillermo-arduino-clix/" title="EE.UU.: Voto presidencial desde el espacio"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/puerto-rico-fema-fondos-recuperacion-huracan-maria-vo-sot-dusa-juan-carlos-lopez-cnne/" title="Trump: &quot;Soy lo mejor que le ha pasado a Puerto Rico&quot;"> Trump: "Soy lo mejor que le ha pasado a Puerto Rico" </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/nasa-voto-2020-elecciones-estacion-espacial-guillermo-arduino-clix/" title="EE.UU.: Voto presidencial desde el espacio"> EE.UU.: Voto presidencial desde el espacio </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-895011" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/bahamas-abandonar-monarquia-reina-isabel-ii-republica-2021-aniversario-independencia-imperio-britanico-requena-panorama-cnne/" title="Bahamas dejará la monarquía y se convertirá en república"> 
+        <article class="news news--summary news--summary-big post-type--post" id="article-901067" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/10/01/lunas-llenas-en-octubre-luna-de-cosecha-y-una-rara-luna-azul-en-halloween/" title="Dos lunas llenas ocurrirán en octubre"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/" title="Caribe"> Caribe </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/bahamas-abandonar-monarquia-reina-isabel-ii-republica-2021-aniversario-independencia-imperio-britanico-requena-panorama-cnne/" title="Bahamas dejará la monarquía y se convertirá en república"> Bahamas dejará la monarquía y se convertirá en república </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/10/01/lunas-llenas-en-octubre-luna-de-cosecha-y-una-rara-luna-azul-en-halloween/" title="Dos lunas llenas ocurrirán en octubre"> Dos lunas llenas ocurrirán en octubre </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893735" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/venezolanos-vuelos-humanitarios-desde-republica-dominicana-pkg-jessica-hasbun/" title="Repatrian al menos 200 venezolanos desde Rep. Dominicana"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-900229" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/wasp-189-mision-cheops-agencia-espacial-europea-exoplaneta-caliente-extremo-temperaturas-elevadas-sistema-solar-espacio-requena-panorama-cnne/" title="Este planeta ultracaliente puede transformar el hierro sólido a gas"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/venezolanos-vuelos-humanitarios-desde-republica-dominicana-pkg-jessica-hasbun/" title="Repatrian al menos 200 venezolanos desde Rep. Dominicana"> Repatrian al menos 200 venezolanos desde Rep. Dominicana </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/wasp-189-mision-cheops-agencia-espacial-europea-exoplaneta-caliente-extremo-temperaturas-elevadas-sistema-solar-espacio-requena-panorama-cnne/" title="Este planeta ultracaliente puede transformar el hierro sólido a gas"> Este planeta ultracaliente puede transformar el hierro sólido a gas </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893477" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/mirador-mundial-cotorra-ave-extincion-rafy-rivera-puertorico/" title="Coronavirus podría representar una amenaza para la cotorra puertorriqueña"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-900210" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/astronautas-kate-rubins-voto-elecciones-eeuu-correo-presencial-estacion-espacial-internacional-dusa-vo-cnne/" title="La astronauta Kate Rubins votará desde el espacio"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/mirador-mundial-cotorra-ave-extincion-rafy-rivera-puertorico/" title="Coronavirus podría representar una amenaza para la cotorra puertorriqueña"> Coronavirus podría representar una amenaza para la cotorra puertorriqueña </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/astronautas-kate-rubins-voto-elecciones-eeuu-correo-presencial-estacion-espacial-internacional-dusa-vo-cnne/" title="La astronauta Kate Rubins votará desde el espacio"> La astronauta Kate Rubins votará desde el espacio </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893260" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/discrepar-criticar-gobierno-cuba-2020-roberto-quinones-camilo-cnne/" title="¿Se puede discrepar con el gobierno de Cuba actualmente?"> 
+        <article class="news news--summary news--summary-big post-type--post" id="article-900065" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/29/marte-podria-tener-estanques-salados-junto-a-un-lago-subterraneo-lo-que-aumenta-la-posibilidad-de-vida-marciana/" title="Marte tendría estanques salados junto a lago subterráneo"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/discrepar-criticar-gobierno-cuba-2020-roberto-quinones-camilo-cnne/" title="¿Se puede discrepar con el gobierno de Cuba actualmente?"> ¿Se puede discrepar con el gobierno de Cuba actualmente? </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/29/marte-podria-tener-estanques-salados-junto-a-un-lago-subterraneo-lo-que-aumenta-la-posibilidad-de-vida-marciana/" title="Marte tendría estanques salados junto a lago subterráneo"> Marte tendría estanques salados junto a lago subterráneo </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-893262" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/costo-disentir-cuba-periodista-independiente-maltrato-libertad-roberto-quinones-camilo-cnne/" title="El calvario que vivió un periodista independiente en Cuba"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-900120" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/marte-vida-estra-terrestre-lagos-de-agua-salada-investigacion-cientifica-rec-realidades-en-contexto-patricia-ramos-cnnee/" title="Nueva evidencia sobre la posibilidad de vida en Marte"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/costo-disentir-cuba-periodista-independiente-maltrato-libertad-roberto-quinones-camilo-cnne/" title="El calvario que vivió un periodista independiente en Cuba"> El calvario que vivió un periodista independiente en Cuba </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/marte-vida-estra-terrestre-lagos-de-agua-salada-investigacion-cientifica-rec-realidades-en-contexto-patricia-ramos-cnnee/" title="Nueva evidencia sobre la posibilidad de vida en Marte"> Nueva evidencia sobre la posibilidad de vida en Marte </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-892921" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/oppenheimer-cuba-kerry-reapertura-biden-campana-patricia-ramos-realidades-en-contexto-rec-cnnee/" title="La pobre respuesta de Cuba en la reapertura, según Kerry"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-899784" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/nasa-jupiter-colores-ciclones-juno-espacio-perspectivas-buenos-aires-cnne/" title="Fascinantes imágenes de &quot;ciclones de color&quot; en Júpiter"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/oppenheimer-cuba-kerry-reapertura-biden-campana-patricia-ramos-realidades-en-contexto-rec-cnnee/" title="La pobre respuesta de Cuba en la reapertura, según Kerry"> La pobre respuesta de Cuba en la reapertura, según Kerry </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/nasa-jupiter-colores-ciclones-juno-espacio-perspectivas-buenos-aires-cnne/" title="Fascinantes imágenes de &quot;ciclones de color&quot; en Júpiter"> Fascinantes imágenes de "ciclones de color" en Júpiter </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-888517" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/john-kerry-cuba-reapertura-estados-unidos-decepcion-oppenheimer-oped/" title="¿Por qué John Kerry está decepcionado con Cuba?"> 
+        <article class="news news--summary news--summary-big post-type--post" id="article-899622" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/2020/09/28/asi-es-como-los-astronautas-nasa-pueden-votar-desde-el-espacio/" title="Así votan los astronautas desde el espacio"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/cuba/" title="Cuba"> Cuba </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/john-kerry-cuba-reapertura-estados-unidos-decepcion-oppenheimer-oped/" title="¿Por qué John Kerry está decepcionado con Cuba?"> ¿Por qué John Kerry está decepcionado con Cuba? </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/2020/09/28/asi-es-como-los-astronautas-nasa-pueden-votar-desde-el-espacio/" title="Así votan los astronautas desde el espacio"> Así votan los astronautas desde el espacio </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-883240" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/roberto-clemente-pirtaes-pittsburgh-21-mlb-grandes-ligas/" title="Los Pirates vestirán el número 21 de Clemente"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-899272" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/dia-internacional-observar-luna-nasa-francisco-andolz-rafael-romo-live-mirador-mundial/" title="La noche 'perfecta' para mirar la Luna"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/puerto-rico/" title="Puerto Rico"> Puerto Rico </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/roberto-clemente-pirtaes-pittsburgh-21-mlb-grandes-ligas/" title="Los Pirates vestirán el número 21 de Clemente"> Los Pirates vestirán el número 21 de Clemente </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/dia-internacional-observar-luna-nasa-francisco-andolz-rafael-romo-live-mirador-mundial/" title="La noche 'perfecta' para mirar la Luna"> La noche 'perfecta' para mirar la Luna </a> </h2> 
          </div> 
         </article> 
-        <article class="news news--summary news--summary-big post-type--video" id="article-883003" data-pc=""> 
-         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/luis-abinader-quien-es-presidente-empresario-republica-dominicana-pkg-jessica-hasbun-camilo/" title="¿Quién es Luis Abinader?"> 
+        <article class="news news--summary news--summary-big post-type--video" id="article-898633" data-pc=""> 
+         <div class="news__media"> <a class="news__media-item" href="https://cnnespanol.cnn.com/video/aurora-boreal-espacio-luces-fotografias-2020-perspectivas-buenos-aires/" title="Las imágenes más espectaculares de la aurora boreal en 2020"> 
            <noscript></noscript> </a> 
          </div> 
-         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/caribe/republica-dominicana/" title="República Dominicana"> República Dominicana </a> </span> 
-          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/luis-abinader-quien-es-presidente-empresario-republica-dominicana-pkg-jessica-hasbun-camilo/" title="¿Quién es Luis Abinader?"> ¿Quién es Luis Abinader? </a> </h2> 
+         <div class="news__data"> <span class="news__label"> <a href="https://cnnespanol.cnn.com/category/ciencia-y-espacio/" title="Ciencia y Espacio"> Ciencia y Espacio </a> </span> 
+          <h2 class="news__title"> <a href="https://cnnespanol.cnn.com/video/aurora-boreal-espacio-luces-fotografias-2020-perspectivas-buenos-aires/" title="Las imágenes más espectaculares de la aurora boreal en 2020"> Las imágenes más espectaculares de la aurora boreal en 2020 </a> </h2> 
          </div> 
         </article> 
         <div class="viewmore read-more"> <a href="#0" class="viewmore__button">Más noticias</a> 
@@ -717,7 +714,7 @@
       <div id="ad_bnr_btf_01" class="ad"></div> 
      </div> 
     </div> 
-    <div class="OUTBRAIN" data-src="http://cnnespanol.cnn.com/category/caribe" data-widget-id="AR_7" data-ob-template="cnnenespanol"></div> 
+    <div class="OUTBRAIN" data-src="http://cnnespanol.cnn.com/category/ciencia-y-espacio" data-widget-id="AR_7" data-ob-template="cnnenespanol"></div> 
     <div class="site-logo-wrapper"> <a class="site-logo" href="https://cnnespanol.cnn.com/" title="Ir a CNNEspañol.com"> <span class="cnnicon cnnicon--cnne"></span> </a> 
     </div> 
     <div class="nav-footer nav-footer--primary">
@@ -743,7 +740,4 @@
     <div class="footer-inner"> 
      <div id="colophon" class="footer colophon  "> 
       <p> <span>© 2020 Cable News Network.</span> <span>A Warner Media Company.</span> <span>All Rights Reserved.</span> </p> 
-      <p> <span>CNN Sans ™ &amp; © 2020 Cable News Network. </span> </p> <span><a href="https://cnnespanol.cnn.com/anunciese/">Anúnciate</a></span> <span><a href="https://cnnespanol.cnn.com/declaraciones-de-privacidad/">Privacidad</a></span> <span><a href="https://cnnespanol.cnn.com/contactanos/">Contáctanos</a></span> <span class="vipfooter">Powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=cnnespanol.cnn.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span> 
-     </div> 
-    </div> 
-    <script type="text/javascript
+      <p> <span>CNN Sans ™ &amp; © 2020 Cable News Network. </span> </p> <span><a href="https://cnnespanol.cnn.com/anunciese/">Anúnciate</a></span> <span><a href="https://cnnespanol.cnn.com/declaraciones-de-privacidad/">Privacidad</a></span> <span><a href="https://cnnespanol.cnn.com/contactanos/">Contáctanos</a></span> <span cla

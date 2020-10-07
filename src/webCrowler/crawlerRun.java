@@ -49,23 +49,56 @@ public class crawlerRun {
     public void getURLs(String URL,String lan) throws IOException{
     	StringBuilder sb = new StringBuilder();
     	int size;
+    	String eng = "";
         // Check if you have already crawled the URLs
         if (!links.contains(URL) && URL != ""  && limit < 130) {
             try {
             Document doc = Jsoup.connect(URL).ignoreContentType(true).userAgent("Mozilla").get();
             	String title = doc.title();
-            	System.out.println(title);
-            	chineseC(title);
-            	checkLan(title);
+            	Elements e=doc.select("p");
+            	String text = e.text();
             	
-          //  if(languageCheck(title).equals(lan)) {
+            	for (Element el : e.subList(0, Math.min(1, e.size()))) {
+            		if(el.text()  != null && !el.text().isEmpty()){
+            	    //System.out.println(el.text());
+            	    eng = checkLan(el.text());
+            	   
+            		}
+           	}
+            	 if(lan.equals("en") && eng.equals("en")) {
+               	 // If not add it to the index
+           		links.add(URL);
+               	//tester
+                   System.out.println(URL); 
+               	limit++;
+               	getHTML(URL);           
+               
+         //  }
+               // Fetch the HTML code
+               // extract links to other URLs
+               Elements linksOnPage = doc.select("a[href]");
+               size = linksOnPage.size();
+//               System.out.println(URL);
+//               System.out.println("URL Num: "+size);
+               writeToCsv(URL+","+size);
+               //5. For each extracted URL... go back to Step 4.
+               for (Element page : linksOnPage) {
+                   getURLs(page.attr("abs:href"),lan);
+               }
+               	
+               	
+               	
+               }
+            	
+            	
+            if(lan.equals("es") && checkLan(title).equals(lan)&& title != null && !title.isEmpty()) {
                 // If not add it to the index
-                if (links.add(URL)) {
+            		links.add(URL);
                 	//tester
-                  //  System.out.println(URL); 
+                    System.out.println(URL); 
                 	limit++;
                 	getHTML(URL);           
-                }
+                
           //  }
                 // Fetch the HTML code
                 // extract links to other URLs
@@ -78,10 +111,38 @@ public class crawlerRun {
                 for (Element page : linksOnPage) {
                     getURLs(page.attr("abs:href"),lan);
                 }
+            }
+            else if(lan.equals("cn") && chineseC(title)=="cn") {
+            	 // If not add it to the index
+        		links.add(URL);
+            	//tester
+                System.out.println(URL); 
+            	limit++;
+            	getHTML(URL);           
+            
+      //  }
+            // Fetch the HTML code
+            // extract links to other URLs
+            Elements linksOnPage = doc.select("a[href]");
+            size = linksOnPage.size();
+//            System.out.println(URL);
+//            System.out.println("URL Num: "+size);
+            writeToCsv(URL+","+size);
+            //5. For each extracted URL... go back to Step 4.
+            for (Element page : linksOnPage) {
+                getURLs(page.attr("abs:href"),lan);
+            }
+            	
+            	
+            }
+            
+            	
             } catch (IOException e) {
                 System.err.println("For '" + URL + "': " + e.getMessage());
             }
-        }
+    }
+        
+       
         
 
     } 
@@ -125,23 +186,16 @@ public class crawlerRun {
 
 
     public static void main(String[] args) throws IOException {
-//    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
-//    	    System.out.println("Please Enter seed WebSite: ");
-//    	    String url = myObj.nextLine();  // Read user input
-//    	    System.out.println("Please Enter Language code(en,cn,lt): ");
-//    	    String lan = myObj.nextLine();  // Read user input
+    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+    	    System.out.println("Please Enter seed WebSite: ");
+    	    String url = myObj.nextLine();  // Read user input
+    	    System.out.println("Please Enter Language code(en,cn,es): ");
+    	    String lan = myObj.nextLine();  // Read user input
     	crawlerRun bwc = new crawlerRun(); 	
-     //   bwc.getURLs("http://"+url,lan);
+        bwc.getURLs("http://"+url,lan);
    
-       // chineseC("知乎 - 知乎");
-    //	checkLan("español de Latinoamérica, Estados Unidos");
-        
-        
-        
-        
-     //   languageCheck("this is good and what   ");
     	
-    	bwc.getURLs("https://www.nytimes.com/section/us","en");
+    	//bwc.getURLs("https://www.cpp.edu","en");
    
         
     }
@@ -164,7 +218,7 @@ public class crawlerRun {
     	        i += Character.charCount(codepoint);
     	        if (Character.UnicodeScript.of(codepoint) == Character.UnicodeScript.HAN) {
     	        	language = "cn";
-    	        	System.out.println(language);
+    	        	//System.out.println(language);
     	            return language;
     	        }
     	    }
@@ -176,10 +230,17 @@ public class crawlerRun {
     	APIConsumer con = new LanguageLayerAPIConsumer("http://api.languagelayer.com/", "7ec8de2ed45584cbb1ea0fbf6c6f5ae0");
         QueryParams params = new QueryParams().query(contain);
         APIResult result = con.detect(params);
-       // get_lang(query = "I really really love R and that's a good thing, right?", api_key = "your_api_key")
-        String language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
+        String language="no";
+        try{
+         language = new ObjectMapper().writeValueAsString(result.getResults().get(0).getLanguageCode());
+//        String language = new ObjectMapper().writeValueAsString(result.getResults());
+//        System.out.println(language);
+        }
+        catch ( Exception e) {
+        	
+        }
         language = language.replaceAll("^\"+|\"+$", "");
-        System.out.println(language);
+       // System.out.println(language.equals("en"));
         return language ;
     }
 
