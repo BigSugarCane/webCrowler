@@ -65,6 +65,7 @@ public class crawlerRun {
             	   
             		}
            	}
+            	
             	 if(lan.equals("en") && eng.equals("en")) {
                	 // If not add it to the index
            		links.add(URL);
