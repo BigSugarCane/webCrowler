@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/ca_driver_license_test/task_review/id_1.html">
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>内华达州驾照在线模拟题 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="美国内华达州驾驶执照考试模拟题，几乎包含了美国内华达州DMV所有的考题，免费使用，美国内华达州华人驾照考试的必备工具"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/whitespace/css/quiz.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script>
+ </head> 
+ <body> 
+  <div class="center"> 
+   <div class="row"> 
+   </div> 
+   <div class="quiz-row quiz-top"> 
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> <span class="title"> 内华达州驾照模拟试题 </span> 
+   </div> 
+   <div class="quiz-head">  <span class="title">试卷一</span> 
+    <div id="share_api" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.borderBottom='none';sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_on.png)';var divx1=sharediv.offsetLeft-110+70;var divy1=sharediv.offsetTop+sharediv.offsetHeight-1;
+ var div2 = document.getElementById('share_api_children');div2.style.top=divy1+'px';div2.style.left=divx1+'px';div2.style.display='block';" onmouseout="this.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_over.png)';this.style.borderBottom='solid 1px #ccc';document.getElementById('share_api_children').style.display='none';"> 
+    </div> 
+    <div id="share_api_children" class="share_style" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_on.png)';sharediv.style.borderBottom='none';this.style.display='block';" onmouseout="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_over.png)';sharediv.style.borderBottom='solid 1px #ccc';this.style.display='none';"> 
+     <div class="jiadiv_01"> 
+      <div class="jiadiv_02" id="jiathis_sers"> 
+       <script type="text/javascript">document.write('<a href="http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title),'sharer','toolbar=0,status=0,width=626,height=436" target="_blank" class="jiatitle"><div class="jtico jtico_fb">Facebook</div></a>');</script> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=257762142',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})
+(screen,document,encodeURIComponent,'','',$('.wrap3_img').find('img').attr('src'),'','https%3A%2F%2Fwww.vegaschinaren.com%2Fca_driver_license_test%2Ftask_review%2Fid_1.html',''))">
+        <div class="jtico jtico_tsina">
+         新浪微博
+        </div></a> <a class="jiatitle" href="javascript:window.open('https://twitter.com/intent/tweet?status='+' '+encodeURIComponent(document.title)+' '+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)"> 
+        <div class="jtico jtico_twitter">
+         Twitter
+        </div></a> <a class="jiatitle"> 
+        <div class="jtico jtico_weixin">
+         微信
+        </div> 
+        <div class="qrcode"></div> </a> 
+       <script type="text/javascript">
+			$(document).ready(function () {
+				$('.jtico_weixin').siblings('.qrcode').qrcode({
+					width: 90,
+					height: 90,
+					text: location.href,
+                })
+            })
+		</script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/ca_driver_license_test.html" class="common_pathway2">驾照考试系统</a> <a href="/ca_driver_license_test/task_review/id_1.html" class="common_pathway2">评论</a> 
+   </div> 
+   <div class="quiz-left"> 
+    <div class="traffic-content"> 
+     <input type="hidden" name="qNumber" value="1"> 
+     <div class="q-title">
+       1. What does this figure indicate? 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-1"> <span class="q-choice">An accident situation due to a less following distance</span><input type="radio" name="q-1" value="1"> </li> 
+      <li class="choice-text" id="choice2-1"> <span class="q-choice">A broken white line that prohibits passing</span><input type="radio" name="q-1" value="2"> </li> 
+      <li class="choice-text" id="choice3-1"> <span class="q-choice">A car making a 'U' turn</span><input type="radio" name="q-1" value="3"> </li> 
+      <li class="choice-text" id="choice4-1"> <span class="q-choice">A broken white line that allows passing</span><input type="radio" name="q-1" value="4"> </li> 
+     </ul> 
+    </div> 
+    <script type="text/javascript">
+            $("li#choice4-1").children("input").attr("checked", true);
+            </script> 
+    <div class="review-form"> 
+     <div class="review-header">
+      点评这篇文章
+     </div> <textarea id="quiz-review">在这里输入您的点评...</textarea> 
+     <div class="button-panel">
+      <span class="button-w-edit"></span><a class="button-blue button-a" href="javascript:submitQuizComment(1)">发布</a>
+     </div> 
+    </div> 
+    <script type="text/javascript">
+	    $(document).ready(function(){
+    	    initCommentTextarea();
+		});
+	    </script> 
+    <div class="review-panel"> 
+     <div class="review-total">
+      共有<span>3</span>条评论
+     </div> 
+     <div class="review-list"> 
+      <div class="review-unit"> <a href="/user/id_1730233.html" class="user-avatar">  </a> 
+       <div class="review-info"> <a href="/user/id_1730233.html" class="review-user">9632无所谓了</a> 
+        <div class="review-date">
+         发布于：2019/07/12 02:52 am
+        </div> 
+        <div class="review-text">
+         我有很重要的事想问您，我想知道加州驾照能换内华达驾照吗？需要笔试吗？我想在加州考中文的然后换内华达的驾照
+        </div> 
+       </div> 
+      </div> 
+      <div class="review-unit"> <a href="/user/id_468261.html" class="user-avatar">  </a> 
+       <div class="review-info"> <a href="/user/id_468261.html" class="review-user">292Jason</a> 
+        <div class="review-date">
+         发布于：2017/09/26 11:09 pm
+        </div> 
+        <div class="review-text">
+         内华达州的笔试比这个简单吧？
+        </div> 
+       </div> 
+      </div> 
+      <div class="review-unit"> <a href="/user/id_463897.html" class="user-avatar">  </a> 
+       <div class="review-info"> <a href="/user/id_463897.html" class="review-user">天高云淡515</a> 
+        <div class="review-date">
+         发布于：2017/08/23 10:18

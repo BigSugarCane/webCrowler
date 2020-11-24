@@ -1,0 +1,846 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/search/key_%e7%bf%bb%e8%af%91.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>拉斯维加斯华人资讯网 - 拉斯维加斯本地的华人信息分享交流平台</title> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e7%bf%bb%e8%af%91.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://lv.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_category" id="search_category"> <span id="recommend1"></span> 您要查找的信息，可能属于下列分类: <span class="category"> <a href="/company/task_list/catid_219.html" class="map_link" target="_blank" title="翻译公司"> 翻译 </a> ,<a href="/company/task_list/catid_331.html" class="map_link" target="_blank" title="展会翻译，会议交传，旅游陪同翻译等"> 翻译服务 </a> </span> 
+    </div>
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.vegaschinaren.com/company/task_list/catid_219.html" class="map_link" target="_blank">翻译</a> 
+      </dt> 
+      <dd>
+       翻译公司 
+      </dd> 
+     </dl> 
+     <dl class="search_ads"> 
+      <dt> <a href="/f/page_viewforum/f_29.html" class="map_link" target="_blank">工作求职，拉斯维加斯华人论坛</a> 
+      </dt> 
+      <dd>
+       发布拉斯维加斯本地求职招聘信息，各类工作及兼职，全职岗位等，为个人提供就业机会，为企业提供人才招聘
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="静远翻译移民服务">静远翻译移民服务</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="Jing" s translation and immigration service'>Jing's Translation and Immigration service</a>
+         </div><a href="/lawyer/task_review/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="review" title="点评"></a><a href="/lawyer/task_image/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="image" title="图片"></a><a href="/lawyer/task_message/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_15295.html" title="点击查看地图">4255 Spring Mountain Rd., Suite C 109A, Las Vegas, NV 89102</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-494-9084
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4448/%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83.html" title="福利中心" class="map_link">福利中心</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4508/%E5%A9%9A%E5%A7%BB%E7%BB%BF%E5%8D%A1.html" title="婚姻绿卡" class="map_link">婚姻绿卡</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4447/%E6%B3%95%E5%BE%8B%E7%A6%8F%E5%88%A9%E6%9C%8D%E5%8A%A1.html" title="法律福利服务" class="map_link">法律福利服务</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32624/PPI%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20%E7%BF%BB%E8%AF%91%E6%9C%BA%E6%9E%84.html" class="map_link" target="_blank" title="PPI拉斯维加斯 翻译机构">PPI拉斯维加斯 翻译机构</a>
+         </div><a href="/company/task_review/id_32624/PPI%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20%E7%BF%BB%E8%AF%91%E6%9C%BA%E6%9E%84.html" class="review" title="点评"></a><a href="/company/task_image/id_32624/PPI%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20%E7%BF%BB%E8%AF%91%E6%9C%BA%E6%9E%84.html" class="image" title="图片"></a><a href="/company/task_message/id_32624/PPI%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20%E7%BF%BB%E8%AF%91%E6%9C%BA%E6%9E%84.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_32624/PPI%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20%E7%BF%BB%E8%AF%91%E6%9C%BA%E6%9E%84.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" class="map_link" target="_blank">商业服务</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_11416/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91.html" title="展会翻译" class="map_link">展会翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_13919/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%BF%BB%E8%AF%91.html" title="拉斯维加斯翻译" class="map_link">拉斯维加斯翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_13917/%E9%99%AA%E5%90%8C%E7%BF%BB%E8%AF%91.html" title="陪同翻译" class="map_link">陪同翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_13918/%E5%95%86%E5%8A%A1%E4%BC%9A%E8%AE%AE%E7%BF%BB%E8%AF%91.html" title="商务会议翻译" class="map_link">商务会议翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_14420/%E7%BF%BB%E8%AF%91.html" title="翻译" class="map_link">翻译</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32661/%E4%BF%A1%E8%AA%89%20%E7%BF%BB%E8%AF%91%20%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="信誉 翻译 服务">信誉 翻译 服务</a><span class="blue_font">-</span><a href="/company/task_view/id_32661/%E4%BF%A1%E8%AA%89%20%E7%BF%BB%E8%AF%91%20%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="Jadestone Translations">Jadestone Translations</a>
+         </div><a href="/company/task_review/id_32661/%E4%BF%A1%E8%AA%89%20%E7%BF%BB%E8%AF%91%20%E6%9C%8D%E5%8A%A1.html" class="review" title="点评"></a><a href="/company/task_message/id_32661/%E4%BF%A1%E8%AA%89%20%E7%BF%BB%E8%AF%91%20%E6%9C%8D%E5%8A%A1.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;725-666-9168
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" class="map_link" target="_blank">商业服务</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_11416/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91.html" title="展会翻译" class="map_link">展会翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_14781/%E4%BC%81%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" title="企业翻译服务" class="map_link">企业翻译服务</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_11137/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1.html" title="生活服务" class="map_link">生活服务</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_14782/%E7%BF%BB%E8%AF%91%E5%85%AC%E8%AF%81.html" title="翻译公证" class="map_link">翻译公证</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_14420/%E7%BF%BB%E8%AF%91.html" title="翻译" class="map_link">翻译</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32891/%E8%96%9B%E6%99%94%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E4%B8%AD%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="薛晔 拉斯维加斯专业中英文翻译服务">薛晔 拉斯维加斯专业中英文翻译服务</a><span class="blue_font">-</span><a href="/company/task_view/id_32891/%E8%96%9B%E6%99%94%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E4%B8%AD%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="Chinese Interpreter DHS/USCIS Approved">Chinese Interpreter DHS/USCIS Approved</a>
+         </div><a href="/company/task_review/id_32891/%E8%96%9B%E6%99%94%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E4%B8%AD%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" class="review" title="点评"></a><a href="/company/task_message/id_32891/%E8%96%9B%E6%99%94%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E4%B8%AD%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_32891.html" title="点击查看地图">3608 E Sunset Road, Suite 110, Las Vegas, NV 89120</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-513-3131
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list.html" class="map_link" target="_blank">翻译</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_15418/%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1.html" title="翻译服务" class="map_link">翻译服务</a>,&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_4388/Las%20Vegas.html" title="Las Vegas" class="map_link">Las Vegas</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32670/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="map_link" target="_blank" title="洲际快巴">洲际快巴</a>
+         </div><a href="/company/task_review/id_32670/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="review" title="点评"></a><a href="/company/task_message/id_32670/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;6264924065
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list.html" class="map_link" target="_blank">华人旅游接送</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_13928/%E7%94%A8%E8%BD%A6%20%E6%97%85%E6%B8%B8.html" title="用车 旅游" class="map_link">用车 旅游</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_13377/%E5%B1%95%E4%BC%9A%E6%9C%8D%E5%8A%A1%20%E7%BF%BB%E8%AF%91%20%E7%94%A8%E8%BD%A6%20%E6%97%85%E6%B8%B8.html" title="展会服务 翻译 用车 旅游" class="map_link">展会服务 翻译 用车 旅游</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_14449/%E2%80%9C%E6%9C%BA%E5%9C%BA%E6%8E%A5%E9%80%81%E2%80%9D.html" title="“机场接送”" class="map_link">“机场接送”</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_14450/%E2%80%9C%E6%97%85%E6%B8%B8%E4%B8%93%E8%BD%A6%E2%80%9D.html" title="“旅游专车”" class="map_link">“旅游专车”</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_15469/%E6%8E%A5%E9%80%81.html" class="map_link" target="_blank" title="接送">接送</a>
+         </div><a href="/company/task_review/id_15469/%E6%8E%A5%E9%80%81.html" class="review" title="点评"></a><a href="/company/task_message/id_15469/%E6%8E%A5%E9%80%81.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-606-7786 702-606-5676
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list.html" class="map_link" target="_blank">交通与接送</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list/tagId_4915/%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81.html" title="旅游接送" class="map_link">旅游接送</a>,&nbsp;&nbsp;<a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list/tagId_6363/%E4%BC%9A%E5%B1%95%E7%94%A8%E8%BD%A6%E7%BF%BB%E8%AF%91.html" title="会展用车翻译" class="map_link">会展用车翻译</a>,&nbsp;&nbsp;<a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list/tagId_6364/%E5%B8%82%E5%8C%BA%E8%A7%82%E5%85%89%E5%A4%9C%E6%B8%B8.html" title="市区观光夜游" class="map_link">市区观光夜游</a>,&nbsp;&nbsp;<a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list/tagId_6365/%E5%A4%A7%E5%B3%A1%E8%B0%B7%E6%97%85%E6%B8%B8%E5%8C%85%E8%BD%A6.html" title="大峡谷旅游包车" class="map_link">大峡谷旅游包车</a>,&nbsp;&nbsp;<a href="/company/catid_294/%E4%BA%A4%E9%80%9A%E4%B8%8E%E6%8E%A5%E9%80%81/task_list/tagId_6366/%E7%BE%8E%E8%A5%BF%E9%83%A8%E6%97%85%E6%B8%B8%E5%8C%85%E8%BD%A6.html" title="美西部旅游包车" class="map_link">美西部旅游包车</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32531/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%20%E6%97%85%E6%B8%B8%E5%A8%B1%E4%B9%90%20%E7%94%A8%E8%BD%A6%E6%9C%8D%E5%8A%A1%E7%AD%89.html" class="map_link" target="_blank" title="展会翻译 旅游娱乐 用车服务等">展会翻译 旅游娱乐 用车服务等</a>
+         </div><a href="/company/task_review/id_32531/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%20%E6%97%85%E6%B8%B8%E5%A8%B1%E4%B9%90%20%E7%94%A8%E8%BD%A6%E6%9C%8D%E5%8A%A1%E7%AD%89.html" class="review" title="点评"></a><a href="/company/task_message/id_32531/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%20%E6%97%85%E6%B8%B8%E5%A8%B1%E4%B9%90%20%E7%94%A8%E8%BD%A6%E6%9C%8D%E5%8A%A1%E7%AD%89.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;8189138071
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list.html" class="map_link" target="_blank">华人旅游接送</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_13377/%E5%B1%95%E4%BC%9A%E6%9C%8D%E5%8A%A1%20%E7%BF%BB%E8%AF%91%20%E7%94%A8%E8%BD%A6%20%E6%97%85%E6%B8%B8.html" title="展会服务 翻译 用车 旅游" class="map_link">展会服务 翻译 用车 旅游</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">8</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32671/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="map_link" target="_blank" title="洲际快巴">洲际快巴</a>
+         </div><a href="/company/task_review/id_32671/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="review" title="点评"></a><a href="/company/task_message/id_32671/%E6%B4%B2%E9%99%85%E5%BF%AB%E5%B7%B4.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;6264924065
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list.html" class="map_link" target="_blank">华人旅游接送</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_13928/%E7%94%A8%E8%BD%A6%20%E6%97%85%E6%B8%B8.html" title="用车 旅游" class="map_link">用车 旅游</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_13377/%E5%B1%95%E4%BC%9A%E6%9C%8D%E5%8A%A1%20%E7%BF%BB%E8%AF%91%20%E7%94%A8%E8%BD%A6%20%E6%97%85%E6%B8%B8.html" title="展会服务 翻译 用车 旅游" class="map_link">展会服务 翻译 用车 旅游</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_14449/%E2%80%9C%E6%9C%BA%E5%9C%BA%E6%8E%A5%E9%80%81%E2%80%9D.html" title="“机场接送”" class="map_link">“机场接送”</a>,&nbsp;&nbsp;<a href="/company/catid_63/%E5%8D%8E%E4%BA%BA%E6%97%85%E6%B8%B8%E6%8E%A5%E9%80%81/task_list/tagId_14450/%E2%80%9C%E6%97%85%E6%B8%B8%E4%B8%93%E8%BD%A6%E2%80%9D.html" title="“旅游专车”" class="map_link">“旅游专车”</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">9</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" class="map_link" target="_blank" title="Kiki 拉斯维加斯专业翻译/法律翻译/领事认证/展会翻译/口译">Kiki 拉斯维加斯专业翻译/法律翻译/领事认证/展会翻译/口译</a><span class="blue_font">-</span><a href="/company/task_view/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" class="map_link" target="_blank" title="China based Licensed Lawyer in Las Vegas!">China based Licensed Lawyer in Las Vegas!</a>
+         </div><a href="/company/task_review/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" class="review" title="点评"></a><a href="/company/task_image/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" class="image" title="图片"></a><a href="/company/task_message/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_33071/Kiki%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E4%B8%93%E4%B8%9A%E7%BF%BB%E8%AF%91%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91%E9%A2%86%E4%BA%8B%E8%AE%A4%E8%AF%81%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91%E5%8F%A3%E8%AF%91.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_33071.html" title="点击查看地图">Chinatown area,, Las Vegas, NV 89103</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;7027931047
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list.html" class="map_link" target="_blank">翻译</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_16799/%E6%B3%95%E5%BE%8B%E7%BF%BB%E8%AF%91.html" title="法律翻译" class="map_link">法律翻译</a>,&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_14420/%E7%BF%BB%E8%AF%91.html" title="翻译" class="map_link">翻译</a>,&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_16800/%E5%8F%A3%E8%AF%91.html" title="口译" class="map_link">口译</a>,&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_11416/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91.html" title="展会翻译" class="map_link">展会翻译</a>,&nbsp;&nbsp;<a href="/company/catid_219/%E7%BF%BB%E8%AF%91/task_list/tagId_16834/%E8%AE%A4%E8%AF%81%E5%85%AC%E8%AF%81.html" title="认证公证" class="map_link">认证公证</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">10</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" class="map_link" target="_blank" title="希梵会展">希梵会展</a><span class="blue_font">-</span><a href="/company/task_view/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" class="map_link" target="_blank" title="Hepha expo">Hepha expo</a>
+         </div><a href="/company/task_review/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" class="review" title="点评"></a><a href="/company/task_image/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" class="image" title="图片"></a><a href="/company/task_message/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_32808/%E5%B8%8C%E6%A2%B5%E4%BC%9A%E5%B1%95.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_32808.html" title="点击查看地图">4336 Losee Rd, Suite B-4,Las Vegas, NV 89030</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-773-5542
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" class="map_link" target="_blank">商业服务</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_15898/%E5%B1%95%E4%BC%9A%E6%90%AD%E5%BB%BA%E5%95%86.html" title="展会搭建商" class="map_link">展会搭建商</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_15899/%E4%BB%93%E5%BA%93%E5%82%A8%E5%AD%98.html" title="仓库储存" class="map_link">仓库储存</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_13916/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%B1%95%E4%BC%9A.html" title="拉斯维加斯展会" class="map_link">拉斯维加斯展会</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_11416/%E5%B1%95%E4%BC%9A%E7%BF%BB%E8%AF%91.html" title="展会翻译" class="map_link">展会翻译</a>,&nbsp;&nbsp;<a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_4700/%E8%AE%BE%E8%AE%A1.html" title="设计" class="map_link">设计</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <div class="page"> <a data-page="0" data-type="0" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="0" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/f/page_viewtopic/t_79408.html" target="_blank"><h4>公证<span class="key">翻译</span>打电话咨询EDD DMV,陪同<span class="key">翻译</span>,电话预约,咨询,文件公证<span class="key">翻译</span>,西班牙语,葡萄牙语,法语</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">本公司提供专业<span class="key">翻译</span>笔译陪同<span class="key">翻译</span>公正<span class="key">翻译</span>法律文件<span class="key">翻译</span>，移民文件<span class="key">翻译</span>，医疗器械文件<span class="key">翻译</span>，生产线机械零配件，陪同<span class="key">翻译</span>，商务文件、个人资料、学术资料、公司文件、通讯文件、法律文件、评估文件、文学文件、技术资料</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_21.html">其他信息</a> <span class="view">0评论</span> <span class="reply">12浏览</span> <span class="time">07/29</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_73284.html" target="_blank"><h4>拉斯维加斯 <span class="key">翻译</span>&amp;法律<span class="key">翻译</span>&amp;展会<span class="key">翻译</span>&amp;公证认证</h4></a> 
+         <div class="content"> 
+          <p class="p-text">本人Kiki，超过10年中国执业注册律师，主要从事涉外商事法律服务，例如：外国人来华投资、国际贸易、海外工程建设、国际融资等，同时担任北京多家大型国有企业法律顾问，在执业期间起草、审阅、<span class="key">翻译</span>百余份中英文合同</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">148浏览</span> <span class="time">05/11</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_72487.html" target="_blank"><h4>拉斯维加斯Las Vegas 本人求职 做中英会展<span class="key">翻译</span>！（长期有效）</h4></a> 
+         <div class="content"> 
+          <p class="p-text">你好，本人为销售，兼职做会展<span class="key">翻译</span>。具强烈服务精神，参与各类展会担任业务型<span class="key">翻译</span>员，参展经验多年，居住拉斯维加斯，希望能与各厂商建立有缘的合作！&nbsp; 加微信：hiyuanzi0 （hiyuanzi零）谢谢！或邮件 qwen8611</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">122浏览</span> <span class="time">05/03</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1697.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1697.html" target="_blank"><h4>如何把五线谱翻译成简谱</h4></a> 
+          <div class="info">
+           <span>2018/03/19</span><span>5771观看</span>
+          </div> 
+          <p>五线谱是当今世界最主要的记谱形式，但是，相对于简谱有很多人都不认识五线谱。五线谱是可以翻译成简谱的，那么，如何翻译？都有哪些步骤？今天的How视频告诉您如何把五线谱翻译成简谱。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_3297.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_3297.html" target="_blank"><h4>郑博仁律师对话洛杉矶县检察长Jackie Lacey 实时中文翻译《法政“博”谈》Legal Analysis with Attorney Paul Cheng 第2期2020.07.22</h4></a> 
+          <div class="info">
+           <span>07/20</span><span>0观看</span>
+          </div> 
+          <p>《法政“博”谈》是How视频与郑博仁商业劳工民事法联合律师事务所联合开办的一档法律时政节目。美西时间每月第四个周三下午17:00我都都会邀请前检察官、南加州知名审判出庭律师郑博仁律师为大家讲解在美华人最关心的法律及时政相关话题。 律所联系电话：626-570-8888 邮箱：CN@pprclaw.com 律所网址：www.pprclaw.com 律所微信公众号：PaulChengLawGroup 律所Youtube中文频道：https://www.youtube.com/channel/UCz4OtzSDIc1nTwkfXmvFylg 过20多年的实务经验淬炼，郑博仁联合律师事务所为企业丶个人以及专业人士提供各种法律服务及建议。事务所律师团队专注于许多具体的法律类别，对于如: 商业法丶劳工法丶民事诉讼丶移民法及家事法等各个领域，有著丰富的经验以及坚实的专业法律素养。 律所中美权威商业法律师团队，专精国际贸易纠纷的诉讼及辩护，商业协议草拟丶谈判及企业法律顾问等多项专业法律服务，是同行评审位列前2.5%的洛杉矶律所。 与此同时，连续多年被评为“帕萨迪那杰出律师”头衔的劳工法资深律师团队，攻守兼备。为企业雇主及劳工个人争取最大权益，在劳工法领域战绩显著，是南加州洛杉矶知名出庭律师团队。 “正直. 客户服务. 热情”这些字眼在现今很难与律师联想在一起。 大部分的涉讼者都视聘请律师为畏途，因为他们感觉到律师只关心一件事：钱。 然而， 郑博仁联合律师事务所视客户满意为最大目标，而且是少数不讲究金钱至上的事务所之一。 更多详情：https://www.chineseinla.com/lawyer/task_view/id_21886/%E9%83%91%E5%8D%9A%E4%BB%81%E5%95%86%</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2557.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2557.html" target="_blank"><h4>如何用英语与美国产科医生交流</h4></a> 
+          <div class="info">
+           <span>2018/10/28</span><span>3626观看</span>
+          </div> 
+          <p>越来越多的人选择赴美生子，但是无论是找月子中心还是DIY，中美之间的语言问题都会让很多人担心与医生的交流问题。但其实赴美生子已经成为了一种潮流，美国的医院和医生也为此做了很多的准备。今天的How视频告诉您如何用英语与美国产科医生交流。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1030.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1030.html" target="_blank"><h4>如何通过绿卡面谈</h4></a> 
+          <div class="info">
+           <span>2017/07/31</span><span>21224观看</span>
+          </div> 
+          <p>申请绿卡在进行绿卡面谈时都要注意哪些问题？面谈时不懂英文可以带翻译吗？如何才能顺利通过面谈？How视频请来资深律师为您一一解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1289.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1289.html" target="_blank"><h4>如何记单词</h4></a> 
+          <div class="info">
+           <span>2017/10/25</span><span>114817观看</span>
+          </div> 
+          <p>你还在用死记硬背来记英语的翻译吗？在说英语时你还在努力的翻译单词吗？放弃错误的学习方法，用正确的记单词方法让你快速记单词不是梦。建立你自己的英文词库，快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1583.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1583.html" target="_blank"><h4>发生交通事故后如何用英语沟通</h4></a> 
+          <div class="info">
+           <span>2018/01/31</span><span>6417观看</span>
+          </div> 
+          <p>英语不好的人在美国遇到交通事故如何通过简单的英语沟通呢？警察介入调查时是否有权要求警方提供翻译呢？发生事故时需要准备哪些资料呢？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2979.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2979.html" target="_blank"><h4>如何通过在BBG工作申办绿卡</h4></a> 
+          <div class="info">
+           <span>2019/05/12</span><span>1079观看</span>
+          </div> 
+          <p>在美国作为广播理事会国际广播局（BBG）的广播公司或广播理事会的受让人来美国工作的个人（及其配偶和子女）可以申请绿卡（永久居留权）。术语“广播者”可以包括记者，作家，翻译，编辑，制片人，播音员，新闻广播主持人，新闻分析，编辑和其他广播特征，或新闻分析专家。广播公司一词不包括从事纯技术或支持服务或在娱乐领域工作的个人。 此类别的年度限额为100个。配偶和子女不计入此年度限额。 有关更多信息，请参阅“&nbsp;移民国籍法”（INA）第101（a）（27）（M），203（b）（4&nbsp;）和8 CFR 204.13。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_17.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_17.html" target="_blank"><h4>如何在美国开通新手机号</h4></a> 
+          <div class="info">
+           <span>2016/05/06</span><span>4509观看</span>
+          </div> 
+          <p>在大街上的电话亭里买张SIM卡，插到电话里就能用。在中国，这种事，我们都干过。但是，在美国，您能这样干吗？NO WAY! 门都没有。那么，在语言不通的异国他乡，您怎么才能顺利地开通一个新手机号呢？手机开通后，怎么缴费？使用过程中，如果信号质量不好，或者您对话费有疑问，该找谁解决？</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_53.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_53.html" target="_blank"><h4>中国驾照如何在美国开车</h4></a> 
+          <div class="info">
+           <span>2016/05/10</span><span>15312观看</span>
+          </div> 
+          <p>来美国旅行，或者移民到美国，没有美国的驾照，只有中国的驾照，该怎么办？可以用中国驾照开车吗？能开多久呢？听听美国警长怎么说吧……</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_270.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_270.html" target="_blank"><h4>在美国如何应对不良房东</h4></a> 
+          <div class="info">
+           <span>2017/07/19</span><span>7873观看</span>
+          </div> 
+          <p>由于中美法律法规的区别，新移民到美国面临着很多租房方面的问题。然而房客拥有什么样的权利？什么情况下可以合法拒交房租？申春平律师将作精彩解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_320.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_320.html" target="_blank"><h4>入籍后如何证明中国名字是自己</h4></a> 
+          <div class="info">
+           <span>2017/07/05</span><span>12765观看</span>
+          </div> 
+          <p>入籍美国的朋友在回国买卖房产时，经常碰到一件尴尬的事情，就是自己手中拿着的美国护照，要么是地地道道的英文名字，要么就是汉语拼音，当地政府不是看不懂就是无法办理各种手续。如何才能解决这样的问题？加州注册公证员刘薇雅为您答疑解惑。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_355.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_355.html" target="_blank"><h4>如何参加美国军队</h4></a> 
+          <div class="info">
+           <span>2017/07/07</span><span>12162观看</span>
+          </div> 
+          <p>在大量的好莱坞影片中，美国军人几乎成为百战百胜的代名词。那么，如何成为美国陆军士兵？成为美国陆军士兵的好处有哪些？成为美国陆军军人需要什么条件？特邀招兵办公室现役军人为大家解疑答惑。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_382.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_382.html" target="_blank"><h4>如何办理出生证明</h4></a> 
+          <div class="info">
+           <span>2017/07/11</span><span>2700观看</span>
+          </div> 
+          <p>现在越来越多的人选择去美国生孩子，那么孩子的出生证明如何被国内所承认呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_407.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_407.html" target="_blank"><h4>留学回国时如何办理学历认证</h4></a> 
+          <div class="info">
+           <span>2017/07/11</span><span>2030观看</span>
+          </div> 
+          <p>留学回国后准备在国内发展的话，就需要办理学历认证。那么什么时候办理最为合适呢？具体又要怎么办理呢？ </p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_483.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_483.html" target="_blank"><h4>如何填写美国公民入籍申请N-400表格</h4></a> 
+          <div class="info">
+           <span>2016/12/29</span><span>66866观看</span>
+          </div> 
+          <p>在美国，各种申请表格的填写是很让人头疼的一件事，其中就有美国公民入籍申请表N-400表格。本期How视频请来了著名律师黄笑生，给大家详细演示N-400表格该如何填写。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_511.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_511.html" target="_blank"><h4>在美国国外就医如何报销医疗费用</h4></a> 
+          <div class="info">
+           <span>2017/01/10</span><span>730观看</span>
+          </div> 
+          <p>我们在美国拿到绿卡后，如果到美国境外旅游医保是不给报销的。我们要通过购买境外旅游保险来实现就医报销的问题，那么境外旅游保险包括哪些内容呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_512.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_512.html" target="_blank"><h4>在美国看急症时不会说英语怎么办</h4></a> 
+          <div class="info">
+           <span>2017/01/10</span><span>7161观看</span>
+          </div> 
+          <p>如果去急诊室看病的时候，不会说英文怎么办？如果急诊室里没有医生可以说中文，怎么办？别着急，华人医生袁骏医生告诉您，在美国看急诊时不会说英文应该怎么办！</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_521.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_521.html" target="_blank"><h4>被美国海关拒绝入境怎么办</h4></a> 
+          <div class="info">
+           <span>2017/01/15</span><span>57482观看</span>
+          </div> 
+          <p>每年都有很多人被美国海关拒绝入境，拒绝的理由千奇百怪，被拒绝的人既有B1B2签证的人，也有绿卡持有者。那么，当您被美国海关拒绝入境的时候，您应该怎么做呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_558.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_558.html" target="_blank"><h4>在美国如何成为一名合格的按摩师</h4></a> 
+          <div class="info">
+           <span>2017/01/25</span><span>38805观看</span>
+          </div> 
+          <p>在美国，由于语言的障碍，按摩师执照的获取，华人往往需要付出比别的族裔更大的代价。如何在美国成为一个合格的按摩师？有丰富教学经验的江江老师，将就按摩领域做细致解析。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_566.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_566.html" target="_blank"><h4>如何填写I-829表</h4></a> 
+          <div class="info">
+           <span>2017/01/25</span><span>691观看</span>
+          </div> 
+          <p>投资移民获批后，您首先会拿到一张为期两年的有条件绿卡，两年后你可以转为有效期十年的永久绿卡，这时候，您就需要填写I-829表格。那么I-829表格在填写时应该注意哪些问题呢？知名移民律师黄笑生律师为您一一介绍：如何填写I-829表格。</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="2" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="sea_right">
+     <div class="publish-company">
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div>
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="/restaurant.html" target="_black" class="normal_font bold_font blue_font">美食地图</a> 
+        </div> <span><a href="/restaurant.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html" class="black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="

@@ -1,0 +1,1026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/company.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinflorida.com/page_company.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达商家点评 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="佛罗里达华人商家信息汇总,查找佛罗里达最受欢迎、最出色的商家；佛罗里达商家点评，可以为服务过您的商家点评打分。"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company-common.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!----> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li class="active"><a href="/company.html" class="brand">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span>  </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/company.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="map_path_way"> 
+    <div itemscope class="pathway" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/" class="pathway1"><span itemprop="name">首页</span></a>
+      <meta itemprop="position" content="1"></li>
+     <li class="left">&gt;</li>
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/company.html" class="pathway2"><span itemprop="name">佛罗里达商家点评</span></a>
+      <meta itemprop="position" content="2"></li>
+    </div> 
+   </div> 
+   <div class="map_top_link"> <a href="/company/task_guideline.html" class="company_instruction">商家点评说明</a> 
+   </div> 
+   <div class="home_row"> 
+    <div class="company_left" id="company_left">
+     <div class="company_category" id="company_category"> 
+      <div class="title">
+       商家分类
+      </div> 
+      <div class="navbar1"> 
+       <div class="navbar1-inner"> 
+        <ul id="nav"> 
+         <li class="group_group" id="group_group0">
+          <div class="group_name" id="group_name0">
+           <div class="group_title_area">
+            <span class="group_title">休闲旅游 </span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_9/%E7%BE%8E%E9%A3%9F.html">美食</a><a href="/company/task_group/group_11/%E8%B4%AD%E7%89%A9.html">购物</a><a href="/company/task_group/group_20/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91.html">美容美发</a><a href="/company/task_group/group_33/%E6%97%85%E6%B8%B8.html">旅游</a><a href="/company/task_group/group_36/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.html">休闲娱乐</a>
+          </div>
+          <div class="category_list" id="category_list0">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_9/%E7%BE%8E%E9%A3%9F.html" class="group_title">美食</a>
+            </dt>
+            <dd>
+             <a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" title="佛罗里达美食" class="map_link">佛罗里达美食</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_11/%E8%B4%AD%E7%89%A9.html" class="group_title">购物</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_313/%E7%99%BE%E8%B4%A7%E5%85%AC%E5%8F%B8/task_list.html" title="百货公司" class="map_link">百货公司</a><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" title="华人超级市场" class="map_link">华人超级市场</a><a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list.html" title="佛罗里达购物中心" class="map_link">佛罗里达购物中心</a><a href="/company/catid_126/%E7%8F%A0%E5%AE%9D%E9%A6%96%E9%A5%B0/task_list.html" title="珠宝首饰" class="map_link">珠宝首饰</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_20/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91.html" class="group_title">美容美发</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list.html" title="美容美发" class="map_link">美容美发</a><a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list.html" title="专业按摩师" class="map_link">专业按摩师</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_33/%E6%97%85%E6%B8%B8.html" class="group_title">旅游</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" title="华人旅行社" class="map_link">华人旅行社</a><a href="/company/catid_250/%E6%B1%BD%E8%BD%A6%E7%A7%9F%E8%B5%81/task_list.html" title="汽车租赁" class="map_link">汽车租赁</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_36/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.html" class="group_title">休闲娱乐</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_43/KTV/task_list.html" title="KTV" class="map_link">KTV</a>
+            </dd>
+           </dl>
+          </div></li>
+         <li class="group_group" id="group_group1">
+          <div class="group_name" id="group_name1">
+           <div class="group_title_area1">
+            <span class="group_title">生活居家 </span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_4/%E6%95%99%E8%82%B2.html">教育</a><a href="/company/task_group/group_6/%E4%BD%8F%E6%88%BF%E5%B1%85%E5%AE%B6.html">住房居家</a><a href="/company/task_group/group_7/%E5%8C%BB%E7%96%97.html">医疗</a><a href="/company/task_group/group_15/%E6%B1%BD%E8%BD%A6.html">汽车</a><a href="/company/task_group/group_21/%E5%A9%9A%E5%BA%86%E6%91%84%E5%BD%B1.html">婚庆摄影</a><a href="/company/task_group/group_23/%E7%94%B5%E8%84%91%E9%80%9A%E8%AE%AF.html">电脑通讯</a><a href="/company/task_group/group_44/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB.html">日常生活</a>
+          </div>
+          <div class="category_list" id="category_list1">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_4/%E6%95%99%E8%82%B2.html" class="group_title">教育</a>
+            </dt>
+            <dd>
+             <a href="/university/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%A4%A7%E5%AD%A6/task_list.html" title="佛罗里达大学" class="map_link">佛罗里达大学</a><a href="/company/catid_215/%E4%B8%AD%E6%96%87%E5%AD%A6%E6%A0%A1/task_list.html" title="中文学校" class="map_link">中文学校</a><a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list.html" title="留学服务" class="map_link">留学服务</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_6/%E4%BD%8F%E6%88%BF%E5%B1%85%E5%AE%B6.html" class="group_title">住房居家</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" title="卫浴橱柜" class="map_link">卫浴橱柜</a><a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html" title="地产经纪" class="map_link">地产经纪</a><a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list.html" title="建筑装修" class="map_link">建筑装修</a><a href="/company/catid_45/%E5%AE%B6%E5%85%B7%E5%BA%97/task_list.html" title="家具店" class="map_link">家具店</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_7/%E5%8C%BB%E7%96%97.html" class="group_title">医疗</a>
+            </dt>
+            <dd>
+             <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" title="华人医生" class="map_link">华人医生</a><a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list.html" title="佛罗里达医院" class="map_link">佛罗里达医院</a><a href="/company/catid_61/%E8%8D%AF%E5%BA%97/task_list.html" title="药店" class="map_link">药店</a><a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list.html" title="专业按摩师" class="map_link">专业按摩师</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_15/%E6%B1%BD%E8%BD%A6.html" class="group_title">汽车</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_36/%E6%B1%BD%E8%BD%A6%E7%BB%8F%E9%94%80%E5%95%86/task_list.html" title="汽车经销商" class="map_link">汽车经销商</a><a href="/company/catid_32/%E9%A9%BE%E9%A9%B6%E6%95%99%E7%BB%83/task_list.html" title="驾驶教练" class="map_link">驾驶教练</a><a href="/company/catid_250/%E6%B1%BD%E8%BD%A6%E7%A7%9F%E8%B5%81/task_list.html" title="汽车租赁" class="map_link">汽车租赁</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_21/%E5%A9%9A%E5%BA%86%E6%91%84%E5%BD%B1.html" class="group_title">婚庆摄影</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_38/%E7%85%A7%E7%9B%B8%E9%A6%86/task_list.html" title="照相馆" class="map_link">照相馆</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_23/%E7%94%B5%E8%84%91%E9%80%9A%E8%AE%AF.html" class="group_title">电脑通讯</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_314/%E7%94%B5%E5%AD%90/task_list.html" title="电子" class="map_link">电子</a><a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list.html" title="电脑网络" class="map_link">电脑网络</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_44/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB.html" class="group_title">日常生活</a>
+            </dt>
+            <dd>
+             <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" title="华人医生" class="map_link">华人医生</a><a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" title="佛罗里达美食" class="map_link">佛罗里达美食</a><a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list.html" title="佛罗里达购物中心" class="map_link">佛罗里达购物中心</a><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" title="华人超级市场" class="map_link">华人超级市场</a><a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list.html" title="美容美发" class="map_link">美容美发</a>
+            </dd>
+           </dl>
+          </div></li>
+         <li class="group_group" id="group_group2">
+          <div class="group_name" id="group_name2">
+           <div class="group_title_area1">
+            <span class="group_title">常用服务</span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_3/%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3.html">政府机关</a><a href="/company/task_group/group_8/%E7%A4%BE%E4%BC%9A%E6%9C%8D%E5%8A%A1.html">社会服务</a><a href="/company/task_group/group_13/%E8%B4%B8%E6%98%93.html">贸易</a><a href="/company/task_group/group_14/%E8%BF%90%E8%BE%93.html">运输</a><a href="/company/task_group/group_17/%E4%B8%AD%E4%BB%8B.html">中介</a><a href="/company/task_group/group_18/%E5%AA%92%E4%BD%93.html">媒体</a>
+          </div>
+          <div class="category_list" id="category_list2">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_3/%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3.html" class="group_title">政府机关</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_249/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%A7%BB%E6%B0%91%E5%B1%80/task_list.html" title="佛罗里达移民局" class="map_link">佛罗里达移民局</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_8/%E7%A4%BE%E4%BC%9A%E6%9C%8D%E5%8A%A1.html" class="group_title">社会服务</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_309/%E7%94%B5%E5%99%A8%E7%BB%B4%E4%BF%AE/task_list.html" title="电器维修" class="map_link">电器维修</a><a href="/company/catid_78/%E9%A3%8E%E6%B0%B4%E4%B8%8E%E5%91%BD%E7%90%86/task_list.html" title="风水与命理" class="map_link">风水与命理</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_13/%E8%B4%B8%E6%98%93.html" class="group_title">贸易</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list.html" title="快递公司" class="map_link">快递公司</a><a href="/company/catid_145/%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/task_list.html" title="进出口贸易" class="map_link">进出口贸易</a><a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list.html" title="物流仓储" class="map_link">物流仓储</a><a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" title="商业服务" class="map_link">商业服务</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_14/%E8%BF%90%E8%BE%93.html" class="group_title">运输</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list.html" title="快递公司" class="map_link">快递公司</a><a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list.html" title="物流仓储" class="map_link">物流仓储</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_17/%E4%B8%AD%E4%BB%8B.html" class="group_title">中介</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html" title="地产经纪" class="map_link">地产经纪</a><a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list.html" title="留学服务" class="map_link">留学服务</a><a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" title="华人旅行社" class="map_link">华人旅行社</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_18/%E5%AA%92%E4%BD%93.html" class="group_title">媒体</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_315/%E6%96%B0%E9%97%BB%20%E6%8A%A5%E7%A4%BE/task_list.html" title="新闻" 报社 class="map_link">新闻 报社</a><a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list.html" title="印刷公司" class="map_link">印刷公司</a>
+            </dd>
+           </dl>
+          </div></li>
+         <li class="group_group" id="group_group3">
+          <div class="group_name" id="group_name3">
+           <div class="group_title_area1">
+            <span class="group_title">法律金融</span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_5/%E6%B3%95%E5%BE%8B%E7%A7%BB%E6%B0%91.html">法律移民</a><a href="/company/task_group/group_10/%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2.html">保险理财</a><a href="/company/task_group/group_34/%E4%BC%81%E4%B8%9A%E6%9C%8D%E5%8A%A1.html">企业服务</a>
+          </div>
+          <div class="category_list" id="category_list3">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_5/%E6%B3%95%E5%BE%8B%E7%A7%BB%E6%B0%91.html" class="group_title">法律移民</a>
+            </dt>
+            <dd>
+             <a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" title="华人律师" class="map_link">华人律师</a><a href="/company/catid_249/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%A7%BB%E6%B0%91%E5%B1%80/task_list.html" title="佛罗里达移民局" class="map_link">佛罗里达移民局</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_10/%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2.html" class="group_title">保险理财</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_286/%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8/task_list.html" title="保险公司" class="map_link">保险公司</a><a href="/accountant/%E5%8D%8E%E4%BA%BA%E4%BC%9A%E8%AE%A1%E5%B8%88/task_list.html" title="华人会计师" class="map_link">华人会计师</a><a href="/company/catid_67/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C/task_list.html" title="贷款银行" class="map_link">贷款银行</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_34/%E4%BC%81%E4%B8%9A%E6%9C%8D%E5%8A%A1.html" class="group_title">企业服务</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list.html" title="印刷公司" class="map_link">印刷公司</a>
+            </dd>
+           </dl>
+          </div></li>
+         <li class="group_group" id="group_group4">
+          <div class="group_name" id="group_name4">
+           <div class="group_title_area1">
+            <span class="group_title">医疗保健</span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_48/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F.html">华人医生</a><a href="/company/task_group/group_49/%E8%8D%AF%E5%BA%97.html">药店</a><a href="/company/task_group/group_50/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2.html">佛罗里达医院</a><a href="/company/task_group/group_51/%E6%8C%89%E6%91%A9%E4%BF%9D%E5%81%A5.html">按摩保健</a>
+          </div>
+          <div class="category_list" id="category_list4">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_48/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F.html" class="group_title">华人医生</a>
+            </dt>
+            <dd>
+             <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" title="华人医生" class="map_link">华人医生</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_49/%E8%8D%AF%E5%BA%97.html" class="group_title">药店</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_61/%E8%8D%AF%E5%BA%97/task_list.html" title="药店" class="map_link">药店</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_50/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2.html" class="group_title">佛罗里达医院</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list.html" title="佛罗里达医院" class="map_link">佛罗里达医院</a>
+            </dd>
+           </dl>
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_51/%E6%8C%89%E6%91%A9%E4%BF%9D%E5%81%A5.html" class="group_title">按摩保健</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list.html" title="专业按摩师" class="map_link">专业按摩师</a><a href="/company/catid_316/%E4%B8%AD%E5%8C%BB%E9%92%88%E7%81%B8/task_list.html" title="中医针灸" class="map_link">中医针灸</a>
+            </dd>
+           </dl>
+          </div></li>
+         <li class="group_group" id="group_group5">
+          <div class="group_name" id="group_name5">
+           <div class="group_title_area1">
+            <span class="group_title">教育服务</span><span class="right_bracket">&gt;</span>
+           </div><a href="/company/task_group/group_54/%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1.html">培训学校</a>
+          </div>
+          <div class="category_list" id="category_list5">
+           <dl>
+            <dt>
+             <a href="/company/task_group/group_54/%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1.html" class="group_title">培训学校</a>
+            </dt>
+            <dd>
+             <a href="/company/catid_310/%E4%B8%AD%E5%8C%BB%E5%AD%A6%E9%99%A2/task_list.html" title="中医学院" class="map_link">中医学院</a><a href="/company/catid_311/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E4%B8%AD%E6%96%87%E5%AD%A6%E6%A0%A1/task_list.html" title="佛罗里达中文学校" class="map_link">佛罗里达中文学校</a><a href="/company/catid_312/%E7%A9%BA%E8%B0%83%EF%BC%8C%E5%86%B7%E6%B0%94%E7%BB%B4%E4%BF%AE/task_list.html" title="空调，冷气维修" class="map_link">空调，冷气维修</a>
+            </dd>
+           </dl>
+          </div></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="company_middle" id="company_middle"> 
+     <div class="company_search"> 
+      <div> 
+       <div class="input-prepend input-append"> 
+        <div class="dropDownList"> 
+         <div id="dropDownList2" class="dropdown"> <select name="category" id="category"> <option value="0">全部</option> <option value="48">地产经纪</option><option value="6" path="restaurant">佛罗里达美食</option><option value="67">贷款银行</option><option value="29">建筑装修</option><option value="27">华人旅行社</option><option value="1" path="doctor">华人医生</option><option value="2" path="lawyer">华人律师</option><option value="73">电脑网络</option><option value="3" path="accountant">华人会计师</option><option value="10" path="supermarket">华人超级市场</option><option value="31">快递公司</option><option value="201">商业服务</option><option value="75">留学服务</option><option value="71">专业按摩师</option><option value="193">印刷公司</option><option value="275">卫浴橱柜</option><option value="318">信用卡处理</option><option value="145">进出口贸易</option><option value="9" path="shoppingmall">佛罗里达购物中心</option><option value="39">美容美发</option><option value="59">物流仓储</option><option value="313">百货公司</option><option value="84">佛罗里达医院</option><option value="38">照相馆</option><option value="12" path="university">佛罗里达大学</option><option value="286">保险公司</option><option value="32">驾驶教练</option><option value="45">家具店</option><option value="309">电器维修</option><option value="316">中医针灸</option><option value="323">旅游景点</option><option value="215">中文学校</option><option value="249">佛罗里达移民局</option><option value="36">汽车经销商</option><option value="43">KTV</option><option value="310">中医学院</option><option value="311">佛罗里达中文学校</option><option value="312">空调，冷气维修</option><option value="314">电子</option><option value="315">新闻 报社</option><option value="61">药店</option><option value="317">旅游巴士</option><option value="319">华人凉席</option><option value="325">佛罗里达月子中心</option><option value="326">追债公司，私人侦探</option><option value="327">运车</option><option value="328">餐具,餐馆用品,酒店用品,陶瓷,密胺</option><option value="329">光环密宗</option><option value="330">中国签证代理</option><option value="331">点餐电脑</option><option value="333">餐盒干货批发</option><option value="78">风水与命理</option><option value="334">医疗保险，奥巴马健保</option><option value="126">珠宝首饰</option><option value="250">汽车租赁</option><option value="320">宠物运输</option><option value="321">高速上网</option><option value="322">汽车服务</option><option value="324">月子餐</option><option value="332">教育培训</option><option value="335">美术教学</option> </select> <span id="category_name">全部</span> <span id="searchArrow"></span> 
+          <ul id="select_category"></ul> 
+         </div> 
+        </div> 
+        <input class="span deals_text" type="text" id="category_key" autocomplete="off" name="category_key" onblur="if (this.value ==''){this.value='输入相关信息进行查找...';this.style.color='#ccc';}" onkeypress="return searchCompanyOnKeyProcess(event, this.form)" onfocus="setDefaultSearchCategoryKey()" value="输入相关信息进行查找..."> <button type="button" class="btn" onclick="searchCompany()">&nbsp;&nbsp;&nbsp;搜索</button> 
+        <div id="category_key_div"></div> 
+       </div> <!-- <a href="/company/task_category_select.html" class="publishInfo" id="publishInfo" style="padding: 6px 5px 6px 30px;width:92px;">发布您的信息&gt;&gt;</a> --> 
+       <div></div> 
+      </div> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <a href="/company/task_category/key_%E7%89%99%E5%8C%BB.html" class="company">牙医</a> <a href="/company/task_category/key_%E7%9F%B3%E6%9D%90.html" class="company">石材</a> <a href="/company/task_category/key_%E8%9B%8B%E7%B3%95.html" class="company">蛋糕</a> <a href="/company/task_category/key_%E5%8D%8E%E4%B8%9C.html" class="company">华东</a> <a href="/company/task_category/key_%E6%A9%B1%E6%9F%9C.html" class="company">橱柜</a> <a href="/company/task_category/key_%E9%BC%BB%E7%A7%91.html" class="company">鼻科</a> <a href="/company/task_category/key_%E5%8D%8E%E5%9F%A0.html" class="company">华埠</a> <a href="/company/task_category/key_%E6%B0%B4%E7%94%B5.html" class="company">水电</a> <a href="/company/task_morekey.html" class="company">&gt;&gt;</a> 
+      </div> 
+     </div> 
+     <div id="category_content"> 
+      <div> &nbsp;&nbsp;查询中，请稍候... 
+      </div> 
+      <div class="company_category_navigation"> 
+       <div class="header">
+        <dl class="title">
+         <span>热门导航</span>
+        </dl>
+       </div> 
+       <div class="category_list"> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html" title="地产经纪" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html" title="地产经纪" class="map_link" target="_blank">地产经纪</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list/tagId_125/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA.html" class="company">地产经纪</a><span class="tag_qty">(62)</span> <a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list/tagId_153/%E6%89%A7%E7%85%A7%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA.html" class="company">执照地产经纪</a><span class="tag_qty">(44)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" title="佛罗里达美食" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" title="佛罗里达美食" class="map_link" target="_blank">佛罗里达美食</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_69/%E4%B8%AD%E9%A4%90.html" class="company">中餐</a><span class="tag_qty">(38)</span> <a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_212/%E4%B8%AD%E5%9B%BD%E9%A4%90%E9%A6%86.html" class="company">中国餐馆</a><span class="tag_qty">(18)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_67/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C/task_list.html" title="贷款银行" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_67/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C/task_list.html" title="贷款银行" class="map_link" target="_blank">贷款银行</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_67/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C/task_list/tagId_608/%E5%95%86%E4%B8%9A%E8%B4%B7%E6%AC%BE.html" class="company">商业贷款</a><span class="tag_qty">(20)</span> <a href="/company/catid_67/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C/task_list/tagId_130/%E6%88%BF%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="company">房屋贷款</a><span class="tag_qty">(20)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list.html" title="建筑装修" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list.html" title="建筑装修" class="map_link" target="_blank">建筑装修</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_158/%E8%A3%85%E4%BF%AE.html" class="company">装修</a><span class="tag_qty">(34)</span> <a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_156/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99.html" class="company">建筑材料</a><span class="tag_qty">(16)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" title="华人旅行社" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" title="华人旅行社" class="map_link" target="_blank">华人旅行社</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list/tagId_238/%E6%97%85%E8%A1%8C%E7%A4%BE.html" class="company">旅行社</a><span class="tag_qty">(17)</span> <a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list/tagId_237/%E6%97%85%E6%B8%B8.html" class="company">旅游</a><span class="tag_qty">(12)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" title="华人医生" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" title="华人医生" class="map_link" target="_blank">华人医生</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_244/%E4%B8%AD%E5%8C%BB.html" class="company">中医</a><span class="tag_qty">(10)</span> <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_258/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E5%B8%88.html" class="company">华人医师</a><span class="tag_qty">(10)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" title="华人律师" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" title="华人律师" class="map_link" target="_blank">华人律师</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_187/%E5%BE%8B%E5%B8%88.html" class="company">律师</a><span class="tag_qty">(16)</span> <a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_165/%E6%B3%95%E5%BE%8B.html" class="company">法律</a><span class="tag_qty">(14)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list.html" title="电脑网络" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list.html" title="电脑网络" class="map_link" target="_blank">电脑网络</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list/tagId_611/%E7%BD%91%E4%B8%8A%E7%82%B9%E9%A4%90.html" class="company">网上点餐</a><span class="tag_qty">(11)</span> <a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list/tagId_603/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%B7%E5%8D%A1.html" class="company">信用卡刷卡</a><span class="tag_qty">(10)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/accountant/%E5%8D%8E%E4%BA%BA%E4%BC%9A%E8%AE%A1%E5%B8%88/task_list.html" title="华人会计师" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/accountant/%E5%8D%8E%E4%BA%BA%E4%BC%9A%E8%AE%A1%E5%B8%88/task_list.html" title="华人会计师" class="map_link" target="_blank">华人会计师</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/accountant/%E5%8D%8E%E4%BA%BA%E4%BC%9A%E8%AE%A1%E5%B8%88/task_list/tagId_236/%E4%BC%9A%E8%AE%A1%E5%B8%88.html" class="company">会计师</a><span class="tag_qty">(12)</span> <a href="/accountant/%E5%8D%8E%E4%BA%BA%E4%BC%9A%E8%AE%A1%E5%B8%88/task_list/tagId_162/%E4%BC%9A%E8%AE%A1.html" class="company">会计</a><span class="tag_qty">(9)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" title="华人超级市场" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" title="华人超级市场" class="map_link" target="_blank">华人超级市场</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_229/%E8%B6%85%E5%B8%82.html" class="company">超市</a><span class="tag_qty">(10)</span> <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_126/%E4%BA%9A%E6%B4%B2%E8%B6%85%E5%B8%82.html" class="company">亚洲超市</a><span class="tag_qty">(9)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list.html" title="快递公司" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list.html" title="快递公司" class="map_link" target="_blank">快递公司</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_412/%E5%8D%8E%E4%BA%BA%E5%BF%AB%E9%80%92.html" class="company">华人快递</a><span class="tag_qty">(11)</span> <a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_257/%E5%BF%AB%E9%80%92.html" class="company">快递</a><span class="tag_qty">(10)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" title="商业服务" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list.html" title="商业服务" class="map_link" target="_blank">商业服务</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_601/%E4%BF%A1%E7%94%A8%E5%8D%A1.html" class="company">信用卡</a><span class="tag_qty">(14)</span> <a href="/company/catid_201/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/task_list/tagId_674/%E9%A4%90%E9%A6%86POS.html" class="company">餐馆POS</a><span class="tag_qty">(12)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list.html" title="留学服务" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list.html" title="留学服务" class="map_link" target="_blank">留学服务</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list/tagId_416/%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1.html" class="company">美国留学咨询服务</a><span class="tag_qty">(7)</span> <a href="/company/catid_75/%E7%95%99%E5%AD%A6%E6%9C%8D%E5%8A%A1/task_list/tagId_417/%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%BD%AC%E6%8D%A2.html" class="company">留学生身份转换</a><span class="tag_qty">(6)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list.html" title="专业按摩师" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list.html" title="专业按摩师" class="map_link" target="_blank">专业按摩师</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list/tagId_719/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9.html" class="company">专业按摩</a><span class="tag_qty">(4)</span> <a href="/company/catid_71/%E4%B8%93%E4%B8%9A%E6%8C%89%E6%91%A9%E5%B8%88/task_list/tagId_718/%E6%8C%89%E6%91%A9%E5%B8%88.html" class="company">按摩师</a><span class="tag_qty">(3)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list.html" title="印刷公司" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list.html" title="印刷公司" class="map_link" target="_blank">印刷公司</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list/tagId_245/%E5%8D%B0%E5%88%B7.html" class="company">印刷</a><span class="tag_qty">(6)</span> <a href="/company/catid_193/%E5%8D%B0%E5%88%B7%E5%85%AC%E5%8F%B8/task_list/tagId_616/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1.html" class="company">平面设计</a><span class="tag_qty">(6)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" title="卫浴橱柜" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" title="卫浴橱柜" class="map_link" target="_blank">卫浴橱柜</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_176/%E9%A4%90%E5%85%B7.html" class="company">餐具</a><span class="tag_qty">(2)</span> <a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_177/%E5%8E%A8%E5%85%B7.html" class="company">厨具</a><span class="tag_qty">(2)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_318/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%A4%84%E7%90%86/task_list.html" title="信用卡处理" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_318/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%A4%84%E7%90%86/task_list.html" title="信用卡处理" class="map_link" target="_blank">信用卡处理</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_318/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%A4%84%E7%90%86/task_list/tagId_608/%E5%95%86%E4%B8%9A%E8%B4%B7%E6%AC%BE.html" class="company">商业贷款</a><span class="tag_qty">(6)</span> <a href="/company/catid_318/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%A4%84%E7%90%86/task_list/tagId_601/%E4%BF%A1%E7%94%A8%E5%8D%A1.html" class="company">信用卡</a><span class="tag_qty">(5)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_145/%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/task_list.html" title="进出口贸易" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_145/%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/task_list.html" title="进出口贸易" class="map_link" target="_blank">进出口贸易</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_145/%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/task_list/tagId_253/%E8%B4%B8%E6%98%93.html" class="company">贸易</a><span class="tag_qty">(5)</span> <a href="/company/catid_145/%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/task_list/tagId_316/%E8%B4%B8%E6%98%93%E5%85%AC%E5%8F%B8.html" class="company">贸易公司</a><span class="tag_qty">(4)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list.html" title="佛罗里达购物中心" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list.html" title="佛罗里达购物中心" class="map_link" target="_blank">佛罗里达购物中心</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list/tagId_277/%E8%B4%AD%E7%89%A9.html" class="company">购物</a><span class="tag_qty">(3)</span> <a href="/shoppingmall/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83/task_list/tagId_80/%E6%9D%82%E8%B4%A7.html" class="company">杂货</a><span class="tag_qty">(2)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list.html" title="美容美发" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list.html" title="美容美发" class="map_link" target="_blank">美容美发</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list/tagId_247/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91.html" class="company">美容美发</a><span class="tag_qty">(5)</span> <a href="/company/catid_39/%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91/task_list/tagId_278/%E7%BE%8E%E5%AE%B9.html" class="company">美容</a><span class="tag_qty">(2)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list.html" title="物流仓储" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list.html" title="物流仓储" class="map_link" target="_blank">物流仓储</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list/tagId_301/%E7%A9%BA%E8%BF%90.html" class="company">空运</a><span class="tag_qty">(3)</span> <a href="/company/catid_59/%E7%89%A9%E6%B5%81%E4%BB%93%E5%82%A8/task_list/tagId_297/%E5%9B%BD%E9%99%85%E7%89%A9%E6%B5%81.html" class="company">国际物流</a><span class="tag_qty">(3)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_313/%E7%99%BE%E8%B4%A7%E5%85%AC%E5%8F%B8/task_list.html" title="百货公司" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_313/%E7%99%BE%E8%B4%A7%E5%85%AC%E5%8F%B8/task_list.html" title="百货公司" class="map_link" target="_blank">百货公司</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_313/%E7%99%BE%E8%B4%A7%E5%85%AC%E5%8F%B8/task_list/tagId_170/%E5%8D%8E%E4%BA%BA.html" class="company">华人</a><span class="tag_qty">(3)</span> <a href="/company/catid_313/%E7%99%BE%E8%B4%A7%E5%85%AC%E5%8F%B8/task_list/tagId_341/%E7%99%BE%E8%B4%A7.html" class="company">百货</a><span class="tag_qty">(2)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list.html" title="佛罗里达医院" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list.html" title="佛罗里达医院" class="map_link" target="_blank">佛罗里达医院</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list/tagId_647/%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF.html" class="company">试管婴儿</a><span class="tag_qty">(1)</span> <a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" class="company">牙医</a><span class="tag_qty">(1)</span> 
+         </dd>  
+        </dl> 
+        <dl class="category_box"> 
+         <dt class="category_box_img"> <a href="/company/catid_38/%E7%85%A7%E7%9B%B8%E9%A6%86/task_list.html" title="照相馆" class="map_link" target="_blank"></a>
+         </dt>
+         <dt class="category_box_content">
+          <a href="/company/catid_38/%E7%85%A7%E7%9B%B8%E9%A6%86/task_list.html" title="照相馆" class="map_link" target="_blank">照相馆</a> 
+         </dt>
+         <dd class="category_box_row"> <a href="/company/catid_38/%E7%85%A7%E7%9B%B8%E9%A6%86/task_list/tagId_395/%E5%A9%9A%E7%BA%B1%E6%91%84%E5%BD%B1.html" class="company">婚纱摄影</a><span class="tag_qty">(3)</span> <a href="/company/catid_38/%E7%85%A7%E7%9B%B8%E9%A6%86/task_list/tagId_396/%E5%A9%9A%E7%A4%BC%E8%B7%9F%E6%8B%8D.html" class="company">婚礼跟拍</a><span class="tag_qty">(2)</span> 
+         </dd>  
+        </dl> 
+       </div> 
+      </div> 
+      <div class="company_comment"> 
+       <div class="header"> 
+        <dl> 
+         <dd class="title"> <a href="/company/task_latest_review.html">最新商家点评</a> 
+         </dd> 
+         <dd class="more"> <a href="/company/task_latest_review.html">更多&gt;&gt;</a> 
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment_list"> 
+        <dl class="comment">
+         <dd class="company_title">
+          <a href="/company/task_view/id_480/%E7%A5%9E%E6%8E%A2%E6%97%8F%20-%20%E8%BF%BD%E5%80%BA%E5%85%AC%E5%8F%B8%EF%BC%8C%E7%A7%81%E4%BA%BA%E4%BE%A6%E6%8E%A2%EF%BC%8C%E5%BE%8B%E5%B8%88.html" target="_blank" title="神探族 - 追债公司，私人侦探，律师-点评">神探族 - 追债公司，私人侦探，律师</a>
+         </dd>
+         <dd class="user">
+           Review by <a href="/user/id_2386022.html">阿凡提</a> at 2020-09-11
+         </dd>
+         <dd>
+          跨州追债经历分享。 我现在住Naples, 原来在洛杉矶的公司被在迈阿密的客户欠债不还，这公司老板是犹太人住在纽约。神探族侦探律师全部出动，帮找到法人地址，还有个人和
+         </dd>
+        </dl> 
+        <hr class="dotted_line"> 
+        <dl class="comment">
+         <dd class="company_title">
+          <a href="/restaurant/task_view/id_6/%E7%AB%B9%E6%9E%97%E9%85%92%E5%AE%B6.html" target="_blank" title="竹林酒家-点评">竹林酒家</a>
+         </dd>
+         <dd class="user">
+           Review by <a href="/user/id_2381578.html">HarrisonTim</a> at 2020-09-07
+         </dd>
+         <dd>
+          好吃好吃好好吃。 解馋解饿。
+         </dd>
+        </dl> 
+        <hr class="dotted_line"> 
+        <dl class="comment">
+         <dd class="company_title">
+          <a href="/restaurant/task_view/id_35/%E6%95%85%E4%B9%A1%E5%B1%85%E9%9F%A9%E5%9B%BD%E9%A4%90%E9%A6%86.html" target="_blank" title="故乡居韩国餐馆-点评">故乡居韩国餐馆</a>
+         </dd>
+         <dd class="user">
+           Review by <a href="/user/id_2371983.html">1625Lily Su</a> at 2020-09-06
+         </dd>
+         <dd>
+          请问你们需要做汤的厨师吗？有过多年做生冷汤经验，如果你有需要的话欢迎给我打电话626-977-3077Lily，谢谢！
+         </dd>
+        </dl> 
+       </div> 
+      </div> 
+      <div class="company_join"> 
+       <div class="header">
+        <dl>
+         <dd class="title">
+          <a href="/company/task_latest.html">热门商家</a>
+         </dd>
+         <dd class="more">
+          <a href="/company/task_latest.html">更多&gt;&gt;</a>
+         </dd>
+        </dl>
+       </div> 
+       <div class="join_list"> 
+        <dd>
+         <span class="join_category">【<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html">华人律师</a>】</span><a class="join" href="/lawyer/task_view/id_295/%E7%BE%8E%E5%9B%BD%E8%92%B2%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html">美国蒲律师事务所</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html">华人律师</a>】</span><a class="join" href="/lawyer/task_view/id_36/%E7%BE%8E%E5%9B%BDKLC%E8%81%94%E5%90%88%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html">美国KLC联合律师事务所</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>】</span><a class="join" href="/company/task_view/id_50/%E6%A2%85%E5%B0%8F%E8%89%BE%2C%20MBA%2C%20MPA%2C%20CIPS%20CNE.html">梅小艾, MBA, MPA, CIPS CNE</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_326/%E8%BF%BD%E5%80%BA%E5%85%AC%E5%8F%B8%EF%BC%8C%E7%A7%81%E4%BA%BA%E4%BE%A6%E6%8E%A2/task_list.html">追债公司，私人侦探</a>】</span><a class="join" href="/company/task_view/id_480/%E7%A5%9E%E6%8E%A2%E6%97%8F%20-%20%E8%BF%BD%E5%80%BA%E5%85%AC%E5%8F%B8%EF%BC%8C%E7%A7%81%E4%BA%BA%E4%BE%A6%E6%8E%A2%EF%BC%8C%E5%BE%8B%E5%B8%88.html">神探族 - 追债公司，私人侦探，律师</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_73/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/task_list.html">电脑网络</a>】</span><a class="join" href="/company/task_view/id_406/Menusifu%20%E9%A4%90%E9%A6%86%E6%99%BA%E8%83%BD%E7%82%B9%E9%A4%90%E7%94%B5%E8%84%91%20%E5%A5%97%E9%A4%90%24899%E8%B5%B7%EF%BC%9B%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%B7%E5%8D%A1%E6%9C%BA%EF%BC%8C%E4%BD%8E%E8%B4%B9%E7%8E%87.html">Menusifu 餐馆智能点餐电脑 套餐$899起；信用卡刷卡机，低费率</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html">华人律师</a>】</span><a class="join" href="/lawyer/task_view/id_42/%E6%B8%A9%E5%80%A9.html">温倩</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html">华人旅行社</a>】</span><a class="join" href="/company/task_view/id_449/%E6%96%87%E6%99%AF%E5%81%87%E6%9C%9F.html">文景假期</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>】</span><a class="join" href="/company/task_view/id_428/%E5%BC%A0%E9%A2%96%E5%A9%B7.html">张颖婷</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html">华人律师</a>】</span><a class="join" href="/lawyer/task_view/id_360/%E9%AB%98%E6%9C%AF%E4%BB%81%E5%BE%8B%E5%B8%88%E5%9B%BD%E9%99%85%E4%BA%8B%E5%8A%A1%E6%89%80%20%28646%29%20632-7060.html">高术仁律师国际事务所 (646) 632-7060</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>】</span><a class="join" href="/company/task_view/id_556/JESSIE%20XU%20%E5%A9%95%E8%8C%9C-%E4%BD%9B%E5%B7%9E%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA.html">JESSIE XU 婕茜-佛州地产经纪</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>】</span><a class="join" href="/company/task_view/id_358/%E8%B5%B5%E5%A9%89%E6%AC%A3.html">赵婉欣</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html">华人医生</a>】</span><a class="join" href="/doctor/task_view/id_179/%E6%9B%BE%E6%99%93%E6%A2%85.html">曾晓梅</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>】</span><a class="join" href="/company/task_view/id_98/%E9%BE%99%E6%9B%BC%E7%8E%89.html">龙曼玉</a>
+        </dd>
+        <dd>
+         <span class="join_category">【<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html">佛罗里达餐厅</a>】</span><a class="join" href="/restaurant/task_view/id_34/%E5%A5%A5%E5%8D%A1%E6%8B%89%E9%A4%90%E5%8E%85%E7%BE%8E%E9%A3%9F%E8%BD%A9.html">奥卡拉餐厅美食轩</a>
+        </dd>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="company_right"> 
+     <div class="publish-company"> <!-- <a href="/company/task_category_select.html" class="publishInfo"></a> --> 
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div> 
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="/restaurant.html" target="_black" class="normal_font bold_font blue_font">美食地图</a> 
+        </div> <span><a href="/restaurant.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html" class="black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/f/page_viewtopic/t_25587.html" target="_blank" class="small_font black_font" title="餐饮贷款 快速到账 9176601166 同兴资本"> 餐饮贷款 快速到账 9176601166 同...</a></li> 
+       <li><a href="/f/page_viewtopic/t_62914.html" target="_blank" class="small_font black_font" title="网美奶茶店的专家 御茶&amp;丰茶 新推出乾拌面系列！"> 网美奶茶店的专家 御茶&amp;丰茶 ...</a></li> 
+       <li><a href="/f/page_viewtopic/t_33326.html" target="_blank" class="small_font black_font" title="美国-佛州奥兰多华人旅游接送服务"> 美国-佛州奥兰多华人旅游接送服务</a></li> 
+       <li><a href="/f/page_viewtopic/t_59942.html" target="_blank" class="small_font black_font" title="御茶&amp;丰茶 全方位的手摇饮材料供应商！"> 御茶&amp;丰茶 全方位的手摇饮材料...</a></li> 
+       <li><a href="/f/page_viewtopic/t_59896.html" target="_blank" class="small_font black_font" title="卓越电脑 - 北美华人最佳的点餐系统,智能云端点餐系统"> 卓越电脑 - 北美华人最佳的点餐系...</a></li> 
+      </ul> 
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="http://https://www.chineseinflorida.com/travel.html" target="_blank" class="normal_font bold_font blue_font">旅游地图</a>
+        </div> <span><a href="http://https://www.chineseinflorida.com/travel.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="travel_map padding">
+       <a href="http://https://www.chineseinflorida.com/travel.html" target="_blank"></a>
+      </div> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="normal_font bold_font black_font">华人旅行社</a>
+        </div> <span><a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="black_font">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/company/task_view/id_491/%E5%BD%A9%E8%99%B9%E4%B9%8B%E6%97%85%E5%9B%BD%E9%99%85%E6%97%85%E8%A1%8C%E7%A4%BE.html" target="_blank" class="small_font black_font">彩虹之旅国际旅行社</a></li> 
+       <li><a href="/company/task_view/id_576/%E9%87%91%E8%89%B2%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">金色旅游</a></li> 
+       <li><a href="/company/task_view/id_578/%E9%87%91%E8%89%B2%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">金色旅游</a></li> 
+       <li><a href="/company/task_view/id_128/%E6%98%8E%E6%83%A0%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">明惠旅游</a></li> 
+       <li><a href="/company/task_view/id_421/%E7%BE%8E%E5%9B%BD%E8%80%81%E9%99%86%E5%8C%85%E8%BD%A6%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">美国老陆包车旅游</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="company_left_ads_sub">
+     <div class="ads"> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Homepage 160x600, created 2/5/09 --> 
+      <ins clas

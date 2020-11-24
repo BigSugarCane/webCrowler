@@ -1,0 +1,772 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/food.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_second/task_food.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>拉斯维加斯美食 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="全方位的拉斯维加斯美食信息，包含拉斯维加斯中餐馆，美食地图，美食论坛，美食快报，独家餐厅折扣券，美食团购券，超市特价等相关资讯"> 
+  <meta name="keywords" content="拉斯维加斯中餐馆,拉斯维加斯美食,拉斯维加斯超市,美食团购、餐厅打折，超市特价，餐馆，服务员，小费，kfc，汉堡，Chinese, Oversea, China, Taiwan, Taiwanese"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/second_page.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li class="active"><a href="/food.html" class="brand">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/food.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="r0"> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="拉斯维加斯美食" target="_blank"><span>拉斯维加斯美食</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant.html" target="_blank">美食地图</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list.html" target="_blank">美食排行</a></span> <span><a href="https://www.vegaschinaren.com/food_express.html" target="_blank">美食快报</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank">美食论坛</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_2298.html" target="_blank">中餐</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4397.html" target="_blank">西餐</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="中餐菜系" target="_blank"><span>中餐菜系</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4426.html" target="_blank">川菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7975.html" target="_blank">上海菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_5329.html" target="_blank">台湾菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4356.html" target="_blank">湖南菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4393.html" target="_blank">云南菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4417.html" target="_blank">粤菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4410.html" target="_blank">北方菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7735.html" target="_blank">陕西菜</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="特色菜" target="_blank"><span>特色菜</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_453.html" target="_blank">海鲜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7865.html" target="_blank">法国菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_1087.html" target="_blank">日本菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4409.html" target="_blank">烧烤</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4394.html" target="_blank">小吃</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_9146.html" target="_blank">点心</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="美食城市" target="_blank"><span>美食城市</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4388.html" target="_blank">Las Vegas</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_10354.html" target="_blank">Anaheim</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_5992.html" target="_blank">Henderson</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_10353.html" target="_blank">Central Valley</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_9690.html" target="_blank">Paradise</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_9674.html" target="_blank">Philadelphia</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.vegaschinaren.com/food_express.html" target="_blank">美食快报</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/food_express.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19539.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19539.html" target="_blank">星巴克调高部分饮品售价</a>
+        </div> 
+        <div class="article">
+         <p>星巴克公司将调高其在美国境内各家连锁店销售的部分饮品售价。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19491.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19491.html" target="_blank">在餐桌上重现经典动画</a>
+        </div> 
+        <div class="article">
+         <p>国外有这么一位妈妈，为了能让儿子吃健康食物，在餐桌上重现了许多经典儿童动画片中的场景。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9343.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9343.html" target="_blank">拉斯维加斯八大浪漫餐厅</a>
+        </div> 
+        <div class="article">
+         <p>鲜花丶巧克力和美食佳肴，连空气都是甜腻腻的。介绍美国拉斯维加斯八大浪漫餐厅，赶快带上您的TA来一场浪漫的晚宴吧!</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12339.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12339.html" target="_blank">品尝拉斯维加斯巧克力</a>
+        </div> 
+        <div class="article">
+         <p>在拉斯维加斯市郊的巧克力工厂，生产着甜蜜与暧昧，让美国人在巧克力的甜腻中体验、细细品味匆忙人生中的别样生活。</p>
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/restaurant.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/restaurant/tagId_2298/task_list.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/rate_exchange.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_11.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="https://www.vegaschinaren.com/la_weblinks.html" target="_blank">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="r1"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/restaurant/task_list/catid_6.html" target="_blank">拉斯维加斯中餐</a>
+     </div> 
+     <div class="title_more"> <a href="" target="_blank"></a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="中餐菜系" target="_blank"><span>中餐菜系</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4426.html" target="_blank">川菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7975.html" target="_blank">上海菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_5329.html" target="_blank">台湾菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4356.html" target="_blank">湖南菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4393.html" target="_blank">云南菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4417.html" target="_blank">粤菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4410.html" target="_blank">北方菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7735.html" target="_blank">陕西菜</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="特色菜" target="_blank"><span>特色菜</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_453.html" target="_blank">海鲜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7865.html" target="_blank">法国菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_1087.html" target="_blank">日本料理</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4409.html" target="_blank">烧烤</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_10469.html" target="_blank">甜点</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4394.html" target="_blank">小吃</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/restaurant/task_list.html" title="异国风味" target="_blank"><span>异国风味</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_1087.html" target="_blank">日本料理</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_9145.html" target="_blank">韩国菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7865.html" target="_blank">法国菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4399.html" target="_blank">泰国菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_7659.html" target="_blank">意大利菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4723.html" target="_blank">墨西哥菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_10622.html" target="_blank">马来西亚菜</a></span> <span><a href="https://www.vegaschinaren.com/restaurant/task_list/tagId_4396.html" target="_blank">越南菜</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"></div> 
+      </div> 
+      <div class="adsimg"> <a href="https://www.vegaschinaren.com/restaurant.html" target="_blank"></a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.vegaschinaren.com/restaurant/task_list/catid_6.html" class="active" target="_blank"><span>美食排行榜</span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.vegaschinaren.com/restaurant/task_list/catid_6.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content"> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30804.html.html" target="_blank"><span>Raku</span></a> 
+       </div> 
+       <div class="thumb5 middle"> <a href="https://www.vegaschinaren.com/company/task_view/id_13301.html.html" target="_blank"><span>Wynn Buffet</span></a> 
+       </div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30872.html.html" target="_blank"><span>大旺餐厅</span></a> 
+       </div> 
+       <div class="clear"></div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_14776.html.html" target="_blank"><span>洞庭春湘菜馆</span></a> 
+       </div> 
+       <div class="thumb5 middle"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30505.html.html" target="_blank"><span>新光海鲜酒家</span></a> 
+       </div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_14894.html.html" target="_blank"><span>云南过桥园</span></a> 
+       </div> 
+       <div class="clear"></div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15065.html.html" target="_blank"><span>金元宝</span></a> 
+       </div> 
+       <div class="thumb5 middle"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15606.html.html" target="_blank"><span>大圣茶餐厅</span></a> 
+       </div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30797.html.html" target="_blank"><span>Mr. Mama’s</span></a> 
+       </div> 
+       <div class="clear"></div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15359.html.html" target="_blank"><span>金鼎川杨菜</span></a> 
+       </div> 
+       <div class="thumb5 middle"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30700.html.html" target="_blank"><span>Pearl</span></a> 
+       </div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15618.html.html" target="_blank"><span>如意面家</span></a> 
+       </div> 
+       <div class="clear"></div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15309.html.html" target="_blank"><span>妈妈家</span></a> 
+       </div> 
+       <div class="thumb5 middle"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_15595.html.html" target="_blank"><span>第一烧腊粥粉面家</span></a> 
+       </div> 
+       <div class="thumb5"> <a href="https://www.vegaschinaren.com/restaurant/task_view/id_30871.html.html" target="_blank"><span>大四川</span></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title"> <a href="https://www.vegaschinaren.com/restaurant/task_list/catid_6.html" target="_blank">本月新增餐厅</a> 
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/restaurant/task_list/catid_6.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_33101/%E6%BB%8B%E5%91%B3%E5%9D%8A.html" target="_blank">滋味坊</a> </span> <span class="sponsor_contact"> <span class="tel">7024638018</span> </span> <span class="sponsor_introduce">面档,Las vegas,中餐,面食,粤菜</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_33101/%E6%BB%8B%E5%91%B3%E5%9D%8A.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_32896/%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD.html" target="_blank">遇见中国</a> </span> <span class="sponsor_contact"> <span class="tel">702-463-6777</span> </span> <span class="sponsor_introduce">中餐,海鲜,自助餐,面点,拉斯维加斯美食,Las Vegas</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_32896/%E9%81%87%E8%A7%81%E4%B8%AD%E5%9B%BD.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_32845/%E5%A4%A7%E9%BC%93%E7%B1%B3%E7%BA%BF.html" target="_blank">大鼓米线</a> </span> <span class="sponsor_contact"> <span class="tel">7026654083</span> </span> <span class="sponsor_introduce">中餐,拉斯维加斯美食,面点,面食,Las Vegas</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_32845/%E5%A4%A7%E9%BC%93%E7%B1%B3%E7%BA%BF.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_32841/%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9F%8E.html" target="_blank">火焰山城</a> </span> <span class="sponsor_contact"> <span class="tel">702-247-1123</span> </span> <span class="sponsor_introduce">中餐,川菜,自助餐,拉斯维加斯美食,美食,Las Vegas</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_32841/%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9F%8E.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_32829/Tasty%20China.html" target="_blank">Tasty China</a> </span> <span class="sponsor_contact"> <span class="tel">(702) 868-3339</span> </span> <span class="sponsor_introduce">中餐,North Las Vegas</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_32829/Tasty%20China.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="/company/task_view/id_32828/China%20Passion.html" target="_blank">China Passion</a> </span> <span class="sponsor_contact"> <span class="tel">(702) 515-0378</span> </span> <span class="sponsor_introduce">中餐,Las Vegas</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="/company/task_view/id_32828/China%20Passion.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="/restaurant.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="r3"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank">美食论坛</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank">美食外卖</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" title="论坛热点" target="_blank"><span>论坛热点</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2/key_%E6%8E%A8%E8%8D%90.html" target="_blank">餐厅推荐</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2/key_%E5%A4%96%E5%8D%96.html" target="_blank">美食外卖</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2/key_%E7%B1%B3%E5%85%B6%E6%9E%97.html" target="_blank">米其林</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2/key_%E5%92%96%E5%95%A1.html" target="_blank">咖啡</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_2/key_%E8%87%AA%E5%88%B6.html" target="_blank">厨艺展示</a></span> <span><a href="https://www.vegaschinaren.com/gallery/fid_2html" target="_blank">美食图片</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA today highlight right --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1702832069"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div> 
+    <div class="group_middle"> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank"><h2>美食论坛</h2></a> 
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/f/page_viewforum/f_2.html" target="_blank">进入论坛&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84367.html" title="MenuSifu：零成本实现餐馆单量倍增！2020最后冲刺靠它了！" target="_blank">MenuSifu：零成本实现餐馆单量倍增！2020最后冲刺靠它了！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_81229.html" title="MenuSifu：打造爆款和营销对餐饮店的重要性,如何打造爆款" target="_blank">MenuSifu：打造爆款和营销对餐饮店的重要性,如何打造爆款</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_79324.html" title="MenuSifu：二月以来美国dine-in走势,最新数据揭示餐饮经济迎来反弹" target="_blank">MenuSifu：二月以来美国dine-in走势,最新数据揭示餐饮经济迎来反弹</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78507.html" title="王中王 鸭舌 爆款面膜 鲍鱼 邮寄打单" target="_blank">王中王 鸭舌 爆款面膜 鲍鱼 邮寄打单</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78478.html" title="疫情期间免费送KP餐馆电脑啦！名额有限 限时申请!" target="_blank">疫情期间免费送KP餐馆电脑啦！名额有限 限时申请!</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78197.html" title="ZBS POS - 线上点餐 $1 用到爽！" target="_blank">ZBS POS - 线上点餐 $1 用到爽！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_77926.html" title="MenuSifu：3000万人消费数据显示第二波疫情餐厅负主要责任？我们餐饮人不背这个锅！" target="_blank">MenuSifu：3000万人消费数据显示第二波疫情餐厅负主要责任？我们餐饮人不背这个锅！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_77727.html" title="仙居杨梅 ！新鲜现货,全美邮寄哈,亲们！" target="_blank">仙居杨梅 ！新鲜现货,全美邮寄哈,亲们！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_77334.html" title="供应最新一代全自动仿手工饺子机器设备" target="_blank">供应最新一代全自动仿手工饺子机器设备</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_76616.html" title="MenuSifu：三个月餐饮业亏损1200亿,餐饮人苦尽甘来？" target="_blank">MenuSifu：三个月餐饮业亏损1200亿,餐饮人苦尽甘来？</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75378.html" title="Uber Eats 优步优食,为您送餐" target="_blank">Uber Eats 优步优食,为您送餐</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75241.html" title="新手做在线点餐Online Food Order网站,网上订餐系统网站,只需2小时" target="_blank">新手做在线点餐Online Food Order网站,网上订餐系统网站,只需2小时</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75161.html" title="幺麻子工厂直供四川藤椒油干花椒等各类地道川味调味料" target="_blank">幺麻子工厂直供四川藤椒油干花椒等各类地道川味调味料</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75159.html" title="鲜活小龙虾" target="_blank">鲜活小龙虾</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_71968.html" title="MenuSifu: 调研显示美国年轻人想在疫情缓解后立刻奔赴餐馆！" target="_blank">MenuSifu: 调研显示美国年轻人想在疫情缓解后立刻奔赴餐馆！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_70977.html" title="美味的三只松鼠零食来啦" target="_blank">美味的三只松鼠零食来啦</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA today highlight right --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1702832069"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="/deals.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <script type="text/javascript" src="https://lv.nychinaren.com/includes/js/jquery-2.1.1.min.js"></script>
+   <script type="text/javascript">var jQuery_211 = $.noConflict(true);</script>
+   <script type="text/javascript" src="https://lv.nychinaren.com/includes/js/sidenavmenu.js?v=v1662"></script>
+   <script type="text/javascript">$(document).ready(function(){$("base").remove();});</script>
+   <div class="sideToolbar" id="sideToolbar">
+    <ul class="nav">
+     <li><a href="#pageCenter">美食快报</a></li>
+     <li><a href="#r1">赌城中餐</a></li>
+     <li><a href="#r3">美食论坛</a></li>
+    </ul><a class="back-to-top" href="#pageCenter" title="返回顶部"></a><a class="dim-code" href="http://t.qq.com/chineseinla_com" title="微信公众平台：vegaschinaren" target="_blank"></a>
+   </div>
+   <div class="row"> 
+    <div class="la_guide"> 
+     <div class="la_guide1"> 
+      <div class="la_guide_title">
+       拉斯维加斯生活指南
+      </div> 
+      <dl class="la_guide_list" id="guide_cat_9"> 
+       <dt>
+        推荐
+       </dt> 
+       <dd>
+        <a href="https://www.VegasChinaRen.com/f.html">拉斯维加斯华人论坛</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/company.html">拉斯维加斯商家点评</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/doctor.html">拉斯维加斯华人医生分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/accountant.html">拉斯维加斯会计师分布图</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_6"> 
+       <dt>
+        拉斯维加斯
+       </dt> 
+       <dd>
+        <a href="https://www.VegasChinaRen.com/weather.html">拉斯维加斯天气</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/time.html">拉斯维加斯时间</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/zipcode.html">邮政编码查询</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/la_weblinks/catid_46.html">公共交通</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_2"> 
+       <dt>
+        美食
+       </dt> 
+       <dd>
+        <a href="https://www.VegasChinaRen.com/restaurant.html">拉斯维加斯美食地图</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/company/task_list/catid_186.html">拉斯维加斯自助餐</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/restaurant/task_list.html">拉斯维加斯中餐厅</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_3"> 
+       <dt>
+  

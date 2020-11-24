@@ -1,0 +1,736 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/lastname.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>华人姓氏查询 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="查询华人姓氏拼法，根据姓氏的英文拼写查询具体的中文姓氏，包含大陆，台湾，香港，澳门，新加坡，韩国，马来西亚等各地的不同拼法"> 
+  <meta name="keywords" content="华人姓氏查询,中文姓氏拼写,中文姓氏拼写查询"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/lastname.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+
+function setDefaultSearchLastName(form)
+{
+	var key = form.lastname.value;	
+
+	if(key == "请输入您要查找的姓(Last Name)...")
+	{
+
+		form.lastname.value = "";
+
+	}	
+}
+
+function searchLastNameOnKeyProcess(e, form)
+{
+
+	var keynum
+	if(window.event) // IE
+	{
+		keynum = e.keyCode
+	}
+	else if(e.which) // Netscape/Firefox/Opera
+	{
+		keynum = e.which
+	}		
+
+	if(keynum == 13)
+	{
+		searchLastName();
+	}	
+}
+
+function searchLastName()
+{
+	var lastname = $("#lastname").val().trim();
+	if(lastname == "")
+	{
+		alert("请输入您要超找的姓氏！！！");
+		return;
+	}
+	
+	var url = "/index3.php?option=com_lastname&task=key&key=" + lastname;
+	
+	$("#name_list_block").load(url);
+	
+}
+
+</script> 
+   <div class="pathway">  <a href="/" class="pathway1">首页</a>&nbsp;&gt;&nbsp; <a href="/la_weblinks.html" class="pathway">常用工具</a>&nbsp;&gt;&nbsp; <a href="/lastname.html" class="pathway">华人姓氏查询</a> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="category_top">
+    <h1>华人姓氏查询</h1>
+   </div> 
+   <div class="clear"></div> 
+   <table width="1000px" cellpadding="0" cellspacing="0"> 
+    <tbody>
+     <tr>
+      <td> 
+       <div> 
+        <form name="lastnameForm" id="lastnameForm" onsubmit="return false;"> 
+         <input type="text" id="lastname" name="lastname" value="请输入您要查找的姓(Last Name)..." onkeypress="return searchLastNameOnKeyProcess(event, this.form)" onfocus="if (this.value =='请输入您要查找的姓(Last Name)...'){this.value ='';this.style.color='#333';}" onblur="if (this.value ==''){this.value='请输入您要查找的姓(Last Name)...';this.style.color='#ccc';}"> 
+         <input type="button" name="Search" value="  搜索" onclick="searchLastName()"> 
+        </form> 
+       </div> 
+       <div class="clear"></div> 
+       <div>
+        常用搜索： <a href="/lastname/key_?.html" class="name_key">?</a> ,<a href="/lastname/key_Hsiang.html" class="name_key">Hsiang</a> ,<a href="/lastname/key_Chu.html" class="name_key">Chu</a> ,<a href="/lastname/key_Ngan.html" class="name_key">Ngan</a> ,<a href="/lastname/key_Cheah.html" class="name_key">Cheah</a> ,<a href="/lastname/key_Ho.html" class="name_key">Ho</a> ,<a href="/lastname/key_Cheong.html" class="name_key">Cheong</a> ,<a href="/lastname/key_??.html" class="name_key">??</a> ,<a href="/lastname/key_Kwok.html" class="name_key">Kwok</a> ,<a href="/lastname/key_Teh.html" class="name_key">Teh</a> ,<a href="/lastname/key_Ngo.html" class="name_key">Ngo</a> ,<a href="/lastname/key_Ha.html" class="name_key">Ha</a> ,<a href="/lastname/key_Yim.html" class="name_key">Yim</a> ,<a href="/lastname/key_Tang.html" class="name_key">Tang</a> ,<a href="/lastname/key_Si.html" class="name_key">Si</a> ,<a href="/lastname/key_Tsia.html" class="name_key">Tsia</a> ,<a href="/lastname/key_Xu.html" class="name_key">Xu</a> ,<a href="/lastname/key_Khoo.html" class="name_key">Khoo</a> ,<a href="/lastname/key_Lei.html" class="name_key">Lei</a> ,<a href="/lastname/key_Wa.html" class="name_key">Wa</a> ,<a href="/lastname/key_Cheung.html" class="name_key">Cheung</a> ,<a href="/lastname/key_Shi.html" class="name_key">Shi</a> ,<a href="/lastname/key_San.html" class="name_key">San</a> ,<a href="/lastname/key_Han.html" class="name_key">Han</a> ,<a href="/lastname/key_Chau.html" class="name_key">Chau</a> ,<a href="/lastname/key_chiu.html" class="name_key">chiu</a> ,<a href="/lastname/key_Heng.html" class="name_key">Heng</a> ,<a href="/lastname/key_Chee.html" class="name_key">Chee</a> ,<a href="/lastname/key_Woo.html" class="name_key">Woo</a> ,<a href="/lastname/key_Hsieh.html" class="name_key">Hsieh</a> <a href="/lastname/task_search.html" class="name_key">更多...</a> 
+       </div> 
+       <div id="name_list_block"> 
+        <div class="highlight">
+          下面的姓氏有可能是您要查找的： 
+        </div> 
+        <table width="100%" class="name_list" cellpadding="0" cellspacing="0"> 
+         <tbody>
+          <tr> 
+           <th width="7%">中文</th>
+           <th width="12%">大陆拼法</th>
+           <th width="12%">台湾拼法</th>
+           <th width="12%">香港拼法</th>
+           <th width="12%">澳门拼法</th>
+           <th width="12%">新加坡拼法</th>
+           <th width="12%">韩国拼法</th>
+           <th width="17%">马来西亚拼法</th> 
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E8%B5%B5.html" class="name_key">赵</a></td>
+           <td><a href="/lastname/key_Zhao.html" class="name_key">Zhao</a></td>
+           <td><a href="/lastname/key_Chao.html" class="name_key">Chao</a></td>
+           <td><a href="/lastname/key_Chiu.html" class="name_key">Chiu</a></td>
+           <td><a href="/lastname/key_Chio.html" class="name_key">Chio</a></td>
+           <td><a href="/lastname/key_Chow.html" class="name_key">Chow</a></td>
+           <td><a href="/lastname/key_Jo.html" class="name_key">Jo</a>/<a href="/lastname/key_Cho.html" class="name_key">Cho</a></td>
+           <td><a href="/lastname/key_Teoh.html" class="name_key">Teoh</a>/<a href="/lastname/key_Chew.html" class="name_key">Chew</a><br><a href="/lastname/key_Tiew.html" class="name_key">Tiew</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E9%92%B1.html" class="name_key">钱</a></td>
+           <td><a href="/lastname/key_Qian.html" class="name_key">Qian</a></td>
+           <td><a href="/lastname/key_Chien.html" class="name_key">Chien</a></td>
+           <td><a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Zee.html" class="name_key">Zee</a></td>
+           <td><a href="/lastname/key_Joen.html" class="name_key">Joen</a>/<a href="/lastname/key_Chun.html" class="name_key">Chun</a></td>
+           <td><a href="/lastname/key_Chien.html" class="name_key">Chien</a>/<a href="/lastname/key_Chen.html" class="name_key">Chen</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E5%AD%99.html" class="name_key">孙</a></td>
+           <td><a href="/lastname/key_Sun.html" class="name_key">Sun</a></td>
+           <td><a href="/lastname/key_Sun.html" class="name_key">Sun</a></td>
+           <td><a href="/lastname/key_Suen.html" class="name_key">Suen</a></td>
+           <td><a href="/lastname/key_Sun.html" class="name_key">Sun</a></td>
+           <td><a href="/lastname/key_Soon.html" class="name_key">Soon</a></td>
+           <td><a href="/lastname/key_Son.html" class="name_key">Son</a></td>
+           <td><a href="/lastname/key_Soon.html" class="name_key">Soon</a>/<a href="/lastname/key_Sun.html" class="name_key">Sun</a><br><a href="/lastname/key_Shun.html" class="name_key">Shun</a>/<a href="/lastname/key_Song.html" class="name_key">Song</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E6%9D%8E.html" class="name_key">李</a></td>
+           <td><a href="/lastname/key_Li.html" class="name_key">Li</a></td>
+           <td><a href="/lastname/key_Li.html" class="name_key">Li</a>/<a href="/lastname/key_Lee.html" class="name_key">Lee</a></td>
+           <td><a href="/lastname/key_Li.html" class="name_key">Li</a>/<a href="/lastname/key_Lee.html" class="name_key">Lee</a></td>
+           <td><a href="/lastname/key_Lei.html" class="name_key">Lei</a></td>
+           <td><a href="/lastname/key_Lee.html" class="name_key">Lee</a></td>
+           <td><a href="/lastname/key_Lee.html" class="name_key">Lee</a>/<a href="/lastname/key_Rhee.html" class="name_key">Rhee</a>/<a href="/lastname/key_Yi.html" class="name_key">Yi</a></td>
+           <td><a href="/lastname/key_Lee.html" class="name_key">Lee</a>/<a href="/lastname/key_Li.html" class="name_key">Li</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E5%91%A8.html" class="name_key">周</a></td>
+           <td><a href="/lastname/key_Zhou.html" class="name_key">Zhou</a></td>
+           <td><a href="/lastname/key_Chou.html" class="name_key">Chou</a></td>
+           <td><a href="/lastname/key_Chow.html" class="name_key">Chow</a>/<a href="/lastname/key_Chau.html" class="name_key">Chau</a></td>
+           <td><a href="/lastname/key_Chao.html" class="name_key">Chao</a></td>
+           <td><a href="/lastname/key_Chew.html" class="name_key">Chew</a></td>
+           <td><a href="/lastname/key_Ju.html" class="name_key">Ju</a>/<a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chew.html" class="name_key">Chew</a>/<a href="/lastname/key_Cheu.html" class="name_key">Cheu</a><br><a href="/lastname/key_Chou.html" class="name_key">Chou</a>/<a href="/lastname/key_Chow.html" class="name_key">Chow</a><br><a href="/lastname/key_Chiew.html" class="name_key">Chiew</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E5%90%B4.html" class="name_key">吴</a></td>
+           <td><a href="/lastname/key_Wu.html" class="name_key">Wu</a></td>
+           <td><a href="/lastname/key_Wu.html" class="name_key">Wu</a></td>
+           <td><a href="/lastname/key_Ng.html" class="name_key">Ng</a></td>
+           <td><a href="/lastname/key_Ng.html" class="name_key">Ng</a></td>
+           <td><a href="/lastname/key_Goh.html" class="name_key">Goh</a></td>
+           <td><a href="/lastname/key_Oh.html" class="name_key">Oh</a></td>
+           <td><a href="/lastname/key_Ng.html" class="name_key">Ng</a>/<a href="/lastname/key_Goh.html" class="name_key">Goh</a><br><a href="/lastname/key_Ngo.html" class="name_key">Ngo</a>/<a href="/lastname/key_Ngu.html" class="name_key">Ngu</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E9%83%91.html" class="name_key">郑</a></td>
+           <td><a href="/lastname/key_Zheng.html" class="name_key">Zheng</a></td>
+           <td><a href="/lastname/key_Cheng.html" class="name_key">Cheng</a></td>
+           <td><a href="/lastname/key_Cheng.html" class="name_key">Cheng</a></td>
+           <td><a href="/lastname/key_Cheang.html" class="name_key">Cheang</a></td>
+           <td><a href="/lastname/key_Tay.html" class="name_key">Tay</a></td>
+           <td><a href="/lastname/key_Jung.html" class="name_key">Jung</a>/<a href="/lastname/key_Jeong.html" class="name_key">Jeong</a><br><a href="/lastname/key_Chung.html" class="name_key">Chung</a>/<a href="/lastname/key_Cheong.html" class="name_key">Cheong</a></td>
+           <td><a href="/lastname/key_Ching.html" class="name_key">Ching</a>/<a href="/lastname/key_Tang.html" class="name_key">Tang</a><br><a href="/lastname/key_Tey.html" class="name_key">Tey</a>/<a href="/lastname/key_Tay.html" class="name_key">Tay</a><br><a href="/lastname/key_Tee.html" class="name_key">Tee</a>/<a href="/lastname/key_Teh.html" class="name_key">Teh</a><br><a href="/lastname/key_Cheng.html" class="name_key">Cheng</a>/<a href="/lastname/key_Chin.html" class="name_key">Chin</a><br><a href="/lastname/key_Chang.html" class="name_key">Chang</a>/<a href="/lastname/key_Chung.html" class="name_key">Chung</a><br><a href="/lastname/key_Chiang.html" class="name_key">Chiang</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E7%8E%8B.html" class="name_key">王</a></td>
+           <td><a href="/lastname/key_Wang.html" class="name_key">Wang</a></td>
+           <td><a href="/lastname/key_Wang.html" class="name_key">Wang</a></td>
+           <td><a href="/lastname/key_Wong.html" class="name_key">Wong</a></td>
+           <td><a href="/lastname/key_Vong.html" class="name_key">Vong</a>/<a href="/lastname/key_Wong.html" class="name_key">Wong</a></td>
+           <td><a href="/lastname/key_Ong.html" class="name_key">Ong</a>/<a href="/lastname/key_Wong.html" class="name_key">Wong</a></td>
+           <td><a href="/lastname/key_Wang.html" class="name_key">Wang</a></td>
+           <td><a href="/lastname/key_Ong.html" class="name_key">Ong</a>/<a href="/lastname/key_Ng.html" class="name_key">Ng</a><br><a href="/lastname/key_Wong.html" class="name_key">Wong</a>/<a href="/lastname/key_Wang.html" class="name_key">Wang</a><br><a href="/lastname/key_Bong.html" class="name_key">Bong</a>/<a href="/lastname/key_Heng.html" class="name_key">Heng</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E5%86%AF.html" class="name_key">冯</a></td>
+           <td><a href="/lastname/key_Feng.html" class="name_key">Feng</a></td>
+           <td><a href="/lastname/key_Feng.html" class="name_key">Feng</a></td>
+           <td><a href="/lastname/key_Fung.html" class="name_key">Fung</a></td>
+           <td><a href="/lastname/key_Fong.html" class="name_key">Fong</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Pung.html" class="name_key">Pung</a></td>
+           <td><a href="/lastname/key_Foong.html" class="name_key">Foong</a>/<a href="/lastname/key_Fung.html" class="name_key">Fung</a><br><a href="/lastname/key_Fong.html" class="name_key">Fong</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E9%99%88.html" class="name_key">陈</a></td>
+           <td><a href="/lastname/key_Chen.html" class="name_key">Chen</a></td>
+           <td><a href="/lastname/key_Chen.html" class="name_key">Chen</a></td>
+           <td><a href="/lastname/key_Chan.html" class="name_key">Chan</a></td>
+           <td><a href="/lastname/key_Chan.html" class="name_key">Chan</a></td>
+           <td><a href="/lastname/key_Tan.html" class="name_key">Tan</a>/<a href="/lastname/key_Chan.html" class="name_key">Chan</a><br><a href="/lastname/key_Ting.html" class="name_key">Ting</a></td>
+           <td><a href="/lastname/key_Jin.html" class="name_key">Jin</a>/<a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Chan.html" class="name_key">Chan</a>/<a href="/lastname/key_Chin.html" class="name_key">Chin</a><br><a href="/lastname/key_Chen.html" class="name_key">Chen</a>/<a href="/lastname/key_Tan.html" class="name_key">Tan</a><br><a href="/lastname/key_Tang.html" class="name_key">Tang</a>/<a href="/lastname/key_Ting.html" class="name_key">Ting</a><br><a href="/lastname/key_Ding.html" class="name_key">Ding</a>/<a href="/lastname/key_Sin.html" class="name_key">Sin</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E8%A4%9A.html" class="name_key">褚</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Cho.html" class="name_key">Cho</a>/<a href="/lastname/key_Jeo.html" class="name_key">Jeo</a></td>
+           <td><a href="/lastname/key_Too.html" class="name_key">Too</a>/<a href="/lastname/key_Toh.html" class="name_key">Toh</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E5%8D%AB.html" class="name_key">卫</a></td>
+           <td><a href="/lastname/key_Wei.html" class="name_key">Wei</a></td>
+           <td><a href="/lastname/key_Wei.html" class="name_key">Wei</a></td>
+           <td><a href="/lastname/key_Wai.html" class="name_key">Wai</a></td>
+           <td><a href="/lastname/key_Wai.html" class="name_key">Wai</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Ui.html" class="name_key">Ui</a>/<a href="/lastname/key_Oui.html" class="name_key">Oui</a></td>
+           <td><a href="/lastname/key_Wee.html" class="name_key">Wee</a>/<a href="/lastname/key_Wei.html" class="name_key">Wei</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E8%92%8B.html" class="name_key">蒋</a></td>
+           <td><a href="/lastname/key_Jiang.html" class="name_key">Jiang</a></td>
+           <td><a href="/lastname/key_Chiang.html" class="name_key">Chiang</a></td>
+           <td><a href="/lastname/key_Cheung.html" class="name_key">Cheung</a></td>
+           <td><a href="/lastname/key_Cheong.html" class="name_key">Cheong</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Jang.html" class="name_key">Jang</a>/<a href="/lastname/key_Chang.html" class="name_key">Chang</a></td>
+           <td><a href="/lastname/key_Chiang.html" class="name_key">Chiang</a>/<a href="/lastname/key_Cheong.html" class="name_key">Cheong</a><br><a href="/lastname/key_Chiong.html" class="name_key">Chiong</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E6%B2%88.html" class="name_key">沈</a></td>
+           <td><a href="/lastname/key_Shen.html" class="name_key">Shen</a></td>
+           <td><a href="/lastname/key_Shen.html" class="name_key">Shen</a></td>
+           <td><a href="/lastname/key_Shum.html" class="name_key">Shum</a>/<a href="/lastname/key_Sum.html" class="name_key">Sum</a></td>
+           <td><a href="/lastname/key_Sam.html" class="name_key">Sam</a></td>
+           <td><a href="/lastname/key_Sim.html" class="name_key">Sim</a></td>
+           <td><a href="/lastname/key_Sim.html" class="name_key">Sim</a>/<a href="/lastname/key_Shim.html" class="name_key">Shim</a></td>
+           <td><a href="/lastname/key_Sim.html" class="name_key">Sim</a>/<a href="/lastname/key_Shim.html" class="name_key">Shim</a><br><a href="/lastname/key_Shun.html" class="name_key">Shun</a>/<a href="/lastname/key_Shum.html" class="name_key">Shum</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E9%9F%A9.html" class="name_key">韩</a></td>
+           <td><a href="/lastname/key_Han.html" class="name_key">Han</a></td>
+           <td><a href="/lastname/key_Han.html" class="name_key">Han</a></td>
+           <td><a href="/lastname/key_Hon.html" class="name_key">Hon</a></td>
+           <td><a href="/lastname/key_Hon.html" class="name_key">Hon</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Han.html" class="name_key">Han</a></td>
+           <td><a href="/lastname/key_Hon.html" class="name_key">Hon</a>/<a href="/lastname/key_Hong.html" class="name_key">Hong</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E6%9D%A8.html" class="name_key">杨</a></td>
+           <td><a href="/lastname/key_Yang.html" class="name_key">Yang</a></td>
+           <td><a href="/lastname/key_Yang.html" class="name_key">Yang</a></td>
+           <td><a href="/lastname/key_Yeung.html" class="name_key">Yeung</a></td>
+           <td><a href="/lastname/key_Ieong.html" class="name_key">Ieong</a></td>
+           <td><a href="/lastname/key_Yeo.html" class="name_key">Yeo</a>/<a href="/lastname/key_Yong.html" class="name_key">Yong</a></td>
+           <td><a href="/lastname/key_Yang.html" class="name_key">Yang</a></td>
+           <td><a href="/lastname/key_Yong.html" class="name_key">Yong</a>/<a href="/lastname/key_Yeo.html" class="name_key">Yeo</a><br><a href="/lastname/key_Yeoh.html" class="name_key">Yeoh</a>/<a href="/lastname/key_Eow.html" class="name_key">Eow</a><br><a href="/lastname/key_Yeong.html" class="name_key">Yeong</a>/<a href="/lastname/key_Yew.html" class="name_key">Yew</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E6%9C%B1.html" class="name_key">朱</a></td>
+           <td><a href="/lastname/key_Zhu.html" class="name_key">Zhu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a></td>
+           <td><a href="/lastname/key_Choo.html" class="name_key">Choo</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a>/<a href="/lastname/key_Joo.html" class="name_key">Joo</a></td>
+           <td><a href="/lastname/key_Chu.html" class="name_key">Chu</a>/<a href="/lastname/key_Choo.html" class="name_key">Choo</a><br><a href="/lastname/key_Jee.html" class="name_key">Jee</a>/<a href="/lastname/key_Jeh.html" class="name_key">Jeh</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E7%A7%A6.html" class="name_key">秦</a></td>
+           <td><a href="/lastname/key_Qin.html" class="name_key">Qin</a></td>
+           <td><a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Chun.html" class="name_key">Chun</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Jin.html" class="name_key">Jin</a>/<a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Chin.html" class="name_key">Chin</a>/<a href="/lastname/key_Ch%27ng.html" class="name_key">Ch'ng</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E5%B0%A4.html" class="name_key">尤</a></td>
+           <td><a href="/lastname/key_You.html" class="name_key">You</a></td>
+           <td><a href="/lastname/key_Yu.html" class="name_key">Yu</a></td>
+           <td><a href="/lastname/key_Yau.html" class="name_key">Yau</a></td>
+           <td><a href="/lastname/key_Iao.html" class="name_key">Iao</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Woo.html" class="name_key">Woo</a>/<a href="/lastname/key_U.html" class="name_key">U</a></td>
+           <td><a href="/lastname/key_Yew.html" class="name_key">Yew</a>/<a href="/lastname/key_You.html" class="name_key">You</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E8%AE%B8.html" class="name_key">许</a></td>
+           <td><a href="/lastname/key_Xu.html" class="name_key">Xu</a></td>
+           <td><a href="/lastname/key_Hsu.html" class="name_key">Hsu</a></td>
+           <td><a href="/lastname/key_Hui.html" class="name_key">Hui</a></td>
+           <td><a href="/lastname/key_Hoi.html" class="name_key">Hoi</a></td>
+           <td><a href="/lastname/key_Hee.html" class="name_key">Hee</a>/<a href="/lastname/key_Koh.html" class="name_key">Koh</a></td>
+           <td><a href="/lastname/key_Heo.html" class="name_key">Heo</a>/<a href="/lastname/key_Huh.html" class="name_key">Huh</a>/<a href="/lastname/key_Hur.html" class="name_key">Hur</a></td>
+           <td><a href="/lastname/key_Koh.html" class="name_key">Koh</a>/<a href="/lastname/key_Khu.html" class="name_key">Khu</a><br><a href="/lastname/key_Khoo.html" class="name_key">Khoo</a>/<a href="/lastname/key_Khor.html" class="name_key">Khor</a><br><a href="/lastname/key_Khow.html" class="name_key">Khow</a>/<a href="/lastname/key_Hoo.html" class="name_key">Hoo</a><br><a href="/lastname/key_Hooi.html" class="name_key">Hooi</a>/<a href="/lastname/key_Khaw.html" class="name_key">Khaw</a><br><a href="/lastname/key_Hii.html" class="name_key">Hii</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E4%BD%95.html" class="name_key">何</a></td>
+           <td><a href="/lastname/key_He.html" class="name_key">He</a></td>
+           <td><a href="/lastname/key_Ho.html" class="name_key">Ho</a></td>
+           <td><a href="/lastname/key_Ho.html" class="name_key">Ho</a></td>
+           <td><a href="/lastname/key_Ho.html" class="name_key">Ho</a></td>
+           <td><a href="/lastname/key_Hoh.html" class="name_key">Hoh</a></td>
+           <td><a href="/lastname/key_Ha.html" class="name_key">Ha</a></td>
+           <td><a href="/lastname/key_Ho.html" class="name_key">Ho</a>/<a href="/lastname/key_Hoh.html" class="name_key">Hoh</a>/<a href="/lastname/key_Hor.html" class="name_key">Hor</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E5%90%95.html" class="name_key">吕</a></td>
+           <td><a href="/lastname/key_Lu.html" class="name_key">Lu</a></td>
+           <td><a href="/lastname/key_Lu.html" class="name_key">Lu</a></td>
+           <td><a href="/lastname/key_Lui.html" class="name_key">Lui</a></td>
+           <td><a href="/lastname/key_Loi.html" class="name_key">Loi</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Yeo.html" class="name_key">Yeo</a>/<a href="/lastname/key_Ryeo.html" class="name_key">Ryeo</a></td>
+           <td><a href="/lastname/key_Loh.html" class="name_key">Loh</a>/<a href="/lastname/key_Lei.html" class="name_key">Lei</a><br><a href="/lastname/key_Lui.html" class="name_key">Lui</a>/<a href="/lastname/key_Lee.html" class="name_key">Lee</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E6%96%BD.html" class="name_key">施</a></td>
+           <td><a href="/lastname/key_Shi.html" class="name_key">Shi</a></td>
+           <td><a href="/lastname/key_Shih.html" class="name_key">Shih</a></td>
+           <td><a href="/lastname/key_Sze.html" class="name_key">Sze</a>/<a href="/lastname/key_Si.html" class="name_key">Si</a></td>
+           <td><a href="/lastname/key_Si.html" class="name_key">Si</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Shi.html" class="name_key">Shi</a></td>
+           <td><a href="/lastname/key_See.html" class="name_key">See</a>/<a href="/lastname/key_Sii.html" class="name_key">Sii</a>/<a href="/lastname/key_Sih.html" class="name_key">Sih</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E5%BC%A0.html" class="name_key">张</a></td>
+           <td><a href="/lastname/key_Zhang.html" class="name_key">Zhang</a></td>
+           <td><a href="/lastname/key_Chang.html" class="name_key">Chang</a></td>
+           <td><a href="/lastname/key_Cheung.html" class="name_key">Cheung</a></td>
+           <td><a href="/lastname/key_Cheong.html" class="name_key">Cheong</a></td>
+           <td><a href="/lastname/key_Cheong.html" class="name_key">Cheong</a></td>
+           <td><a href="/lastname/key_Jang.html" class="name_key">Jang</a>/<a href="/lastname/key_Chang.html" class="name_key">Chang</a></td>
+           <td><a href="/lastname/key_Cheong.html" class="name_key">Cheong</a>/<a href="/lastname/key_Chong.html" class="name_key">Chong</a><br><a href="/lastname/key_Teo.html" class="name_key">Teo</a>/<a href="/lastname/key_Chang.html" class="name_key">Chang</a><br><a href="/lastname/key_Teoh.html" class="name_key">Teoh</a>/<a href="/lastname/key_Tiong.html" class="name_key">Tiong</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E5%AD%94.html" class="name_key">孔</a></td>
+           <td><a href="/lastname/key_Kong.html" class="name_key">Kong</a></td>
+           <td><a href="/lastname/key_Kung.html" class="name_key">Kung</a></td>
+           <td><a href="/lastname/key_Hung.html" class="name_key">Hung</a></td>
+           <td><a href="/lastname/key_Hong.html" class="name_key">Hong</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Gong.html" class="name_key">Gong</a>/<a href="/lastname/key_Kong.html" class="name_key">Kong</a></td>
+           <td><a href="/lastname/key_Kong.html" class="name_key">Kong</a>/<a href="/lastname/key_Khong.html" class="name_key">Khong</a><br><a href="/lastname/key_Kung.html" class="name_key">Kung</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E6%9B%B9.html" class="name_key">曹</a></td>
+           <td><a href="/lastname/key_Cao.html" class="name_key">Cao</a></td>
+           <td><a href="/lastname/key_Tsao.html" class="name_key">Tsao</a></td>
+           <td><a href="/lastname/key_Cho.html" class="name_key">Cho</a>/<a href="/lastname/key_Tso.html" class="name_key">Tso</a></td>
+           <td><a href="/lastname/key_Chou.html" class="name_key">Chou</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Cho.html" class="name_key">Cho</a>/<a href="/lastname/key_Jo.html" class="name_key">Jo</a></td>
+           <td><a href="/lastname/key_Cheng.html" class="name_key">Cheng</a>/<a href="/lastname/key_Choo.html" class="name_key">Choo</a><br><a href="/lastname/key_Cho.html" class="name_key">Cho</a>/<a href="/lastname/key_Chu.html" class="name_key">Chu</a><br><a href="/lastname/key_Chao.html" class="name_key">Chao</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E4%B8%A5.html" class="name_key">严</a></td>
+           <td><a href="/lastname/key_Yan.html" class="name_key">Yan</a></td>
+           <td><a href="/lastname/key_Yen.html" class="name_key">Yen</a></td>
+           <td><a href="/lastname/key_Yim.html" class="name_key">Yim</a></td>
+           <td><a href="/lastname/key_Im.html" class="name_key">Im</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Im.html" class="name_key">Im</a></td>
+           <td><a href="/lastname/key_Yam.html" class="name_key">Yam</a>/<a href="/lastname/key_Ngim.html" class="name_key">Ngim</a><br><a href="/lastname/key_Giam.html" class="name_key">Giam</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E5%8D%8E.html" class="name_key">华</a></td>
+           <td><a href="/lastname/key_Hua.html" class="name_key">Hua</a></td>
+           <td><a href="/lastname/key_Hua.html" class="name_key">Hua</a></td>
+           <td><a href="/lastname/key_Wa.html" class="name_key">Wa</a>/<a href="/lastname/key_Wah.html" class="name_key">Wah</a></td>
+           <td><a href="/lastname/key_Wa.html" class="name_key">Wa</a></td>
+           <td><a href="/lastname/key_Hoa.html" class="name_key">Hoa</a></td>
+           <td><a href="/lastname/key_Hwa.html" class="name_key">Hwa</a></td>
+           <td><a href="/lastname/key_Wha.html" class="name_key">Wha</a>/<a href="/lastname/key_Wah.html" class="name_key">Wah</a>/<a href="/lastname/key_Wa.html" class="name_key">Wa</a></td>
+          </tr> 
+          <tr>
+           <td><a href="/lastname/key_%E9%87%91.html" class="name_key">金</a></td>
+           <td><a href="/lastname/key_Jin.html" class="name_key">Jin</a></td>
+           <td><a href="/lastname/key_Chin.html" class="name_key">Chin</a></td>
+           <td><a href="/lastname/key_Kam.html" class="name_key">Kam</a></td>
+           <td><a href="/lastname/key_Kam.html" class="name_key">Kam</a></td>
+           <td><a href="/lastname/key_.html" class="name_key_highlight"></a></td>
+           <td><a href="/lastname/key_Kim.html" class="name_key">Kim</a></td>
+           <td><a href="/lastname/key_Kim.html" class="name_key">Kim</a>/<a href="/lastname/key_King.html" class="name_key">King</a></td>
+          </tr> 
+          <tr class="odd">
+           <td><a href="/lastname/key_%E9%AD%8F.html" class="name_key">魏</a></td>
+           <td><a href="/lastname/key_Wei.html" class="name_key">Wei</a></td>
+           <td><a href="/lastname/key_Wei.html" class="name_key">Wei</a></td>
+           <td><a href="/lastname/key_Ngai.html" class="name_key">Ngai</a></td>
+           <td><a href="/lastname/key_Ngai.html" class="name_key">Ngai</a></td>
+           <td><a href="/lastname/key_Goei.html" class="name_key">Goei</a></td>
+           <td><a href="/lastname/key_Ui.html" class="name_key">Ui</a>/<a href="/lastname/key_Oui.html" class="name_key">Oui</a><br><a href="/lastname/key_Wi.html" class="name_key">Wi</a>/<a href="/lastname/key_Wie.html" class="name_key">Wie</a><br><a href="/lastname/key_Wee.html" class="name_key">Wee</a></td>
+           <td><a href="/lastname/key_Ngui.html" class="name_key">Ngui</a>/<a href="/lastname/key_Gui.html" class="name_key">Gui</a>/<a href="/lastname/key_Woi.html" class="name_key">Woi</a></td>
+          </tr> 
+         </tbody>
+        </table> 
+       </div>  
+       <div></div> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Lastname Bottom  336*280 --> <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="3078338061"></ins> <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </td> 
+      <td> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Lastname Right 160x600, created 6/11/11 --> <ins class="adsbygoogle" data-ad-clie

@@ -1,0 +1,469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/clause.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_login/task_stipulation/type_clause.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>《服务条款》 - 拉斯维加斯华人资讯网</title> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/clause.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="forum_line"> 
+    <div class="forum_path"> <a href="/" class="nav">拉斯维加斯华人资讯网 首页</a> 
+    </div> 
+   </div> 
+   <div class="stipulation"> 
+    <div class="stipulation-nav"> 
+     <ol> 
+      <li> <a href="/guidelines.html">《社群指南》</a> </li> 
+      <li> <a href="/privacies.html">《隐私权政策》</a> </li> 
+      <li> <a href="/clause.html">《服务条款》</a> </li> 
+     </ol> 
+    </div> 
+    <div class="stipulation-inner"> 
+     <h2>《服务条款》</h2> 
+     <p>欢迎使用 拉斯维加斯华人资讯网！</p> 
+     <h4>简介</h4> 
+     <p>感谢您使用 拉斯维加斯华人资讯网 平台以及我们透过平台向您提供的产品、服务和功能 (统称为「服务」)。</p> 
+     <h4>我们的服务</h4> 
+     <p>本服务可让您探索、观看，以及分享本网站的视频、帖子、店铺及其他内容、为使用者提供网上平台，让世界各地的人彼此联系交流以及互相啟发，而内容原创者和广告客户亦可利用此渠道发布或宣传。</p> 
+     <h4>您的服务供应商</h4> 
+     <p>拉斯维加斯华人资讯网 是提供有关服务的实体公司，其根据加州法律营运(为「拉斯维加斯华人资讯网」或「我们」)。</p> 
+     <h4>适用条款</h4> 
+     <p>您使用本服务时受<a href="/guidelines.html">《拉斯维加斯华人资讯网 社群指南》</a>条款约束，此条款可能会不时更新 (统称为本「协议」)。条款中提供的任何其他连结或提述仅供参考，不属於本协议的一部分。</p> 
+     <p>请细阅本协议，并确保您理解当中条文。若不理解本协议或不接受本协议的任何部分，则您可以不使用本服务。</p> 
+     <h4>谁可使用本服务？</h4> 
+     <p>年龄规定</p> 
+     <p>您必须年满 13 岁才能使用本服务。然而，若经家长或法定监护人啟用并陪同使，则所有年龄的儿童都可以使用 拉斯维加斯华人资讯网 。</p> 
+     <p>家长或监护人许可</p> 
+     <p>若您在所在国家/地区中属於未成年人，即表示您已获得家长或监护人的许可使用本服务。请让他们与您一同阅读本协议。</p> 
+     <p>若您是所在国家/地区的未成年人的家长或法定监护人，您允许子女使用本服务将受本协议条款约束，并对子女於本服务上的活动负责。</p> 
+     <p>公司</p> 
+     <p>若您以公司或机构的身分使用本服务，即表示您有权代表该实体行事，且该实体接受本协议。</p> 
+     <p>使用本服务</p> 
+     <p>服务中的内容</p> 
+     <p>服务中的内容包括影片、音讯 (例如音乐和其他声音)、图像、相片、文字 (如留言和文稿)、品牌 (包括商业名称、商标、服务标记或标誌)、互动功能、软件、数据及其他资料，不论是由您、拉斯维加斯华人资讯网 或第三方提供 (统称「内容」)。</p> 
+     <p>向本服务提供内容的人士或实体须就内容负责。拉斯维加斯华人资讯网 并无义务存储或提供内容。若您发现任何您认为不符合本协议的内容 (包括违反<a href="/guidelines.html">《社群指南》</a>或法律)，则可向我们举报。</p> 
+     <p>拉斯维加斯华人资讯网 帐户</p> 
+     <p>您无需拥有拉斯维加斯华人资讯网帐户亦可以使用本服务的某些功能，例如浏览和搜寻内容等，但某些功能则需要有 拉斯维加斯华人资讯网 帐户才能使用。使用拉斯维加斯华人资讯网 帐户，您可以收藏喜欢的文章，视频，可以回复评论，点评商家、打分等。</p> 
+     <p>为保障您的 拉斯维加斯华人资讯网 帐户，请保管好密码。您不应在第三方应用程序上重复使用 拉斯维加斯华人资讯网 帐户和密码。</p> 
+     <h4>您的资料</h4> 
+     <p>我们的<a href="/privacies.html">《隐私权政策》</a>阐明您在使用本服务时，我们如何处理您的个人资料和保障您的隐私。</p> 
+     <p>您上载到本服务的任何音频、影音、照片、文字等内容，我们会根据<a href="/guidelines.html">《拉斯维加斯华人资讯网 社区指南》</a>处理，拉斯维加斯华人资讯网保留随时删除的权利。</p> 
+     <h4>权限和限制</h4> 
+     <p>只要遵守本协议和适用条款，您便可访问和使用我们向您提供的服务。</p> 
+     <p>您使用本服务时受以下限制，您不可以：</p> 
+     <p>1、存取、复制、下载、发布、传输、广播、显示、出售、授权他人、更改、修改或以其他方式使用本服务或任何内容的任何部分，惟以下情况除外：(a) 经服务明确授权；或 (b) 事先获得 拉斯维加斯华人资讯网及相应版权持有人的书面许可；</p> 
+     <p>2、规避、停用、以欺诈手段使用或以其他方式干扰本服务的任何部分 (或尝试作出以下任何行为)，包括与安全有关的功能或以下各项功能：(a) 防止或限制复制或以其他方式使用内容或 (b) 限制本服务或内容的使用；</p> 
+     <p>3、使用任何自动化方式 (例如机械人、殭尸网络或抓取工具) 存取本服务，惟以下情况除外：(a) (如为公开搜寻引擎) 使用 拉斯维加斯华人资讯网 的 robots.txt 文档执行；或 (b) 经 拉斯维加斯华人资讯网事先书面许可；</p> 
+     <p>4、收集或搜集可识别某人身份的任何资料 (例如使用者名称)，惟该人允许或根据上文第 (3) 节允许者除外；</p> 
+     <p>5、使用本服务发布非应邀的宣传或商业内容或其他滥发或大量招客讯息；</p> 
+     <p>6、促使或鼓励使用者透过与服务互动以进行任何不准确的计量，包括透过向他人支付金钱或提供奖励来增加帖子、店铺、视频的收看次数、喜欢或不喜欢的次数、增加评价分数，或以其他方式操纵数据；</p> 
+     <p>7、滥用任何报告、举报、投诉、争议或上诉程序，包括提出毫无根据、无理取闹或轻率的陈述；</p> 
+     <p>8、使用本服务浏览非私人、非商业用途的内容 (例如，您不得公开播放本服务的影片或录播本服务的音乐)；</p> 
+     <p>9、使用本服务以 (a) 出售本服务或内容之上、附近或当中的任何广告、赞助或宣传，仅在 拉斯维加斯华人资讯网 放送广告政策所容许者 (如合规的产品置入) 除外；或 (b)出售任何专页的广告、赞助或宣传，而专页所属网站或应用程式仅含本服务内容，或以本服务内容为如此出售的主要依据 (例如，所售广告的网页主要以 拉斯维加斯华人资讯网 影片或帖子吸引使用者浏览)。</p> 
+     <p>权益保留</p> 
+     <p>使用本服务并不会赋予您对本服务任何方面的拥有权或权利，包括使用者名称，他人或 拉斯维加斯华人资讯网 发布的任何其他内容。</p> 
+     <p>本服务的变更</p> 
+     <p>拉斯维加斯华人资讯网一直不断变更和改善服务。我们可能还需要更改或终止本服务或其任何部分，以便改善效能或安全性、更改功用及功能、进行更改以符合法律规定或防止对我们的系统有非法活动或被滥用。这些更改可能会影响所有使用者、部分使用者甚至是个别使用者。在合理可行的情况下，若我们终止服务或对服务作出重大改动而对本服务的使用造成不利影响，我们便会发出通知。然而，您需要明白并同意，有时我们会在不事先通知的情况下进行有关改动，例如我们认为需要採取行动以提高本服务的安全性和操作性能、防止滥用或遵守法律规定。</p> 
+     <h4>您的內容及操守</h4> 
+     <p>上载、发布内容</p> 
+     <p>若您在 拉斯维加斯华人资讯网 有帖子、店铺、优惠券等，您可将内容上载或发布到本服务。您可以使用您的内容来推广您的业务或企业（须发布到特定分类）。若您选择上载内容，则不得将任何不符合本协议 (包括<a href="/guidelines.html">《拉斯维加斯华人资讯网 社群指南》</a>)或法律的内容上载或发布至本服务.例如，除非您获得第三方的许可或在法律上有权上载，否则您上载的内容不得包括第三方知识产权(例如受版权保护的内容等)。您对上载或发布到本服务的内容负有法律责任。我们可能会使用自动化系统来分析您的内容，以助侦测侵权和滥用行为，例如垃圾邮件、恶意软件、大量重复内容和非法内容。</p> 
+     <p>您授予的权利</p> 
+     <p>您保留内容的拥有权，但我们会要求您向 拉斯维加斯华人资讯网 和本服务的其他使用者授予某些权利，详情如下。</p> 
+     <p>拉斯维加斯华人资讯网 授权</p> 
+     <p>透过上载内容到本服务，即表示您授予 拉斯维加斯华人资讯网 全球性、非专有、无版税、可再授权和可转让的许可，供 拉斯维加斯华人资讯网 就本服务及 拉斯维加斯华人资讯网 业务使用该内容(包括复制、发布、进行二次创作、展示及放送)，包括用作宣传和再发布部分或全部本服务。</p> 
+     <p>授予其他使用者的许可</p> 
+     <p>您还向本服务的每名使用者授予全球性、非专有、无版税特许，让使用者透过本服务存取并使用该内容，包括复制、发布、进行二次创作、展示及放送，惟仅可以本服务功能 (例如影片播放、帖子转发等功能)存取及使用。谨此澄清，此许可并不授予使用者任何以非透过服务使用内容的权利或权限。</p> 
+     <h4>许可期限</h4> 
+     <p>在您移除或删除本服务的内容后，您授予的许可会持续一段商业上合理的时间。然而，您明白并同意，拉斯维加斯华人资讯网 可能会保留已移除或删除影片於服务器上的存档，但不会加以展示、发布或放送。</p> 
+     <p>移除內容</p> 
+     <p>您可随时从本服务中移除您的内容，您还可选择在移除前复制内容。若您不再拥有这些条款所要求的权利，您必须移除您的内容。</p> 
+     <p>由 拉斯维加斯华人资讯网 移除內容</p> 
+     <p>若我们有理由相信任何内容违反本协议或可能对 拉斯维加斯华人资讯网、拉斯维加斯华人资讯网的使用者或第三方造成损害，我们可酌情决定移除或移走该内容。我们有此行动时，会通知您并告知原因，惟倘我们合理认为如此通知会造成以下后果，则不作通知：(a)违反法律或执法机构的指示，或令 拉斯维加斯华人资讯网 承受法律责任的风险；(b) 将损害调查或本服务的完整性或运作；或 (c) 会对任何使用者、其他第三方、拉斯维加斯华人资讯网 造成损害。您可以提出上诉。</p> 
+     <p>版权保护</p> 
+     <p>若您认为他人透过本服务已经侵犯了您的版权，请通知我们。</p> 
+     <p>我们收到有人涉嫌侵犯版权的通知后，会根据 拉斯维加斯华人资讯网 政策规定，在适当的情况下，屡次侵权者会被终止使用本服务。</p> 
+     <h4>帐户暂停及终止</h4> 
+     <p>由您终止</p> 
+     <p>您可以随时停止使用本服务。如需删除账户时，请通过您注册拉斯维加斯华人资讯网账户时使用的电子邮箱给我们发送邮件说明，邮件中应包含您注册拉斯维加斯华人资讯网时的账户名称，邮件地址及删除的申请说明。从您的 拉斯维加斯华人资讯网 帐户中删除本服务，当中涉及删除 拉斯维加斯华人资讯网 资料。您亦可以选择先下载资料副本。</p> 
+     <p>由 拉斯维加斯华人资讯网 因故终止及暂停帐户</p> 
+     <p>如有以下情况，拉斯维加斯华人资讯网 可能会暂停或终止您的服务访问权、拉斯维加斯华人资讯网 帐户、拉斯维加斯华人资讯网 帐户对本服务的全部或部分访问权：(a) 您严重或屡次违反本协议；(b) 我们必须遵守法律规定或法令；或 (c)我们认为有行为对任何使用者、其他第三方、拉斯维加斯华人资讯网 或我们的联系公司造成 (或可能造成) 法律责任或损害。</p> 
+     <p>由 拉斯维加斯华人资讯网 因服务变更而终止</p> 
+     <p>若 拉斯维加斯华人资讯网 全权酌情决定，认为向您提供本服务在商业上不再可行，则可能会终止您或您 拉斯维加斯华人资讯网 帐户对本服务的全部或部分访问权。</p> 
+     <p>终止或暂停通知</p> 
+     <p>拉斯维加斯华人资讯网 实施终止或暂停时，会通知您并告知原因，惟倘我们合理认为如此通知会造成以下后果，则不作通知：(a) 违反法律或执法机关的指示，或令 拉斯维加斯华人资讯网 承受法律责任的风险；(b) 将损害调查或本服务的完整性或运作；或(c)对任何使用者、其他第三方、拉斯维加斯华人资讯网 造成损害。若 拉斯维加斯华人资讯网 因本服务变更而终止您的使用权限，则在合理可行的情况下，会提供足够的时间让您从本服务中导出内容。</p> 
+     <p>帐户暂停或终止的影响</p> 
+     <p>即使您的 拉斯维加斯华人资讯网 帐户被终止或 拉斯维加斯华人资讯网 帐户对本服务的访问受到限制，您仍可以继续在没有帐户的情况下使用本服务的某些功能 (如仅作瀏览、搜索等)，而本协议将继续适用於此类使用。若您认为您的 拉斯维加斯华人资讯网帐户被错误地终止，您可发邮件给我们说明情况。</p> 
+     <p>有关本服务中的软件</p> 
+     <h4>可下载的软件</h4> 
+     <p>若本服务需要用到或内含可下载的软件 (例如 拉斯维加斯华人资讯网 应用程序) 时，您会给予该软件在有新版本或功能可用时于设备上自动更新的权限，具体取决于设备的设定。除非该软件受给予授权的其他条款约束，否则 拉斯维加斯华人资讯网 给予您个人、全球、无版税、不可转让且非专属授权，供您使用 拉斯维加斯华人资讯网 于本服

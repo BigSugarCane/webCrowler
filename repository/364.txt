@@ -1,0 +1,1151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/auto.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_second/task_auto.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>美国拉斯维加斯租车_拉斯维加斯二手汽车交易_汽车经销商 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="拉斯维加斯最新汽车资讯,买车卖车,汽车保养维修,二手车买卖,购车心得,驾照罚单,带车回国,新手买车注意事项"> 
+  <meta name="keywords" content="汽车频道为网友提供拉斯维加斯汽车最新资讯，加州驾照罚单，汽车价格，汽车图片，二手车买卖信息，汽车维修、汽车保险、新手买车注意事项等信息。"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/second_page.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li class="active"><a href="/auto.html" class="brand">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/auto.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="auto_1"> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%96%B0%E8%BD%A6.html" title="新车资讯" target="_blank"><span>新车资讯</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/sort_news/type_13.html" target="_blank">新车快讯</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" target="_blank">汽车保险</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">汽车经销商</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E8%B4%B7%E6%AC%BE.html" target="_blank">购车贷款</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">汽车租赁</a></span> <span><a href="https://www.vegaschinaren.com/la_weblinks/catid_40.html" target="_blank">汽车估价网站</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E4%BA%8C%E6%89%8B%E8%BD%A6.html" title="二手汽车" target="_blank"><span>二手汽车</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank">汽车买卖论坛</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_7738.html" target="_blank">二手车经销商</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E9%AA%8C%E8%BD%A6.html" target="_blank">验车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%94%BB%E7%95%A5.html" target="_blank">买车攻略</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E7%BE%8E%E5%9B%BD%E8%BD%A6.html" target="_blank">美国车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%97%A5%E6%9C%AC%E8%BD%A6.html" target="_blank">日本车</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_59.html" title="驾照罚单" target="_blank"><span>驾照罚单</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_32.html" target="_blank">驾驶教练/驾校</a></span> <span><a href="https://www.vegaschinaren.com/ca_driver_license_test.html" target="_blank">驾照模拟考试题</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E9%A9%BE%E7%85%A7.html" target="_blank">驾照</a></span> <span><a href="https://www.vegaschinaren.com/la_weblinks/catid_40.html" target="_blank">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E7%BD%9A%E5%8D%95.html" target="_blank">罚单</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_148.html" target="_blank">DMV</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_group/group_75.html" title="汽车服务" target="_blank"><span>汽车服务</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">汽车租赁</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" target="_blank">汽车保险</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">汽车经销商</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" target="_blank">汽车维修</a></span> <span><a href="https://www.vegaschinaren.com/company/task_category/key_%E4%BF%AE%E8%BD%A6%E5%8E%82.html" target="_blank">修车厂</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_155.html" target="_blank">拖车服务</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_12.html" target="_blank">最新资讯</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_12.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84050.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84050.html" target="_blank">德意志银行看到蔚来汽车 预测股票或再涨28%</a>
+        </div> 
+        <div class="article">
+         <p>德意志银行认为，蔚来汽车的电动汽车制造商恐将会与特斯拉产生激烈的竞争，并且迅速占领不断扩大的中国市场。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19531.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19531.html" target="_blank">克莱斯勒在美召回Pacifica MPV</a>
+        </div> 
+        <div class="article">
+         <p>菲亚特克莱斯勒汽车公司将在美召回3518辆2017款克莱斯勒Pacifica新款MPV。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19527.html" title="保时捷北美CEO：电动汽车肯定会变成主流" target="_blank">保时捷北美CEO：电动汽车肯定会变成主流</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19530.html" title="大众或被惩罚性罚款" target="_blank">大众或被惩罚性罚款</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_8499.html" title="美国买二手车和新车区别" target="_blank">美国买二手车和新车区别</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_8537.html" title="美国移民买车价格藏玄机" target="_blank">美国移民买车价格藏玄机</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_13293.html" title="美国买车不可不知道的事" target="_blank">美国买车不可不知道的事</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12494.html" title="纯干货：玩转美国租车" target="_blank">纯干货：玩转美国租车</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_10673.html" title="美国买二手车差点被骗 附经验总结供大家参考" target="_blank">美国买二手车差点被骗 附经验总结供大家参考</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_10672.html" title="在美国买车讨价还价过程 需要掌握一些技巧" target="_blank">在美国买车讨价还价过程 需要掌握一些技巧</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_10308.html" title="在美国买车需要避免的十个错误 有些非常常见" target="_blank">在美国买车需要避免的十个错误 有些非常常见</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_10305.html" title="美国买车必看 你所在的城市适合贷款买车吗？" target="_blank">美国买车必看 你所在的城市适合贷款买车吗？</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9655.html" title="美国移民购车时哪些附件值得买？看看这里吧" target="_blank">美国移民购车时哪些附件值得买？看看这里吧</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9709.html" title="美国自己洗车工具及保养经验谈 新车最好自己洗" target="_blank">美国自己洗车工具及保养经验谈 新车最好自己洗</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/ca_driver_license_test.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="gasprice"> 
+      <div class="head_div"> 
+       <div class="title">
+        拉斯维加斯油价
+       </div> 
+      </div> 
+      <div class="content_div">  
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_59.html" target="_blank">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="auto_2"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%96%B0%E8%BD%A6" target="_blank">新车</a>
+     </div> 
+     <div class="title_more"> <a href="" target="_blank"></a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_36.html" title="汽车经销商" target="_blank"><span>汽车经销商</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_10028.html" target="_blank">新车</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_7738.html" target="_blank">二手车</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_10030.html" target="_blank">跑车</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_11299.html" target="_blank">日本车</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_11299.html" target="_blank">Honda</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_36/task_list/tagId_10029.html" target="_blank">华语服务</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%96%B0%E8%BD%A6.html" title="新车服务" target="_blank"><span>新车服务</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/sort_news/type_13.html" target="_blank">新车快讯</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" target="_blank">汽车保险</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">汽车经销商</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E8%B4%B7%E6%AC%BE.html" target="_blank">购车贷款</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">汽车租赁</a></span> <span><a href="https://www.vegaschinaren.com/la_weblinks/catid_40.html" target="_blank">汽车估价网站</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">汽车租赁</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_15251/Budget%20car%20rental-Mccarran%20Intl%20Airport.html" title="Budget car rental-Mccarran Intl Airport" target="_blank">Budget car rental-Mccarran Intl Airport</a></li> 
+        <li><a href="/company/task_view/id_15252/Golden%20Nugget%20Hotel%20Budget%20Car%20Rental.html" title="Golden Nugget Hotel Budget Car Rental" target="_blank">Golden Nugget Hotel Budget Car Rental</a></li> 
+        <li><a href="/company/task_view/id_15253/Budget%20Car%20Rental%20Stratosphere%20Hotel.html" title="Budget Car Rental Stratosphere Hotel" target="_blank">Budget Car Rental Stratosphere Hotel</a></li> 
+        <li><a href="/company/task_view/id_15254/Budget%20Car%20Rental%20Econo%20Lube.html" title="Budget Car Rental Econo Lube" target="_blank">Budget Car Rental Econo Lube</a></li> 
+        <li><a href="/company/task_view/id_15255/Budget%20Car%20Rental.html" title="Budget Car Rental" target="_blank">Budget Car Rental</a></li> 
+        <li><a href="/company/task_view/id_15256/Fox%20Car%20rental.html" title="Fox Car rental" target="_blank">Fox Car rental</a></li> 
+        <li><a href="/company/task_view/id_15257/National%20Car%20Rental.html" title="National Car Rental" target="_blank">National Car Rental</a></li> 
+        <li><a href="/company/task_view/id_15263/Hertz%20Car%20Rental.html" title="Hertz Car Rental" target="_blank">Hertz Car Rental</a></li> 
+        <li><a href="/company/task_view/id_15264/Enterprise%20Rent%20a%20Car.html" title="Enterprise Rent a Car" target="_blank">Enterprise Rent a Car</a></li> 
+        <li><a href="/company/task_view/id_15265/Dollar%20Rent%20A%20Car.html" title="Dollar Rent A Car" target="_blank">Dollar Rent A Car</a></li> 
+        <li><a href="/company/task_view/id_32363/%E4%BC%98%E5%8A%BF%E7%A7%9F%E8%BD%A6.html" title="优势租车" target="_blank">优势租车--Advantage Rent A Car</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_13.html" target="_blank">新车快讯</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_13.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19529.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19529.html" target="_blank">保时捷V8引擎工厂正式投入使用</a>
+        </div> 
+        <div class="article">
+         <p>保时捷宣布其在斯图加特(Stuttgart)核心生产基地建立的新V8引擎工厂正式落成。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19526.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19526.html" target="_blank">美国窃贼高科技偷窃Jeep牧马人</a>
+        </div> 
+        <div class="article">
+         <p>美国休斯敦市警局与犯罪举报热线近日公布了一段窃贼采用高科技偷车的视频。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19528.html" title="2016年美国购车满意度调查 日系占据前三甲" target="_blank">2016年美国购车满意度调查 日系占据前三甲</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9398.html" title="美国买车应避免四个错误" target="_blank">美国买车应避免四个错误</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9400.html" title="在美国购车需注意：留学生购车可不简单" target="_blank">在美国购车需注意：留学生购车可不简单</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9551.html" title="围观：从美国免税购车回中国的最强攻略" target="_blank">围观：从美国免税购车回中国的最强攻略</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_9655.html" title="美国移民购车哪些附件值得买？推荐几种" target="_blank">美国移民购车哪些附件值得买？推荐几种</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_8346.html" title="经验分享 讲讲免税车办理的流程和方法 " target="_blank">经验分享 讲讲免税车办理的流程和方法 </a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_7838.html" title="美国汽车保险种类繁多 究竟该如何选择？" target="_blank">美国汽车保险种类繁多 究竟该如何选择？</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_5955.html" title="在美国买车时的砍价的策略 方法有三种" target="_blank">在美国买车时的砍价的策略 方法有三种</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_6653.html" title="美国买车需避免十个错误 三句话不能说" target="_blank">美国买车需避免十个错误 三句话不能说</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_4966.html" title="购买新车小常识" target="_blank">购买新车小常识</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_5349.html" title="5美元能买汽车吗？就有这样的便宜事" target="_blank">5美元能买汽车吗？就有这样的便宜事</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_5350.html" title="在美国新生怎么买车？网友经验总结" target="_blank">在美国新生怎么买车？网友经验总结</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">车行</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_30757.html" target="_blank">分利本田</a> </span> <span class="sponsor_contact"> <span class="tel">702-568-3500</span> </span> <span class="sponsor_introduce">本田汽车经销商，华语服务</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_30757.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15561.html" target="_blank">内华达车行</a> </span> <span class="sponsor_contact"> <span class="tel">702-358-3601</span> </span> <span class="sponsor_introduce">汽车保险，国际驾照</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15561.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32373.html" target="_blank">Sahara Chrysler Jeep Dodge Ram</a> </span> <span class="sponsor_contact"> <span class="tel">888-691-7413</span> </span> <span class="sponsor_introduce">道奇经销商，专业服务</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32373.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32372.html" target="_blank">Elite Auto Dealer</a> </span> <span class="sponsor_contact"> <span class="tel">702-778-5588</span> </span> <span class="sponsor_introduce">汽车经销商，专业服务</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32372.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32366.html" target="_blank">Newport Motors</a> </span> <span class="sponsor_contact"> <span class="tel">702-207-7484</span> </span> <span class="sponsor_introduce">汽车经销商，专业可靠</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32366.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32364.html" target="_blank">Reliable Auto Sales</a> </span> <span class="sponsor_contact"> <span class="tel">702-737-6688</span> </span> <span class="sponsor_introduce">汽车经销商，专业可靠</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32364.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="auto_3"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E4%BA%8C%E6%89%8B%E8%BD%A6" target="_blank">二手车</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E4%B9%B0%E8%BD%A6" class="right_vertical_line" target="_blank">买车</a><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E5%8D%96%E8%BD%A6" class="right_vertical_line" target="_blank">卖车</a><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E9%AA%8C%E8%BD%A6.html" target="_blank">验车</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" title="品牌" target="_blank"><span>品牌</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E5%AE%9D%E9%A9%AC.html" target="_blank">BMW</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E5%A4%A7%E4%BC%97.html" target="_blank">大众</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_toyota.html" target="_blank">Toyota</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_Honda.html" target="_blank">Honda</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E5%A5%94%E9%A9%B0.html" target="_blank">奔驰</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_Ford.html" target="_blank">Ford</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%94%BB%E7%95%A5.html" title="买车攻略" target="_blank"><span>买车攻略</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_156.html" target="_blank">二手车经销商</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E9%AA%8C%E8%BD%A6.html" target="_blank">验车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E7%BE%8E%E5%9B%BD%E8%BD%A6.html" target="_blank">美国车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%97%A5%E6%9C%AC%E8%BD%A6.html" target="_blank">日本车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E7%BB%B4%E4%BF%AE.html" target="_blank">维修</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E4%BF%9D%E5%85%BB.html" target="_blank">保养</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="" target="_blank">二手车论坛</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84382.html" title="高于车行价收购2手车！即日交易 手续快！" target="_blank">高于车行价收购2手车！即日交易 手续快！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84218.html" title="收Lease车(到期车/未到期均可)全款收车 价高" target="_blank">收Lease车(到期车/未到期均可)全款收车 价高</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83670.html" title="vegas 高价收购二手车。微信电话：7028030369" target="_blank">vegas 高价收购二手车。微信电话：7028030369</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_82425.html" title="拉斯维加斯高价收车 微信电话：7028030369" target="_blank">拉斯维加斯高价收车 微信电话：7028030369</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_80688.html" title="2017 civic EXL" target="_blank">2017 civic EXL</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_80559.html" title="拉斯维加斯宝马总代理经销商4s店" target="_blank">拉斯维加斯宝马总代理经销商4s店</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_80202.html" title="洛杉矶/拉斯包车服务" target="_blank">洛杉矶/拉斯包车服务</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_77413.html" title="2008 德国大众小钢炮rabbit 2.5排量" target="_blank">2008 德国大众小钢炮rabbit 2.5排量</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="" target="_blank">二手车</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1" id="topicsv2_article_div1_idt3812"> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_84218.html" target="_blank">  <span>收Lease车(到期车/未到期均可)全款收车 价高</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_80688.html" target="_blank">  <span>2017 civic EXL</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_80559.html" target="_blank">  <span>拉斯维加斯宝马总代理经销商4s店</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_77413.html" target="_blank">  <span>2008 德国大众小钢炮rabbit 2.5排量</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_68872.html" target="_blank">  <span>上门帮客户买二手车验车,接送客户</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_65640.html" target="_blank">  <span>为了行车安全要定期检查轮胎哦！</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_65038.html" target="_blank">  <span>2004年塞纳机器没毛病价格面议</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_63424.html" target="_blank">  <span>超低价代步车</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_62976.html" target="_blank">  <span>2016 LEXUS IS200T F SPORT 红内饰 出售</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_62800.html" target="_blank">  <span>2010 Hyundai low meliage 48k</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_61912.html" target="_blank">  <span>2017丰田塞纳$25800,超高性价比（可贷款）</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+       <div class="picture_article3 right"> 
+        <div class="picture3"> <a href="/f/page_viewtopic/t_60517.html" target="_blank">  <span>2015 mini cooper hardtop2门</span> </a> 
+        </div> 
+        <div class="price"></div> 
+        <div class="mileage"></div> 
+       </div> 
+      </div> 
+      <div class="dot_pag" id="topicsv2_dot_pag_idt3812">
+       <a class="PageNumber" href="javascript:void(0)" dotrel="1"></a><a class="PageNumber" href="javascript:void(0)" dotrel="2"></a><a class="PageNumber" href="javascript:void(0)" dotrel="3"></a>
+      </div> 
+     </div> 
+     <script>
+	$(function(){
+
+		var PageTotal = 3;
+		var firid = '#'+'topicsv2_article_div1_idt3812';
+		var secid = '#'+'topicsv2_dot_pag_idt3812';
+		var pageSize = 4;
+
+		//choose one page randomly to display
+		//var PageNow = Math.round((Math.random()*100))%PageTotal+1;
+		
+		var PageNow = 1;
+		
+		//set activated blue icon
+		$(secid+' .PageNumber:nth-child('+PageNow+')').css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");
+		
+		//load items to display based on PageNow
+		loadItems(PageNow);
+		
+		//click action of PageNumber link
+		$(secid+' .PageNumber').click(function(){
+			var PageNow = $(this).attr('dotRel');
+			loadItems(PageNow);
+		});
+		
+		//$('.PageNumber').first().css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");
+		$(secid+' .PageNumber').click(function(){
+				$(this).siblings().css("background-image","url(../images/home-activity-paging-bg.jpg)");
+				$(this).css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");	
+			});
+		
+		//load items to display based on PageNow
+		function loadItems(PageNow){
+			var StartItem = (PageNow-1)*pageSize + 1;
+			for(var i=StartItem; i<StartItem+pageSize; i++){
+				
+				if(i == StartItem)
+					$(firid+' div:nth-child('+i+')').prevAll().hide();
+				$(firid+' div:nth-child('+i+')').show();
+				if(i == StartItem+pageSize-1)
+					$(firid+' div:nth-child('+i+')').nextAll().hide();
+			}	
+		}
+	});
+</script> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_156.html" target="_blank">二手车车行</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_156.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32371.html" target="_blank">Auto World Sales &amp; Leasing</a> </span> <span class="sponsor_contact"> <span class="tel">702-452-8488</span> </span> <span class="sponsor_introduce">二手车经销商</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32371.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32370.html" target="_blank">Baja Auto Sales</a> </span> <span class="sponsor_contact"> <span class="tel">702-870-0009</span> </span> <span class="sponsor_introduce">二手车经销商</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32370.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32368.html" target="_blank">Charlie Cheap Car</a> </span> <span class="sponsor_contact"> <span class="tel">702-471-1549</span> </span> <span class="sponsor_introduce">二手车经销商</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32368.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32367.html" target="_blank">LV CARS</a> </span> <span class="sponsor_contact"> <span class="tel">702-485-1515</span> </span> <span class="sponsor_introduce">二手车经销商</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32367.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32365.html" target="_blank">Car Store Used Cars</a> </span> <span class="sponsor_contact"> <span class="tel">702-451-2000</span> </span> <span class="sponsor_introduce">二手车经销商</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32365.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="auto_4"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_59.html" target="_blank">驾照罚单</a>
+     </div> 
+     <div class="title_more"> <a href="" target="_blank"></a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E9%A9%BE%E7%85%A7.html" title="驾照" target="_blank"><span>驾照</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/ca_driver_license_test.html" target="_blank">驾照考试题</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E8%B7%AF%E8%80%83.html" target="_blank">路考</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E7%AC%94%E8%AF%95.html" target="_blank">笔试</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E4%B8%AD%E5%9B%BD%E9%A9%BE%E7%85%A7.html" target="_blank">中国驾照</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E6%9B%B4%E6%96%B0%E9%A9%BE%E7%85%A7.html" target="_blank">更新驾照</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_148.html" target="_blank">DMV</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E7%BD%9A%E5%8D%95.html" title="罚单" target="_blank"><span>罚单</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E4%BA%8B%E6%95%85%E5%A4%84%E7%90%86.html" target="_blank">事故处理</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E7%94%B3%E8%AF%89.html" target="_blank">申诉</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E6%9F%A5%E8%AF%A2.html" target="_blank">查询</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4332.html" target="_blank">车祸律师</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E9%97%AF%E7%BA%A2%E7%81%AF.html" target="_blank">闯红灯</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E8%B6%85%E9%80%9F.html" target="_blank">超速</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA today highlight right --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1702832069"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E9%A9%BE%E7%85%A7.html" target="_blank">驾照</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_59/key_%E9%A9%BE%E7%85%A7.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <div class="title">
+        <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_11519.html" target="_blank">国际驾照全方位科普 你了解多少</a>
+       </div> 
+       <div class="article"> <span>什么是国际驾照？办理国际驾照需要哪些材料？</span> <span class="readall"><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_11519.html" target="_blank" type="text/html">[阅读全文]</a></span> 
+       </div> 
+       <div class="title">
+        <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_11604.html" target="_blank">美国申办驾照需出示四证件或文件</a>
+       </div> 
+       <div class="article"> <span>领取驾照手续今后将变得更加复杂。国会可能会通过法律，要求领照者出示</span> <span class="readall"><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_11604.html" target="_blank" type="text/html">[阅读全文]</a></span> 
+       </div> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75575.html" title="办理钓鱼牌照,打猎牌照,驾照" target="_blank">办理钓鱼牌照,打猎牌照,驾照</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_63432.html" title="拉斯维加斯考驾照路考部分总结" target="_blank">拉斯维加斯考驾照路考部分总结</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_58812.html" title="无身份办理纽约驾照！" target="_blank">无身份办理纽约驾照！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_54737.html" title="内华达旅游或身份过期如何办驾照" target="_blank">内华达旅游或身份过期如何办驾照</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_54485.html" title="拉斯维加斯考驾照笔试部分总结" target="_blank">拉斯维加斯考驾照笔试部分总结</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_54323.html" title="怎样零风险 正确有效处理交通罚单 怎样写申诉信 停车罚单处理 怎样处理被照相红灯右转 保护自己" target="_blank">怎样零风险 正确有效处理交通罚单 怎样写申诉信 停车罚单处理 怎样处理被照相红灯右转 保护自己</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_52742.html" title="快速查询Carfax报告(长期有效)" target="_blank">快速查询Carfax报告(长期有效)</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_37187.html" title="西雅图驾照" target="_blank">西雅图驾照</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_37261.html" title="007驾校拉斯维加斯DMV注册口碑最好!" target="_blank">007驾校拉斯维加斯DMV注册口碑最好!</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_35548.html" title="007 驾校拉斯维加斯 DMV注册" target="_blank">007 驾校拉斯维加斯 DMV注册</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_35400.html" title="007驾校拉斯维加斯口碑最好" target="_blank">007驾校拉斯维加斯口碑最好</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_34681.html" title="旅游签证可办美国正式驾照" target="_blank">旅游签证可办美国正式驾照</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_30540.html" title="B1B2或无身份合法考取5-8年美国驾照" target="_blank">B1B2或无身份合法考取5-8年美国驾照</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_29688.html" title="拉斯维加斯到圣地亚哥顺风车" target="_blank">拉斯维加斯到圣地亚哥顺风车</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="" target="_blank">驾驶教练</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_32.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15399.html" target="_blank">Clark County Traffic School</a> </span> <span class="sponsor_contact"> <span class="tel">702-485-4605</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15399.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15398.html" target="_blank">Richard Petty Driving Exprnc</a> </span> <span class="sponsor_contact"> <span class="tel">702-643-4343</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15398.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15397.html" target="_blank">Mario Andretti Driving School</a> </span> <span class="sponsor_contact"> <span class="tel">702-651-6300</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15397.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15396.html" target="_blank">A-Best Drive School</a> </span> <span class="sponsor_contact"> <span class="tel">702-547-0679</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15396.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15395.html" target="_blank">Safe &amp; Save Driving School</a> </span> <span class="sponsor_contact"> <span class="tel">702-457-4236</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15395.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15394.html" target="_blank">Silver State Driving Academy</a> </span> <span class="sponsor_contact"> <span class="tel">702-818-3000</span> </span> <span class="sponsor_introduce">驾驶学校，驾驶教练</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15394.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right4"> <a href="/deals.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="auto_5"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_8.html" target="_blank">汽车服务</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" class="right_vertical_line" target="_blank">修车厂</a><a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">租车</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_28.html" title="汽车维护" target="_blank"><span>汽车维护</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/catid_28/task_list/tagId_4372.html" target="_blank">修车</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_155.html" target="_blank">拖车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E6%B4%97%E8%BD%A6.html" target="_blank">洗车</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E8%BD%AE%E8%83%8E.html" target="_blank">轮胎</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_8/key_%E4%BF%9D%E5%85%BB.html" target="_blank">保养</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_28/task_list/tagId_4392.html" target="_blank">钣金</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_group/group_75.html" title="汽车服务" target="_blank"><span>汽车服务</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_36.html" target="_blank">汽车经销商</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" target="_blank">汽车保险</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_250.html" target="_blank">汽车租赁</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" target="_blank">汽车维修</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_156.html" target="_blank">二手车经销商</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_155.html" target="_blank">拖车服务</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA today highlight right --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1702832069"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div> 
+    <div class="group_middle">  
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" class="active" target="_blank"><span>汽车保险</span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.vegaschinaren.com/company/catid_51/task_list/tagId_4437.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content" id="thumbv2_content_idt21016"> 
+       <div class="thumb4"> <a href="/company/task_view/id_30851/%E7%AC%A6%E7%AC%A0%E7%AC%A0.html" target="_blank">  </a> <a href="/company/task_view/id_30851/%E7%AC%A6%E7%AC%A0%E7%AC%A0.html" target="_blank" class="topictitle" title="符笠笠"><span>符笠笠</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30850/%E9%83%8E%E4%BA%91%E9%9C%9E%20-%20%E5%A8%81%E8%85%BE%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30850/%E9%83%8E%E4%BA%91%E9%9C%9E%20-%20%E5%A8%81%E8%85%BE%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="郎云霞 - 威腾保险"><span>郎云霞 - 威腾保险</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_15552/%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8-%E9%83%AD%E7%BE%8E%E7%8F%A0.html" target="_blank">  </a> <a href="/company/task_view/id_15552/%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8-%E9%83%AD%E7%BE%8E%E7%8F%A0.html" target="_blank" class="topictitle" title="美国家庭保险公司-郭美珠"><span>美国家庭保险公司-郭</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30849/%E8%91%A3%E5%BF%97%E5%9D%9A%20-%20%E6%B3%9B%E4%BA%9A%E8%B4%A2%E5%8A%A1%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30849/%E8%91%A3%E5%BF%97%E5%9D%9A%20-%20%E6%B3%9B%E4%BA%9A%E8%B4%A2%E5%8A%A1%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="董志坚 - 泛亚财务保险"><span>董志坚 -</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30619/%E7%8E%8B%E5%AE%9A%E5%92%8C%E7%90%86%E8%B4%A2%E6%9C%8D%E5%8A%A1.html" target="_blank">  </a> <a href="/company/task_view/id_30619/%E7%8E%8B%E5%AE%9A%E5%92%8C%E7%90%86%E8%B4%A2%E6%9C%8D%E5%8A%A1.html" target="_blank" class="topictitle" title="王定和理财服务"><span>王定和理财服务</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30840/%E5%BE%90%E8%B1%AB%E8%93%89%20-%20%E5%B7%9E%E7%AB%8B%E5%86%9C%E4%B8%9A%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30840/%E5%BE%90%E8%B1%AB%E8%93%89%20-%20%E5%B7%9E%E7%AB%8B%E5%86%9C%E4%B8%9A%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="徐豫蓉 - 州立农业保险"><span>徐豫蓉 -</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_14827/%E8%A2%81%E8%B6%85%E9%9C%9E%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E4%B8%AD%E5%BF%83.html" target="_blank">  </a> <a href="/company/task_view/id_14827/%E8%A2%81%E8%B6%85%E9%9C%9E%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E4%B8%AD%E5%BF%83.html" target="_blank" class="topictitle" title="袁超霞保险理财中心"><span>袁超霞保险理财中心</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_32999/Cici%20Chen%20-%20%E9%93%B6%E6%98%9F%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E9%9B%86%E5%9B%A2%20%EF%BC%88%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E5%8A%A0%E5%B7%9E%E5%A4%9A%E5%B7%9E%E6%89%A7%E7%85%A7%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E4%B8%93%E5%AE%B6%EF%BC%89.html" target="_blank">  </a> <a href="/company/task_view/id_32999/Cici%20Chen%20-%20%E9%93%B6%E6%98%9F%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E9%9B%86%E5%9B%A2%20%EF%BC%88%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E5%8A%A0%E5%B7%9E%E5%A4%9A%E5%B7%9E%E6%89%A7%E7%85%A7%E4%BF%9D%E9%99%A9%E7%90%86%E8%B4%A2%E4%B8%93%E5%AE%B6%EF%BC%89.html" target="_blank" class="topictitle" title="Cici Chen - 银星保险理财集团 （内华达州加州多州执照保险理财专家）"><span>Cici Chen</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30846/%E7%8E%8B%E9%99%88%E9%9B%81%E5%AE%B9%20-%20%E9%95%BF%E5%8F%8B%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30846/%E7%8E%8B%E9%99%88%E9%9B%81%E5%AE%B9%20-%20%E9%95%BF%E5%8F%8B%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="王陈雁容 - 长友保险"><span>王陈雁容 -</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_14826/%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_14826/%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="安心保险"><span>安心保险</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30837/Agnas%20Chan%20-%20%E4%BA%BA%E4%BA%BA%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30837/Agnas%20Chan%20-%20%E4%BA%BA%E4%BA%BA%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="Agnas Chan - 人人保险"><span>Agnas Chan</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30838/%E8%83%A1%E8%B6%8A%E6%A3%A0%20-%20%E5%86%9C%E5%A4%AB%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30838/%E8%83%A1%E8%B6%8A%E6%A3%A0%20-%20%E5%86%9C%E5%A4%AB%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="胡越棠 - 农夫保险"><span>胡越棠 - 农夫保险</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_14828/%E4%BA%BA%E4%BA%BA%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_14828/%E4%BA%BA%E4%BA%BA%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="人人保险"><span>人人保险</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_14840/%E6%9D%8E%E6%B0%B8%E6%B3%B0%E8%B5%84%E6%B7%B1%E4%BF%9D%E9%99%A9%E7%BB%8F%E7%BA%AA.html" target="_blank">  </a> <a href="/company/task_view/id_14840/%E6%9D%8E%E6%B0%B8%E6%B3%B0%E8%B5%84%E6%B7%B1%E4%BF%9D%E9%99%A9%E7%BB%8F%E7%BA%AA.html" target="_blank" class="topictitle" title="李永泰资深保险经纪"><span>李永泰资深保险经纪</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_33093/%E5%90%B4%E6%98%8E%E9%9C%9E.html" target="_blank">  </a> <a href="/company/task_view/id_33093/%E5%90%B4%E6%98%8E%E9%9C%9E.html" target="_blank" class="topictitle" title="吴明霞"><span>吴明霞</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="/company/task_view/id_30839/%E5%A8%84%E4%B9%94%E6%9C%A8%20-%20%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9.html" target="_blank">  </a> <a href="/company/task_view/id_30839/%E5%A8%84%E4%B9%94%E6%9C%A8%20-%20%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9.html" target="_blank" class="topictitle" title="娄乔木 - 安心保险"><span>娄乔木 - 安心保险</span></a> 
+       </div> 
+      </div> 
+      <div class="dot_pag" id="thumbv2_dot_pag_idt21016">
+       <a class="PageNumber" href="javascript:void(0)" dotrel="1"></a><a class="PageNumber" href="javascript:void(0)" dotrel="2"></a>
+      </div> 
+     </div> 
+     <script>
+	$(function(){
+
+		var PageTotal = 2;
+		var firid = '#'+'thumbv2_content_idt21016';
+		var secid = '#'+'thumbv2_dot_pag_idt21016';
+		var pageSize = 12;
+
+		//choose one page randomly to display
+		//var PageNow = Math.round((Math.random()*100))%PageTotal+1;
+		var PageNow = 1;
+		//set activated blue icon
+		$(secid+' .PageNumber:nth-child('+PageNow+')').css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");
+		
+		//load items to display based on PageNow
+		loadItems(PageNow);
+		
+		//click action of PageNumber link
+		$(secid+' .PageNumber').click(function(){
+			var PageNow = $(this).attr('dotRel');
+			loadItems(PageNow);
+		});
+		
+		//$('.PageNumber').first().css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");
+		$(secid+' .PageNumber').click(function(){
+				$(this).siblings().css("background-image","url(../images/home-activity-paging-bg.jpg)");
+				$(this).css("background-image","url(../images/home-activity-paging-actived-bg.jpg)");	
+			});
+		
+		//load items to display based on PageNow
+		function loadItems(PageNow){
+			var StartItem = (PageNow-1)*pageSize + 1;
+			for(var i=StartItem; i<StartItem+pageSize; i++){
+				
+				if(i == StartItem)
+					$(firid+' div:nth-child('+i+')').prevAll().hide();
+				$(firid+' div:nth-child('+i+')').show();
+				if(i == StartItem+pageSize-1)
+					$(firid+' div:nth-child('+i+')').nextAll().hide();
+			}	
+		}
+	});
+</script> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="" target="_blank">修车厂</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_28.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_14917.html" target="_blank">王兵华人修车厂</a> </span> <span class="sponsor_contact"> <span class="tel">702-876-288</span> </span> <span class="sponsor_introduce">华人修车，七天营业</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_14917.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_15540.html" target="_blank">磐石修车</a> </span> <span class="sponsor_contact"> <span class="tel">702-227-6789</span> </span> <span class="sponsor_introduce">汽车维修，钣金</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_15540.html" target="_blank"

@@ -1,0 +1,1190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/v/task_group/gid_22.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinflorida.com/page_video/task_list/groupId_22.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>保险金融 - How视频 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="在美国生活离不开各种保险，应该办理什么保险？又该如何办理呢？"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="activeText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/v/task_group/gid_22.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/v.html" class="common_pathway2">How视频</a> <a href="/v/task_group/gid_22.html" class="common_pathway2">保险金融</a> 
+   </div> 
+   <div class="video_search" id="videosearch"> 
+    <input type="text" class="search_input" placeholder="请输入视频关键字查找"> 
+    <div class="button-panel">
+     <span class="button-b-search"></span><a class="button-blue button-a" href="javascript:void(0)">搜索</a>
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/video.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/video.js?v=v1662"></script> 
+   <div class="vrow v_group_page"> 
+    <div id="main"> 
+     <div class="main_block vnode">
+      <div class="video_title"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <span>保险金融</span> </span> 
+       </div> 
+      </div> 
+      <div class="v_screen_w"> 
+       <div class="v_screen"> 
+        <div class="v_equal_list col8 v_node" _colnum="8" _actionnum="8"> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_37.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_37.html" target="_blank">
+            <div class="v_equal_name">
+             房屋保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_38.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_38.html" target="_blank">
+            <div class="v_equal_name">
+             汽车保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_39.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_39.html" target="_blank">
+            <div class="v_equal_name">
+             学生保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_40.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_40.html" target="_blank">
+            <div class="v_equal_name">
+             医疗保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_41.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_41.html" target="_blank">
+            <div class="v_equal_name">
+             会计税务
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_42.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_42.html" target="_blank">
+            <div class="v_equal_name">
+             宠物保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_43.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_43.html" target="_blank">
+            <div class="v_equal_name">
+             旅游保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_47.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_47.html" target="_blank">
+            <div class="v_equal_name">
+             美国银行
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_48.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_48.html" target="_blank">
+            <div class="v_equal_name">
+             劳工保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_53.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_53.html" target="_blank">
+            <div class="v_equal_name">
+             美国贷款
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_75.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_75.html" target="_blank">
+            <div class="v_equal_name">
+             人寿保险
+            </div></a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div class="row grid vl123"> 
+       <div class="v-lrnp"> <a href="/v/v_602.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>公司入职如何填写W4表格</h3> <span>在美国，入职员工第一天通常会被要求填写W4表格，填写这个表格的目的是什么呢？那其中各项内容应该...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_601.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>个人报税如何填1040表格</h3> <span>在美国，个人报税截止日期是4月15日，时间已经很紧张...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_301.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何填写支票</h3> <span>支票在美国上到够买车和房产，下到菜市场买东西，可谓覆盖着生活的方方面面。如何填写支票？资深银行...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_552.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>赌场赢钱了如何报税</h3> <span>美国时万税之国。...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_339.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>在美国如何转帐</h3> <span>其实在美国的生活很多时候都能碰到转帐的经济行为，那么，公司对公司、公司对个人、个人对公司、个人...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_3258.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>第二轮大规模经济刺激方案的五大内容以及成功申请PUA的秘密</h3> <span>本次How视频直播节目 特别连线三角会计师事务所董事长...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block"> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_37.html">房屋保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_37.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_1316.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>在美国被偷被抢如何进行保险理赔</h3> <span>一旦在美国被偷被抢不仅会丢失当时的物品，还有可能会带来日后更多的损失，如何在遭遇盗抢后进行保险...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1281.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>风灾过后如何办理保险理赔</h3> <span>若在美国遭到风灾，房屋被吹倒的树木压毁，或车辆被吹来的重物砸毁该找谁处理并要求理赔呢？遭受风灾...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1280.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>地震过后如何办理保险理赔</h3> <span>在美国购买房屋需要购买各种保险，地震险是指在居住地区发生地震后，房屋和财物因地震受损时可以保障...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1284.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>发生火灾后如何理赔</h3> <span>若在美国遭到火灾，房屋被烧毁时，我们该如何找保险公司进行理赔呢？火灾理赔时需要递交哪些资料呢？...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1282.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何预防山火泥石流对房子的损坏</h3> <span>在美国部分地区因为气候干燥且风大，每到夏季一旦出现山火，无法及时控制时，很容易造成大规模的损失...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_38.html">汽车保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_38.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_2935.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>发生车祸后如何正确报保险</h3> <span>在洛杉矶发生车祸后如何正确地报保险？在与理赔员沟通过程中要注意哪些问题？How视频为您解答。</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1645.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>在美国发生车祸后如何向保险公司理赔</h3> <span>美国是车轮上的国家，车是人们不可缺少的生活必需品之一。因此，车祸也是常常可以在路上看到，那么，...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1328.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>在美国买汽车保险如何选择保单条款</h3> <span>在美国几乎家家户户都有车，车多了就容易发生事故，购买汽车保险是保护我们财产的一种方式。如何在众...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1320.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何买汽车保险最省钱</h3> <span>美国非常依赖车辆生活，在美国没有车就几乎等于没有腿。车多人多，出车祸的几率就大，同时我们离不开...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1335.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>在美国如何购买汽车保险</h3> <span>在美国几乎家家户户都有车，每个州也有对汽车保险不同的硬性规定。第一次办理汽车保险时，大家都会不...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video 728*90 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="8048097268"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div>
+     </div> 
+     <div class="main_block vcat3"> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_39.html">学生保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_39.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_36.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_36.html" target="_blank">
+             <div class="v_equal_name">
+              如何购买学生保险
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_40.html">医疗保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_40.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3340.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3340.html" target="_blank">
+             <div class="v_equal_name">
+              65岁后健保福利变化有多大？红蓝卡申请知多少？
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3332.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3332.html" target="_blank">
+             <div class="v_equal_name">
+              疫情期间必做四件事！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3272.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3272.html" target="_blank">
+             <div class="v_equal_name">
+              非常时期健康保险全方位解析
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2596.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2596.html" target="_blank">
+             <div class="v_equal_name">
+              如何申请医疗长期照顾
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2598.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2598.html" target="_blank">
+             <div class="v_equal_name">
+              如何购买短期临时医疗保险
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2597.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2597.html" target="_blank">
+             <div class="v_equal_name">
+              如何在65岁之前申请红蓝卡
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2540.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2540.html" target="_blank">
+             <div class="v_equal_name">
+              购买红蓝卡后看病如何省钱
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2538.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2538.html" target="_blank">
+             <div class="v_equal_name">
+              如何综合使用红蓝卡和白卡 获得最大福利
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_41.html">会计税务</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_41.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3295.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3295.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人]失业金新消息20周Fed-ED及洛杉矶$2000住房补贴申请全攻略
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3291.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3291.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人]报税截止日期7.15已迫在眉睫，你绝不能错过的税务干货大集合以及失业金答疑!
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3290.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3290.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人]与新冠息息相关的各种税务优惠，你得到了吗？
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3281.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3281.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人]7 月底后失业者的救命稻草，13 周的大流行性流感紧急失业补偿（PEUC）及失业金答疑！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3276.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3276.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人]新的EIDL 政策深度解析以及PPP, 失业金问题解答！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3271.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3271.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人] 第四轮纾困金展望|第二轮$1200美金救助金|PPP申请的误区!
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3270.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3270.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人] PPP最新豁免提案以及当前的额外失业金截止后还有什么方案可以拿钱？
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3266.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3266.html" target="_blank">
+             <div class="v_equal_name">
+              [三角税务专区-美税牛人] 至今尚未收到失业补助金原因深度解析及解决方案
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_42.html">宠物保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_42.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_129.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_129.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何购买宠物保险？
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_43.html">旅游保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_43.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3332.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3332.html" target="_blank">
+             <div class="v_equal_name">
+              疫情期间必做四件事！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_511.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_511.html" target="_blank">
+             <div class="v_equal_name">
+              在美国国外就医如何报销医疗费用
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_156.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_156.html" target="_blank">
+             <div class="v_equal_name">
+              来美旅游如何购买旅游保险
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_113.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_113.html" target="_blank">
+             <div class="v_equal_name">
+              如何购买旅游保险？
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_47.html">美国银行</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_47.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3286.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3286.html" target="_blank">
+             <div class="v_equal_name">
+              Forbearance房贷推缓缴纳计划对房价上涨是利多效应吗？《洛城情报站》第166期Jul 1, 2020
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2005.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2005.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用美联航MileagePlus Explorer信用卡
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2004.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2004.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用信用卡神卡Chase Sapphire Preferred（CSP）
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2003.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2003.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用Hyatt酒店信用卡
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1980.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1980.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用Chase信用卡Ultimate Rewards（UR点数）兑换机票
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1983.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1983.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用Chase Freedom Ultimate 信用卡
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1965.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1965.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用Chase信用卡UR点数兑换酒店
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1966.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1966.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用信用卡神卡Chase Freedom
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_48.html">劳工保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_48.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3323.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3323.html" target="_blank">
+             <div class="v_equal_name">
+              被裁员前后是否能申请工伤赔偿？ 《工伤法律月报》2020.09.01第1期
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_3284.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3284.html" target="_blank">
+             <div class="v_equal_name">
+              受新冠感染劳工如何进行工伤索赔？《法律月报》2020.07.01第18期
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_285.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_285.html" target="_blank">
+             <div class="v_equal_name">
+              如何用保险降低在美国做生意的风险
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_283.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_283.html" target="_blank">
+             <div class="v_equal_name">
+              如何降低企业劳工保险的保费
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_243.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_243.html" target="_blank">
+             <div class="v_equal_name">
+              美国公司如何避免发生劳资纠纷？
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_238.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_238.html" target="_blank">
+             <div class="v_equal_name">
+              在美国遇到工伤怎么办
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_53.html">美国贷款</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_53.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3286.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3286.html" target="_blank">
+             <div class="v_equal_name">
+              Forbearance房贷推缓缴纳计划对房价上涨是利多效应吗？《洛城情报站》第166期Jul 1, 2020
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2933.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2933.html" target="_blank">
+             <div class="v_equal_name">
+              如何申请重新贷款
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_385.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_385.html" target="_blank">
+             <div class="v_equal_name">
+              如何办理个人信用贷款
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_383.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_383.html" target="_blank">
+             <div class="v_equal_name">
+              如何通过购买点数降低房贷利率
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_371.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_371.html" target="_blank">
+             <div class="v_equal_name">
+              收入不够如何办理买房贷款
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_364.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_364.html" target="_blank">
+             <div class="v_equal_name">
+              如何办理房屋二次贷款
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_365.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_365.html" target="_blank">
+             <div class="v_equal_name">
+              如何申请大额房屋贷款
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_372.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_372.html" target="_blank">
+             <div class="v_equal_name">
+              信用不好如何办理房屋贷款
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_75.html">人寿保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_75.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3332.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3332.html" target="_blank">
+             <div class="v_equal_name">
+              疫情期间必做四件事！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2084.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2084.html" target="_blank">
+             <div class="v_equal_name">
+              重病患者如何购买人寿保险
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2075.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2075.html" target="_blank">
+             <div class="v_equal_name">
+              如何购买高额人寿保险
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2065.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+ 

@@ -1,0 +1,538 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/ca_driver_license_test.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_quiz/type_1.html">
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>内华达州驾照在线模拟题 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="美国内华达州驾驶执照考试模拟题，几乎包含了美国内华达州DMV所有的考题，免费使用，美国内华达州华人驾照考试的必备工具"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/whitespace/css/quiz.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script>
+ </head> 
+ <body> 
+  <div class="center"> 
+   <div class="row"> 
+   </div> 
+   <div class="quiz-row quiz-top"> 
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> <span class="title"> 内华达州驾照模拟试题 </span> 
+   </div> 
+   <div class="quiz-head">  <span class="title">试卷一</span> 
+    <div id="share_api" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.borderBottom='none';sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_on.png)';var divx1=sharediv.offsetLeft-110+70;var divy1=sharediv.offsetTop+sharediv.offsetHeight-1;
+ var div2 = document.getElementById('share_api_children');div2.style.top=divy1+'px';div2.style.left=divx1+'px';div2.style.display='block';" onmouseout="this.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_over.png)';this.style.borderBottom='solid 1px #ccc';document.getElementById('share_api_children').style.display='none';"> 
+    </div> 
+    <div id="share_api_children" class="share_style" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_on.png)';sharediv.style.borderBottom='none';this.style.display='block';" onmouseout="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://lv.nychinaren.com/images/share_pic/jiathis_over.png)';sharediv.style.borderBottom='solid 1px #ccc';this.style.display='none';"> 
+     <div class="jiadiv_01"> 
+      <div class="jiadiv_02" id="jiathis_sers"> 
+       <script type="text/javascript">document.write('<a href="http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title),'sharer','toolbar=0,status=0,width=626,height=436" target="_blank" class="jiatitle"><div class="jtico jtico_fb">Facebook</div></a>');</script> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=257762142',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})
+(screen,document,encodeURIComponent,'','',$('.wrap3_img').find('img').attr('src'),'','https%3A%2F%2Fwww.vegaschinaren.com%2Fca_driver_license_test.html',''))">
+        <div class="jtico jtico_tsina">
+         新浪微博
+        </div></a> <a class="jiatitle" href="javascript:window.open('https://twitter.com/intent/tweet?status='+' '+encodeURIComponent(document.title)+' '+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)"> 
+        <div class="jtico jtico_twitter">
+         Twitter
+        </div></a> <a class="jiatitle"> 
+        <div class="jtico jtico_weixin">
+         微信
+        </div> 
+        <div class="qrcode"></div> </a> 
+       <script type="text/javascript">
+			$(document).ready(function () {
+				$('.jtico_weixin').siblings('.qrcode').qrcode({
+					width: 90,
+					height: 90,
+					text: location.href,
+                })
+            })
+		</script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/ca_driver_license_test.html" class="common_pathway2">驾照考试系统</a> 
+   </div> 
+   <div class="quiz-left"> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="1"> 
+     <div class="q-title">
+       1. What does this figure indicate? 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-1"> <span class="q-choice">An accident situation due to a less following distance</span><input type="radio" name="q-1" value="1"> </li> 
+      <li class="choice-text" id="choice2-1"> <span class="q-choice">A broken white line that prohibits passing</span><input type="radio" name="q-1" value="2"> </li> 
+      <li class="choice-text" id="choice3-1"> <span class="q-choice">A car making a 'U' turn</span><input type="radio" name="q-1" value="3"> </li> 
+      <li class="choice-text" id="choice4-1"> <span class="q-choice">A broken white line that allows passing</span><input type="radio" name="q-1" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_1.html">评论 <span>(共有3条评论)</span> </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="2"> 
+     <div class="q-title">
+       2. If you see a vehicle coming toward you in your lane from the opposite direction, what should you do? 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-2"> <span class="q-choice">You must pull as far to the right as you safely can</span><input type="radio" name="q-2" value="1"> </li> 
+      <li class="choice-text" id="choice2-2"> <span class="q-choice">You must flash your headlights</span><input type="radio" name="q-2" value="2"> </li> 
+      <li class="choice-text" id="choice3-2"> <span class="q-choice">You must slow down and sound your horn</span><input type="radio" name="q-2" value="3"> </li> 
+      <li class="choice-text" id="choice4-2"> <span class="q-choice">All of the above</span><input type="radio" name="q-2" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_2.html">评论 <span>(共有1条评论)</span> </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="3"> 
+     <div class="q-title">
+       3. If you miss the exit ramp on a freeway, you must 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-3"> <span class="q-choice">turn around to reach the desired exit</span><input type="radio" name="q-3" value="1"> </li> 
+      <li class="choice-text" id="choice2-3"> <span class="q-choice">go to the next exit</span><input type="radio" name="q-3" value="2"> </li> 
+      <li class="choice-text" id="choice3-3"> <span class="q-choice">stop your vehicle and ask for help</span><input type="radio" name="q-3" value="3"> </li> 
+      <li class="choice-text" id="choice4-3"> <span class="q-choice">back up to reach the desired exit</span><input type="radio" name="q-3" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_3.html">评论 <span>(共有2条评论)</span> </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="4"> 
+     <div class="q-title">
+       4. This rounded sign warns of... 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-4"> <span class="q-choice">a one-way road ahead</span><input type="radio" name="q-4" value="1"> </li> 
+      <li class="choice-text" id="choice2-4"> <span class="q-choice">a road repair zone ahead</span><input type="radio" name="q-4" value="2"> </li> 
+      <li class="choice-text" id="choice3-4"> <span class="q-choice">a railroad crossing ahead</span><input type="radio" name="q-4" value="3"> </li> 
+      <li class="choice-text" id="choice4-4"> <span class="q-choice">a high occupancy vehicle zone ahead</span><input type="radio" name="q-4" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_4.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="5"> 
+     <div class="q-title">
+       5. You must never turn your vehicle's ignition to the lock position while it is still in motion, as this will cause: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-5"> <span class="q-choice">the brakes to lock</span><input type="radio" name="q-5" value="1"> </li> 
+      <li class="choice-text" id="choice2-5"> <span class="q-choice">the lights to fail</span><input type="radio" name="q-5" value="2"> </li> 
+      <li class="choice-text" id="choice3-5"> <span class="q-choice">the engine to fail</span><input type="radio" name="q-5" value="3"> </li> 
+      <li class="choice-text" id="choice4-5"> <span class="q-choice">the steering to lock</span><input type="radio" name="q-5" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_5.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="6"> 
+     <div class="q-title">
+       6. A driver must use headlights because of insufficient light and anytime persons or vehicles cannot be clearly seen at a distance of 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-6"> <span class="q-choice">2,000 feet</span><input type="radio" name="q-6" value="1"> </li> 
+      <li class="choice-text" id="choice2-6"> <span class="q-choice">1,000 feet</span><input type="radio" name="q-6" value="2"> </li> 
+      <li class="choice-text" id="choice3-6"> <span class="q-choice">4,000 feet</span><input type="radio" name="q-6" value="3"> </li> 
+      <li class="choice-text" id="choice4-6"> <span class="q-choice">3,000 feet</span><input type="radio" name="q-6" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_6.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="7"> 
+     <div class="q-title">
+       7. You may not park your car in any of the following places, except: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-7"> <span class="q-choice">in an intersection</span><input type="radio" name="q-7" value="1"> </li> 
+      <li class="choice-text" id="choice2-7"> <span class="q-choice">on a sidewalk</span><input type="radio" name="q-7" value="2"> </li> 
+      <li class="choice-text" id="choice3-7"> <span class="q-choice">in front of a private driveway</span><input type="radio" name="q-7" value="3"> </li> 
+      <li class="choice-text" id="choice4-7"> <span class="q-choice">on the side of a street</span><input type="radio" name="q-7" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_7.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="8"> 
+     <div class="q-title">
+       8. While driving on a highway, you must look ahead at least _________ to watch traffic patterns. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-8"> <span class="q-choice">30-40 seconds</span><input type="radio" name="q-8" value="1"> </li> 
+      <li class="choice-text" id="choice2-8"> <span class="q-choice">20-30 seconds</span><input type="radio" name="q-8" value="2"> </li> 
+      <li class="choice-text" id="choice3-8"> <span class="q-choice">15-20 seconds</span><input type="radio" name="q-8" value="3"> </li> 
+      <li class="choice-text" id="choice4-8"> <span class="q-choice">10-12 seconds</span><input type="radio" name="q-8" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_8.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="9"> 
+     <div class="q-title">
+       9. In Nevada, _________ must wear seat belts at all times the vehicle is in motion. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-9"> <span class="q-choice">only drivers</span><input type="radio" name="q-9" value="1"> </li> 
+      <li class="choice-text" id="choice2-9"> <span class="q-choice">the driver and rear seat passengers above age 6</span><input type="radio" name="q-9" value="2"> </li> 
+      <li class="choice-text" id="choice3-9"> <span class="q-choice">The driver and all passengers above age 6</span><input type="radio" name="q-9" value="3"> </li> 
+      <li class="choice-text" id="choice4-9"> <span class="q-choice">the driver and front seat passengers above age 6</span><input type="radio" name="q-9" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_9.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="10"> 
+     <div class="q-title">
+       10. The wide white lines painted across a traffic lane before you enter the intersection are known as 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-10"> <span class="q-choice">merge lines</span><input type="radio" name="q-10" value="1"> </li> 
+      <li class="choice-text" id="choice2-10"> <span class="q-choice">yield lines</span><input type="radio" name="q-10" value="2"> </li> 
+      <li class="choice-text" id="choice3-10"> <span class="q-choice">crosswalk lines</span><input type="radio" name="q-10" value="3"> </li> 
+      <li class="choice-text" id="choice4-10"> <span class="q-choice">stop lines</span><input type="radio" name="q-10" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_10.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="11"> 
+     <div class="q-title">
+       11. To make safe and legal turns on city streets and on open highways, you must signal your turn at least: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-11"> <span class="q-choice">50 feet ahead on city streets and 200 feet ahead on open highways</span><input type="radio" name="q-11" value="1"> </li> 
+      <li class="choice-text" id="choice2-11"> <span class="q-choice">100 feet ahead on city streets and 300 feet ahead on open highways</span><input type="radio" name="q-11" value="2"> </li> 
+      <li class="choice-text" id="choice3-11"> <span class="q-choice">25 feet ahead on city streets and 150 feet ahead on open highways</span><input type="radio" name="q-11" value="3"> </li> 
+      <li class="choice-text" id="choice4-11"> <span class="q-choice">75 feet ahead on city streets and 250 feet ahead on open highways</span><input type="radio" name="q-11" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_11.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="12"> 
+     <div class="q-title">
+       12. A Nevada instruction permit issued to young drivers is valid for: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-12"> <span class="q-choice">six months</span><input type="radio" name="q-12" value="1"> </li> 
+      <li class="choice-text" id="choice2-12"> <span class="q-choice">one year</span><input type="radio" name="q-12" value="2"> </li> 
+      <li class="choice-text" id="choice3-12"> <span class="q-choice">three months</span><input type="radio" name="q-12" value="3"> </li> 
+      <li class="choice-text" id="choice4-12"> <span class="q-choice">nine months</span><input type="radio" name="q-12" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_12.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="13"> 
+     <div class="q-title">
+       13. When passing on a two-lane road, engage your left signal light at least _________ in business or residential areas before making a turn. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-13"> <span class="q-choice">85 feet ahead</span><input type="radio" name="q-13" value="1"> </li> 
+      <li class="choice-text" id="choice2-13"> <span class="q-choice">50 feet ahead</span><input type="radio" name="q-13" value="2"> </li> 
+      <li class="choice-text" id="choice3-13"> <span class="q-choice">100 feet ahead</span><input type="radio" name="q-13" value="3"> </li> 
+      <li class="choice-text" id="choice4-13"> <span class="q-choice">45 feet ahead</span><input type="radio" name="q-13" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_13.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="14"> 
+     <div class="q-title">
+       14. What does this sign mean? 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-14"> <span class="q-choice">A traffic police ahead</span><input type="radio" name="q-14" value="1"> </li> 
+      <li class="choice-text" id="choice2-14"> <span class="q-choice">Pedestrian crosswalks ahead</span><input type="radio" name="q-14" value="2"> </li> 
+      <li class="choice-text" id="choice3-14"> <span class="q-choice">A flagman ahead</span><input type="radio" name="q-14" value="3"> </li> 
+      <li class="choice-text" id="choice4-14"> <span class="q-choice">An emergency vehicle ahead</span><input type="radio" name="q-14" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_14.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="15"> 
+     <div class="q-title">
+       15. When traffic control lights are not working, you must _________ before proceeding through the intersection. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-15"> <span class="q-choice">change lanes</span><input type="radio" name="q-15" value="1"> </li> 
+      <li class="choice-text" id="choice2-15"> <span class="q-choice">come to a full stop</span><input type="radio" name="q-15" value="2"> </li> 
+      <li class="choice-text" id="choice3-15"> <span class="q-choice">increase the speed</span><input type="radio" name="q-15" value="3"> </li> 
+      <li class="choice-text" id="choice4-15"> <span class="q-choice">slow down</span><input type="radio" name="q-15" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_15.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="16"> 
+     <div class="q-title">
+       16. If the headlights of an oncoming vehicle do not allow you to see ahead, you must look: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-16"> <span class="q-choice">down and to the right side of your lane</span><input type="radio" name="q-16" value="1"> </li> 
+      <li class="choice-text" id="choice2-16"> <span class="q-choice">into the side mirrors</span><input type="radio" name="q-16" value="2"> </li> 
+      <li class="choice-text" id="choice3-16"> <span class="q-choice">down and to the left side of your lane</span><input type="radio" name="q-16" value="3"> </li> 
+      <li class="choice-text" id="choice4-16"> <span class="q-choice">down and to the center of the lane</span><input type="radio" name="q-16" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_16.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="17"> 
+     <div class="q-title">
+       17. According to Nevada driving law, under normal weather conditions, a driver must use headlights between: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-17"> <span class="q-choice">a half hour after sunset and a half hour before sunrise</span><input type="radio" name="q-17" value="1"> </li> 
+      <li class="choice-text" id="choice2-17"> <span class="q-choice">one and a half hours after sunset and one and a half hours before sunrise</span><input type="radio" name="q-17" value="2"> </li> 
+      <li class="choice-text" id="choice3-17"> <span class="q-choice">two hours after sunset and two hours before sunrise</span><input type="radio" name="q-17" value="3"> </li> 
+      <li class="choice-text" id="choice4-17"> <span class="q-choice">one hour after sunset and one hour before sunrise</span><input type="radio" name="q-17" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_17.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="18"> 
+     <div class="q-title">
+       18. When passing a stopped emergency vehicle, you must 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-18"> <span class="q-choice">stop and move toward the right edge</span><input type="radio" name="q-18" value="1"> </li> 
+      <li class="choice-text" id="choice2-18"> <span class="q-choice">slow down and move into a non-adjacent lane</span><input type="radio" name="q-18" value="2"> </li> 
+      <li class="choice-text" id="choice3-18"> <span class="q-choice">increase the speed and change lanes</span><input type="radio" name="q-18" value="3"> </li> 
+      <li class="choice-text" id="choice4-18"> <span class="q-choice">continue with the same speed and move into an adjacent lane</span><input type="radio" name="q-18" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_18.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="19"> 
+     <div class="q-title">
+       19. The legal parking position for any vehicle to parallel park is: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-19"> <span class="q-choice">with the front and rear wheels within 18 inches of the curb</span><input type="radio" name="q-19" value="1"> </li> 
+      <li class="choice-text" id="choice2-19"> <span class="q-choice">with the front wheels within 6 inches of the curb</span><input type="radio" name="q-19" value="2"> </li> 
+      <li class="choice-text" id="choice3-19"> <span class="q-choice">with the front and rear wheels within 12 inches of the curb</span><input type="radio" name="q-19" value="3"> </li> 
+      <li class="choice-text" id="choice4-19"> <span class="q-choice">with the rear wheels within 24 inches of the curb</span><input type="radio" name="q-19" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_19.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="20"> 
+     <div class="q-title">
+       20. The permitted maximum speed on Nevada rural interstate freeways is 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-20"> <span class="q-choice">45 mph</span><input type="radio" name="q-20" value="1"> </li> 
+      <li class="choice-text" id="choice2-20"> <span class="q-choice">65 mph</span><input type="radio" name="q-20" value="2"> </li> 
+      <li class="choice-text" id="choice3-20"> <span class="q-choice">75 mph</span><input type="radio" name="q-20" value="3"> </li> 
+      <li class="choice-text" id="choice4-20"> <span class="q-choice">70 mph</span><input type="radio" name="q-20" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_20.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="21"> 
+     <div class="q-title">
+       21. When you drive in bad weather conditions, you must _________ to drive safely behind a vehicle. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-21"> <span class="q-choice">change lanes frequently</span><input type="radio" name="q-21" value="1"> </li> 
+      <li class="choice-text" id="choice2-21"> <span class="q-choice">increase your speed</span><input type="radio" name="q-21" value="2"> </li> 
+      <li class="choice-text" id="choice3-21"> <span class="q-choice">increase your following distance</span><input type="radio" name="q-21" value="3"> </li> 
+      <li class="choice-text" id="choice4-21"> <span class="q-choice">reduce your braking distance</span><input type="radio" name="q-21" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_21.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="22"> 
+     <div class="q-title">
+       22. If there is a stop sign at the railroad crossing , you must stop within _________ from the nearest rail of the railroad. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-22"> <span class="q-choice">10 feet to 150 feet</span><input type="radio" name="q-22" value="1"> </li> 
+      <li class="choice-text" id="choice2-22"> <span class="q-choice">5 feet to 100 feet</span><input type="radio" name="q-22" value="2"> </li> 
+      <li class="choice-text" id="choice3-22"> <span class="q-choice">15 feet to 200 feet</span><input type="radio" name="q-22" value="3"> </li> 
+      <li class="choice-text" id="choice4-22"> <span class="q-choice">15 feet to 50 feet</span><input type="radio" name="q-22" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_22.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="23"> 
+     <div class="q-title">
+       23. When exiting from a roundabout, you must: 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-23"> <span class="q-choice">not use a signal</span><input type="radio" name="q-23" value="1"> </li> 
+      <li class="choice-text" id="choice2-23"> <span class="q-choice">use a right turn signal</span><input type="radio" name="q-23" value="2"> </li> 
+      <li class="choice-text" id="choice3-23"> <span class="q-choice">use a left turn signal</span><input type="radio" name="q-23" value="3"> </li> 
+      <li class="choice-text" id="choice4-23"> <span class="q-choice">change lanes</span><input type="radio" name="q-23" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_23.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="24"> 
+     <div class="q-title">
+       24. If you double your speed on a highway, your braking distance increases by 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-24"> <span class="q-choice">two times</span><input type="radio" name="q-24" value="1"> </li> 
+      <li class="choice-text" id="choice2-24"> <span class="q-choice">four times</span><input type="radio" name="q-24" value="2"> </li> 
+      <li class="choice-text" id="choice3-24"> <span class="q-choice">five times</span><input type="radio" name="q-24" value="3"> </li> 
+      <li class="choice-text" id="choice4-24"> <span class="q-choice">three times</span><input type="radio" name="q-24" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_24.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="25"> 
+     <div class="q-title">
+       25. This shield-shape guide sign is: 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-25"> <span class="q-choice">an interstate route marker sign</span><input type="radio" name="q-25" value="1"> </li> 
+      <li class="choice-text" id="choice2-25"> <span class="q-choice">a posted speed limit sign on an interstate highway</span><input type="radio" name="q-25" value="2"> </li> 
+      <li class="choice-text" id="choice3-25"> <span class="q-choice">the distance to the nearest exit on an interstate highway</span><input type="radio" name="q-25" value="3"> </li> 
+      <li class="choice-text" id="choice4-25"> <span class="q-choice">an exit number on an interstate highway</span><input type="radio" name="q-25" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_25.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="26"> 
+     <div class="q-title">
+       26. This sign means that... 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-26"> <span class="q-choice">a public library is ahead</span><input type="radio" name="q-26" value="1"> </li> 
+      <li class="choice-text" id="choice2-26"> <span class="q-choice">a play ground area is ahead</span><input type="radio" name="q-26" value="2"> </li> 
+      <li class="choice-text" id="choice3-26"> <span class="q-choice">school children are crossing ahead</span><input type="radio" name="q-26" value="3"> </li> 
+      <li class="choice-text" id="choice4-26"> <span class="q-choice">a hospital zone is ahead</span><input type="radio" name="q-26" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_26.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="27"> 
+     <div class="q-title">
+       27. This symbol indicates... 
+     </div> 
+     <div class="q-image">  
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-27"> <span class="q-choice">A hospital service</span><input type="radio" name="q-27" value="1"> </li> 
+      <li class="choice-text" id="choice2-27"> <span class="q-choice">a wheel chair service</span><input type="radio" name="q-27" value="2"> </li> 
+      <li class="choice-text" id="choice3-27"> <span class="q-choice">a pedestrian crosswalk</span><input type="radio" name="q-27" value="3"> </li> 
+      <li class="choice-text" id="choice4-27"> <span class="q-choice">a handicapped parking permit</span><input type="radio" name="q-27" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_27.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="28"> 
+     <div class="q-title">
+       28. The legal limit of blood alcohol content for a driver above 21 years of age is 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-28"> <span class="q-choice">0.08 or less</span><input type="radio" name="q-28" value="1"> </li> 
+      <li class="choice-text" id="choice2-28"> <span class="q-choice">0.07 or less</span><input type="radio" name="q-28" value="2"> </li> 
+      <li class="choice-text" id="choice3-28"> <span class="q-choice">0.09 or less</span><input type="radio" name="q-28" value="3"> </li> 
+      <li class="choice-text" id="choice4-28"> <span class="q-choice">0.18 or less</span><input type="radio" name="q-28" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_28.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="29"> 
+     <div class="q-title">
+       29. When meeting or following a vehicle at night, you should change to low beams at least how many feet away? 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-29"> <span class="q-choice">500 feet before any oncoming vehicle and 300 feet when following a vehicle</span><input type="radio" name="q-29" value="1"> </li> 
+      <li class="choice-text" id="choice2-29"> <span class="q-choice">400 feet before any oncoming vehicle and 200 feet when following a vehicle</span><input type="radio" name="q-29" value="2"> </li> 
+      <li class="choice-text" id="choice3-29"> <span class="q-choice">200 feet before any oncoming vehicle and 200 feet when following a vehicle</span><input type="radio" name="q-29" value="3"> </li> 
+      <li class="choice-text" id="choice4-29"> <span class="q-choice">300 feet before any oncoming vehicle and 100 feet when following a vehicle</span><input type="radio" name="q-29" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_29.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="traffic-content action"> 
+     <input type="hidden" name="qNumber" value="30"> 
+     <div class="q-title">
+       30. You must not travel faster than _________in school zones. 
+     </div> 
+     <div class="q-image"> 
+     </div> 
+     <ul class="choices"> 
+      <li class="choice-text" id="choice1-30"> <span class="q-choice">20 mph</span><input type="radio" name="q-30" value="1"> </li> 
+      <li class="choice-text" id="choice2-30"> <span class="q-choice">15 mph</span><input type="radio" name="q-30" value="2"> </li> 
+      <li class="choice-text" id="choice3-30"> <span class="q-choice">30 mph</span><input type="radio" name="q-30" value="3"> </li> 
+      <li class="choice-text" id="choice4-30"> <span class="q-choice">35 mph</span><input type="radio" name="q-30" value="4"> </li> 
+     </ul> <a class="review" href="/ca_driver_license_test/task_review/id_30.html">评论 </a> <a class="answer">查看本题答案</a> 
+    </div> 
+    <div class="see-result">
+     <div class="button-panel">
+      <span class="button-b-search"></span><a class="button-white button-a" href="javascript:seeTrafficResult(1)">查看答案</a>
+     </div>
+    </div> 
+    <div class="do-p-again">
+     <div class="button-panel">
+      <span class="button-b-again"></span><a class="button-white button-a" href="javascript:doPageAgain()">重答当页</a>
+     </div>
+    </div> 
+    <div class="do-a-again">
+     <div class="button-panel">
+      <span class="button-b-again"></span><a class="button-white button-a" href="javascript:doAllAgain()">重答全部</a>
+     </div>
+    </div> 
+    <div id="quiz-result"></div> 
+    <script type="text/javascript">
+		$(document).ready(function(){
+			initTrafficList();
+		});
+	</script> 
+    <div class="clear"></div> 
+    <div> 
+     <div class="page_pagination_box" id="page_pagination"> <a class="page_prev" onclick="return true"></a> <a class="current_page" onclick="return true">1</a> <a href="/ca_driver_license_test/page_2.html" class="page_num" onclick="return true">2</a> <a href="/ca_driver_license_test/page_3.html" class="page_num" onclick="return true">3</a> <a href="/ca_driver_license_test/page_4.html" class="page_num" onclick="return true">4</a> <a href="/ca_driver_license_test/page_5.html" class="page_num" onclick="return true">5</a> <a href="/ca_driver_license_test/page_6.html" class="page_num" onclick="return true">6</a> <a href="/ca_driver_license_test/page_7.html" class="page_num" onclick="return true">7</a> <a href="/ca_driver_license_test/page_2.html" class="page_next" onclick="return true"></a> 
+      <div class="page_jump">
+       <input class="page_text" value="1" type="text" name="jumpto" id="jumpto" size="2" height="18" onmouseover="this.focus()" onfocus="this.select()" onkeypress="pageJumpTo(event, '/ca_driver_license_test/page_', 7)"> <span class="page_text">/ 7 页</span> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="quiz-right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Company Home 300x600, created 7/4/10 --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="3701933303"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    <div class="quiz-latest"> 
+     <div class="title">
+      最新评论
+     </div> 
+     <ul class="comment-latest"> 
+      <li class="comment-unit"> <a href="/user/id_1730233.html" class="user-avatar">  </a> 
+       <div class="comment-info"> <a href="/user/id_1730233.html" class="comment-user">9632无所谓了</a> 
+        <div class="comment-date">
+         2019-07-12
+        </div> <a href="/ca_driver_license_test/task_review/id_1.html" class="comment-text">我有很重要的事想问您，我想知道加州驾照能换内华达驾照吗？需要笔试吗？我想在加州考中文的然后换内华达的驾照</a> 
+       </div> </li> 
+      <li class="comment-unit"> <a href="/user/id_468261.html" class="user-avatar">  </a> 
+       <div class="comment-info"> <a href="/user/id_468261.html" class="comment-user">292Jason</a> 
+        <div class="comment-date">
+         2017-09-26
+        </div> <a href="/ca_driver_license_test/task_review/id_1.html" class="comment-text">内华达州的笔试比这个简单吧？</a> 
+       </div> </li> 
+      <li class="comment-unit"> <a href="/user/id_463897.html" class="user-avatar">  </a> 
+       <div class="comment-info"> <a href="/user/id_463897.html" class="comment-user">天高云淡515</a> 
+        <div class="comment-date">
+         2017-08-23
+        </div> <a href="/ca_driver_license_test/task_review/id_1.html" class="comment-text">今天刚刚通过了内华达州的笔试。想说的是，这里的这200个题，和考试真题实在没什么关系完全不一样的题。英语可以的直接看驾驶员手册就行，不好的就得请翻

@@ -1,0 +1,1219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/v/task_group/gid_14.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinflorida.com/page_video/task_list/groupId_14.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>休闲娱乐 - How视频 - 佛罗里达华人资讯网</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="activeText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/v/task_group/gid_14.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/v.html" class="common_pathway2">How视频</a> <a href="/v/task_group/gid_14.html" class="common_pathway2">休闲娱乐</a> 
+   </div> 
+   <div class="video_search" id="videosearch"> 
+    <input type="text" class="search_input" placeholder="请输入视频关键字查找"> 
+    <div class="button-panel">
+     <span class="button-b-search"></span><a class="button-blue button-a" href="javascript:void(0)">搜索</a>
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/video.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/video.js?v=v1662"></script> 
+   <div class="vrow v_group_page"> 
+    <div id="main"> 
+     <div class="main_block vnode">
+      <div class="video_title"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <span>休闲娱乐</span> </span> 
+       </div> 
+      </div> 
+      <div class="v_screen_w"> 
+       <div class="v_screen"> 
+        <div class="v_equal_list col8 v_node" _colnum="8" _actionnum="8"> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_32.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_32.html" target="_blank">
+            <div class="v_equal_name">
+             养宠妙招
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_55.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_55.html" target="_blank">
+            <div class="v_equal_name">
+             美国钓鱼
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_61.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_61.html" target="_blank">
+            <div class="v_equal_name">
+             运动健身
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_62.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_62.html" target="_blank">
+            <div class="v_equal_name">
+             艺术
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_63.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_63.html" target="_blank">
+            <div class="v_equal_name">
+             美妆美容美发
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_64.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_64.html" target="_blank">
+            <div class="v_equal_name">
+             美国旅游
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_67.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_67.html" target="_blank">
+            <div class="v_equal_name">
+             魔术
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_72.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_72.html" target="_blank">
+            <div class="v_equal_name">
+             收藏
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_76.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_76.html" target="_blank">
+            <div class="v_equal_name">
+             摄影PS
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_77.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_77.html" target="_blank">
+            <div class="v_equal_name">
+             佛教文化
+            </div></a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div class="row grid vl123"> 
+       <div class="v-lrnp"> <a href="/v/v_1519.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>羽毛球如何接杀球</h3> <span>随着人们对于运动健身认识的逐渐提升，越来越多的人喜欢上了羽毛球这项运动。因此，How视频特别制...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_1624.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何增加反手回球的力量</h3> <span>随着人们对于运动健身认识的逐渐提升，越来越多的人喜欢上了羽毛球这项运动。因此，How视频特别制...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_719.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何做腹式呼吸</h3> <span>在学习唱歌时，我们总会听到“丹田气”这个词。丹田呼吸其实是腹式呼吸，这样的呼吸方法会使唱歌时声...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_2392.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何学会最标准的自由泳</h3> <span>游泳向来被视为一种十分均衡的运动项目，长期练习不仅能够使身体更健康，更能让身材更匀称，线条更好...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_717.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何放松喉咙</h3> <span>我们在唱歌时，会觉得嗓子很累，这往往是因为发音方法不正确导致的声带肌肉的紧张。那么专业的歌手是...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_1714.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>羽毛球如何提升杀球速度</h3> <span>随着人们对于运动健身认识的逐渐提升，越来越多的人喜欢上了羽毛球这项运动。因此，How视频特别制...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block"> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_32.html">养宠妙招</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_32.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_2226.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>被臭鼬喷了怎么办</h3> <span>臭鼬的臭液奇臭无比且具有麻痹性，如果狗狗被臭鼬喷到应该怎么办？除了去宠物店清洗之外，还有什么办...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2114.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何为狗狗挑选玩具</h3> <span>如何为活泼爱动的狗狗选择合适的玩具？为狗狗选择玩具的时候要注意什么？哪些玩具利于狗狗和主人互动...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2101.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>短时间离家如何安置狗狗</h3> <span>短时间离开家应该如何安置狗狗？把狗狗寄养在亲朋好友家或是送入寄养中心要注意什么？How视频为您解答。</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1968.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何给狗狗梳毛</h3> <span>如何正确地给狗狗梳毛？给狗狗梳毛时需要用到那些工具？注意哪些问题？How视频一一为您解答。</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_1960.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>狗狗耳朵发炎了怎么办</h3> <span>如何防止狗狗耳朵发炎？如何及时发现狗狗耳朵发炎？狗狗耳朵一旦发炎又该如何处理？...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_55.html">美国钓鱼</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_55.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_2220.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>钓鱼如何甩竿</h3> <span>在沙滩钓鱼如何甩竿？甩竿有哪些不得不知的注意要点？又如何避免甩竿的常见错误？How视频为您解答。</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2202.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何用路亚钓石斑鱼</h3> <span>石斑鱼营养丰富，肉质细嫩洁白，类似鸡肉，素有“海鸡肉”之称。今天How视频将带您一起用路亚钓法...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2203.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何组装路亚钓竿</h3> <span>路亚钓法由于路亚方便携带随用随取，同时在钓鱼的过程中要不断控制鱼竿从而增加了很多钓鱼的乐趣而倍...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2190.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>海钓船长与钓友该如何配合</h3> <span>出海钓鱼船长的角色至关重要，船长不仅要带着钓友们去找鱼还要在钓友中鱼后帮助成功捕获鱼，那么海钓...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2189.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何用路亚钓黃尾鱼</h3> <span>路亚钓是一种通过模仿弱小生物引发大鱼攻击的钓鱼方法，讲究技巧，需要竿、饵、轮的综合操作，本期H...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video 728*90 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="8048097268"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div>
+     </div> 
+     <div class="main_block vcat3"> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_61.html">运动健身</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_61.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2962.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2962.html" target="_blank">
+             <div class="v_equal_name">
+              女性如何使用高跟鞋自卫
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2952.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2952.html" target="_blank">
+             <div class="v_equal_name">
+              女性如何使用包包防御
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2950.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2950.html" target="_blank">
+             <div class="v_equal_name">
+              女性如何利用手包自卫
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2949.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2949.html" target="_blank">
+             <div class="v_equal_name">
+              女性穿高跟鞋如何为自己赢得逃跑时间
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2945.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2945.html" target="_blank">
+             <div class="v_equal_name">
+              如何使用手指技巧自卫
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2944.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2944.html" target="_blank">
+             <div class="v_equal_name">
+              女性如何使用包包制服歹徒
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2903.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2903.html" target="_blank">
+             <div class="v_equal_name">
+              如何练习泰拳勾拳
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2902.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2902.html" target="_blank">
+             <div class="v_equal_name">
+              泰拳如何肘击
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_62.html">艺术</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_62.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2974.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2974.html" target="_blank">
+             <div class="v_equal_name">
+              肚皮舞之颈部移动技巧
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2973.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2973.html" target="_blank">
+             <div class="v_equal_name">
+              肚皮舞之上侧圆胸技巧
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2972.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2972.html" target="_blank">
+             <div class="v_equal_name">
+              肚皮舞之 西米抖胯技巧
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2971.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2971.html" target="_blank">
+             <div class="v_equal_name">
+              跳肚皮舞如何让手臂像蛇一样扭动
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2969.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2969.html" target="_blank">
+             <div class="v_equal_name">
+              跳肚皮舞如何做下8字胯
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2967.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2967.html" target="_blank">
+             <div class="v_equal_name">
+              跳肚皮舞如何做水平圆胯
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2966.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2966.html" target="_blank">
+             <div class="v_equal_name">
+              跳肚皮舞如何做好平推胯
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2965.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2965.html" target="_blank">
+             <div class="v_equal_name">
+              如何跳好肚皮舞
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_63.html">美妆美容美发</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_63.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2767.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2767.html" target="_blank">
+             <div class="v_equal_name">
+              如何做水波纹造型
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2727.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2727.html" target="_blank">
+             <div class="v_equal_name">
+              如何为party打理简单又洋气的发型
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2723.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2723.html" target="_blank">
+             <div class="v_equal_name">
+              如何做复古波浪发型
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2721.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2721.html" target="_blank">
+             <div class="v_equal_name">
+              如何自己吹头发
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2654.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2654.html" target="_blank">
+             <div class="v_equal_name">
+              如何用夹板机为自己做发型
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2682.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2682.html" target="_blank">
+             <div class="v_equal_name">
+              如何编玫瑰花辫
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2653.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2653.html" target="_blank">
+             <div class="v_equal_name">
+              如何使自己的头发蓬松
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2641.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2641.html" target="_blank">
+             <div class="v_equal_name">
+              如何从大象腿变小细腿
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_64.html">美国旅游</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_64.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3078.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3078.html" target="_blank">
+             <div class="v_equal_name">
+              美国八大自然奇景绝佳的国家公园 美得震撼！不容错过！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2961.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2961.html" target="_blank">
+             <div class="v_equal_name">
+              如何玩转德国
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2960.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2960.html" target="_blank">
+             <div class="v_equal_name">
+              如何玩转内蒙
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2959.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2959.html" target="_blank">
+             <div class="v_equal_name">
+              如何玩转悉尼
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2955.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2955.html" target="_blank">
+             <div class="v_equal_name">
+              如何玩转荷兰
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2956.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2956.html" target="_blank">
+             <div class="v_equal_name">
+              如何玩沙漠越野
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2765.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2765.html" target="_blank">
+             <div class="v_equal_name">
+              环球旅行攻略：12个月带你看遍世界上最美的风景！
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2547.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2547.html" target="_blank">
+             <div class="v_equal_name">
+              遭遇旅游纠纷怎么维权
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_67.html">魔术</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_67.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_1119.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1119.html" target="_blank">
+             <div class="v_equal_name">
+              如何解锁别人的手机
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1102.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1102.html" target="_blank">
+             <div class="v_equal_name">
+              如何用一张纸币打断筷子
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1081.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1081.html" target="_blank">
+             <div class="v_equal_name">
+              如何让筷子悬浮
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1080.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1080.html" target="_blank">
+             <div class="v_equal_name">
+              如何把硬币变没
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_72.html">收藏</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_72.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_1675.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1675.html" target="_blank">
+             <div class="v_equal_name">
+              如何收藏玉器
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1642.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1642.html" target="_blank">
+             <div class="v_equal_name">
+              如何鉴定玉器
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_76.html">摄影PS</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_76.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2625.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2625.html" target="_blank">
+             <div class="v_equal_name">
+              如何用photoshop把朋友圈照片最大化
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2627.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2627.html" target="_blank">
+             <div class="v_equal_name">
+              如何去除照片中的水印
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2626.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2626.html" target="_blank">
+             <div class="v_equal_name">
+              如何用photoshop为孩子制作填色画
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2579.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2579.html" target="_blank">
+             <div class="v_equal_name">
+              如何在照片上添加手写签名
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2590.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2590.html" target="_blank">
+             <div class="v_equal_name">
+              如何用photoshop替换证件照的背景色
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2578.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2578.html" target="_blank">
+             <div class="v_equal_name">
+              用photoshop如何修眼睛和鼻子
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2571.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2571.html" target="_blank">
+             <div class="v_equal_name">
+              如何用photoshop美白牙齿
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2570.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2570.html" target="_blank">
+             <div class="v_equal_name">
+              如何用photoshop去除照片中多余的人物
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_77.html">佛教文化</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_77.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2254.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2254.html" target="_blank">
+             <div class="v_equal_name">
+              如何布施
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2253.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2253.html" target="_blank">
+             <div class="v_equal_name">
+              如何在佛前供花和供灯
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2255.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2255.html" target="_blank">
+             <div class="v_equal_name">
+              如何拜佛
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2380.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2380.html" target="_blank">
+             <div class="v_equal_name">
+              如何皈依
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2331.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2331.html" target="_blank">
+             <div class="v_equal_name">
+              如何行善
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2224.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2224.html" target="_blank">
+             <div class="v_equal_name">
+              去寺庙拜佛的几大禁忌
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1688.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1688.html" target="_blank">
+             <div class="v_equal_name">
+              如何选择打坐的坐垫
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1687.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div clas

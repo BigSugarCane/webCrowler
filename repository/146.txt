@@ -1,0 +1,678 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/mortgage.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>美国房屋贷款计算工具 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="美国房屋贷款计算工具,根据房屋价格，头款比例，利率，贷款年限，计算每月还款，以及每年本息的偿还的情况"> 
+  <meta name="keywords" content="美国房屋贷款计算工具,房贷计算,房贷每月还款计算,房贷利息计算,房贷每年还款计算"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="activeText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/mortgage.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="pathway">  <a href="/" class="pathway1">首页</a>&nbsp;&gt;&nbsp; <a href="/la_weblinks.html" class="pathway">常用工具</a>&nbsp;&gt;&nbsp; <a href="/mortgage.html" class="pathway">房贷计算</a>
+   </div> 
+   <div class="category_top">
+    <h1>美国房屋贷款计算工具</h1>
+   </div> 
+   <div class="clear"></div> 
+   <link href="/components/com_mortgage_calculator/calculator.css" type="text/css" rel="stylesheet"> 
+   <form action="/mortgage.html" method="post"> 
+    <input name="form_complete" value="1" type="hidden"> 
+    <table align="center" cellpadding="0" width="100%"> 
+     <tbody> 
+      <tr> 
+       <td valign="top" width="678px"> 
+        <table class="calc" cellpadding="5" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <th colspan="2" align="center">请输入房贷计算相关的数据</th> 
+          </tr> 
+          <tr> 
+           <td colspan="2">
+            <hr width="80%" color="#CCE3F5" size="1"></td> 
+          </tr> 
+          <tr> 
+           <td align="right" width="70px">房屋价格:</td> 
+           <td><input class="calc_input" name="saleprice" value=" 200000" size="10" type="text"> $ </td> 
+          </tr> 
+          <tr> 
+           <td align="right"></td> 
+           <td>请填写您所选购房屋的总价格</td> 
+          </tr> 
+          <tr> 
+           <td align="right">头款比例:</td> 
+           <td><input class="calc_input" name="down_percent" value=" 30" size="10" type="text"> % </td> 
+          </tr> 
+          <tr> 
+           <td align="right"></td> 
+           <td>请填写您准备缴纳的头款百分比，美国贷款机构通常要求海外投资人的头款百分比不得低于百分之30。</td> 
+          </tr> 
+          <tr> 
+           <td align="right">房贷利率:</td> 
+           <td><input class="calc_input" name="mortgage_interest_percent" value="5.5" size="3" type="text"> % </td> 
+          </tr> 
+          <tr> 
+           <td align="right"></td> 
+           <td>您的房贷利率是由您的放贷机构决定的，通常取决于您的头款比例和您的个人信用度。目前海外投资人通 常可以获得4%~9%的房贷利率。</td> 
+          </tr> 
+          <tr> 
+           <td align="right">房贷年限:</td> 
+           <td><input class="calc_input" name="year_term" value="30" size="3" type="text"> 年 </td> 
+          </tr> 
+          <tr> 
+           <td align="right"></td> 
+           <td>美国的房贷年限通常为 15年或30年。 大部分美国人会在房贷利率低的时候锁定30年的贷款年限。对于海外投资人来说，贷款年限的选择因各人的月付承受力和房屋用途而异。</td> 
+          </tr> 
+          <tr> 
+           <td align="right">地税税率:</td> 
+           <td><input class="calc_input" name="property_tax_rate" value="1.4" size="3" type="text"> %</td> 
+          </tr> 
+          <tr> 
+           <td align="right"></td> 
+           <td>美国的地税是每年缴的，每个州，每个郡，每个城市都有不同的地税税率。 但通常是在您房购买价的1.1% - 1.5% 之间。 您的经纪人有义务向您提供这方面的全面信息。如您尚无经纪人，请与我们联系，我们会根据您的要求为您提供全面信息。</td> 
+          </tr> 
+         </tbody> 
+        </table> 
+        <center>
+         <br>
+         <div class="clear"></div>
+         <input class="calc_button" value="计算房贷" type="submit">
+         <div class="clear"></div>
+         <br>
+        </center>  </td> 
+       <td valign="top" width="300" align="center"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Ads for Mortgage --> <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="2453069661"></ins> <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Ads for Mortgage --> <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="2453069661"></ins> <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <br> 
+    <table align="center" cellpadding="0" width="100%"> 
+     <tbody> 
+      <tr> 
+       <td valign="top" width="678px"> 
+        <table class="calc" align="center" cellpadding="5" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <th colspan="4" align="center">房贷摘要</th> 
+          </tr> 
+          <tr> 
+           <td colspan="4">
+            <hr width="80%" color="#CCE3F5" size="1"></td> 
+          </tr> 
+          <tr> 
+           <td align="right">月付:</td> 
+           <td>$794.90</td> 
+           <td align="right" height="32">贷款总额:</td> 
+           <td>$140,000.00</td> 
+          </tr> 
+          <tr> 
+           <td align="right" height="32">房贷年限:</td> 
+           <td>30 年</td> 
+           <td align="right">月数:</td> 
+           <td>360</td> 
+          </tr> 
+          <tr> 
+           <td align="right" height="32">利息总额:</td> 
+           <td>$146,165.66</td> 
+           <td align="right">房贷利率:</td> 
+           <td>5.5%</td> 
+          </tr> 
+          <tr> 
+           <td align="right" height="32">地税税率:</td> 
+           <td>1.4%</td> 
+           <td align="right">地税总额:</td> 
+           <td>$71,400.00</td> 
+          </tr> 
+         </tbody> 
+        </table> 
+        <div class="clear"></div>
+        <div class="clear"></div>
+        <div class="clear"></div> 
+        <table class="calc" align="center" cellpadding="5" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <th align="center">年</th> 
+           <th align="right">利息</th> 
+           <th align="right">本金</th> 
+           <th align="right">余额</th> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">1</td> 
+           <td align="right">$7,652.93</td> 
+           <td align="right">$1,885.93</td> 
+           <td align="right">$138,114.07</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">2</td> 
+           <td align="right">$7,546.55</td> 
+           <td align="right">$1,992.31</td> 
+           <td align="right">$136,121.77</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">3</td> 
+           <td align="right">$7,434.17</td> 
+           <td align="right">$2,104.69</td> 
+           <td align="right">$134,017.08</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">4</td> 
+           <td align="right">$7,315.45</td> 
+           <td align="right">$2,223.41</td> 
+           <td align="right">$131,793.67</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">5</td> 
+           <td align="right">$7,190.03</td> 
+           <td align="right">$2,348.83</td> 
+           <td align="right">$129,444.84</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">6</td> 
+           <td align="right">$7,057.54</td> 
+           <td align="right">$2,481.32</td> 
+           <td align="right">$126,963.53</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">7</td> 
+           <td align="right">$6,917.57</td> 
+           <td align="right">$2,621.28</td> 
+           <td align="right">$124,342.24</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">8</td> 
+           <td align="right">$6,769.71</td> 
+           <td align="right">$2,769.15</td> 
+           <td align="right">$121,573.10</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">9</td> 
+           <td align="right">$6,613.51</td> 
+           <td align="right">$2,925.35</td> 
+           <td align="right">$118,647.75</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">10</td> 
+           <td align="right">$6,448.50</td> 
+           <td align="right">$3,090.36</td> 
+           <td align="right">$115,557.39</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">11</td> 
+           <td align="right">$6,274.17</td> 
+           <td align="right">$3,264.68</td> 
+           <td align="right">$112,292.71</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">12</td> 
+           <td align="right">$6,090.02</td> 
+           <td align="right">$3,448.83</td> 
+           <td align="right">$108,843.87</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">13</td> 
+           <td align="right">$5,895.48</td> 
+           <td align="right">$3,643.38</td> 
+           <td align="right">$105,200.50</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">14</td> 
+           <td align="right">$5,689.96</td> 
+           <td align="right">$3,848.89</td> 
+           <td align="right">$101,351.61</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">15</td> 
+           <td align="right">$5,472.86</td> 
+           <td align="right">$4,066.00</td> 
+           <td align="right">$97,285.61</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">16</td> 
+           <td align="right">$5,243.50</td> 
+           <td align="right">$4,295.35</td> 
+           <td align="right">$92,990.25</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">17</td> 
+           <td align="right">$5,001.21</td> 
+           <td align="right">$4,537.64</td> 
+           <td align="right">$88,452.61</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">18</td> 
+           <td align="right">$4,745.25</td> 
+           <td align="right">$4,793.60</td> 
+           <td align="right">$83,659.01</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">19</td> 
+           <td align="right">$4,474.86</td> 
+           <td align="right">$5,064.00</td> 
+           <td align="right">$78,595.01</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">20</td> 
+           <td align="right">$4,189.21</td> 
+           <td align="right">$5,349.65</td> 
+           <td align="right">$73,245.36</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">21</td> 
+           <td align="right">$3,887.44</td> 
+           <td align="right">$5,651.41</td> 
+           <td align="right">$67,593.95</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">22</td> 
+           <td align="right">$3,568.66</td> 
+           <td align="right">$5,970.20</td> 
+           <td align="right">$61,623.75</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">23</td> 
+           <td align="right">$3,231.89</td> 
+           <td align="right">$6,306.96</td> 
+           <td align="right">$55,316.79</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">24</td> 
+           <td align="right">$2,876.13</td> 
+           <td align="right">$6,662.72</td> 
+           <td align="right">$48,654.06</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">25</td> 
+           <td align="right">$2,500.30</td> 
+           <td align="right">$7,038.55</td> 
+           <td align="right">$41,615.51</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">26</td> 
+           <td align="right">$2,103.27</td> 
+           <td align="right">$7,435.58</td> 
+           <td align="right">$34,179.93</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">27</td> 
+           <td align="right">$1,683.85</td> 
+           <td align="right">$7,855.01</td> 
+           <td align="right">$26,324.92</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">28</td> 
+           <td align="right">$1,240.76</td> 
+           <td align="right">$8,298.09</td> 
+           <td align="right">$18,026.82</td> 
+          </tr> 
+          <tr class="fill01"> 
+           <td align="center">29</td> 
+           <td align="right">$772.68</td> 
+           <td align="right">$8,766.17</td> 
+           <td align="right">$9,260.65</td> 
+          </tr> 
+          <tr class="fill02"> 
+           <td align="center">30</td> 
+           <td align="right">$278.20</td> 
+           <td align="right">$9,260.65</td> 
+           <td align="right">$0.00</td> 
+          </tr> 
+         </tbody> 
+        </table> </td> 
+       <td valign="top" width="300" align="center"> 
+        <table class="calc"> 
+         <tbody> 
+          <tr> 
+           <th align="center">30年付款分布图</th> 
+          </tr> 
+          <tr> 
+           <td align="center"> <!-- START Code Block for Chart myNext --> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0&quot;" id="myNext" height="250" width="300"> <param name="allowScriptAccess" value="always"> <param name="movie" value="Pie3D.swf"> <param name="FlashVars" value="&amp;chartWidth=300&amp;chartHeight=250&amp;dataXML=<graph bgAlpha='0' canvasBgAlpha='0' showPercentageInLabel='1' showNames='1' caption='Repayment Chart' subcaption='For 30 Years' xAxisName='Month' yAxisName='Units'
+	   decimalPrecision='0' formatNumberScale='0'><set name='Interest' value='40.877990922421' color='F6BD0F' /><set name='Tax' value='19.968360681832' color='8BBA00' /><set name='Principal' value='39.153648395748' color='AFD8F8' /></graph>"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <embed wmode="transparent" src="/components/com_mortgage_calculator/Pie3D.swf" flashvars="&amp;chartWidth=300&amp;chartHeight=250&amp;dataXML=<graph bgAlpha='0' canvasBgAlpha='0' showPercentageInLabel='1' showNames='1' caption='Repayment Chart' subcaption='For 30 Years' xAxisName='Month' yAxisName='Units'
+	   decimalPrecision='0' formatNumberScale='0'><set name='Interest' value='40.877990922421' color='F6BD0F' /><set name='Tax' value='19.968360681832' color='8BBA00' /><set name='Principal' value='39.153648395748' color='AFD8F8' /></graph>" quality="high" name="myNext" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="250" width="300"> </object> <!-- END Code Block for Chart myNext --> 
+            <div>
+             Tax:地税 Principal:本金 Interest:利息
+            </div> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+        <table class="calc"> 
+         <tbody> 
+          <tr> 
+           <th align="center">30年余额示意图</th> 
+          </tr> 
+          <tr> 
+           <td align="center"> <!-- START Code Block for Chart ChartId --> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0&quot;" id="ChartId" height="250" width="300"> <param name="allowScriptAccess" value="always"> <param name="movie" value="Area2D.swf"> <param name="FlashVars" value="&amp;chartWidth=300&amp;chartHeight=250&amp;dataXML=<graph bgAlpha='0' canvasBgAlpha='0' caption='Balance Graph' subcaption='For 30 Years' xAxisName='Year 1  to 30' yAxisMaxValue='140000' yAxisMinValue='0'  numberPrefix='$' decimalPrecision='0' ><set name='' value='138114.0747515' /><set name='' value='136121.76849489' /><set name='' value='134017.08050511' /><set name='' value='131793.67156905' /><set name='' value='129444.84489214' /><set name='' value='126963.52592798' /><set name='' value='124342.24107011' /><set name='' value='121573.09514194' /><set name='' value='118647.74761687' /><set name='' value='115557.38749703' /><set name='' value='112292.70677501' /><set name='' value='108843.87239862' /><set name='' value='105200.49665423' /><set name='' value='101351.60587952' /><set name='' value='97285.607411349' /><set name='' value='92990.254669259' /><set name='' value='88452.610269387' /><set name='' value='83659.007057727' /><set name='' value='78595.006945361' /><set name='' value='73245.357421663' /><set name='' value='67593.945614522' /><set name='' value='61623.749759182' /><set name='' value='55316.787929559' /><set name='' value='48654.063877595' /><set name='' value='41615.50981752' /><set name='' value='34179.9

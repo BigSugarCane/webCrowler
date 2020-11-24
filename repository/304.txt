@@ -1,0 +1,1112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/company/task_map/catid_149.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinla.com/page_googleMap/task_comcatnearest/cid_149.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>洛杉矶警察局 - Los Angeles Police Department - 洛杉矶华人商家点评 - 洛杉矶华人资讯网</title> 
+  <meta name="description" content="洛杉矶警察局，大洛杉矶地区警察局"> 
+  <meta name="keywords" content="美国加利福尼亚州洛杉矶洛杉矶警察局,洛杉矶洛杉矶警察局,Los Angeles洛杉矶警察局,洛杉矶华人商家"> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/company-common.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script> 
+ </head> 
+ <body onload="showMyMap();">
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!----> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li class="active"><a href="/company.html" class="brand">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span>  </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/company/task_map/catid_149.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="map_path_way"> 
+    <div itemscope class="pathway" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/" class="pathway1"><span itemprop="name">首页</span></a>
+      <meta itemprop="position" content="1"></li>
+     <li class="left">&gt;</li>
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/company.html" class="pathway2"><span itemprop="name">洛杉矶商家点评</span></a>
+      <meta itemprop="position" content="2"></li>
+     <li class="left">&gt;</li>
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/company/task_map/catid_149.html" class="pathway2"><span itemprop="name">洛杉矶警察局</span></a>
+      <meta itemprop="position" content="3"></li>
+     <li class="left">&gt;</li>
+     <li class="left"><span class="mode_text">地图模式</span></li>
+    </div> 
+   </div> 
+   <div class="map_top_link"> <a href="/company/task_add1/catid_149.html" target="_new" class="map_add_link" id="AddCompanyLink"> 发布洛杉矶警察局信息 </a> <a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="company_instruction">洛杉矶警察局列表</a> 
+   </div> 
+   <div class="clear8"></div> 
+   <div class="map_title"> 
+    <h1><a href="/company/task_map/catid_149.html">洛杉矶警察局</a> </h1> 
+   </div> 
+   <div id="share_api" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.borderBottom='none';sharediv.style.backgroundImage='url(https://c3.nychinaren.com/images/share_pic/jiathis_on.png)';var divx1=sharediv.offsetLeft-110+70;var divy1=sharediv.offsetTop+sharediv.offsetHeight-1;
+				 var div2 = document.getElementById('share_api_children');div2.style.top=divy1+'px';div2.style.left=divx1+'px';div2.style.display='block';" onmouseout="this.style.backgroundImage='url(https://c3.nychinaren.com/images/share_pic/jiathis_over.png)';this.style.borderBottom='solid 1px #ccc';document.getElementById('share_api_children').style.display='none';"> 
+   </div> 
+   <div id="share_api_children" class="share_style" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://c3.nychinaren.com/images/share_pic/jiathis_on.png)';sharediv.style.borderBottom='none';this.style.display='block';" onmouseout="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://c3.nychinaren.com/images/share_pic/jiathis_over.png)';sharediv.style.borderBottom='solid 1px #ccc';this.style.display='none';"> 
+    <div class="jiadiv_01"> 
+     <div class="jiadiv_02" id="jiathis_sers"> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=257762142',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})
+(screen,document,encodeURIComponent,'','',$('.wrap3_img').find('img').attr('src'),'','https%3A%2F%2Fwww.chineseinla.com%2Fcompany%2Ftask_map%2Fcatid_149.html',''))">
+       <div class="jtico jtico_tsina">
+        新浪微博
+       </div></a> <a class="jiatitle" href="javascript:window.open('https://twitter.com/intent/tweet?status='+' '+encodeURIComponent(document.title)+' '+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)"> 
+       <div class="jtico jtico_twitter">
+        Twitter
+       </div></a> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="https://c3.nychinaren.com/templates/horse/js/company-map-share.js?v=v1662" type="text/javascript"></script> 
+   <div class="map_form"> 
+    <form name="searchForm" id="searchForm" onsubmit="return false;"> 
+     <input class="deals_text left" type="text" id="category_key" name="key" value="输入相关信息进行查找..." onblur="if (this.value ==''){this.value='输入相关信息进行查找...';this.style.color='#ccc';}" onkeypress="return searchOnKeyProcess2(event, this.form)" onfocus="setDefaultSearch2(this.form)"> <!-- <button type="button" class="btn left" onclick="searchInfo(this.form)" style="margin:-2px 0px 0px 0px">&nbsp;&nbsp;&nbsp;搜索</button> --> 
+     <div class="button-panel">
+      <span class="button-search"></span>
+      <input class="button-white button-i" type="button" value="搜索" onclick="searchInfo(this.form)">
+     </div> 
+    </form> 
+   </div> 
+   <div class="tag_filter"> 
+    <div class="default_tag_filter"> 
+     <div class="title"> <span>分类</span> <a class="more"></a> 
+     </div> 
+     <div class="default_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_78"> 
+       <div> <a href="/company/task_map/catid_149/tagId_78.html" onclick="changeRadioTag(78,'tag');return false;">警察局(Police Department) </a> <span class="tag_qty" onclick="changeRadioTag(78)">(31)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_27121"> 
+       <div> <a href="/company/task_map/catid_149/tagId_27121.html" onclick="changeRadioTag(27121,'tag');return false;">警察局 </a> <span class="tag_qty" onclick="changeRadioTag(27121)">(26)</span> 
+       </div> 
+      </div>  
+     </div> 
+    </div> 
+    <hr> 
+    <div class="city_tag_filter"> 
+     <div class="title"> <span>城市分类</span> <a class="more"></a> 
+     </div> 
+     <div class="city_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_44"> 
+       <div> <a href="/company/task_map/catid_149/tagId_44.html" onclick="changeRadioTag(44,'tag');return false;">Corona </a> <span class="tag_qty" onclick="changeRadioTag(44)">(4)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_11"> 
+       <div> <a href="/company/task_map/catid_149/tagId_11.html" onclick="changeRadioTag(11,'tag');return false;">Los Angeles </a> <span class="tag_qty" onclick="changeRadioTag(11)">(4)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_43"> 
+       <div> <a href="/company/task_map/catid_149/tagId_43.html" onclick="changeRadioTag(43,'tag');return false;">Pasadena </a> <span class="tag_qty" onclick="changeRadioTag(43)">(4)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_9"> 
+       <div> <a href="/company/task_map/catid_149/tagId_9.html" onclick="changeRadioTag(9,'tag');return false;">Alhambra </a> <span class="tag_qty" onclick="changeRadioTag(9)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_144"> 
+       <div> <a href="/company/task_map/catid_149/tagId_144.html" onclick="changeRadioTag(144,'tag');return false;">Anaheim </a> <span class="tag_qty" onclick="changeRadioTag(144)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_8"> 
+       <div> <a href="/company/task_map/catid_149/tagId_8.html" onclick="changeRadioTag(8,'tag');return false;">Arcadia </a> <span class="tag_qty" onclick="changeRadioTag(8)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_140"> 
+       <div> <a href="/company/task_map/catid_149/tagId_140.html" onclick="changeRadioTag(140,'tag');return false;">Azusa </a> <span class="tag_qty" onclick="changeRadioTag(140)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_107"> 
+       <div> <a href="/company/task_map/catid_149/tagId_107.html" onclick="changeRadioTag(107,'tag');return false;">Baldwin Park </a> <span class="tag_qty" onclick="changeRadioTag(107)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_882"> 
+       <div> <a href="/company/task_map/catid_149/tagId_882.html" onclick="changeRadioTag(882,'tag');return false;">Bell Gardens </a> <span class="tag_qty" onclick="changeRadioTag(882)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_61"> 
+       <div> <a href="/company/task_map/catid_149/tagId_61.html" onclick="changeRadioTag(61,'tag');return false;">Beverly Hills </a> <span class="tag_qty" onclick="changeRadioTag(61)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_113"> 
+       <div> <a href="/company/task_map/catid_149/tagId_113.html" onclick="changeRadioTag(113,'tag');return false;">Brea </a> <span class="tag_qty" onclick="changeRadioTag(113)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_114"> 
+       <div> <a href="/company/task_map/catid_149/tagId_114.html" onclick="changeRadioTag(114,'tag');return false;">Burbank </a> <span class="tag_qty" onclick="changeRadioTag(114)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_796"> 
+       <div> <a href="/company/task_map/catid_149/tagId_796.html" onclick="changeRadioTag(796,'tag');return false;">Chino </a> <span class="tag_qty" onclick="changeRadioTag(796)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_1263"> 
+       <div> <a href="/company/task_map/catid_149/tagId_1263.html" onclick="changeRadioTag(1263,'tag');return false;">Chino Hills </a> <span class="tag_qty" onclick="changeRadioTag(1263)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_5"> 
+       <div> <a href="/company/task_map/catid_149/tagId_5.html" onclick="changeRadioTag(5,'tag');return false;">City of Industry </a> <span class="tag_qty" onclick="changeRadioTag(5)">(2)</span> 
+       </div> 
+      </div> <a onclick="jumpTagPage(149,'city',1);return false;" class="more">查看更多</a>  
+     </div> 
+    </div> 
+    <hr> 
+    <div class="company_tag_filter"> 
+     <div class="title"> <span>商家</span> <a class="more"></a> 
+     </div> 
+     <div class="company_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5160"> 
+       <div> <a href="/company/task_map/catid_149/id_5160.html" onclick="changeRadioTag(5160,'company');return false;">Torrance Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5135"> 
+       <div> <a href="/company/task_map/catid_149/id_5135.html" onclick="changeRadioTag(5135,'company');return false;">Anaheim Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5141"> 
+       <div> <a href="/company/task_map/catid_149/id_5141.html" onclick="changeRadioTag(5141,'company');return false;">Burbank Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5155"> 
+       <div> <a href="/company/task_map/catid_149/id_5155.html" onclick="changeRadioTag(5155,'company');return false;">Pomona Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5156"> 
+       <div> <a href="/company/task_map/catid_149/id_5156.html" onclick="changeRadioTag(5156,'company');return false;">South Pasadena Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5158"> 
+       <div> <a href="/company/task_map/catid_149/id_5158.html" onclick="changeRadioTag(5158,'company');return false;">San Marino Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5161"> 
+       <div> <a href="/company/task_map/catid_149/id_5161.html" onclick="changeRadioTag(5161,'company');return false;">Walnut Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5162"> 
+       <div> <a href="/company/task_map/catid_149/id_5162.html" onclick="changeRadioTag(5162,'company');return false;">West Covina Police </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5137"> 
+       <div> <a href="/company/task_map/catid_149/id_5137.html" onclick="changeRadioTag(5137,'company');return false;">Azusa Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5139"> 
+       <div> <a href="/company/task_map/catid_149/id_5139.html" onclick="changeRadioTag(5139,'company');return false;">Baldwin Park Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5140"> 
+       <div> <a href="/company/task_map/catid_149/id_5140.html" onclick="changeRadioTag(5140,'company');return false;">Beverly Hills Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5142"> 
+       <div> <a href="/company/task_map/catid_149/id_5142.html" onclick="changeRadioTag(5142,'company');return false;">Chino Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5143"> 
+       <div> <a href="/company/task_map/catid_149/id_5143.html" onclick="changeRadioTag(5143,'company');return false;">Costa Mesa Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5145"> 
+       <div> <a href="/company/task_map/catid_149/id_5145.html" onclick="changeRadioTag(5145,'company');return false;">Culver City Police Department </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_5147"> 
+       <div> <a href="/company/task_map/catid_149/id_5147.html" onclick="changeRadioTag(5147,'company');return false;">Glendora Police Department </a> 
+       </div> 
+      </div> <a onclick="jumpTagPage(149,'company',1);return false;" class="more">查看更多</a>  
+     </div> 
+    </div> 
+   </div> 
+   <input type="hidden" id="catid" value="149">
+   <input type="hidden" id="tagid" value=""> 
+   <div class="main_content"> 
+    <div id="map"></div> 
+    <noscript>
+     <b>JavaScript must be enabled in order for you to use Google Maps.</b> However, it seems JavaScript is either disabled or not supported by your browser. To view Google Maps, enable JavaScript by changing your browser options, and then try again. 
+    </noscript> 
+    <div> 
+     <div> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Map Bottom 728x90, created 2/5/09 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="0961286486"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div> 
+    </div> 
+    <div id="reviewBlock"> 
+     <fieldset id="xspace-rates2"> 
+      <div id="xspace-rates-tip2">
+       评分
+      </div> 
+      <div id="xspace-rates-bg2"> 
+       <div id="xspace-rates-star2" class="xspace-rates0">
+        &nbsp;
+       </div> 
+       <div id="xspace-rates-a2"> <a href="javascript:;" onmouseover="rateHover2(2,'太差了');" onmouseout="rateOut2();" onclick="setRateScore('2', '');" title="太差了">1</a> <a href="javascript:;" onmouseover="rateHover2(4,'一般,但不推荐');" onmouseout="rateOut2();" onclick="setRateScore('4', '');" title="一般,但不推荐">2</a> <a href="javascript:;" onmouseover="rateHover2(6,'还不错');" onmouseout="rateOut2();" onclick="setRateScore('6', '');" title="还不错">3</a> <a href="javascript:;" onmouseover="rateHover2(8,'真的很不错');" onmouseout="rateOut2();" onclick="setRateScore('8', '');" title="真的很不错">4</a> <a href="javascript:;" onmouseover="rateHover2(10,'简直太棒了');" onmouseout="rateOut2();" onclick="setRateScore('10', '');" title="简直太棒了">5</a> 
+       </div> 
+       <input type="hidden" id="xspace-rates-value2" name="rates" value="0"> 
+      </div> 
+      <div id="xspace-rates-memo2"></div> 
+     </fieldset> 
+    </div> 
+    <div class="category_content"> 
+     <div class="map_box_header">
+       洛杉矶警察局 Top 10
+     </div> 
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">1</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5136/Arcadia%20Police%20Department.html" class="map_link" target="_blank" title="Arcadia Police Department">Arcadia Police Department</a>
+       </div><a href="/company/task_review/id_5136/Arcadia%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5136/Arcadia%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5136.html" title="点击查看地图">250 W Huntington Dr, Arcadia, CA 91007</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;626 574-5150
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_8/Arcadia.html" title="Arcadia" class="map_link">Arcadia</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">2</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5146/El%20Monte%20Police%20Department.html" class="map_link" target="_blank" title="El Monte Police Department">El Monte Police Department</a>
+       </div><a href="/company/task_review/id_5146/El%20Monte%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5146/El%20Monte%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分&nbsp;共有1条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5146.html" title="点击查看地图">11333 Valley Blvd, El Monte, CA 91731</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;626 580-2100
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_17/El%20Monte.html" title="El Monte" class="map_link">El Monte</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">3</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5133/%E9%98%BF%E7%BD%95%E5%B8%83%E6%8B%89%E5%B8%82%E8%AD%A6%E5%B1%80.html" class="map_link" target="_blank" title="阿罕布拉市警局">阿罕布拉市警局</a><span class="blue_font">-</span><a href="/company/task_view/id_5133/%E9%98%BF%E7%BD%95%E5%B8%83%E6%8B%89%E5%B8%82%E8%AD%A6%E5%B1%80.html" class="map_link" target="_blank" title="Alhambra Police Department">Alhambra Police Department</a>
+       </div><a href="/company/task_review/id_5133/%E9%98%BF%E7%BD%95%E5%B8%83%E6%8B%89%E5%B8%82%E8%AD%A6%E5%B1%80.html" class="review" title="点评"></a><a href="/company/task_message/id_5133/%E9%98%BF%E7%BD%95%E5%B8%83%E6%8B%89%E5%B8%82%E8%AD%A6%E5%B1%80.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;4个人参与评分&nbsp;共有3条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5133.html" title="点击查看地图">211 S 1st St, Alhambra, CA 91801</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626) 570-5107
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_9/Alhambra.html" title="Alhambra" class="map_link">Alhambra</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">4</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5137/Azusa%20Police%20Department.html" class="map_link" target="_blank" title="Azusa Police Department">Azusa Police Department</a>
+       </div><a href="/company/task_review/id_5137/Azusa%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5137/Azusa%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5137.html" title="点击查看地图">725 N Alameda Ave, Azusa, CA 91702</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626) 812-3200
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_140/Azusa.html" title="Azusa" class="map_link">Azusa</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">5</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5153/Monterey%20Park%20Police%20Department.html" class="map_link" target="_blank" title="Monterey Park Police Department">Monterey Park Police Department</a>
+       </div><a href="/company/task_review/id_5153/Monterey%20Park%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5153/Monterey%20Park%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分&nbsp;共有3条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5153.html" title="点击查看地图">320 W Newmark Ave, Monterey Park, CA 91754</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626) 307-1211
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_7/Monterey%20Park.html" title="Monterey Park" class="map_link">Monterey Park</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">6</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5141/Burbank%20Police%20Department.html" class="map_link" target="_blank" title="Burbank Police Department">Burbank Police Department</a>
+       </div><a href="/company/task_review/id_5141/Burbank%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5141/Burbank%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5141.html" title="点击查看地图">200 N 3rd St, Burbank, CA 91502</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(818) 238-3333
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_114/Burbank.html" title="Burbank" class="map_link">Burbank</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">7</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5161/Walnut%20Police%20Department.html" class="map_link" target="_blank" title="Walnut Police Department">Walnut Police Department</a>
+       </div><a href="/company/task_review/id_5161/Walnut%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5161/Walnut%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5161.html" title="点击查看地图">21695 Valley Blvd, Walnut, CA 91789</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626) 913-1715
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_50/Walnut.html" title="Walnut" class="map_link">Walnut</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">8</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5139/Baldwin%20Park%20Police%20Department.html" class="map_link" target="_blank" title="Baldwin Park Police Department">Baldwin Park Police Department</a>
+       </div><a href="/company/task_review/id_5139/Baldwin%20Park%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5139/Baldwin%20Park%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5139.html" title="点击查看地图">14403 Pacific Ave, Baldwin Park, CA 91706</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626)960-4011
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_107/Baldwin%20Park.html" title="Baldwin Park" class="map_link">Baldwin Park</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">9</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5154/Orange%20Police%20Department.html" class="map_link" target="_blank" title="Orange Police Department">Orange Police Department</a>
+       </div><a href="/company/task_review/id_5154/Orange%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5154/Orange%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5154.html" title="点击查看地图">1107 N Batavia St, Orange, CA 92867</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(714) 744-7444
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_60/Orange.html" title="Orange" class="map_link">Orange</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">10</span>
+       <div class="company-title">
+        <a href="/company/task_view/id_5134/Pasadena%20Police%20Department.html" class="map_link" target="_blank" title="Pasadena Police Department">Pasadena Police Department</a>
+       </div><a href="/company/task_review/id_5134/Pasadena%20Police%20Department.html" class="review" title="点评"></a><a href="/company/task_message/id_5134/Pasadena%20Police%20Department.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/company/task_map/id_5134.html" title="点击查看地图">207 N Garfield Ave, Pasadena, CA 91101</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(626) 744-4501
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" class="map_link" target="_blank">洛杉矶警察局</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_78/%E8%AD%A6%E5%AF%9F%E5%B1%80%28Police%20Department%29.html" title="警察局(Police Department)" class="map_link">警察局(Police Department)</a>,&nbsp;&nbsp;<a href="/company/catid_149/%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list/tagId_43/Pasadena.html" title="Pasadena" class="map_link">Pasadena</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl> 
+    </div> 
+    <div> 
+     <div> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Map Bottom 728x90, created 2/5/09 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="0961286486"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div>
+     <div> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Map Bottom 728x90, created 2/5/09 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="0961286486"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div> 
+    </div> 
+   </div> 
+   <input type="hidden" id="deflat" value="34.06346893310547">
+   <input type="hidden" id="deflng" value="-117.97462463378906">
+   <input type="hidden" id="deflevel" value="11">
+   <input type="hidden" id="deficon" value="apt.png">
+   <div class="row"> 
+    <div class="la_guide"> 
+     <div class="la_guide1"> 
+      <div class="la_guide_title">
+       洛杉矶生活指南
+      </div> 
+      <dl class="la_guide_list" id="guide_cat_9"> 
+       <dt>
+        推荐
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/f.html">洛杉矶华人论坛</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company.html">洛杉矶商家点评</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/rate_exchange.html">中美度量换算</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/lastname.html">华人姓氏查询</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/newsletter/task_history.html">Newsletter</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_6"> 
+       <dt>
+        洛杉矶
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/weather.html">洛杉矶天气</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/time.html">洛杉矶时间</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_holiday.html">节日庆祝活动</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/zipcode.html">邮政编码查询</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_weblinks/catid_46.html">公共交通</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_2"> 
+       <dt>
+        美食
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/restaurant.html">洛杉矶美食图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">洛杉矶美食论坛</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/component/option,com_poll/task,results/id,15/">洛杉矶美食评选</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_3"> 
+       <dt>
+        居住
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_5.html">房屋出租</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_35.html">房屋买卖</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/apartment.html">Apartment分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/mortgage.html">房贷计算工具</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company/task_list/catid_48.html">地产经纪人</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_weblinks/catid_47.html">房屋相关网站</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_4"> 
+       <dt>
+        旅游
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/travel.html">洛杉矶旅游图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_weblinks/catid_44.html">酒店,机票预订</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_7.html">洛杉矶旅游</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company/task_list/catid_27.html">华人旅行社</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_43.html">旅游接送</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_5"> 
+       <dt>
+        法律移民
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/lawyer.html">洛杉矶华人律师分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/bulletin_table.html">最新移民排期</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_42.html">签证面谈</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_4.html">法律移民</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_39.html">亲属移民</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/us_citizenship_test.html">入籍考试</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_7"> 
+       <dt>
+        驾车
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">买车与修车</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/company/task_list/catid_36.html">汽车经销商</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/ca_driver_license_test.html">驾照考试</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_8"> 
+       <dt>
+        留学
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/university.html">洛杉矶大学分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/university_map.html">美国名校地图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/school.html">学校,学区及城市排名</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html">留学美国</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/public_library.html">公共图书馆</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_1"> 
+       <dt>
+        购物
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinla.com/shoppingmall.html">洛杉矶Shopping Mall分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_34.html">购物指南</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/supermarket.html">洛杉矶华人超市分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_weblinks/catid_22.html">美国购物网站</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinla.com/la_weblinks/catid_23.html">美国购物比价网站</a>
+       </dd>
+      </dl> 
+      <dl clas

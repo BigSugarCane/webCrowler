@@ -1,0 +1,1078 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/law.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_second/task_law.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>法律移民 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="全方位的美国法律移民信息,包含拉斯维加斯华人律师分布图,法律移民,职业移民,亲属移民,签证面谈等相关资讯"> 
+  <meta name="keywords" content="拉斯维加斯华人律师,美国法律,职业移民,亲属移民,绿卡,SSN,护照,入籍,入境"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/second_page.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row" _scrollrole="dft"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li class="active"><a href="/law.html" class="brand">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/law.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="row"> 
+    <div class="top_nav"> 
+     <div class="top_title_div"> <a class="title" href="https://www.vegaschinaren.com/lawyer/task_list/catid_2.html">华人律师</a> 
+      <div class="more">
+       <a href="" target="_blank"></a>
+      </div> 
+     </div> 
+     <div class="nav_farmework_parent"> 
+      <div class="agent_picture_div" id="parent_picture_div0"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_30881/%E5%8D%9C%E6%B9%98%E6%BC%AA.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        卜湘漪律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div1"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_15152/%E9%99%88%E5%86%A0%E8%8B%B1%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        陈冠英律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div2"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_30883/%E9%99%88%E5%87%AF%E8%8E%89%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        陈凯莉律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div3"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_15545/%E7%99%BD%E8%80%80%E5%AF%8C%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        白耀富律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div4"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_14942/%E6%9E%97%E5%AD%9F%E5%84%92%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        林孟儒律师事务所
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div5"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_32137/%E6%9D%8E%E5%BD%AC%E8%88%9C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        李彬舜律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div6"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_15548/%E9%82%B1%E4%B9%90%E7%AB%8B%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        邱乐立律师
+       </div> 
+      </div> 
+      <div class="dot_div">
+       <div class="dot"></div>
+      </div>
+      <div class="agent_picture_div" id="parent_picture_div7"> 
+       <div class="agent_picture"> <a href="/company/task_view/id_15544/Michael%20B.LEE.html" target="_blank">  </a> 
+       </div> 
+       <div class="agent_name">
+        Michael B.LEE
+       </div> 
+      </div> 
+     </div> 
+     <div class="nav_farmework_child"> 
+      <dl class="agent_detail" id="parent_picture_div0_child"> 
+       <dt> <a href="/company/task_view/id_30881/%E5%8D%9C%E6%B9%98%E6%BC%AA.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_30881.html" target="_blank"><span class="normal_font black_font bold_font">卜湘漪律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow0_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div1_child"> 
+       <dt> <a href="/company/task_view/id_15152/%E9%99%88%E5%86%A0%E8%8B%B1%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_15152.html" target="_blank"><span class="normal_font black_font bold_font">陈冠英律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow1_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div2_child"> 
+       <dt> <a href="/company/task_view/id_30883/%E9%99%88%E5%87%AF%E8%8E%89%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_30883.html" target="_blank"><span class="normal_font black_font bold_font">陈凯莉律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow2_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div3_child"> 
+       <dt> <a href="/company/task_view/id_15545/%E7%99%BD%E8%80%80%E5%AF%8C%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_15545.html" target="_blank"><span class="normal_font black_font bold_font">白耀富律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow3_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div4_child"> 
+       <dt> <a href="/company/task_view/id_14942/%E6%9E%97%E5%AD%9F%E5%84%92%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_14942.html" target="_blank"><span class="normal_font black_font bold_font">林孟儒律师事务所</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow4_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div5_child"> 
+       <dt> <a href="/company/task_view/id_32137/%E6%9D%8E%E5%BD%AC%E8%88%9C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_32137.html" target="_blank"><span class="normal_font black_font bold_font">李彬舜律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow5_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div6_child"> 
+       <dt> <a href="/company/task_view/id_15548/%E9%82%B1%E4%B9%90%E7%AB%8B%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_15548.html" target="_blank"><span class="normal_font black_font bold_font">邱乐立律师</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow6_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+      <dl class="agent_detail" id="parent_picture_div7_child"> 
+       <dt> <a href="/company/task_view/id_15544/Michael%20B.LEE.html" target="_blank">  </a> 
+       </dt> 
+       <dd> 
+        <ul> 
+         <li class="agent_normal"><a href="/company/task_view/id_15544.html" target="_blank"><span class="normal_font black_font bold_font">Michael B.LEE</span></a></li> 
+        </ul> 
+       </dd> 
+       <div id="nav-arrow7_child" class="nav-arrow"> 
+        <div class="nav-arrow-inner"></div> 
+       </div> 
+      </dl> 
+     </div> 
+    </div>
+   </div> 
+   <div class="row group_row" id="law_1"> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/lawyer/task_list.html" title="华人律师" target="_blank"><span>华人律师</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4333.html" target="_blank">移民</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4357.html" target="_blank">商业诉讼</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4348.html" target="_blank">离婚</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4342.html" target="_blank">刑事案件</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4332.html" target="_blank">车祸</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4359.html" target="_blank">民事诉讼</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_4.html" title="法律移民" target="_blank"><span>法律移民</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E9%9D%A2%E8%B0%88.html" target="_blank">面谈</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%85%A5%E7%B1%8D.html" target="_blank">入籍</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%BB%93%E5%A9%9A.html" target="_blank">结婚</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%B7%A5%E5%8D%A1.html" target="_blank">工卡</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%BB%BF%E5%8D%A1.html" target="_blank">绿卡</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E6%8E%92%E6%9C%9F.html" target="_blank">排期</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/bulletin_table.html" title="移民排期" target="_blank"><span>移民排期</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/bulletin_table.html" target="_blank">最新排期</a></span> <span><a href="https://www.vegaschinaren.com/bulletin.html" target="_blank">排期趋势图</a></span> <span><a href="https://www.vegaschinaren.com/bulletin_table/t_1/date_201412.html" target="_blank">亲属移民</a></span> <span><a href="https://www.vegaschinaren.com/bulletin_table/t_2/date_201412.html" target="_blank">职业移民</a></span> <span><a href="https://www.vegaschinaren.com/bulletin.html" target="_blank">中国大陆</a></span> <span><a href="https://www.vegaschinaren.com/bulletin_link.html" target="_blank">排期进度查询</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_group/group_3.html" title="服务机构" target="_blank"><span>服务机构</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_147.html" target="_blank">法院</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_272.html" target="_blank">邮局</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_150.html" target="_blank">社会安全局</a></span> <span><a href="https://www.vegaschinaren.com/dmv_courthouse_cityhall/task_list.html" target="_blank">各市政厅</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_149.html" target="_blank">警察局</a></span> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_148.html" target="_blank">车辆管理局</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_3.html" target="_blank">最新资讯</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/sort_news/type_3.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75904.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_75904.html" target="_blank">美国将迎来破产潮 大型企业普通市民都受冲击</a>
+        </div> 
+        <div class="article">
+         <p>李想律师事务所 您的理想首选</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1 newstyle_picture"> <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19481.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article newstyle_title_article"> 
+        <div class="title">
+         <a href="https://www.vegaschinaren.com/f/page_viewtopic/t_19481.html" target="_blank">华裔民众捕捞季小心违规罚款</a>
+        </div> 
+        <div class="article">
+         <p>纽约州和新州针对垂钓和捕抓贝类海鲜都有相应的证件要求，要求民众们遵守。 　　</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_20447.html" title="如果王宝强在美国离婚" target="_blank">如果王宝强在美国离婚</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_18787.html" title="海关新政策 五类物品不放行" target="_blank">海关新政策 五类物品不放行</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_2581.html" title="拉斯维加斯结婚证怎样公证" target="_blank">拉斯维加斯结婚证怎样公证</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_16848.html" title="2016年美国报税新变化" target="_blank">2016年美国报税新变化</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_10872.html" title="赴美生子妈妈回国需要三证齐全 这三个缺一不可" target="_blank">赴美生子妈妈回国需要三证齐全 这三个缺一不可</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12370.html" title="移民政策研究华人移民大数据：年龄学历收入偏高" target="_blank">移民政策研究华人移民大数据：年龄学历收入偏高</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12423.html" title="关于美国无证移民群体 你可能不知道的五件事" target="_blank">关于美国无证移民群体 你可能不知道的五件事</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12516.html" title="I-526批准了吗？教您美国移民局新版网站上查询" target="_blank">I-526批准了吗？教您美国移民局新版网站上查询</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12519.html" title="美国投资移民条件：美国EB5投资移民办理流程" target="_blank">美国投资移民条件：美国EB5投资移民办理流程</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_12520.html" title="美无证移民排队等审理 2019年后才能获合法身份" target="_blank">美无证移民排队等审理 2019年后才能获合法身份</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right"></div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="https://www.vegaschinaren.com/bulletin_table.html/" target="_blank"></a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="law_2"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/lawyer/task_list/catid_2.html" target="_blank">华人律师</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/lawyer/tagId_4333/task_list.html" class="right_vertical_line" target="_blank">移民</a><a href="https://www.vegaschinaren.com/lawyer/tagId_4342/task_list.html" class="right_vertical_line" target="_blank">刑事</a><a href="https://www.vegaschinaren.com/lawyer/tagId_4332/task_list.html" class="right_vertical_line" target="_blank">车祸</a><a href="https://www.vegaschinaren.com/lawyer/tagId_4331/task_list.html" target="_blank">人身伤害</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left"> 
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/lawyer/task_list.html" title="华人律师" target="_blank"><span>华人律师</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4333.html" target="_blank">移民</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4342.html" target="_blank">刑事</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4332.html" target="_blank">车祸</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4348.html" target="_blank">婚姻</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4357.html" target="_blank">商业</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4331.html" target="_blank">人身伤害</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/lawyer/task_list.html" title="专业分类" target="_blank"><span>专业分类</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4341.html" target="_blank">破产</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_10650.html" target="_blank">税务</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4358.html" target="_blank">公司成立</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4447.html" target="_blank">福利</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_4343.html" target="_blank">家庭</a></span> <span><a href="https://www.vegaschinaren.com/lawyer/task_list/tagId_7814.html" target="_blank">交通罚单</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="adsimg"> <a href="https://www.vegaschinaren.com/bulletin_table.html" target="_blank"></a>
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="group_middle">  
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.vegaschinaren.com/lawyer/task_list/catid_2.html" class="active" target="_blank"><span>华人律师</span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.vegaschinaren.com/lawyer/task_list/catid_2.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content" id=""> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_30881.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_30881.html" target="_blank" class="topictitle" title="卜湘漪律师"><span>卜湘漪律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15548.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15548.html" target="_blank" class="topictitle" title="邱乐立律师"><span>邱乐立律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_30883.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_30883.html" target="_blank" class="topictitle" title="陈凯莉律师"><span>陈凯莉律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15152.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15152.html" target="_blank" class="topictitle" title="陈冠英律师"><span>陈冠英律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_32137.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_32137.html" target="_blank" class="topictitle" title="李彬舜律师"><span>李彬舜律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15531.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15531.html" target="_blank" class="topictitle" title="孙杰律师"><span>孙杰律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15545.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15545.html" target="_blank" class="topictitle" title="白耀富律师"><span>白耀富律师</span></a> 
+       </div> 
+       <div class="thumb4"> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15544.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/lawyer/task_view/id_15544.html" target="_blank" class="topictitle" title="Michael B.LEE"><span>Michael</span></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right"> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="/lawyer/task_list/catid_2.html" target="_blank">华人律师事务所</a> 
+       </div> 
+       <div class="more1"> <a href="/lawyer/task_list/catid_2.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_14777/%E4%BA%9A%E7%BE%8E%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="亚美律师事务所" target="_blank">亚美律师事务所--CALLISTER &amp; FRIZELL ATTORNEYS AT LAW</a></li> 
+        <li><a href="/company/task_view/id_14778/%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="美国移民律师事务所" target="_blank">美国移民律师事务所--IMMIGRATION LAW OFFICE OFRAMISCAL&amp; ASSOCIATE PLLC</a></li> 
+        <li><a href="/company/task_view/id_14781/%E8%81%94%E5%90%88%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="联合律师事务所" target="_blank">联合律师事务所--AQUINO &amp; SUE LAW FIRM</a></li> 
+        <li><a href="/company/task_view/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="蔡晓薇律师事务所" target="_blank">蔡晓薇律师事务所--JENNIFER HW TSAI，ESQ</a></li> 
+        <li><a href="/company/task_view/id_14785/%E8%A9%B9%E5%A7%86%E5%A3%AB%20%E9%82%9D%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="詹姆士 邝律师事务所" target="_blank">詹姆士 邝律师事务所--JAMES KWON，LLC LAW FIRM</a></li> 
+        <li><a href="/company/task_view/id_14852/%E6%9E%97%E6%A2%A6%E5%84%92%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="林梦儒律师事务所" target="_blank">林梦儒律师事务所--Lin Law Group</a></li> 
+        <li><a href="/company/task_view/id_14942/%E6%9E%97%E5%AD%9F%E5%84%92%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="林孟儒律师事务所" target="_blank">林孟儒律师事务所--Michael Lin</a></li> 
+        <li><a href="/company/task_view/id_15098/%E9%83%AD%E5%AE%9C%E6%83%A0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="郭宜惠律师事务所" target="_blank">郭宜惠律师事务所--GUO, EVA, ATTORNEY AT LAW</a></li> 
+        <li><a href="/company/task_view/id_15138/%E8%A9%B9%E5%A7%86%E5%A3%AB%C2%B7%E4%BA%9A%E5%BD%93%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="詹姆士·亚当律师事务所" target="_blank">詹姆士·亚当律师事务所--Adams, James, Attorney At Law</a></li> 
+        <li><a href="/company/task_view/id_15152/%E9%99%88%E5%86%A0%E8%8B%B1%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="陈冠英律师事务所" target="_blank">陈冠英律师事务所--CHEN, ERIC K., ATTORNEY AT LAW</a></li> 
+        <li><a href="/company/task_view/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="孙杰律师事务所" target="_blank">孙杰律师事务所--Sun Law Group,LLC</a></li> 
+        <li><a href="/company/task_view/id_30634/%E5%BB%96%E5%90%AF%E6%98%8C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="廖启昌律师事务所" target="_blank">廖启昌律师事务所--The Law Office of Kenneth Liu</a></li> 
+        <li><a href="/company/task_view/id_32137/%E6%9D%8E%E5%BD%AC%E8%88%9C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" title="李彬舜律师事务所" target="_blank">李彬舜律师事务所</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="/la_weblinks.html" target="_blank"></a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="law_3"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/bulletin_table.html" target="_blank">移民排期</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/bulletin_table/t_1/date_201509.html" class="right_vertical_line" target="_blank">亲属移民</a><a href="https://www.vegaschinaren.com/bulletin_table/t_1/date_201509.html" target="_blank">职业移民</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="/bulletin_table.html" target="_blank">最新移民排期</a>
+       </div> 
+       <div class="paiqi_more">  <a href="/bulletin.html" target="_blank">移民排期趋势图</a> 
+       </div> 
+      </div> 
+      <div class="content"> 
+       <ul class="dotli"> 
+        <li><a href="/bulletin_table/date_202010.html" target="_blank">2020年10月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202010.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202010.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202009.html" target="_blank">2020年09月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202009.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202009.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202008.html" target="_blank">2020年08月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202008.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202008.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202007.html" target="_blank">2020年07月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202007.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202007.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202006.html" target="_blank">2020年06月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202006.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202006.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202005.html" target="_blank">2020年05月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202005.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202005.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202004.html" target="_blank">2020年04月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202004.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202004.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202003.html" target="_blank">2020年03月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202003.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202003.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202002.html" target="_blank">2020年02月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202002.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202002.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_202001.html" target="_blank">2020年01月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_202001.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_202001.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2020.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_201912.html" target="_blank">2019年12月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_201912.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_201912.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2019.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_201911.html" target="_blank">2019年11月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_201911.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_201911.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2019.html" target="_blank">趋势图</a></span></li> 
+        <li><a href="/bulletin_table/date_201910.html" target="_blank">2019年10月移民排期表</a> <span class="butab_right"><a href="/bulletin_table/t_1/date_201910.html" target="_blank">亲属</a></span> <span class="butab_right"><a href="/bulletin_table/t_2/date_201910.html" target="_blank">职业</a></span> <span class="butab_right"><a href="/bulletin/year_2019.html" target="_blank">趋势图</a></span></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <script>
+$(function(){
+	$('#bulletin_table_employment_title').mouseenter(function(){
+		$('#bulletin_table_employment_title').css('color','#78b9e3');
+		$('#bulletin_table_family_title').css('color','');
+		$("#bulletin_subscribe").html('<a href="/f/page_login.html">订阅移民排期通知</a>');
+		$("#bulletin_table_family").hide();
+		$("#bulletin_table_employment").show();
+	});
+	$('#bulletin_table_family_title').mouseenter(function(){
+		$("#bulletin_table_family_title").css('color','#78b9e3');
+		$("#bulletin_table_employment_title").css('color','');
+		$("#bulletin_subscribe").html('<a href="/f/page_login.html">订阅移民排期通知</a>');
+		$("#bulletin_table_family").show();
+		$("#bulletin_table_employment").hide();
+	});
+	
+});
+</script> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="/bulletin_table.html" id="bulletin_table_employment_title"><span>职业</span></a>&nbsp;|&nbsp;<a href="/bulletin_table/t_1.html" id="bulletin_table_family_title"><span>亲属</span></a>&nbsp;|&nbsp;<a href="/bulletin.html"><span>移民排期趋势图</span></a> 
+       </div> 
+       <div class="tabluntan" id="bulletin_subscribe">
+        <a href="/f/page_login.html">订阅移民排期通知</a>
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <table class="bulletin_table" id="bulletin_table_employment" cellspacing="0" cellpadding="0" border="1" bordercolor="#e7e7e7"> 
+        <tbody>
+         <tr>
+          <td colspan="6" class="bulletin_td0"> <a href="/bulletin_table/t_2/date_202010.html">最新职业移民排期表（2020年10月职业移民排期）</a> </td>
+         </tr> 
+         <tr> 
+          <td class="bulletin_td1"></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_013100a167a178.html">全世界</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_163100a167a178.html">中国大陆</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_083100a167a178.html">印度</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_043100a167a178.html">墨西哥</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_023100a167a178.html">菲律宾</a></td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EB1</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2018/06/01</td> 
+          <td class="bulletin_td3">2018/06/01</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EB2</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2016/03/01</td> 
+          <td class="bulletin_td3">2009/09/01</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EB3</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2017/07/01</td> 
+          <td class="bulletin_td3">2010/01/15</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EBO</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2008/12/01</td> 
+          <td class="bulletin_td3">2010/01/15</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EB4</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2018/09/01</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EBC</td> 
+          <td class="bulletin_td3">无排期</td> 
+          <td class="bulletin_td3">无排期</td> 
+          <td class="bulletin_td3">无排期</td> 
+          <td class="bulletin_td3">无排期</td> 
+          <td class="bulletin_td3">无排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">EB5</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">2015/08/15</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+        </tbody>
+       </table> 
+       <table class="bulletin_table" id="bulletin_table_family" cellspacing="0" cellpadding="0" border="1" bordercolor="#e7e7e7"> 
+        <tbody>
+         <tr> 
+          <td colspan="6" class="bulletin_td0"> <a href="/bulletin_table/t_1/date_202010.html">最新亲属移民排期表（2020年10月亲属移民排期）</a> </td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td1"></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_013100a167a178.html">全世界</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_163100a167a178.html">中国大陆</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_083100a167a178.html">印度</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_043100a167a178.html">墨西哥</a></td> 
+          <td class="bulletin_td1"><a class="bulletin" href="/bulletin/c_023100a167a178.html">菲律宾</a></td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">F1</td> 
+          <td class="bulletin_td3">2014/09/15</td> 
+          <td class="bulletin_td3">2014/09/15</td> 
+          <td class="bulletin_td3">2014/09/15</td> 
+          <td class="bulletin_td3">1998/01/08</td> 
+          <td class="bulletin_td3">2011/12/15</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">F2A</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+          <td class="bulletin_td3">无需排期</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">F2B</td> 
+          <td class="bulletin_td3">2015/07/08</td> 
+          <td class="bulletin_td3">2015/07/08</td> 
+          <td class="bulletin_td3">2015/07/08</td> 
+          <td class="bulletin_td3">1999/04/08</td> 
+          <td class="bulletin_td3">2011/08/01</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">F3</td> 
+          <td class="bulletin_td3">2008/06/15</td> 
+          <td class="bulletin_td3">2008/06/15</td> 
+          <td class="bulletin_td3">2008/06/15</td> 
+          <td class="bulletin_td3">1996/08/01</td> 
+          <td class="bulletin_td3">2002/02/15</td> 
+         </tr> 
+         <tr> 
+          <td class="bulletin_td2">F4</td> 
+          <td class="bulletin_td3">2006/09/22</td> 
+          <td class="bulletin_td3">2006/09/22</td> 
+          <td class="bulletin_td3">2005/03/08</td> 
+          <td class="bulletin_td3">1998/06/22</td> 
+          <td class="bulletin_td3">2002/01/01</td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </div>
+     </div> 
+    </div> 
+    <div class="group_right"></div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="/lawyer/task_list/catid_2.html" target="_blank"> </a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="law_4"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/f/page_viewforum/f_4.html" target="_blank">移民论坛</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%AD%BE%E8%AF%81.html" class="right_vertical_line" target="_blank">签证面谈</a><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E4%BA%B2%E5%B1%9E%E7%A7%BB%E6%B0%91.html " class="right_vertical_line" target="_blank">亲属移民</a><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E8%81%8C%E4%B8%9A%E7%A7%BB%E6%B0%91.html" class="right_vertical_line" target="_blank">职业移民</a><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91.html" target="_blank">投资移民</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_4.html" title="法律移民" target="_blank"><span>法律移民</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/us_citizenship_test.html" target="_blank">入籍考试题</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%BB%BF%E5%8D%A1.html" target="_blank">绿卡</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%A9%9A%E5%A7%BB.html" target="_blank">婚姻</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E8%BA%AB%E4%BB%BD%E8%BD%AC%E6%8D%A2.html" target="_blank">身份转换</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%8A%B3%E5%B7%A5.html" target="_blank">劳工</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%BA%87%E6%8A%A4.html" target="_blank">庇护</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%AD%BE%E8%AF%81.html" title="签证面谈" target="_blank"><span>签证面谈</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%95%99%E5%AD%A6.html" target="_blank">留学</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E5%95%86%E5%8A%A1.html" target="_blank">商务</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E6%8E%A2%E4%BA%B2.html" target="_blank">探亲</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E6%97%85%E6%B8%B8.html" target="_blank">旅游</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E6%8B%92%E7%AD%BE.html" target="_blank">拒签</a></span> <span><a href="https://www.vegaschinaren.com/f/page_viewforum/f_4/key_%E7%BB%AD%E7%AD%BE.html" target="_blank">续签</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+    </div> 
+    <div class="group_middle"> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_4.html" target="_blank"><h2>法律移民</h2></a> 
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/f/page_viewforum/f_4.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83789.html" title="《F4亲属移民美国申办宝典》" target="_blank">《F4亲属移民美国申办宝典》</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83733.html" title="中国领事馆业务办理中心" target="_blank">中国领事馆业务办理中心</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_81310.html" title="美国大型商贸城,诚征投资合作,可办移民！" target="_blank">美国大型商贸城,诚征投资合作,可办移民！</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_81223.html" title="干货！美国公民为配偶申请绿卡详解-不受配额限制" target="_blank">干货！美国公民为配偶申请绿卡详解-不受配额限制</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_79008.html" title="注册美国公司的常见问题" target="_blank">注册美国公司的常见问题</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78907.html" title="2020年,电商企业有必要注册美国公司吗？" target="_blank">2020年,电商企业有必要注册美国公司吗？</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78707.html" title="美国加州公司如何申请销售许可证(Seller's Permit)" target="_blank">美国加州公司如何申请销售许可证(Seller's Permit)</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78670.html" title="精办各类移民 留学生绿卡快速通道" target="_blank">精办各类移民 留学生绿卡快速通道</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_78290.html" title="金融危机之下,律师教你债务如何免除？ 朱建丞律师事务所646-518-7998" target="_blank">金融危机之下,律师教你债务如何免除？ 朱建丞律师事务所646-518-7998</a></li> 
+        <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_76878.html" title="2020年,电商企业有必要注册美国公司吗？" target="_blank">2020年,电商企业有必要注册美国公司吗？</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+    </div> 
+    <div class="group_right">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.vegaschinaren.com/la_weblinks/catid_53.html" target="_blank">实用链接</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.vegaschinaren.com/la_weblinks/catid_53.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.uscis.gov/" title="美国移民局" target="_blank">美国移民局</a></li> 
+        <li><a href="http://www.aila.org/" title="美国律师协会" target="_blank">美国律师协会</a></li> 
+        <li><a href="http://infopass.uscis.gov/" title="Info Pass" target="_blank">Info Pass</a></li> 
+        <li><a href="http://www.aila.org/" title="美国移民律师协会" target="_blank">美国移民律师协会</a></li> 
+        <li><a href="http://travel.state.gov/visa/bulletin/bulletin_1360.html" title="最新移民排期" target="_blank">最新移民排期</a></li> 
+        <li><a href="https://egov.immigration.gov/cris/caseStatusSearchDisplay.do" title="移民案件查询" target="_blank">移民案件查询</a></li> 
+        <li><a href="http://topics.law.cornell.edu/wex" title="美国法律介绍" target="_blank">美国法律介绍</a></li> 
+        <li><a href="http://www.asianlawcaucus.org/" title="亚太法律援助社" target="_blank">亚太法律援助社</a></li> 
+        <li><a href="https://egov.uscis.gov/cris/Dashboard.do" title="网上查询Case状态" target="_blank">网上查询Case状态</a></li> 
+        <li><a href="http://click.linksynergy.com/fs-bin/click?id=*fQSYpItbis&amp;offerid=198467.10000027&amp;subid=0&amp;type=4" title="加急办理美国护照" target="_blank">加急办理美国护照</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="https://www.vegaschinaren.com/us_citizenship_test.html" target="_blank"></a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="law_5"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/company/task_group/group_3.html" target="_blank">拉斯维加斯机构</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/company/task_group/group_3.html" class="right_vertical_line" target="_blank">政府机关</a><a href="https://www.vegaschinaren.com/company/task_list/catid_74.html" class="right_vertical_line" target="_blank">拉斯维加斯城市</a><a href="https://www.vegaschinaren.com/dmv_courthouse_cityhall/task_list/catid_8.html" class="right_vertical_line" target="_blank">市政厅</a><a href="https://www.vegaschinaren.com/company/task_list/catid_149.html" target="_blank">警察局</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left_middle">
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.vegaschinaren.com/company/task_group/group_3.html" class="active" target="_blank"><span>常用政府机关</span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.vegaschinaren.com/company/task_group/group_3.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content"> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/dmv_courthouse_cityhall/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%B8%82%E6%94%BF%E5%8E%85/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/dmv_courthouse_cityhall/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%B8%82%E6%94%BF%E5%8E%85/task_list.html" target="_blank" class="topictitle" title="拉斯维加斯市政厅"><span>拉斯维加斯市政厅</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_74/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%9F%8E%E5%B8%82/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_74/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%9F%8E%E5%B8%82/task_list.html" target="_blank" class="topictitle" title="拉斯维加斯城市"><span>拉斯维加斯城市</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_147/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E6%B3%95%E9%99%A2/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_147/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E6%B3%95%E9%99%A2/task_list.html" target="_blank" class="topictitle" title="拉斯维加斯法院"><span>拉斯维加斯法院</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_148/%E8%BD%A6%E8%BE%86%E7%AE%A1%E7%90%86%E5%B1%80/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_148/%E8%BD%A6%E8%BE%86%E7%AE%A1%E7%90%86%E5%B1%80/task_list.html" target="_blank" class="topictitle" title="车辆管理局"><span>车辆管理局</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_149/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_149/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E8%AD%A6%E5%AF%9F%E5%B1%80/task_list.html" target="_blank" class="topictitle" title="拉斯维加斯警察局"><span>拉斯维加斯警察局</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_150/%E7%A4%BE%E4%BC%9A%E5%AE%89%E5%85%A8%E5%B1%80/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_150/%E7%A4%BE%E4%BC%9A%E5%AE%89%E5%85%A8%E5%B1%80/task_list.html" target="_blank" class="topictitle" title="社会安全局"><span>社会安全局</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_272/%E9%82%AE%E5%B1%80/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_272/%E9%82%AE%E5%B1%80/task_list.html" target="_blank" class="topictitle" title="邮局"><span>邮局</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_322/%E5%90%84%E5%9B%BD%E9%A2%86%E9%A6%86/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_322/%E5%90%84%E5%9B%BD%E9%A2%86%E9%A6%86/task_list.html" target="_blank" class="topictitle" title="各国领馆"><span>各国领馆</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_323/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9B%91%E7%8B%B1/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_323/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%9B%91%E7%8B%B1/task_list.html" target="_blank" class="topictitle" title="拉斯维加斯监狱"><span>拉斯维加斯监狱</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="https://www.vegaschinaren.com/company/catid_324/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A7%BB%E6%B0%91%E5%B1%80/task_list.html" target="_blank">  </a> <a href="https://www.vegaschinaren.com/company/catid_324/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A7%BB%E6%B0%91%E5%B1%80/task_list.html" target="_b

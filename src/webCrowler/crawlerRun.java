@@ -51,7 +51,7 @@ public class crawlerRun {
     	int size;
     	String eng = "";
         // Check if you have already crawled the URLs
-        if (!links.contains(URL) && URL != ""  && limit < 130) {
+        if (!links.contains(URL) && URL != ""  && limit < 1300) {
             try {
             Document doc = Jsoup.connect(URL).ignoreContentType(true).userAgent("Mozilla").get();
             	String title = doc.title();
@@ -61,7 +61,8 @@ public class crawlerRun {
             	for (Element el : e.subList(0, Math.min(1, e.size()))) {
             		if(el.text()  != null && !el.text().isEmpty()){
             	    //System.out.println(el.text());
-            	    eng = checkLan(el.text());
+            			if(!lan.equals("cn"))
+            				eng = checkLan(el.text());
             	   
             		}
            	}
@@ -187,16 +188,16 @@ public class crawlerRun {
 
 
     public static void main(String[] args) throws IOException {
-    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
-    	    System.out.println("Please Enter seed WebSite: ");
-    	    String url = myObj.nextLine();  // Read user input
-    	    System.out.println("Please Enter Language code(en,cn,es): ");
-    	    String lan = myObj.nextLine();  // Read user input
+//    	 Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+//    	    System.out.println("Please Enter seed WebSite: ");
+//    	    String url = myObj.nextLine();  // Read user input
+//    	    System.out.println("Please Enter Language code(en,cn,es): ");
+//    	    String lan = myObj.nextLine();  // Read user input
     	crawlerRun bwc = new crawlerRun(); 	
-        bwc.getURLs("http://"+url,lan);
+ //       bwc.getURLs("http://"+url,lan);
    
     	
-    	//bwc.getURLs("https://www.cpp.edu","en");
+    	bwc.getURLs("https://www.chineseinla.com/","cn");
    
         
     }

@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/f/page_masterapply.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>版主申请 - 洛杉矶华人资讯网</title> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/js/forum.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/js/thickbox.v3.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li class="active"><a href="/f.html" class="brand">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="activeText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="forum_fill">  <!--[if lte IE 8]> 
+<style>
+.chk_1 { 
+    display: block; 
+} 
+</style>
+<![endif]--> 
+    <div></div> 
+    <div> 
+     <form name="apply_form"> 
+      <div class="forum_line">
+       <span class="item_title">姓名</span>
+       <input type="text" name="name" id="name" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">电话</span>
+       <input type="text" name="tel" id="tel" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">QQ</span>
+       <input type="text" name="qq" id="qq" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">微信</span>
+       <input type="text" name="weixin" id="weixin" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">邮箱</span>
+       <input type="text" name="email" id="email" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">地址</span>
+       <input type="text" name="address" id="address" class="input_s1">
+      </div> 
+      <div class="forum_line">
+       <span class="item_title">申请说明</span><textarea type="text" name="memo" id="memo" class="text_s1"></textarea>
+      </div> 
+      <div class="forum_line"> <span class="item_title">申请论坛</span> 
+       <div class="tag_state"> 
+        <input type="checkbox" name="forum_id" id="forum_id_156" value="156" class="chk_1"><label for="forum_id_156">问答</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_3" value="3" class="chk_1"><label for="forum_id_3">二手商品</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_4" value="4" class="chk_1"><label for="forum_id_4">法律移民</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_5" value="5" class="chk_1"><label for="forum_id_5">房屋出租</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_6" value="6" class="chk_1"><label for="forum_id_6">报税理财</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_7" value="7" class="chk_1"><label for="forum_id_7">洛杉矶旅游</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_8" value="8" class="chk_1"><label for="forum_id_8">汽车买卖</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_122" value="122" class="chk_1"><label for="forum_id_122">美国宝贝助孕公司</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_10" value="10" class="chk_1"><label for="forum_id_10">运动健身</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_11" value="11" class="chk_1"><label for="forum_id_11">活动预告</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_12" value="12" class="chk_1"><label for="forum_id_12">社团组织</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_16" value="16" class="chk_1"><label for="forum_id_16">生儿育女</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_17" value="17" class="chk_1"><label for="forum_id_17">网站推荐</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_19" value="19" class="chk_1"><label for="forum_id_19">异乡生活</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_20" value="20" class="chk_1"><label for="forum_id_20">建议与合作</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_21" value="21" class="chk_1"><label for="forum_id_21">其他信息</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_22" value="22" class="chk_1"><label for="forum_id_22">美容时尚</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_23" value="23" class="chk_1"><label for="forum_id_23">轻松一刻</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_24" value="24" class="chk_1"><label for="forum_id_24">气候人文</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_25" value="25" class="chk_1"><label for="forum_id_25">留学美国</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_26" value="26" class="chk_1"><label for="forum_id_26">洛杉矶摄影</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_27" value="27" class="chk_1"><label for="forum_id_27">洛杉矶名人</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_28" value="28" class="chk_1"><label for="forum_id_28">求助专区</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_29" value="29" class="chk_1"><label for="forum_id_29">工作求职</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_30" value="30" class="chk_1"><label for="forum_id_30">网站使用指南</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_31" value="31" class="chk_1"><label for="forum_id_31">中美贸易</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_32" value="32" class="chk_1"><label for="forum_id_32">医疗健康</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_33" value="33" class="chk_1"><label for="forum_id_33">洛杉矶历史</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_34" value="34" class="chk_1"><label for="forum_id_34">购物指南</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_35" value="35" class="chk_1"><label for="forum_id_35">买房卖房</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_36" value="36" class="chk_1"><label for="forum_id_36">美国经济</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_37" value="37" class="chk_1"><label for="forum_id_37">交友征婚</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_38" value="38" class="chk_1"><label for="forum_id_38">政治庇护</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_39" value="39" class="chk_1"><label for="forum_id_39">亲属移民</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_40" value="40" class="chk_1"><label for="forum_id_40">职业移民</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_42" value="42" class="chk_1"><label for="forum_id_42">签证面谈</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_43" value="43" class="chk_1"><label for="forum_id_43">旅游接送</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_44" value="44" class="chk_1"><label for="forum_id_44">快递货运</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_46" value="46" class="chk_1"><label for="forum_id_46">搬家装修</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_47" value="47" class="chk_1"><label for="forum_id_47">驾照罚单</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_48" value="48" class="chk_1"><label for="forum_id_48">电脑网络</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_49" value="49" class="chk_1"><label for="forum_id_49">手机通讯</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_50" value="50" class="chk_1"><label for="forum_id_50">投资移民</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_53" value="53" class="chk_1"><label for="forum_id_53">邓洪律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_65" value="65" class="chk_1"><label for="forum_id_65">汽车维护</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_55" value="55" class="chk_1"><label for="forum_id_55">网店代购</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_57" value="57" class="chk_1"><label for="forum_id_57">猫狗宠物</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_58" value="58" class="chk_1"><label for="forum_id_58">华人创业</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_56" value="56" class="chk_1"><label for="forum_id_56">保险福利</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_59" value="59" class="chk_1"><label for="forum_id_59">华兴保险专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_64" value="64" class="chk_1"><label for="forum_id_64">汽车租赁</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_61" value="61" class="chk_1"><label for="forum_id_61">文学艺术</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_62" value="62" class="chk_1"><label for="forum_id_62">新品买卖</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_63" value="63" class="chk_1"><label for="forum_id_63">培训家教</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_66" value="66" class="chk_1"><label for="forum_id_66">店铺租售</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_68" value="68" class="chk_1"><label for="forum_id_68">按摩专区</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_69" value="69" class="chk_1"><label for="forum_id_69">翻译公证</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_70" value="70" class="chk_1"><label for="forum_id_70">子女教育</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_74" value="74" class="chk_1"><label for="forum_id_74">LA曝光台</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_80" value="80" class="chk_1"><label for="forum_id_80">华明胜律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_72" value="72" class="chk_1"><label for="forum_id_72">LA商贸圈</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_73" value="73" class="chk_1"><label for="forum_id_73">园艺花草</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_77" value="77" class="chk_1"><label for="forum_id_77">张大钦律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_78" value="78" class="chk_1"><label for="forum_id_78">周建民律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_79" value="79" class="chk_1"><label for="forum_id_79">张竹平律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_81" value="81" class="chk_1"><label for="forum_id_81">郑博仁律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_82" value="82" class="chk_1"><label for="forum_id_82">民宿月子</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_83" value="83" class="chk_1"><label for="forum_id_83">旅馆短租</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_84" value="84" class="chk_1"><label for="forum_id_84">胡雅棠律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_86" value="86" class="chk_1"><label for="forum_id_86">王为律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_89" value="89" class="chk_1"><label for="forum_id_89">寄宿家庭</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_88" value="88" class="chk_1"><label for="forum_id_88">跨境带物</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_90" value="90" class="chk_1"><label for="forum_id_90">顺道拼车</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_91" value="91" class="chk_1"><label for="forum_id_91">儿童看护</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_92" value="92" class="chk_1"><label for="forum_id_92">美国艾克留学</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_93" value="93" class="chk_1"><label for="forum_id_93">洛杉矶文美留学</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_94" value="94" class="chk_1"><label for="forum_id_94">姜国栋律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_95" value="95" class="chk_1"><label for="forum_id_95">车商卖车</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_96" value="96" class="chk_1"><label for="forum_id_96">美国厚仁教育</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_97" value="97" class="chk_1"><label for="forum_id_97">宋和孟律所专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_99" value="99" class="chk_1"><label for="forum_id_99">互惠財富​●保險專欄</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_98" value="98" class="chk_1"><label for="forum_id_98">婚庆礼仪</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_101" value="101" class="chk_1"><label for="forum_id_101">摄影服务</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_100" value="100" class="chk_1"><label for="forum_id_100">王君宇律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_102" value="102" class="chk_1"><label for="forum_id_102">法律服务</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_103" value="103" class="chk_1"><label for="forum_id_103">华人参政</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_104" value="104" class="chk_1"><label for="forum_id_104">七海国际物流</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_105" value="105" class="chk_1"><label for="forum_id_105">美国柯信租车</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_106" value="106" class="chk_1"><label for="forum_id_106">瑞驰租赁</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_107" value="107" class="chk_1"><label for="forum_id_107">微辣媒</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_108" value="108" class="chk_1"><label for="forum_id_108">庞飞律师专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_109" value="109" class="chk_1"><label for="forum_id_109">月嫂家政</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_110" value="110" class="chk_1"><label for="forum_id_110">洛城新闻</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_111" value="111" class="chk_1"><label for="forum_id_111">IT招聘专区</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_112" value="112" class="chk_1"><label for="forum_id_112">货币兑换</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_113" value="113" class="chk_1"><label for="forum_id_113">报价通</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_114" value="114" class="chk_1"><label for="forum_id_114">How视频</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_115" value="115" class="chk_1"><label for="forum_id_115">非你不可</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_116" value="116" class="chk_1"><label for="forum_id_116">梦美生殖专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_117" value="117" class="chk_1"><label for="forum_id_117">试管代孕</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_118" value="118" class="chk_1"><label for="forum_id_118">闲聊灌水</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_119" value="119" class="chk_1"><label for="forum_id_119">美国试管婴儿</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_120" value="120" class="chk_1"><label for="forum_id_120">美国加州代孕中心</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_121" value="121" class="chk_1"><label for="forum_id_121">美国加州生殖中心</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_123" value="123" class="chk_1"><label for="forum_id_123">孙斯陶房产经纪</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_124" value="124" class="chk_1"><label for="forum_id_124">于菲房地产投资</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_125" value="125" class="chk_1"><label for="forum_id_125">Jullian 刘美呈</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_126" value="126" class="chk_1"><label for="forum_id_126">Charlene 尔湾地产团队</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_127" value="127" class="chk_1"><label for="forum_id_127">康妮地产</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_128" value="128" class="chk_1"><label for="forum_id_128">Jeffrey Zhu</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_129" value="129" class="chk_1"><label for="forum_id_129">爱孕美国试管代孕</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_130" value="130" class="chk_1"><label for="forum_id_130">日星试管婴儿中心</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_131" value="131" class="chk_1"><label for="forum_id_131">Michael董 地产经纪</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_132" value="132" class="chk_1"><label for="forum_id_132">餐厅酒吧</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_133" value="133" class="chk_1"><label for="forum_id_133">乐韵专业美国试管</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_134" value="134" class="chk_1"><label for="forum_id_134">张大卫保险专栏</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_135" value="135" class="chk_1"><label for="forum_id_135">华人卵子库</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_136" value="136" class="chk_1"><label for="forum_id_136">美国信用卡</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_2" value="2" class="chk_1"><label for="forum_id_2">洛杉矶美食</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_144" value="144" class="chk_1"><label for="forum_id_144">我要上头条</label> 
+        <input type="checkbox" name="forum_id" id="forum_id_137" value="137" class="chk_1"><label for="forum_id_137">贷款抵押</label> 
+        <input type="checkbox"

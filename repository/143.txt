@@ -1,0 +1,697 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js" type="text/javascript"></script> 
+  <title>佛罗里达新闻 - 佛罗里达华人资讯网</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/top_eye/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/mainmenu.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/js/thickbox.v2.css" type="text/css" media="screen"> 
+ </head> 
+ <body> 
+  <div id="page"> 
+   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"> 
+    <tbody>
+     <tr>
+      <td width="1%">&nbsp;</td> 
+      <td width="98%" valign="top" height="26"> 
+       <table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"> 
+        <tbody>
+         <tr> 
+          <td width="9"> </td> 
+          <td width="98%"> 
+           <div> 
+            <div> 
+             <form name="searchForm" id="searchForm" onsubmit="return false;"> 
+              <input type="text" id="key" name="key" value="请输入您要查找的华人商家信息..." onkeypress="return searchCompanyOnKeyProcessGlobal(event, this.form)" onfocus="setDefaultSearchGlobal(this.form)"> 
+              <input type="button" name="Search" value="搜索" onclick="searchCompanyGlobal()"> 
+             </form> 
+            </div> 
+            <script type="application/javascript">
+var defaultSearchLang = '请输入您要查找的华人商家信息...';
+var map_input_search_key = "请输入您要查询的内容";
+</script>
+           </div> 
+           <div> <a href="javascript:setCookie('zlang','gb',15)"></a> <a href="javascript:setCookie('zlang','tw',15)"></a> 
+           </div> 
+           <div> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.ChineseInFlorida.com&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe> 
+           </div> 
+           <div> <a href="/register.html" class="user">注册</a> | <a href="/f/page_login.html" class="user">登录</a> 
+           </div></td> 
+          <td width="9"></td> 
+         </tr> 
+        </tbody>
+       </table> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr>
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td width="98%" valign="top" height="70"> 
+       <div id="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+       </div> 
+       <div id="topright"> 
+       </div> 
+       <div class="clear"></div> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td width="98%">
+       <div class="navbar"> 
+        <div class="navbar-inner"> 
+         <ul class="nav"> 
+          <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+          <li></li> 
+          <li class="active"><a href="/news.html" class="brand">佛罗里达新闻</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="submenu_list" id="active_submenu"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="activeText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu38"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu100"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu1151"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu1095"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu161"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu80"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu132"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu67"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <form name="menu_logout" action="f/page_login/logout_true" method="post">
+        <input type="hidden" name="redirect" value="/news/type_monthly_popular.html"> 
+        <div class="submenu_list" id="inactive_submenu37"> 
+         <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+          <tbody> 
+           <tr> 
+            <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+       </form> 
+       <div class="submenu_list" id="inactive_submenu1163"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td valign="top" width="98%" align="left"> 
+       <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"> 
+        <tbody>
+         <tr> 
+          <td valign="top"> <script language="JavaScript" src="/components/com_newsfeeds/news_op.js"></script> 
+           <table width="100%" class="contentpane"> 
+           </table> 
+           <table width="100%" class="contentpane"> 
+            <tbody>
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number433" class="news_votes_number">
+                    5
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(433)"> 
+                    <div id="vote_link433" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_433.html" target="_blank" rel="nofollow" class="news_link"> 冬季避寒好去处:佛罗里达,美景, 家庭, 亲子, 娱乐皆可得 </a> 
+                <br> <font class="news-submitted">( 2017-12-06 07:12 发布于 搜狐) </font> 
+                <br> 
+                <div class="news_text">
+                  有人说, Florida 是各年龄阶段的人都会爱上的, 孩子喜欢 Orlando, 年轻人喜欢 Miami, 中年人喜欢 Key West, 而老人喜欢 Tampa. 在我心中, 佛罗里达是美国最... 
+                </div> 
+                <div id="report_spam433" align="right"> <a href="/" onclick="return report_spam(433);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments433" align="right"> <a href="/news/task_showcomment/newsid_433.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number438" class="news_votes_number">
+                    3
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(438)"> 
+                    <div id="vote_link438" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_438.html" target="_blank" rel="nofollow" class="news_link"> 谷歌公司提供支持的连接佛罗里达和巴西的Monet海底电缆即将开通 </a> 
+                <br> <font class="news-submitted">( 2017-12-08 11:12 发布于 中国IDC圈) </font> 
+                <br> 
+                <div class="news_text">
+                  谷歌公司提供支持的连接佛罗里达和巴西的Monet海底电缆即将开通日前,连接美国博卡拉顿和巴西福塔莱萨的长达10,556公里(6,560英里)的海底电缆现已准备就绪,计划开通。这... 
+                </div> 
+                <div id="report_spam438" align="right"> <a href="/" onclick="return report_spam(438);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments438" align="right"> <a href="/news/task_showcomment/newsid_438.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number311" class="news_votes_number">
+                    2
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(311)"> 
+                    <div id="vote_link311" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_311.html" target="_blank" rel="nofollow" class="news_link"> 和中增值服务“海外置业”协助北京H女士投资佛罗里达奥兰多湖景... </a> 
+                <br> <font class="news-submitted">( 2017-04-26 16:04 发布于 和中移民..) </font> 
+                <br> 
+                <div class="news_text">
+                  于是H女士经多方了解和选择,最终购买了和中海外置业顾问推荐的佛罗里达奥兰多湖景别墅,精装4卧,20万美金房款。因为投资这套房产价格门槛较低,交房较快,而且有包租... 
+                </div> 
+                <div id="report_spam311" align="right"> <a href="/" onclick="return report_spam(311);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments311" align="right"> <a href="/news/task_showcomment/newsid_311.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number127" class="news_votes_number">
+                    2
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(127)"> 
+                    <div id="vote_link127" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_127.html" target="_blank" rel="nofollow" class="news_link"> 网站上买摩托车被骗 佛罗里达华裔男子被歹徒枪杀 </a> 
+                <br> <font class="news-submitted">( 2017-01-16 14:01 发布于 中国新闻网) </font> 
+                <br> 
+                <div class="news_text">
+                  据美国中文网援引wptv报道,佛罗里达州30岁华裔男子孙安伦(Allen Record)陪同朋友与Craiglist网站上的摩托车卖主交易,不料竟遭遇抢劫骗局,遭枪击遇 
+                </div> 
+                <div id="report_spam127" align="right"> <a href="/" onclick="return report_spam(127);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments127" align="right"> <a href="/news/task_showcomment/newsid_127.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number145" class="news_votes_number">
+                    2
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(145)"> 
+                    <div id="vote_link145" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_145.html" target="_blank" rel="nofollow" class="news_link"> 据读卖新闻:日本首相安倍晋三与美国总统特朗普将在佛罗里达州会晤 </a> 
+                <br> <font class="news-submitted">( 2017-02-01 14:02 发布于 中国黄金投资网) </font> 
+                <br> 
+                <div class="news_text">
+                  摘要:投网2月1日讯, 据读卖新闻: 日本首相 安倍晋三与 美国总统 特朗普将在佛罗里达州会晤。 金投网2月1日讯,据读卖新闻: 日本首相 安倍晋三与 美国总统 ... 
+                </div> 
+                <div id="report_spam145" align="right"> <a href="/" onclick="return report_spam(145);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments145" align="right"> <a href="/news/task_showcomment/newsid_145.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number432" class="news_votes_number">
+                    2
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(432)"> 
+                    <div id="vote_link432" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_432.html" target="_blank" rel="nofollow" class="news_link"> 华府观察:佛罗里达成功破获一起大屠杀阴谋 </a> 
+                <br> <font class="news-submitted">( 2017-12-06 08:12 发布于 中国新闻网) </font> 
+                <br> 
+                <div class="news_text">
+                  关键词:华府 佛罗里达 大屠杀阴谋 分类名称: 国际新闻 责任编辑:【齐君】 热点视频 趣闻八卦 “口袋婆婆”靠捡废品养活全家 女大学生打造球迷主题宿舍 印度幼... 
+                </div> 
+                <div id="report_spam432" align="right"> <a href="/" onclick="return report_spam(432);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments432" align="right"> <a href="/news/task_showcomment/newsid_432.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number437" class="news_votes_number">
+                    2
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(437)"> 
+                    <div id="vote_link437" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_437.html" target="_blank" rel="nofollow" class="news_link"> 佛罗里达州夜空出现神秘火球 NASA收到60多份目击报告 </a> 
+                <br> <font class="news-submitted">( 2017-12-08 12:12 发布于 凤凰科技) </font> 
+                <br> 
+                <div class="news_text">
+                  当涉及到意想不到的夜空观察机会时,火球是最令人兴奋的景象之一。各种类型的空间碎片通过地球的大气层在耀眼的火焰中飞舞,这可能是一个引人注目的景象。佛罗里达居... 
+                </div> 
+                <div id="report_spam437" align="right"> <a href="/" onclick="return report_spam(437);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments437" align="right"> <a href="/news/task_showcomment/newsid_437.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number256" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(256)"> 
+                    <div id="vote_link256" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_256.html" target="_blank" rel="nofollow" class="news_link"> 中佛罗里达大学2米26中锋法尔参加选秀 </a> 
+                <br> <font class="news-submitted">( 2017-04-06 07:04 发布于 东方网) </font> 
+                <br> 
+                <div class="news_text">
+                  北京时间4月6日,中佛罗里达大学身高2米26(7英尺6英寸)的大二中锋塔科-法尔将参加今年选秀,但他不会聘请经纪人,依旧有机会重返大学校园。本赛季法尔场均贡献1 
+                </div> 
+                <div id="report_spam256" align="right"> <a href="/" onclick="return report_spam(256);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments256" align="right"> <a href="/news/task_showcomment/newsid_256.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number1" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(1)"> 
+                    <div id="vote_link1" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_1.html" target="_blank" rel="nofollow" class="news_link"> 年度美剧落幕,说说“选情胶着”的各式表达 </a> 
+                <br> <font class="news-submitted">( 2016-11-10 16:11 发布于 中国日报) </font> 
+                <br> 
+                <div class="news_text">
+                  英国《卫报》在直播选情时有个标题是这样写的:Trump and Clinton watch votes as Florida 'razor close'。Razor是啥?男士们应该都熟悉,是剃须刀。如果说两个人... 
+                </div> 
+                <div id="report_spam1" align="right"> <a href="/" onclick="return report_spam(1);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments1" align="right"> <a href="/news/task_showcomment/newsid_1.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number257" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(257)"> 
+                    <div id="vote_link257" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_257.html" target="_blank" rel="nofollow" class="news_link"> 佛罗里达州棕榈滩岛的中国元素 </a> 
+                <br> <font class="news-submitted">( 2017-04-05 14:04 发布于 新华网络电视网) </font> 
+                <br> 
+                <div class="news_text">
+                  自从美国当地媒体公布了中美两国元首在佛罗里达州海湖庄园会晤的消息后,棕榈滩这个有着优美名字的地方就成了中美民众们关注的焦点。不仅这里的民众对两国元首的会晤充... 
+                </div> 
+                <div id="report_spam257" align="right"> <a href="/" onclick="return report_spam(257);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments257" align="right"> <a href="/news/task_showcomment/newsid_257.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number2" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(2)"> 
+                    <div id="vote_link2" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_2.html" target="_blank" rel="nofollow" class="news_link"> ...land in Miami Gardens, Florida (Dade County) for $27 million </a> 
+                <br> <font class="news-submitted">( 2016-11-10 11:11 发布于 腾讯财经) </font> 
+                <br> 
+                <div class="news_text">
+                  BRIEF-Eastgroup Properties Inc acquires 61 acres of development land in Miami Gardens, Florida (Dade County) for $27 million... 
+                </div> 
+                <div id="report_spam2" align="right"> <a href="/" onclick="return report_spam(2);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments2" align="right"> <a href="/news/task_showcomment/newsid_2.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number258" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(258)"> 
+                    <div id="vote_link258" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_258.html" target="_blank" rel="nofollow" class="news_link"> ...总书记抵赫尔辛基开始对芬兰进行国事访问 并赴美国佛罗里达州... </a> 
+                <br> <font class="news-submitted">( 2017-04-05 10:04 发布于 浙江在线) </font> 
+                <br> 
+                <div class="news_text">
+                  离京对芬兰共和国进行国事访问并赴美国佛罗里达州举行中美元首会晤 4日,国家主席习近平乘专机抵达赫尔辛基,开始对芬兰共和国进行国事访问。 在结束对芬兰的国事访问后... 
+                </div> 
+                <div id="report_spam258" align="right"> <a href="/" onclick="return report_spam(258);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments258" align="right"> <a href="/news/task_showcomment/newsid_258.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number3" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(3)"> 
+                    <div id="vote_link3" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_3.html" target="_blank" rel="nofollow" class="news_link"> </a> 
+                <br> <font class="news-submitted">( 1969-12-31 16:12) </font> 
+                <br> 
+                <div class="news_text"> 
+                </div> 
+                <div id="report_spam3" align="right"> <a href="/" onclick="return report_spam(3);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments3" align="right"> <a href="/news/task_showcomment/newsid_3.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number259" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(259)"> 
+                    <div id="vote_link259" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                    </div> </a></td> 
+                 </tr> 
+                </tbody>
+               </table> </td> 
+              <td> 
+               <ul> <a href="/news/task_shownews/newsid_259.html" target="_blank" rel="nofollow" class="news_link"> 习近平开始对芬兰进行国事访问 还将赴美国佛罗里达州海湖庄园举行... </a> 
+                <br> <font class="news-submitted">( 2017-04-05 08:04 发布于 新浪新闻) </font> 
+                <br> 
+                <div class="news_text">
+                  中国驻芬兰大使陈立也到机场迎接。 在结束对芬兰的国事访问后,习近平还将赴美国佛罗里达州海湖庄园举行中美元首会晤。文章关键词: 习近平 王沪宁 政府 我要反馈... 
+                </div> 
+                <div id="report_spam259" align="right"> <a href="/" onclick="return report_spam(259);" class="vote_link" title="举报无关信息会使这里的信息对您更有帮助">举报无关信息</a> 
+                </div> 
+                <div id="comments259" align="right"> <a href="/news/task_showcomment/newsid_259.html" class="vote_link" title="发表您对这则新闻的评论">发表评论</a> 
+                </div> <!--                    --> <!--<script type="text/javascript"><!----> <!--google_ad_client = "pub-8275565583908081";--> <!--/* ChineseInLA News Mix 336x280, created 12/9/10 */--> <!--google_ad_slot = "2008860337";--> <!--google_ad_width = 336;--> <!--google_ad_height = 280;--> <!--//--> <!--</script>--> <!--<script type="text/javascript"--> <!--src="https://pagead2.googlesyndication.com/pagead/show_ads.js">--> <!--</script>--> 
+               </ul> </td> 
+             </tr> 
+             <tr> 
+              <td valign="top" width="10%"> 
+               <table class="news_votes_table"> 
+                <tbody>
+                 <tr> 
+                  <td class="news_votes_tr1"> 
+                   <div id="vote_number4" class="news_votes_number">
+                    1
+                   </div> 
+                   <div class="news_votes_label">
+                    个人推荐
+                   </div> </td> 
+                 </tr> 
+                 <tr class="news_votes_tr2"> 
+                  <td align="center"> <a href="/#" onclick="return vote(4)"> 
+                    <div id="vote_link4" class="news_votes_link" title="向大家推荐这则新闻">
+                     推荐
+                   

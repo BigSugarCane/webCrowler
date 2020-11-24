@@ -1,0 +1,2449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/hotnews/world.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinflorida.com/page_hotnews/task_plate/p_world.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>世界说 - 新闻 - 佛罗里达 - 佛罗里达华人资讯网</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/hotnews.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/hotnews/world.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="forum_line"> 
+    <div class="forum_path"> <a href="/f.html" class="nav">首页</a> &gt; <a href="/hotnews.html" class="nav">新闻</a> 
+    </div> 
+    <div class="pagination_right"></div> 
+   </div> 
+   <div class="hotnews-plate">  
+    <div> 
+     <div class="plate-logo">  
+     </div> 
+     <ul> 
+      <li class="title">世界说</li> 
+      <li class="des">发生在美国之外的世界要闻</li> 
+     </ul> 
+     <div riot-tag="attention"> <span class="btn-attention" data-id="12"><em class="text">关注</em></span> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="hotnews"> 
+    <div class="htns-center clearfix"> 
+     <div class="htns-left pull-left"> 
+      <div class="htns-clfmid"> 
+       <ul id="newsList" class="newsBox"> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63547.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63547.html" target="_blank">印度打台湾牌？三大传媒“庆祝双十”中方不满</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_印度.html" class="htns-clfmdtag">印度</a> <a href="/hotnews/tag_台湾.html" class="htns-clfmdtag">台湾</a> <span class="col-lbk">5小时前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63547.html')+'&amp;t='+encodeURIComponent('印度打台湾牌？三大传媒“庆祝双十”中方不满'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16021739866808.jpeg','印度打台湾牌？三大传媒“庆祝双十”中方不满','https://www.chineseinflorida.com/hotnews/63547.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('印度打台湾牌？三大传媒“庆祝双十”中方不满')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63547.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63545.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63545.html" target="_blank">亚美尼亚中国留学生：这里连女人也自愿参军了</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_参军.html" class="htns-clfmdtag">参军</a> <a href="/hotnews/tag_入伍.html" class="htns-clfmdtag">入伍</a> <a href="/hotnews/tag_女性.html" class="htns-clfmdtag">女性</a> <span class="col-lbk">5小时前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63545.html')+'&amp;t='+encodeURIComponent('亚美尼亚中国留学生：这里连女人也自愿参军了'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/0b0a3b9ce5f5cf13734f96da78a1c026.png','亚美尼亚中国留学生：这里连女人也自愿参军了','https://www.chineseinflorida.com/hotnews/63545.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('亚美尼亚中国留学生：这里连女人也自愿参军了')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63545.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63517.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63517.html" target="_blank">8月20余起报告 杀人鲸罕见围攻船只为报复？</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_杀人鲸.html" class="htns-clfmdtag">杀人鲸</a> <span class="col-lbk">1天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63517.html')+'&amp;t='+encodeURIComponent('8月20余起报告 杀人鲸罕见围攻船只为报复？'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16021063965109.png','8月20余起报告 杀人鲸罕见围攻船只为报复？','https://www.chineseinflorida.com/hotnews/63517.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('8月20余起报告 杀人鲸罕见围攻船只为报复？')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63517.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63511.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63511.html" target="_blank">代表26国批西方践踏人权后 华春莹又搬70国</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_华春莹.html" class="htns-clfmdtag">华春莹</a> <span class="col-lbk">1天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63511.html')+'&amp;t='+encodeURIComponent('代表26国批西方践踏人权后 华春莹又搬70国'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020963794930.png','代表26国批西方践踏人权后 华春莹又搬70国','https://www.chineseinflorida.com/hotnews/63511.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('代表26国批西方践踏人权后 华春莹又搬70国')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63511.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63502.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63502.html" target="_blank">路透社：欧盟对英国脱欧协议达成乐观</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_欧盟.html" class="htns-clfmdtag">欧盟</a> <a href="/hotnews/tag_英国.html" class="htns-clfmdtag">英国</a> <span class="col-lbk">1天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63502.html')+'&amp;t='+encodeURIComponent('路透社：欧盟对英国脱欧协议达成乐观'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020886219107.png','路透社：欧盟对英国脱欧协议达成乐观','https://www.chineseinflorida.com/hotnews/63502.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('路透社：欧盟对英国脱欧协议达成乐观')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63502.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63499.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63499.html" target="_blank">前朝鲜驻意最高外交官叛逃韩国 20多年最高级别</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_韩国.html" class="htns-clfmdtag">韩国</a> <a href="/hotnews/tag_朝鲜.html" class="htns-clfmdtag">朝鲜</a> <span class="col-lbk">1天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63499.html')+'&amp;t='+encodeURIComponent('前朝鲜驻意最高外交官叛逃韩国 20多年最高级别'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020882174008.png','前朝鲜驻意最高外交官叛逃韩国 20多年最高级别','https://www.chineseinflorida.com/hotnews/63499.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('前朝鲜驻意最高外交官叛逃韩国 20多年最高级别')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63499.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63495.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63495.html" target="_blank">印度工程师在美硅谷遭非人待遇 真相竟刷新三观</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_硅谷.html" class="htns-clfmdtag">硅谷</a> <span class="col-lbk">1天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63495.html')+'&amp;t='+encodeURIComponent('印度工程师在美硅谷遭非人待遇 真相竟刷新三观'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020626594901.png','印度工程师在美硅谷遭非人待遇 真相竟刷新三观','https://www.chineseinflorida.com/hotnews/63495.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('印度工程师在美硅谷遭非人待遇 真相竟刷新三观')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63495.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63473.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63473.html" target="_blank">中国代表26个国家谴责西方单边制裁 侵犯人权</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_中国.html" class="htns-clfmdtag">中国</a> <a href="/hotnews/tag_西方国家.html" class="htns-clfmdtag">西方国家</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63473.html')+'&amp;t='+encodeURIComponent('中国代表26个国家谴责西方单边制裁 侵犯人权'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/160200619748.png','中国代表26个国家谴责西方单边制裁 侵犯人权','https://www.chineseinflorida.com/hotnews/63473.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('中国代表26个国家谴责西方单边制裁 侵犯人权')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63473.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63471.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63471.html" target="_blank">百年来奖金持续上涨 "诺贝尔"投资媲美巴菲特？</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_诺贝尔奖.html" class="htns-clfmdtag">诺贝尔奖</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63471.html')+'&amp;t='+encodeURIComponent('百年来奖金持续上涨 " 诺贝尔"投资媲美巴菲特？'), 'newwindow', 'width="800," height="400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);&quot;">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020026161429.png','百年来奖金持续上涨 " 诺贝尔"投资媲美巴菲特？','https: www.chineseinflorida.com hotnews 63471.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('百年来奖金持续上涨 " 诺贝尔"投资媲美巴菲特？')+'&url="+encodeURIComponent(" https: www.chineseinflorida.com hotnews 63471.html'), '_blank','toolbar="yes," location="yes," directories="no," status="no," menubar="yes," scrollbars="yes," resizable="no," copyhistory="yes,width=626,height=436');void(0)&quot;">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63468.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63468.html" target="_blank">动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_鹦鹉.html" class="htns-clfmdtag">鹦鹉</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63468.html')+'&amp;t='+encodeURIComponent('动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020023041480.png','动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”','https://www.chineseinflorida.com/hotnews/63468.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63468.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63467.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63467.html" target="_blank">只喂女婴椰子水致脑损伤 吃素爸妈免入狱生二胎</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_澳洲.html" class="htns-clfmdtag">澳洲</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63467.html')+'&amp;t='+encodeURIComponent('只喂女婴椰子水致脑损伤 吃素爸妈免入狱生二胎'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020019486800.png','只喂女婴椰子水致脑损伤 吃素爸妈免入狱生二胎','https://www.chineseinflorida.com/hotnews/63467.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('只喂女婴椰子水致脑损伤 吃素爸妈免入狱生二胎')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63467.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63466.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63466.html" target="_blank">连破254颗核桃！男子用头摘下世界纪录</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_巴基斯坦.html" class="htns-clfmdtag">巴基斯坦</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63466.html')+'&amp;t='+encodeURIComponent('连破254颗核桃！男子用头摘下世界纪录'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16020018734709.png','连破254颗核桃！男子用头摘下世界纪录','https://www.chineseinflorida.com/hotnews/63466.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('连破254颗核桃！男子用头摘下世界纪录')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63466.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63456.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63456.html" target="_blank">前澳大利亚驻华大使:中澳关系或会改善</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_澳大利亚.html" class="htns-clfmdtag">澳大利亚</a> <a href="/hotnews/tag_外交.html" class="htns-clfmdtag">外交</a> <a href="/hotnews/tag_中澳关系.html" class="htns-clfmdtag">中澳关系</a> <span class="col-lbk">2天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63456.html')+'&amp;t='+encodeURIComponent('前澳大利亚驻华大使:中澳关系或会改善'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019426248672.png','前澳大利亚驻华大使:中澳关系或会改善','https://www.chineseinflorida.com/hotnews/63456.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('前澳大利亚驻华大使:中澳关系或会改善')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63456.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63433.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63433.html" target="_blank">刚刚,2020年诺贝尔生理学或医学奖正式揭晓</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_诺贝尔奖.html" class="htns-clfmdtag">诺贝尔奖</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63433.html')+'&amp;t='+encodeURIComponent('刚刚,2020年诺贝尔生理学或医学奖正式揭晓'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019202142064.png','刚刚,2020年诺贝尔生理学或医学奖正式揭晓','https://www.chineseinflorida.com/hotnews/63433.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('刚刚,2020年诺贝尔生理学或医学奖正式揭晓')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63433.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63426.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63426.html" target="_blank">都是疫情惹的祸？数十万少女被强迫结婚</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_儿童婚姻.html" class="htns-clfmdtag">儿童婚姻</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63426.html')+'&amp;t='+encodeURIComponent('都是疫情惹的祸？数十万少女被强迫结婚'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019191539833.png','都是疫情惹的祸？数十万少女被强迫结婚','https://www.chineseinflorida.com/hotnews/63426.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('都是疫情惹的祸？数十万少女被强迫结婚')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63426.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63425.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63425.html" target="_blank">英小王子小公主开金口宣传保育,ins点击破百万</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_肯辛顿宫.html" class="htns-clfmdtag">肯辛顿宫</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63425.html')+'&amp;t='+encodeURIComponent('英小王子小公主开金口宣传保育,ins点击破百万'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019181135430.png','英小王子小公主开金口宣传保育,ins点击破百万','https://www.chineseinflorida.com/hotnews/63425.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('英小王子小公主开金口宣传保育,ins点击破百万')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63425.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63424.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63424.html" target="_blank">求生欲爆棚！泰航卖油条,凌晨5点就有人排队</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_泰航.html" class="htns-clfmdtag">泰航</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63424.html')+'&amp;t='+encodeURIComponent('求生欲爆棚！泰航卖油条,凌晨5点就有人排队'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019169725559.png','求生欲爆棚！泰航卖油条,凌晨5点就有人排队','https://www.chineseinflorida.com/hotnews/63424.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('求生欲爆棚！泰航卖油条,凌晨5点就有人排队')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63424.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63419.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63419.html" target="_blank">日男有豪宅好车却和妻儿住帐篷？吃饭还劈柴烧火</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_帐篷.html" class="htns-clfmdtag">帐篷</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63419.html')+'&amp;t='+encodeURIComponent('日男有豪宅好车却和妻儿住帐篷？吃饭还劈柴烧火'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019163401570.png','日男有豪宅好车却和妻儿住帐篷？吃饭还劈柴烧火','https://www.chineseinflorida.com/hotnews/63419.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('日男有豪宅好车却和妻儿住帐篷？吃饭还劈柴烧火')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63419.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63418.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63418.html" target="_blank">蓬佩奥已前往东京四方外长会谈 盼有重大宣布</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_蓬佩奥.html" class="htns-clfmdtag">蓬佩奥</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63418.html')+'&amp;t='+encodeURIComponent('蓬佩奥已前往东京四方外长会谈 盼有重大宣布'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16019162369434.png','蓬佩奥已前往东京四方外长会谈 盼有重大宣布','https://www.chineseinflorida.com/hotnews/63418.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('蓬佩奥已前往东京四方外长会谈 盼有重大宣布')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63418.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63400.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63400.html" target="_blank">“老虎头”Kenzo创办人因新冠逝世 享年81岁</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_Kenzo.html" class="htns-clfmdtag">Kenzo</a> <a href="/hotnews/tag_新冠.html" class="htns-clfmdtag">新冠</a> <span class="col-lbk">3天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63400.html')+'&amp;t='+encodeURIComponent('“老虎头”Kenzo创办人因新冠逝世 享年81岁'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16018511152089.png','“老虎头”Kenzo创办人因新冠逝世 享年81岁','https://www.chineseinflorida.com/hotnews/63400.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('“老虎头”Kenzo创办人因新冠逝世 享年81岁')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63400.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63389.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63389.html" target="_blank">中印边境关键隧道正式开通 印媒:有巨大战略意义</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_印度.html" class="htns-clfmdtag">印度</a> <a href="/hotnews/tag_中印.html" class="htns-clfmdtag">中印</a> <span class="col-lbk">4天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63389.html')+'&amp;t='+encodeURIComponent('中印边境关键隧道正式开通 印媒:有巨大战略意义'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/af9f3dee5b35b0d594fdb609be1c271f.png','中印边境关键隧道正式开通 印媒:有巨大战略意义','https://www.chineseinflorida.com/hotnews/63389.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('中印边境关键隧道正式开通 印媒:有巨大战略意义')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63389.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63375.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63375.html" target="_blank">中国女留学生公寓内死亡 生前曾惨遭残暴殴打！</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_留学生.html" class="htns-clfmdtag">留学生</a> <span class="col-lbk">4天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63375.html')+'&amp;t='+encodeURIComponent('中国女留学生公寓内死亡 生前曾惨遭残暴殴打！'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/96fcc3311d1d56e1b610d313955af19c.png','中国女留学生公寓内死亡 生前曾惨遭残暴殴打！','https://www.chineseinflorida.com/hotnews/63375.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('中国女留学生公寓内死亡 生前曾惨遭残暴殴打！')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63375.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63364.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63364.html" target="_blank">特朗普开辟贸易新战线 对越南展开操纵汇率调查</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_越南.html" class="htns-clfmdtag">越南</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <span class="col-lbk">4天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63364.html')+'&amp;t='+encodeURIComponent('特朗普开辟贸易新战线 对越南展开操纵汇率调查'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16017665379994.png','特朗普开辟贸易新战线 对越南展开操纵汇率调查','https://www.chineseinflorida.com/hotnews/63364.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('特朗普开辟贸易新战线 对越南展开操纵汇率调查')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63364.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63340.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63340.html" target="_blank">除了川普 全球还有这7为总统确诊了新冠了</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_总统.html" class="htns-clfmdtag">总统</a> <span class="col-lbk">5天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63340.html')+'&amp;t='+encodeURIComponent('除了川普 全球还有这7为总统确诊了新冠了'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/1601683183257.jpg','除了川普 全球还有这7为总统确诊了新冠了','https://www.chineseinflorida.com/hotnews/63340.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('除了川普 全球还有这7为总统确诊了新冠了')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63340.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63329.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63329.html" target="_blank">蓬佩奥意大利宣言:华为掠夺性投资意大利需谨慎</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_蓬佩奥.html" class="htns-clfmdtag">蓬佩奥</a> <a href="/hotnews/tag_华为.html" class="htns-clfmdtag">华为</a> <span class="col-lbk">6天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63329.html')+'&amp;t='+encodeURIComponent('蓬佩奥意大利宣言:华为掠夺性投资意大利需谨慎'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16016609963071.png','蓬佩奥意大利宣言:华为掠夺性投资意大利需谨慎','https://www.chineseinflorida.com/hotnews/63329.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('蓬佩奥意大利宣言:华为掠夺性投资意大利需谨慎')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63329.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63326.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63326.html" target="_blank">马英九陈水扁历史性同框陈水扁提朝野两岸都和解</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_陈水扁.html" class="htns-clfmdtag">陈水扁</a> <a href="/hotnews/tag_马英九.html" class="htns-clfmdtag">马英九</a> <span class="col-lbk">6天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63326.html')+'&amp;t='+encodeURIComponent('马英九陈水扁历史性同框陈水扁提朝野两岸都和解'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/5a653e46fb7e7a59758f670f1f5947e6.png','马英九陈水扁历史性同框陈水扁提朝野两岸都和解','https://www.chineseinflorida.com/hotnews/63326.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('马英九陈水扁历史性同框陈水扁提朝野两岸都和解')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63326.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63320.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63320.html" target="_blank">美驻乌克兰大使馆联络官遇袭身亡FBI赶赴调查</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_大使馆.html" class="htns-clfmdtag">大使馆</a> <a href="/hotnews/tag_刺杀.html" class="htns-clfmdtag">刺杀</a> <span class="col-lbk">6天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63320.html')+'&amp;t='+encodeURIComponent('美驻乌克兰大使馆联络官遇袭身亡FBI赶赴调查'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16016552121322.jpg','美驻乌克兰大使馆联络官遇袭身亡FBI赶赴调查','https://www.chineseinflorida.com/hotnews/63320.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('美驻乌克兰大使馆联络官遇袭身亡FBI赶赴调查')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63320.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63309.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63309.html" target="_blank">血战纳卡! 亚美尼亚、阿塞拜疆近万人死伤</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_亚美尼亚.html" class="htns-clfmdtag">亚美尼亚</a> <a href="/hotnews/tag_阿塞拜疆.html" class="htns-clfmdtag">阿塞拜疆</a> <span class="col-lbk">6天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63309.html')+'&amp;t='+encodeURIComponent('血战纳卡! 亚美尼亚、阿塞拜疆近万人死伤'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16015936805988.png','血战纳卡! 亚美尼亚、阿塞拜疆近万人死伤','https://www.chineseinflorida.com/hotnews/63309.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('血战纳卡! 亚美尼亚、阿塞拜疆近万人死伤')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63309.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63264.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63264.html" target="_blank">川普近日要求国防部评估：多久能部署核武？</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_核武.html" class="htns-clfmdtag">核武</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_俄罗斯.html" class="htns-clfmdtag">俄罗斯</a> <span class="col-lbk">8天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63264.html')+'&amp;t='+encodeURIComponent('川普近日要求国防部评估：多久能部署核武？'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16014893831176.png','川普近日要求国防部评估：多久能部署核武？','https://www.chineseinflorida.com/hotnews/63264.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('川普近日要求国防部评估：多久能部署核武？')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63264.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63247.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63247.html" target="_blank">美军臂章印中国地图 《环时》言辞火药味浓郁</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_中国.html" class="htns-clfmdtag">中国</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_南海.html" class="htns-clfmdtag">南海</a> <span class="col-lbk">8天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63247.html')+'&amp;t='+encodeURIComponent('美军臂章印中国地图 《环时》言辞火药味浓郁'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16014540745351.png','美军臂章印中国地图 《环时》言辞火药味浓郁','https://www.chineseinflorida.com/hotnews/63247.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('美军臂章印中国地图 《环时》言辞火药味浓郁')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63247.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63246.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63246.html" target="_blank">大西洋月刊:美或现罕见危机 双人同时宣誓就职</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_大选.html" class="htns-clfmdtag">大选</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <span class="col-lbk">8天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63246.html')+'&amp;t='+encodeURIComponent('大西洋月刊:美或现罕见危机 双人同时宣誓就职'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16014539696832.jpg','大西洋月刊:美或现罕见危机 双人同时宣誓就职','https://www.chineseinflorida.com/hotnews/63246.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('大西洋月刊:美或现罕见危机 双人同时宣誓就职')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63246.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63228.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63228.html" target="_blank">加拿大律师：孟晚舟团队用法律手段浪费时间</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_孟晚舟.html" class="htns-clfmdtag">孟晚舟</a> <a href="/hotnews/tag_加拿大.html" class="htns-clfmdtag">加拿大</a> <span class="col-lbk">8天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63228.html')+'&amp;t='+encodeURIComponent('加拿大律师：孟晚舟团队用法律手段浪费时间'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16014204298048.png','加拿大律师：孟晚舟团队用法律手段浪费时间','https://www.chineseinflorida.com/hotnews/63228.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('加拿大律师：孟晚舟团队用法律手段浪费时间')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63228.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63190.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63190.html" target="_blank">中储粮曝弊案 400吨粮“消失”牵出26人</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_中储粮.html" class="htns-clfmdtag">中储粮</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63190.html')+'&amp;t='+encodeURIComponent('中储粮曝弊案 400吨粮“消失”牵出26人'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013680219833.jpg','中储粮曝弊案 400吨粮“消失”牵出26人','https://www.chineseinflorida.com/hotnews/63190.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('中储粮曝弊案 400吨粮“消失”牵出26人')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63190.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63189.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63189.html" target="_blank">王毅蓬佩奥接连访问 争相拉拢亚洲一国</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_中国.html" class="htns-clfmdtag">中国</a> <a href="/hotnews/tag_外交.html" class="htns-clfmdtag">外交</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63189.html')+'&amp;t='+encodeURIComponent('王毅蓬佩奥接连访问 争相拉拢亚洲一国'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013679335262.jpg','王毅蓬佩奥接连访问 争相拉拢亚洲一国','https://www.chineseinflorida.com/hotnews/63189.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('王毅蓬佩奥接连访问 争相拉拢亚洲一国')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63189.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63188.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63188.html" target="_blank">美高级卫生专家指白宫新顾问提供虚假信息</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_疫情.html" class="htns-clfmdtag">疫情</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63188.html')+'&amp;t='+encodeURIComponent('美高级卫生专家指白宫新顾问提供虚假信息'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013678525304.jpg','美高级卫生专家指白宫新顾问提供虚假信息','https://www.chineseinflorida.com/hotnews/63188.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('美高级卫生专家指白宫新顾问提供虚假信息')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63188.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63187.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63187.html" target="_blank">制裁中芯触及中国核心 中国芯能否突围?</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_芯片.html" class="htns-clfmdtag">芯片</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63187.html')+'&amp;t='+encodeURIComponent('制裁中芯触及中国核心 中国芯能否突围?'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013677781094.jpg','制裁中芯触及中国核心 中国芯能否突围?','https://www.chineseinflorida.com/hotnews/63187.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('制裁中芯触及中国核心 中国芯能否突围?')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63187.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63186.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63186.html" target="_blank">佩洛西着手准备 最终或由国会决定白宫大位</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_大选.html" class="htns-clfmdtag">大选</a> <a href="/hotnews/tag_国会.html" class="htns-clfmdtag">国会</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63186.html')+'&amp;t='+encodeURIComponent('佩洛西着手准备 最终或由国会决定白宫大位'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013677059788.jpg','佩洛西着手准备 最终或由国会决定白宫大位','https://www.chineseinflorida.com/hotnews/63186.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('佩洛西着手准备 最终或由国会决定白宫大位')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63186.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63185.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63185.html" target="_blank">拜登首辩重在中国问题将树立“拜登式”铁腕形象</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_大选.html" class="htns-clfmdtag">大选</a> <a href="/hotnews/tag_拜登.html" class="htns-clfmdtag">拜登</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63185.html')+'&amp;t='+encodeURIComponent('拜登首辩重在中国问题将树立“拜登式”铁腕形象'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013667593681.png','拜登首辩重在中国问题将树立“拜登式”铁腕形象','https://www.chineseinflorida.com/hotnews/63185.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('拜登首辩重在中国问题将树立“拜登式”铁腕形象')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63185.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63167.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63167.html" target="_blank">美伊冲突升级 华盛顿威胁欲撤离驻巴格达大使馆</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_伊拉克.html" class="htns-clfmdtag">伊拉克</a> <span class="col-lbk">9天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63167.html')+'&amp;t='+encodeURIComponent('美伊冲突升级 华盛顿威胁欲撤离驻巴格达大使馆'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16013332225947.png','美伊冲突升级 华盛顿威胁欲撤离驻巴格达大使馆','https://www.chineseinflorida.com/hotnews/63167.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('美伊冲突升级 华盛顿威胁欲撤离驻巴格达大使馆')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63167.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63134.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63134.html" target="_blank">台渔船钓鱼岛附近与日公务船擦撞</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_钓鱼岛.html" class="htns-clfmdtag">钓鱼岛</a> <span class="col-lbk">10天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63134.html')+'&amp;t='+encodeURIComponent('台渔船钓鱼岛附近与日公务船擦撞'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16012802291970.jpg','台渔船钓鱼岛附近与日公务船擦撞','https://www.chineseinflorida.com/hotnews/63134.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('台渔船钓鱼岛附近与日公务船擦撞')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63134.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63133.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63133.html" target="_blank">军演合作升级 中国愈加抱团俄罗斯对抗西方</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_俄罗斯.html" class="htns-clfmdtag">俄罗斯</a> <a href="/hotnews/tag_中国.html" class="htns-clfmdtag">中国</a> <a href="/hotnews/tag_军演.html" class="htns-clfmdtag">军演</a> <span class="col-lbk">10天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63133.html')+'&amp;t='+encodeURIComponent('军演合作升级 中国愈加抱团俄罗斯对抗西方'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16012801481662.jpg','军演合作升级 中国愈加抱团俄罗斯对抗西方','https://www.chineseinflorida.com/hotnews/63133.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('军演合作升级 中国愈加抱团俄罗斯对抗西方')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63133.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63132.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63132.html" target="_blank">川普拒绝透露纳税额 川普集团称十年交千万</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_川普.html" class="htns-clfmdtag">川普</a> <a href="/hotnews/tag_纳税.html" class="htns-clfmdtag">纳税</a> <span class="col-lbk">10天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63132.html')+'&amp;t='+encodeURIComponent('川普拒绝透露纳税额 川普集团称十年交千万'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16012799819872.jpg','川普拒绝透露纳税额 川普集团称十年交千万','https://www.chineseinflorida.com/hotnews/63132.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('川普拒绝透露纳税额 川普集团称十年交千万')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63132.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63131.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63131.html" target="_blank">川普前竞选经理家中自裁 疑与被降职有关</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_川普.html" class="htns-clfmdtag">川普</a> <a href="/hotnews/tag_大选.html" class="htns-clfmdtag">大选</a> <span class="col-lbk">10天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63131.html')+'&amp;t='+encodeURIComponent('川普前竞选经理家中自裁 疑与被降职有关'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16012797984247.jpg','川普前竞选经理家中自裁 疑与被降职有关','https://www.chineseinflorida.com/hotnews/63131.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('川普前竞选经理家中自裁 疑与被降职有关')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63131.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63122.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63122.html" target="_blank">聚焦：台海局势 谁开“第一枪”是否真的重要？</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_聚焦.html" class="htns-clfmdtag">聚焦</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_台湾.html" class="htns-clfmdtag">台湾</a> <span class="col-lbk">10天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63122.html')+'&amp;t='+encodeURIComponent('聚焦：台海局势 谁开“第一枪”是否真的重要？'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16012753257730.jpg','聚焦：台海局势 谁开“第一枪”是否真的重要？','https://www.chineseinflorida.com/hotnews/63122.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('聚焦：台海局势 谁开“第一枪”是否真的重要？')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63122.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63100.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63100.html" target="_blank">安倍晋三曝曾劝川普抗中 称中国军事崛起是危机</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_川普.html" class="htns-clfmdtag">川普</a> <a href="/hotnews/tag_安倍晋三.html" class="htns-clfmdtag">安倍晋三</a> <span class="col-lbk">11天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63100.html')+'&amp;t='+encodeURIComponent('安倍晋三曝曾劝川普抗中 称中国军事崛起是危机'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/1601195322130.jpg','安倍晋三曝曾劝川普抗中 称中国军事崛起是危机','https://www.chineseinflorida.com/hotnews/63100.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('安倍晋三曝曾劝川普抗中 称中国军事崛起是危机')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63100.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63062.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63062.html" target="_blank">新发现！极光或导致泰坦尼克号沉没的主要原因！</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_极光.html" class="htns-clfmdtag">极光</a> <a href="/hotnews/tag_泰坦尼克号.html" class="htns-clfmdtag">泰坦尼克号</a> <span class="col-lbk">12天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63062.html')+'&amp;t='+encodeURIComponent('新发现！极光或导致泰坦尼克号沉没的主要原因！'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16011136654348.jpg','新发现！极光或导致泰坦尼克号沉没的主要原因！','https://www.chineseinflorida.com/hotnews/63062.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('新发现！极光或导致泰坦尼克号沉没的主要原因！')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63062.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63068.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63068.html" target="_blank">哈里王子夫妇视频疑“干政” 专家称梅根将参政</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_哈里王子.html" class="htns-clfmdtag">哈里王子</a> <a href="/hotnews/tag_梅根·马克尔.html" class="htns-clfmdtag">梅根·马克尔</a> <a href="/hotnews/tag_川普.html" class="htns-clfmdtag">川普</a> <span class="col-lbk">12天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63068.html')+'&amp;t='+encodeURIComponent('哈里王子夫妇视频疑“干政” 专家称梅根将参政'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16011378485010.jpg','哈里王子夫妇视频疑“干政” 专家称梅根将参政','https://www.chineseinflorida.com/hotnews/63068.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('哈里王子夫妇视频疑“干政” 专家称梅根将参政')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63068.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63059.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63059.html" target="_blank">芬兰记者在美获奖被撤 官方调查:因批评川普</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_川普.html" class="htns-clfmdtag">川普</a> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_记者.html" class="htns-clfmdtag">记者</a> <span class="col-lbk">12天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63059.html')+'&amp;t='+encodeURIComponent('芬兰记者在美获奖被撤 官方调查:因批评川普'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16011083968485.jpg','芬兰记者在美获奖被撤 官方调查:因批评川普','https://www.chineseinflorida.com/hotnews/63059.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('芬兰记者在美获奖被撤 官方调查:因批评川普')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63059.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63058.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63058.html" target="_blank">路透知情人指恒大上书为真 千亿回购极限生存</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_恒大.html" class="htns-clfmdtag">恒大</a> <span class="col-lbk">12天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63058.html')+'&amp;t='+encodeURIComponent('路透知情人指恒大上书为真 千亿回购极限生存'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16011083112223.jpg','路透知情人指恒大上书为真 千亿回购极限生存','https://www.chineseinflorida.com/hotnews/63058.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('路透知情人指恒大上书为真 千亿回购极限生存')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63058.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </div> 
+              </div> 
+             </div> <script type="text/javascript">
+		$(".t8_share").mouseover(function(){
+			$(this).find(".share_api_children").show();
+		}).mouseout(function(){
+			$(this).find(".share_api_children").hide();
+		})
+		$('.share_api_children').mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		})
+	</script> </span> 
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="clearfix"> 
+         <div class="pull-left"> <a href="/hotnews/63057.html" target="_blank">  </a> 
+         </div> 
+         <div class="pull-right"> 
+          <div class="htns-clfmdtlt"> <a href="/hotnews/63057.html" target="_blank">川普拒和平交接军方表态:不会插手大选事务</a> 
+          </div> 
+          <div class="htns-clfmdoth clearfix"> 
+           <div class="pull-left"> <a href="/hotnews/tag_美国.html" class="htns-clfmdtag">美国</a> <a href="/hotnews/tag_大选.html" class="htns-clfmdtag">大选</a> <span class="col-lbk">12天前</span> 
+           </div> 
+           <div class="pull-right"> <span class="htns-clfmdshr">  
+             <div class="t8_share">
+               分享 
+              <div class="share_api_children share_style"> 
+               <div class="jiadiv_01"> 
+                <div class="jiadiv_02"> <a class="jiatitle" href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63057.html')+'&amp;t='+encodeURIComponent('川普拒和平交接军方表态:不会插手大选事务'), 'newWindow', 'width=800, height=400,top='+(window.screen.height-500)/2+',left='+(window.screen.width-800)/2);void(0);">
+                  <div class="jtico jtico_fb">
+                   Facebook
+                  </div></a> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=433903842',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','https://florida.nychinaren.com/images/subjecitem/208x117/16011082265470.jpg','川普拒和平交接军方表态:不会插手大选事务','https://www.chineseinflorida.com/hotnews/63057.html',''))">
+                  <div class="jtico jtico_tsina">
+                   新浪微博
+                  </div> </a><a class="jiatitle" href="javascript:window.open('https://twitter.com/share?text='+encodeURIComponent('川普拒和平交接军方表态:不会插手大选事务')+'&amp;url='+encodeURIComponent('https://www.chineseinflorida.com/hotnews/63057.html'), '_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)">
+                  <div class="jtico jtico_twitter">
+                   Twitter
+                  </div></a> 
+                </div> 
+               </di

@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/focus/mid_20.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>纽约头条 - 拉斯维加斯华人资讯网</title> 
+  <meta name="keywords" content="纽约头条,纽约,新冠肺炎,新冠疫情,川普,中美关系,美国总统,总统大选,新冠疫苗,美国大选,总统辩论,新闻,武汉,全球流行,新冠病毒,囤枪,美国,肺炎,武汉肺炎,新型冠状病毒,纽约焦点,播报,美女主播,MTA,庆祝,时代广场,2020,跨年"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/focus/mid_20.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="top"> 
+    <div class="lt-left"> <a href="/live.html" class="lt-home">首页</a> <span class="lt-category">分类</span> <span class="lt-menu">栏目</span> 
+     <div class="m-search-box" id="videosearch"> 
+      <input type="text" class="m-search-input search_input" placeholder="请输入您要查询的内容"> 
+      <div class="m-search-btn button-panel">
+       <span class="m-search-icon"></span>
+      </div> 
+     </div> 
+    </div> 
+    <div class="lt-right"> 
+    </div> 
+   </div> 
+   <div id="m-live-area-category"> 
+    <div class="m-live-block-category"> <a href="/live/category/1.html">美国法律</a> <a href="/live/category/2.html">保险金融</a> <a href="/live/category/3.html">留学美国</a> <a href="/live/category/4.html">生活日常</a> <a href="/live/category/5.html">美国医疗</a> <a href="/live/category/6.html">美国房产</a> <a href="/live/category/7.html">休闲娱乐</a> <a href="/live/category/8.html">汽车交通</a> 
+    </div> 
+   </div> 
+   <div id="m-live-area-menu"> 
+    <div class="m-live-block-menu"> <a href="/focus.html">焦点播报</a> <a href="/focus/mId_2.html">焦点早知道</a> <a href="/focus/mId_3.html">焦点追踪</a> <a href="/focus/mId_4.html">焦点快报</a> <a href="/focus/mId_7.html">焦点突发</a> <a href="/focus/mId_8.html">焦点连线</a> <a href="/focus/mId_11.html">洛城快报</a> <a href="/focus/mId_12.html">财经焦点</a> <a href="/focus/mId_17.html">周末去哪儿</a> <a href="/focus/mId_18.html">洛城午间报</a> <a href="/focus/mId_19.html">焦点大家谈</a> <a href="/focus/mId_20.html">纽约头条</a> <a href="/focus/mId_33.html">美国头条</a> <a href="/live/menu/6.html">法律月报</a> <a href="/live/menu/7.html">移民热线</a> <a href="/live/menu/8.html">看房直播间</a> <a href="/live/menu/9.html">美国升学直通车</a> <a href="/live/menu/10.html">李想律师以案说法</a> <a href="/live/menu/11.html">移民排期抢先看</a> <a href="/live/menu/1.html">一周龙珠汇</a> <a href="/live/menu/2.html">热辣点评</a> <a href="/live/menu/3.html">焦点连线</a> <a href="/live/menu/12.html">信不信由你</a> <a href="/live/menu/16.html">焦点大家谈</a> <a href="/live/menu/5.html">笑生说法</a> <a href="/live/menu/14.html">空中市场</a> <a href="/live/menu/13.html">法律援助热线</a> <a href="/live/menu/17.html">邓洪说法</a> <a href="/live/menu/18.html">杨梅娥律师移民访谈</a> <a href="/live/menu/19.html">周末侃侃侃</a> <a href="/live/menu/20.html">洛城情报站</a> <a href="/live/menu/21.html">枫林夜话</a> <a href="/live/menu/22.html">焦点观察</a> <a href="/live/menu/23.html">法规观察室</a> <a href="/live/menu/24.html">纽约生活头条</a> <a href="/live/menu/25.html">总统推了啥</a> <a href="/live/menu/26.html">洛城早知道</a> <a href="/live/menu/27.html">全球新闻头条</a> <a href="/live/menu/28.html">实时追踪</a> <a href="/live/menu/29.html">周律议案厅</a> <a href="/live/menu/30.html">文美大学申请规划</a> <a href="/live/menu/31.html">新闻X英语</a> <a href="/live/menu/52.html">湾区早知道</a> <a href="/live/menu/53.html">新闻日日睇</a> <a href="/live/menu/55.html">新闻知多D</a> <a href="/live/menu/56.html">湾区焦点</a> <a href="/live/menu/58.html">西雅图焦点</a> <a href="/live/menu/61.html">焦点周报</a> <a href="/live/menu/62.html">沙雕新闻</a> <a href="/live/menu/63.html">法政博谈</a> <a href="/live/menu/64.html">周六十点半</a> <a href="/live/menu/15.html">其它</a> 
+    </div> 
+   </div>
+   <div class="video_title pull_margin_top8"> 
+    <div class="vtitle_block"> <span class="icon"><i></i></span> 
+    </div> 
+    <div class="vtitle_block"> <span class="vtitle"> <span>纽约头条</span> </span> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/video.css?v=v1638" type="text/css" media="screen"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/focus.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <div class="vrow vlist_row"> 
+    <div class="col-md-8 vleft" id="main"> 
+     <div class="main_block"> 
+      <div class="tabPage" id="tabPage"> 
+       <ul> 
+        <li class="active"><a href="/focus/mId_20.html" onclick=""><span>最新</span></a></li> 
+        <li><a href="/focus/mId_20/sort_2.html" onclick=""><span>热门</span></a></li> 
+        <li><a href="/focus/mId_20/sort_3.html" onclick=""><span>评论</span></a></li> 
+       </ul> 
+      </div> 
+      <div class="v_equal_list col1 rowf2 itt_detail_con" _colnum="1" _actionnum="1" _arrowpos> 
+       <div class="v_equal_cell"> <a href="/focus/id_5438.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5438.html" target="_blank" title="白宫疫情恶化川普回到办公室；国土安全部称中国是长期战略威胁；被控杀害弗洛伊德的前警官百万美元保释《纽约头条》Oct.07.2020">
+          <div class="v_equal_name">
+           白宫疫情恶化川普回到办公室；国土安全部称中国是长期战略威胁；被控杀害弗洛伊德的前警官百万美元保释《纽约头条》Oct.07.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>48分钟10秒</span> <span>1905 views</span> <span>22小时前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 7 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 纽约市政府未曾向不戴口罩者开过罚单 被控杀害弗洛伊德的前警官德里克·肖文以100万美元取保 川普在白宫疫情恶化的情况下回到椭圆形办公室 从亚特兰大至明州 玫瑰园疫情可能扩散到全国感染数千人 川普纾困口风再变？佩洛西批其犯下“严重错误” 丢弃大量信件包括99封邮寄选票 新州邮局送件员遭捕 前中情局局长海登支持拜登,警告川普连任将对美国“非常不利” 美股在总统推特中坐过山车 暴跌一天后三大股指大幅上扬 美狱警逼受刑人听2小时《Baby Shark》遭起诉虐囚 国土安全部：中国是美国的长期战略威胁 中共党员拿不到绿卡，谁损失最大？
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5437.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5437.html" target="_blank" title="医生称川普超24小时无症状；今晚副总统辩论五大看点；民调显示14发达国对中国恶感上升《纽约头条》Oct.07.2020">
+          <div class="v_equal_name">
+           医生称川普超24小时无症状；今晚副总统辩论五大看点；民调显示14发达国对中国恶感上升《纽约头条》Oct.07.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>38分钟46秒</span> <span>7955 views</span> <span>1天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 7 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 纽约市新冠热点地区周四起实施防疫新规 违者重罚 白宫医生:总统已超过24小时无症状 检测出新冠抗体 福奇：美国将有30到40万人死于新冠 今晚哈里斯对仗彭斯的副总统辩论有5个看点 新冠疫情、战狼外交与中国国际形象：民调显示世界多国对华恶感飙升 新冠疫情下的掘金者 公共卫生危机下的新兴产业有何共性
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5436.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5436.html" target="_blank" title="川普上诉反对税表传票被驳回；联大39国声明关注新疆香港；川普改口支持具体救济协议《纽约头条》Oct.07.2020">
+          <div class="v_equal_name">
+           川普上诉反对税表传票被驳回；联大39国声明关注新疆香港；川普改口支持具体救济协议《纽约头条》Oct.07.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>43分钟</span> <span>13280 views</span> <span>1天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 7 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 布鲁克林百人焚烧口罩,抗议科莫新禁令 纽约市西奈山医院警告病床短缺 川普到底去没去椭圆形办公室工作？白宫再次说法不一 川普首晚无症状欲重返辩论 拜登:病没好不应辩论 暂停纾困金谈判后 川普又改口支持具体救济措施 税表案川普又受挫 总统律师或再次上诉至最高法院 共和党人对民主党浪潮上升的担忧越来越大 华盛顿地区法官宣布下月就美国商务部TikTok禁令举行听证 英国发布39国联大声明 公开关注新疆人权及香港局势 “基因剪刀”发明者美法科学家共享诺贝尔化学奖
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5429.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5429.html" target="_blank" title="川普暂停救济法案谈判美股跳水；H-1B签证难度加大影响1/3申请；疫苗大选前获得授权几无可能《纽约头条》Oct.06.2020">
+          <div class="v_equal_name">
+           川普暂停救济法案谈判美股跳水；H-1B签证难度加大影响1/3申请；疫苗大选前获得授权几无可能《纽约头条》Oct.06.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>44分钟4秒</span> <span>1687 views</span> <span>1天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 6 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 纽约州长：将取消“红橙黄”三色地区的重新开放 川普停止救济法案谈判,督促集中精力推进提名大法官 彭斯希望在副总统辩论中不要设置分隔玻璃 新冠“攻破”五角大楼 美军方高层多人被隔离 米歇尔发布24分钟竞选视频 猛批川普鼓励选民投拜登 FDA要求疫苗开发商提供安全数据 大选前授权几无可能 20年来最重大改革! H-1B出新规 影响超1/3申请者 5G iPhone终于来了？苹果宣布下周举行新品发布 4级飓风“德尔塔”迅速增强 本周将袭击墨西哥湾沿岸 美8月贸易逆差创14年新高 莱特希泽：反映美经济复苏快于贸易伙伴
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5427.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5427.html" target="_blank" title="美军数名最高领导自我隔离；中俄伊希望谁赢得大选；突发事件不断副总统辩论更显重要《纽约头条》Oct.06.2020">
+          <div class="v_equal_name">
+           美军数名最高领导自我隔离；中俄伊希望谁赢得大选；突发事件不断副总统辩论更显重要《纽约头条》Oct.06.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>39分钟9秒</span> <span>9581 views</span> <span>2天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 6 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 纽约市病例激增,威廉斯堡加入重灾区“观察名单” 医生在备忘录中称川普回到白宫首晚无任何症状 曝参联会主席等多名高级军官已自我隔离 民调：拜登在宾夕法尼亚州和威斯康星州的领先优势不断扩大 突发事件不断 2020副总统辩论更显重要 美国大选2020：中国、俄罗斯与伊朗各自希望谁赢？
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5428.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5428.html" target="_blank" title="川普拟下周继续大选辩论；台湾通过美台复交讨论案；美日印澳外长磋商对付中国《纽约头条》Oct.06.2020">
+          <div class="v_equal_name">
+           川普拟下周继续大选辩论；台湾通过美台复交讨论案；美日印澳外长磋商对付中国《纽约头条》Oct.06.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>45分钟10秒</span> <span>12732 views</span> <span>2天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 6 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 川普计划参加下周的辩论 科莫为自己在室内没有戴口罩辩护：我在6英尺以外 由于新冠集群,纽约州奥兰治县关闭两个学区 白宫拒绝了疾控中心提出的帮助接触者追踪的提议 川普因再次淡化病毒招致批评：完全不负责 白宫新冠疫情爆发 周三副总统辩论将设有机玻璃屏障 已有四百多万美国人投票,表明投票率或创历史新高 美联储主席：:“经济复苏还有很长的路要走” 今年的诺贝尔物理学奖颁给了黑洞研究学者 美日印澳外长：全面加强合作 对付中国威胁 英日紧跟美国脚步 针对中国严审敏感专业留学签证 台湾立法院推动“美台复交” 讨论案，无异议通过 中国军方媒体被要求避开美国大选报道
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5416.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5416.html" target="_blank" title="34州疫情回升  全球或10%感染 ；川普医生：总统仍未走出困境 ；川普出院消息提振道指涨466点《纽约头条》Oct.05.2020">
+          <div class="v_equal_name">
+           34州疫情回升 全球或10%感染 ；川普医生：总统仍未走出困境 ；川普出院消息提振道指涨466点《纽约头条》Oct.05.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>53分钟16秒</span> <span>19540 views</span> <span>2天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 5 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 新冠在美国大部分地区卷土重来 世卫组织估计: 世界上十分之一的人已感染新冠 约7.6亿 川普的医生说,总统可回白宫但未“走出困境” 拜登表示,如果专家说安全,他将与川普辩论 援助谈判仍未有进展 共和党人批评佩洛西 格雷厄姆正式定于10月12日开始就巴雷特举行听证会 2万把椅子摆放白宫南草坪,纪念因新冠死亡的20万美国人 新泽西官员对筹款活动的206名参与者展开追踪 川普宣布出院消息提振 美股涨幅扩大道指拉升466点 多数美国人表示,川普在新冠问题上的行为不负责任
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5417.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5417.html" target="_blank" title="川普宣布下午六点半出院；纽约市疫情热点明起关闭学校；川普无法履职的五种可能性     《纽约头条》Oct.05.2020">
+          <div class="v_equal_name">
+           川普宣布下午六点半出院；纽约市疫情热点明起关闭学校；川普无法履职的五种可能性 《纽约头条》Oct.05.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>32分钟51秒</span> <span>12128 views</span> <span>3天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 5 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 川普宣布下午六点半出院 纽约市新冠热点地区学校餐馆堂吃等明天起将关闭 若川普无法履职怎么办？这里是五种可能性 共和党人对川普政治过山车的焦虑感越来越强 教皇：新冠疫情证明资本主义失败了
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5418.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5418.html" target="_blank" title="川普乘车致意被批不负责任 ；白宫新闻秘书麦肯纳尼确诊 ；丙肝病毒发现者获诺奖《纽约头条》Oct.05.2020">
+          <div class="v_equal_name">
+           川普乘车致意被批不负责任 ；白宫新闻秘书麦肯纳尼确诊 ；丙肝病毒发现者获诺奖《纽约头条》Oct.05.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>33分钟31秒</span> <span>17228 views</span> <span>3天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 5 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 纽约市12社区阳性率超3%,萨福克三小学改远程 白宫幕僚长称总统已准备好重返正常工作日程 白宫新闻发言人麦肯尼确诊新冠 UCSF医生曝川普真实病情 痛批总统外出“不负责” 记者批评白宫对川普的健康和行踪缺乏透明度 病情严重？川普服用“地塞米松”引发质疑 川普确诊后 副总统辩论主办地强制提前检测 男同性恋占领“骄傲男孩”推特标签“重塑我们的骄傲” 诺贝尔生理学医学奖授予“丙肝”病毒发现者 中国“十一”旅游收入比去年同期下跌近1/3
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_5405.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_5405.html" target="_blank" title="纽约市周三重关新冠热区；川普有望周一重返白宫；下轮新冠纾困法案谈判正&quot;取得进展&quot;《纽约头条》Oct.04.2020">
+          <div class="v_equal_name">
+           纽约市周三重关新冠热区；川普有望周一重返白宫；下轮新冠纾困法案谈判正"取得进展"《纽约头条》Oct.04.2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>42分钟40秒</span> <span>27567 views</span> <span>3天前</span> 
+         </div> 
+         <div class="v_equal_des">
+          2020 年 10 月 4 日《纽约头条》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 科莫组建新的州特别工作组加强热点区执法力度 纽约市长从周三开始封锁新冠病毒热点地区 纽约市花3亿美元让游民住酒店惹民怨 纽约警察使用“武力”扰乱公园坡户外音乐会 皇后区KTV违反新冠规定遭勒令关闭 7000+万圣节南瓜装点长岛万圣节 总统医疗小组：川普总统健康情况继续好转 有望周一返回白宫 佩洛西：新一轮新冠纾困法案谈判正"取得进展" 美国第二大院线可能将无限期关闭美国所有影院 前中国外交官曾担任TikTok内容审查主管
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+      <div> 
+       <div class="page_pagination_box" id="page_pagination"> <a class="page_prev" onclick="return true"></a> <a class="current_page" onclick="return true">1</a> <a href="/focus/mId_20/p_2.html" class="page_num" onclick="return true">2</a> <a href="/focus/mId_20/p_3.html" class="page_num" onclick="return true">3</a> <a href="/focus/mId_20/p_4.html" class="page_num" onclick="return true">4</a> <a href="/focus/mId_20/p_5.html" class="page_num" onclick="return true">5</a> <a href="/focus/mId_20/p_8.html" class="page_num" onclick="return true">... 8</a> <a href="/focus/mId_20/p_2.html" class="page_next" onclick="return true"></a> 
+        <div class="page_jump">
+         <input class="page_text" value="1" type="text" name="jumpto" id="jumpto" size="2" height="18" onmouseover="this.focus()" onfocus="this.select()" onkeypress="pageJumpTo(event, '/focus/mId_20/p_', 8)"> <span class="page_text">/ 8 页</span> 
+        </div> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+    <div class="col-md-4 vright"> 
+     <div class="v_right_block">
+      <div class="video_title sub"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <span>热门标签</span> </span> 
+       </div> 
+      </div>
+      <div class="vlabels"> <a href="/focus/mId_20/tId_2224.html" class="v_hot_label_cell" title="纽约"> <span class="name">纽约</span> </a> <a href="/focus/mId_20/tId_5151.htm

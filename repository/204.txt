@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/live/category/6.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>美国房产 - 直播 - 佛罗里达华人资讯网</title> 
+  <meta name="keywords" content="美国房产,房产经纪人,美国买房,卖房,投资房,租房,房产,租房纠纷,房屋出租,房价,看房直播间,房东房客"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/live/category/6.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/live.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <div class="content"> 
+    <div class="top"> 
+     <div class="lt-left"> <a href="/live.html" class="lt-home">首页</a> <span class="lt-category">分类</span> <span class="lt-menu">栏目</span> 
+      <div class="m-search-box" id="videosearch"> 
+       <input type="text" class="m-search-input search_input" placeholder="请输入您要查询的内容"> 
+       <div class="m-search-btn button-panel">
+        <span class="m-search-icon"></span>
+       </div> 
+      </div> 
+     </div> 
+     <div class="lt-right"> 
+     </div> 
+    </div> 
+    <div id="m-live-area-category"> 
+     <div class="m-live-block-category"> <a href="/live/category/1.html">美国法律</a> <a href="/live/category/2.html">保险金融</a> <a href="/live/category/3.html">留学美国</a> <a href="/live/category/4.html">生活日常</a> <a href="/live/category/5.html">美国医疗</a> <a href="/live/category/6.html">美国房产</a> <a href="/live/category/7.html">休闲娱乐</a> <a href="/live/category/8.html">汽车交通</a> 
+     </div> 
+    </div> 
+    <div id="m-live-area-menu"> 
+     <div class="m-live-block-menu"> <a href="/focus.html">焦点播报</a> <a href="/focus/mId_2.html">焦点早知道</a> <a href="/focus/mId_3.html">焦点追踪</a> <a href="/focus/mId_4.html">焦点快报</a> <a href="/focus/mId_7.html">焦点突发</a> <a href="/focus/mId_8.html">焦点连线</a> <a href="/focus/mId_11.html">洛城快报</a> <a href="/focus/mId_12.html">财经焦点</a> <a href="/focus/mId_17.html">周末去哪儿</a> <a href="/focus/mId_18.html">洛城午间报</a> <a href="/focus/mId_19.html">焦点大家谈</a> <a href="/focus/mId_20.html">纽约头条</a> <a href="/focus/mId_33.html">美国头条</a> <a href="/live/menu/6.html">法律月报</a> <a href="/live/menu/7.html">移民热线</a> <a href="/live/menu/8.html">看房直播间</a> <a href="/live/menu/9.html">美国升学直通车</a> <a href="/live/menu/10.html">李想律师以案说法</a> <a href="/live/menu/11.html">移民排期抢先看</a> <a href="/live/menu/1.html">一周龙珠汇</a> <a href="/live/menu/2.html">热辣点评</a> <a href="/live/menu/3.html">焦点连线</a> <a href="/live/menu/12.html">信不信由你</a> <a href="/live/menu/16.html">焦点大家谈</a> <a href="/live/menu/5.html">笑生说法</a> <a href="/live/menu/14.html">空中市场</a> <a href="/live/menu/13.html">法律援助热线</a> <a href="/live/menu/17.html">邓洪说法</a> <a href="/live/menu/18.html">杨梅娥律师移民访谈</a> <a href="/live/menu/19.html">周末侃侃侃</a> <a href="/live/menu/20.html">洛城情报站</a> <a href="/live/menu/21.html">枫林夜话</a> <a href="/live/menu/22.html">焦点观察</a> <a href="/live/menu/23.html">法规观察室</a> <a href="/live/menu/24.html">纽约生活头条</a> <a href="/live/menu/25.html">总统推了啥</a> <a href="/live/menu/26.html">洛城早知道</a> <a href="/live/menu/27.html">全球新闻头条</a> <a href="/live/menu/28.html">实时追踪</a> <a href="/live/menu/29.html">周律议案厅</a> <a href="/live/menu/30.html">文美大学申请规划</a> <a href="/live/menu/31.html">新闻X英语</a> <a href="/live/menu/52.html">湾区早知道</a> <a href="/live/menu/53.html">新闻日日睇</a> <a href="/live/menu/55.html">新闻知多D</a> <a href="/live/menu/56.html">湾区焦点</a> <a href="/live/menu/58.html">西雅图焦点</a> <a href="/live/menu/61.html">焦点周报</a> <a href="/live/menu/62.html">沙雕新闻</a> <a href="/live/menu/63.html">法政博谈</a> <a href="/live/menu/64.html">周六十点半</a> <a href="/live/menu/15.html">其它</a> 
+     </div> 
+    </div>
+    <div class="col-md-8 vleft" id="main"> 
+     <div class="main_block">
+      <div class="video_title m-live-title-list m-live-cat6"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> 
+        <div class="vtitle"> <span>美国房产</span> 
+        </div> 
+       </div> 
+       <div class="vtitle_block"> <a class="vtags m-sort-publish active" href="/live/category/6/sort/1.html" target="_blank">发布时间</a> <a class="vtags m-sort-hot " href="/live/category/6/sort/2.html" target="_blank">播放量</a> <a class="vtags m-sort-duration " href="/live/category/6/sort/5.html" target="_blank">时长</a> 
+       </div> 
+      </div>
+      <div class="v_equal_list col1 rowf2 itt_detail_con" _colnum="1" _actionnum="1" _arrowpos> 
+       <div class="v_equal_cell"> <a href="/live/5375.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/5375.html" target="_blank" title="全美房价突然惊现两年来最大涨幅！购房者抵押贷款需求比去年增长了28%！CDC采取“不同寻常”举措取阻止房客驱逐！洛杉矶市花费1000万为驱逐辩护！看房直播间 Sep 3,2020第63期">
+          <div class="v_equal_name">
+           全美房价突然惊现两年来最大涨幅！购房者抵押贷款需求比去年增长了28%！CDC采取“不同寻常”举措取阻止房客驱逐！洛杉矶市花费1000万为驱逐辩护！看房直播间 Sep 3,2020第63期
+          </div></a> 
+         <div class="v-name-view-time"> <span>1小时14分钟45秒</span> <span>4252 views</span> <span>09/03</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 看房直播间2020年9月4日内容看点： 房价突然惊现两年来最大涨幅 购房者抵押贷款需求比去年增长了28% CDC采取“不同寻常”举措阻止房客驱逐 洛杉矶市将花费1000万美元用于驱逐辩护 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/5071.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/5071.html" target="_blank" title="美国房市强劲 支撑疫期经济发展！利率突然升高每周抵押贷款再融资减少！飙升的木材价格或抑制建商热情！加州房价再创新高,持续上涨打破纪录！ 看房直播间 Aug 20 2020第61期">
+          <div class="v_equal_name">
+           美国房市强劲 支撑疫期经济发展！利率突然升高每周抵押贷款再融资减少！飙升的木材价格或抑制建商热情！加州房价再创新高,持续上涨打破纪录！ 看房直播间 Aug 20 2020第61期
+          </div></a> 
+         <div class="v-name-view-time"> <span>1小时3分钟41秒</span> <span>3837 views</span> <span>08/20</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 看房直播间2020年8月20日内容看点： 美国房市强劲 支撑疫期经济发展 利率突然升高每周的抵押贷款再融资减少 飙升的木材价格或抑制建商的建房热情 加州房价再创新高,持续上涨第7次打破纪录 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/4660.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/4660.html" target="_blank" title="刺激房产需求的低利率正在上升！卡茨基尔斯镇引领美国房价上涨！洛杉矶下周启动1亿美元新冠租金救济计划！看房直播间 Aug 13，2020第60期">
+          <div class="v_equal_name">
+           刺激房产需求的低利率正在上升！卡茨基尔斯镇引领美国房价上涨！洛杉矶下周启动1亿美元新冠租金救济计划！看房直播间 Aug 13，2020第60期
+          </div></a> 
+         <div class="v-name-view-time"> <span>59分钟</span> <span>4034 views</span> <span>08/13</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 看房直播间2020年8月13日内容看点： 刺激房产需求的低利率正在上升 卡茨基尔斯镇引领美国房价上涨 洛杉矶租金下滑 豪宅租金降幅最大 洛杉矶下周启动1亿美元新冠租金救济计划 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/4519.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/4519.html" target="_blank" title="房贷利息1.99% 起！首付低至3%！租房、买房如何抉择？《洛城情报站》第174期Aug 05, 2020">
+          <div class="v_equal_name">
+           房贷利息1.99% 起！首付低至3%！租房、买房如何抉择？《洛城情报站》第174期Aug 05, 2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>44分钟7秒</span> <span>7014 views</span> <span>08/05</span> 
+         </div> 
+         <div class="v_equal_des">
+          在房产市场经历了13年以来最糟糕的5月后，加州的房产市场在6月又经历了一个大反转。 据报道，这是40年来最大的月度增长。销售量的上升，价格的上涨，更多卖家认为这是卖方的好时机！由于房源的减少，各大媒体也是预测这8月9月房价会持续上涨！ 自从新冠危机以来，贷款利率一直持下降趋势。截止今日，房屋贷款利率可以说再次创下史低。 在未来美国房价和房屋贷款利率又会有哪些波动呢？
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/361.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/361.html" target="_blank" title="用十年经验陪你聊聊泰国房产投资！">
+          <div class="v_equal_name">
+           用十年经验陪你聊聊泰国房产投资！
+          </div></a> 
+         <div class="v-name-view-time"> <span><a href="/v/task_listExpert/eid_346.html" target="_blank">Marine Wong </a></span> <span>36分钟40秒</span> <span>3474 views</span> <span>04/29</span> 
+         </div> 
+         <div class="v_equal_des">
+          近几年，投资泰国房产似乎已经成为一种风潮，根据英国《金融时报》的报道，16%的中国海外投资者计划或已经选择了投资泰国。本次How视频直播，我们将邀请洛杉磯分部美泰置業的咨詢總監Marine来跟大家聊聊泰国房产投资！ 联系电话：800-646-0984 官方网址：http://behomeus.com 美泰置业是美国第一家专注泰国地产、美国唯一“的泰国地产交易中心。有泰国房地产开发商的美国国内一级代理，被誉为“高净值人群所信赖的海外置业专家”、“泰国10强开发商首选合作夥伴”。也是目前美国唯一聚合超过15个国家、25个地区优质地产开发商资源的海外置业平台，为海外置业投资者提供全方位一站式的服务。 更多详情：https://www.chineseinla.com/company/task_view/id_92462/%E7%BE%8E%E6%B3%B0%E7%BD%AE%E4%B8%9A.html
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/1706.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/1706.html" target="_blank" title="疫情担忧拉低利率 抵押贷款申请飙升!新冠如何改变美国住房贷款的？联储降息美债新低 房市将一片兴旺？加州进入紧急状态南加州房价降温！看房直播间 Mar 5, 2020第37期">
+          <div class="v_equal_name">
+           疫情担忧拉低利率 抵押贷款申请飙升!新冠如何改变美国住房贷款的？联储降息美债新低 房市将一片兴旺？加州进入紧急状态南加州房价降温！看房直播间 Mar 5, 2020第37期
+          </div></a> 
+         <div class="v-name-view-time"> <span>55分钟31秒</span> <span>11166 views</span> <span>03/05</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006 看房直播间2020年3月5日内容看点： 疫情担忧拉低利率 抵押贷款再融资申请飙升 新冠如何改变美国住房贷款和抵押贷款利率 联储紧急降息美债历史新低 房市将一片兴旺？ 加州进入紧急状态南加州房价降温,涨幅降低
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/335.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/335.html" target="_blank" title="美国房贷利率跌至8年来新低! 全美27%的房主在花冤枉钱! 南加房市复苏抄底良机? 中国二手房同比销量降94.5%! 看房直播间Feb 27,2020">
+          <div class="v_equal_name">
+           美国房贷利率跌至8年来新低! 全美27%的房主在花冤枉钱! 南加房市复苏抄底良机? 中国二手房同比销量降94.5%! 看房直播间Feb 27,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>1小时8分钟</span> <span>6711 views</span> <span>02/27</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006 看房直播间2020年2月27日内容看点： 美房屋抵押贷款利率跌至3.25% 8年来新低 27%屋主不知道自己房贷利率 白花冤枉钱 南加房市走出停滞期? 房价比一年前涨6.6% 中国二手房同比销量降94.5% 房市会怎样?
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/328.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/328.html" target="_blank" title="中国超60城暂停卖房&quot;零成交&quot;!经济衰退2021年才出现今年美国房价还要涨? 43%洛杉矶县居民可负担得起入门级住房! 看房直播间 Feb 12,2020">
+          <div class="v_equal_name">
+           中国超60城暂停卖房"零成交"!经济衰退2021年才出现今年美国房价还要涨? 43%洛杉矶县居民可负担得起入门级住房! 看房直播间 Feb 12,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>57分钟</span> <span>8344 views</span> <span>02/20</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006 看房直播间2020年2月13日内容看点： 中国超60城暂停卖房 "零成交"成常态 美经济衰退2021才出现 今年房价还要涨? 43%洛杉矶县居民可负担得起入门级住房
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/333.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/333.html" target="_blank" title="美房市不受新冠影响或带旺来年!新冠或令大量华人赴美购房!新冠肺炎或将提高美国装修成本!洛杉矶郊区的房价到底高不高？看房直播间 Feb 20,2020">
+          <div class="v_equal_name">
+           美房市不受新冠影响或带旺来年!新冠或令大量华人赴美购房!新冠肺炎或将提高美国装修成本!洛杉矶郊区的房价到底高不高？看房直播间 Feb 20,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>1小时46秒</span> <span>3409 views</span> <span>02/20</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006 看房直播间2020年2月20日内容看点： 看房直播间2020年2月20日内容看点： 美房市不受新冠影响 还可能带旺来年 新冠三大影响 大量华人或赴美购房！ 新冠肺炎或将提高美国装修成本! 洛杉矶郊区的房价到底高不高？
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/live/324.html" target="_blank"> 
+         <div class="v_equal_img m-live-img-block">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/live/324.html" target="_blank" title="新冠致二手房日交易惨淡！中国大量抛售美房地产！专家预计美国房市将有不俗表现！必看：三类房产愈来愈不值钱！看房直播间Feb 6,2020">
+          <div class="v_equal_name">
+           新冠致二手房日交易惨淡！中国大量抛售美房地产！专家预计美国房市将有不俗表现！必看：三类房产愈来愈不值钱！看房直播间Feb 6,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>1小时6分钟19秒</span> <span>12620 views</span> <span>02/06</span> 
+         </div> 
+         <div class="v_equal_des">
+          《看房直播间》是洛杉矶华人资讯网开办的一场房产直播类节目，我们每周会向广大观众提供几套房产信息，而且我们将采取全新的看房模式，我们会直播向大家展示房产实况，让大家更直观的了解房产全况。敬请期待~ 想要参与直播请与工作人员联系。 联系方式： 邮箱：Support@ChineseInLA.com 电话：626-657-6046 微信：chineseinla2006 看房直播间2020年2月6日内容看点： 热钱撤出美房地产中国成最大抛售者 品浩预计2020美国房市将有不俗表现 新冠致二手房日成交量惨淡 机构出台协助 2020投资房产必看：三类房产愈来愈不值钱
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+      <div> 
+       <div class="page_pagination_box" id="page_pagination"> <a class="page_prev" onclick="return true"></a> <a class="current_page" onclick="return true">1</a> <a href="/live/category/6/sort/1/2.html" class="page_num" onclick="return true">2</a> <a href="/live/category/6/sort/1/3.html" class="page_num" onclick="return true">3</a> <a href="/live/category/6/sort/1/4.html" class="page_num" onclick="return true">4</a> <a href="/live/category/6/sort/1/5.html" class="page_num" onclick="return true">5</a> <a href="/live/category/6/sort/1/2.html" class="page_next" onclick="return true"></a> 
+        <div class="page_jump">
+         <input class="page_text" value="1" type="text" name="jumpto" id="jumpto" size="2" height="18" onmouseover="this.focus()" onfocus="this.select()" onkeypress="pageJumpTo(event, '/live/category/6/sort/1/', 5)"> <span class="page_text">/ 5 页</span> 
+        </div> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+    <div class="col-md-4 vright"> 
+     <div class="v_right_block">
+      <div class="video_title sub"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> 
+        <div class="vtitle"> <span>热门标签</span> 
+        </div> 
+       </div> 
+      </div>
+      <div class="vlabels"> <a href="/live/category/6/tag/86.html" class="v_hot_label_cell" title="美国房产"> <span class="name">美国房产</span> </a> <a href="/live/category/6/tag/108.html" class="v_hot_label_cell" title="房产经纪人"> <span class="name">房产经纪人</span> </a> <a href="/live/category/6/tag/107.html" class="v_hot_label_cell" title="美国买房"> <span class="name">美国买房</span> </a> <a href="/live/category/6/tag/119.html" class="v_hot_label_cell" title="卖房"> <span class="name">卖房</span> </a> <a href="/live/category/6/tag/751.html" class="v_hot_label_cell" title="投资房"> <span class="name">投资房</span> </a> <a href="/live/category/6/tag/58.html" class="v_hot_label_cell" title="租房"> <span class="name">租房</span> </a> <a href="/live/category/6/tag/687.html" class="v_hot_label_cell" title="房产"> <span class="name">房产</span> </a> <a href="/live/category/6/tag/60.html" class="v_hot_label_cell" title="租房纠纷"> <span class="name">租房纠纷</span> </a> <a href="/live/category/6/tag/59.html" class="v_hot_label_cell" title="房屋出租"> <span class="name">房屋出租</span> </a> <a href="/live/category/6/tag/120.html" class="v_hot_label_cell" title="房价"> <span class="name">房价</span> </a> <a href="/live/category/6/tag/398.html" class="v_hot_label_cell" title="看房直播间"> <span class="name">看房直播间</span> </a> <a href="/live/category/6/tag/57.html" class="v_hot_label_cell" title="房东房客"> <span class="name">房东房客</span> </a> 
+      </div>
+     </div> 
+     <div class="v_right_block">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video336*280 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="7629294861"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+     </div> 
+     <div class="v_right_block">
+      <div class="m-live-block m-guest-block"> 
+       <div class="m-header"> <span>嘉宾专栏</span> 
+       </div> 
+       <div class="m-content-block"> 
+        <div class="m-item"> <a href="/v/task_listExpert/eid_241.html"> 
+          <div class="m-live-img-block">  
+           <div class="m-title">
+            <span>成薇</span>
+           </div> 
+          </div> </a> 
+        </div> 
+        <div class="m-item"> <a href="/v/task_li

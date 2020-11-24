@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/supermarket.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinflorida.com/page_googleMap/task_comcatnearest/cid_10.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达华人超级市场分布图 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="Super Market,佛罗里达华人超市"> 
+  <meta name="keywords" content="Florida,佛罗里达超级市场,超市"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company-common.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script> 
+ </head> 
+ <body onload="showMyMap();">
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!----> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li class="active"><a href="/living.html" class="brand">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="activeText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/supermarket.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="map_path_way"> 
+    <div itemscope class="pathway" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/" class="pathway1"><span itemprop="name">首页</span></a>
+      <meta itemprop="position" content="1"></li>
+     <li class="left">&gt;</li>
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/company.html" class="pathway2"><span itemprop="name">佛罗里达商家点评</span></a>
+      <meta itemprop="position" content="2"></li>
+     <li class="left">&gt;</li>
+     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="left"><a itemprop="item" href="/supermarket.html" class="pathway2"><span itemprop="name">华人超市</span></a>
+      <meta itemprop="position" content="3"></li>
+     <li class="left">&gt;</li>
+     <li class="left"><span class="mode_text">地图模式</span></li>
+    </div> 
+   </div> 
+   <div class="map_top_link"> <a href="/supermarket/task_add1.html" target="_new" class="map_add_link" id="AddCompanyLink"> 发布华人超市信息 </a> <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="company_instruction">华人超市列表</a> 
+   </div> 
+   <div class="clear8"></div> 
+   <div class="map_title"> 
+    <h1><a href="/supermarket.html">佛罗里达华人超级市场分布图</a> </h1> 
+   </div> 
+   <div id="share_api" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.borderBottom='none';sharediv.style.backgroundImage='url(https://florida.nychinaren.com/images/share_pic/jiathis_on.png)';var divx1=sharediv.offsetLeft-110+70;var divy1=sharediv.offsetTop+sharediv.offsetHeight-1;
+				 var div2 = document.getElementById('share_api_children');div2.style.top=divy1+'px';div2.style.left=divx1+'px';div2.style.display='block';" onmouseout="this.style.backgroundImage='url(https://florida.nychinaren.com/images/share_pic/jiathis_over.png)';this.style.borderBottom='solid 1px #ccc';document.getElementById('share_api_children').style.display='none';"> 
+   </div> 
+   <div id="share_api_children" class="share_style" onmouseover="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://florida.nychinaren.com/images/share_pic/jiathis_on.png)';sharediv.style.borderBottom='none';this.style.display='block';" onmouseout="var sharediv = document.getElementById('share_api');sharediv.style.backgroundImage='url(https://florida.nychinaren.com/images/share_pic/jiathis_over.png)';sharediv.style.borderBottom='solid 1px #ccc';this.style.display='none';"> 
+    <div class="jiadiv_01"> 
+     <div class="jiadiv_02" id="jiathis_sers"> <a class="jiatitle" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://service.weibo.com/share/share.php?appkey=257762142',u=z||d.location,p=['&amp;url=',e(u),'&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})
+(screen,document,encodeURIComponent,'','',$('.wrap3_img').find('img').attr('src'),'','https%3A%2F%2Fwww.chineseinflorida.com%2Fsupermarket.html',''))">
+       <div class="jtico jtico_tsina">
+        新浪微博
+       </div></a> <a class="jiatitle" href="javascript:window.open('https://twitter.com/intent/tweet?status='+' '+encodeURIComponent(document.title)+' '+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes,width=626,height=436');void(0)"> 
+       <div class="jtico jtico_twitter">
+        Twitter
+       </div></a> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/company-map-share.js?v=v1662" type="text/javascript"></script> 
+   <div class="map_form"> 
+    <form name="searchForm" id="searchForm" onsubmit="return false;"> 
+     <input class="deals_text left" type="text" id="category_key" name="key" value="输入相关信息进行查找..." onblur="if (this.value ==''){this.value='输入相关信息进行查找...';this.style.color='#ccc';}" onkeypress="return searchOnKeyProcess2(event, this.form)" onfocus="setDefaultSearch2(this.form)"> <!-- <button type="button" class="btn left" onclick="searchInfo(this.form)" style="margin:-2px 0px 0px 0px">&nbsp;&nbsp;&nbsp;搜索</button> --> 
+     <div class="button-panel">
+      <span class="button-search"></span>
+      <input class="button-white button-i" type="button" value="搜索" onclick="searchInfo(this.form)">
+     </div> 
+    </form> 
+   </div> 
+   <div class="tag_filter"> 
+    <div class="default_tag_filter"> 
+     <div class="title"> <span>华人超市</span> <a class="more"></a> 
+     </div> 
+     <div class="default_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_229"> 
+       <div> <a href="/company/task_map/catid_10/tagId_229.html" onclick="changeRadioTag(229,'tag');return false;">超市 </a> <span class="tag_qty" onclick="changeRadioTag(229)">(10)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_126"> 
+       <div> <a href="/company/task_map/catid_10/tagId_126.html" onclick="changeRadioTag(126,'tag');return false;">亚洲超市 </a> <span class="tag_qty" onclick="changeRadioTag(126)">(9)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_78"> 
+       <div> <a href="/company/task_map/catid_10/tagId_78.html" onclick="changeRadioTag(78,'tag');return false;">华人超市 </a> <span class="tag_qty" onclick="changeRadioTag(78)">(5)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_168"> 
+       <div> <a href="/company/task_map/catid_10/tagId_168.html" onclick="changeRadioTag(168,'tag');return false;">亚洲食品 </a> <span class="tag_qty" onclick="changeRadioTag(168)">(3)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_83"> 
+       <div> <a href="/company/task_map/catid_10/tagId_83.html" onclick="changeRadioTag(83,'tag');return false;">中超 </a> <span class="tag_qty" onclick="changeRadioTag(83)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_80"> 
+       <div> <a href="/company/task_map/catid_10/tagId_80.html" onclick="changeRadioTag(80,'tag');return false;">杂货 </a> <span class="tag_qty" onclick="changeRadioTag(80)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_127"> 
+       <div> <a href="/company/task_map/catid_10/tagId_127.html" onclick="changeRadioTag(127,'tag');return false;">零售批发 </a> <span class="tag_qty" onclick="changeRadioTag(127)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_82"> 
+       <div> <a href="/company/task_map/catid_10/tagId_82.html" onclick="changeRadioTag(82,'tag');return false;">民族食品 </a> <span class="tag_qty" onclick="changeRadioTag(82)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_114"> 
+       <div> <a href="/company/task_map/catid_10/tagId_114.html" onclick="changeRadioTag(114,'tag');return false;">食品批发 </a> <span class="tag_qty" onclick="changeRadioTag(114)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_222"> 
+       <div> <a href="/company/task_map/catid_10/tagId_222.html" onclick="changeRadioTag(222,'tag');return false;">商场购物 </a> <span class="tag_qty" onclick="changeRadioTag(222)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_79"> 
+       <div> <a href="/company/task_map/catid_10/tagId_79.html" onclick="changeRadioTag(79,'tag');return false;">东方超级市场 </a> <span class="tag_qty" onclick="changeRadioTag(79)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_112"> 
+       <div> <a href="/company/task_map/catid_10/tagId_112.html" onclick="changeRadioTag(112,'tag');return false;">批发 </a> <span class="tag_qty" onclick="changeRadioTag(112)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_81"> 
+       <div> <a href="/company/task_map/catid_10/tagId_81.html" onclick="changeRadioTag(81,'tag');return false;">海鲜市场 </a> <span class="tag_qty" onclick="changeRadioTag(81)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="default_tag" onclick="updateCompanies();" id="tag_113"> 
+       <div> <a href="/company/task_map/catid_10/tagId_113.html" onclick="changeRadioTag(113,'tag');return false;">商铺 </a> <span class="tag_qty" onclick="changeRadioTag(113)">(1)</span> 
+       </div> 
+      </div>  
+     </div> 
+    </div> 
+    <hr> 
+    <div class="city_tag_filter"> 
+     <div class="title"> <span>城市分类</span> <a class="more"></a> 
+     </div> 
+     <div class="city_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_15"> 
+       <div> <a href="/company/task_map/catid_10/tagId_15.html" onclick="changeRadioTag(15,'tag');return false;">Gainesville </a> <span class="tag_qty" onclick="changeRadioTag(15)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_2"> 
+       <div> <a href="/company/task_map/catid_10/tagId_2.html" onclick="changeRadioTag(2,'tag');return false;">Miami </a> <span class="tag_qty" onclick="changeRadioTag(2)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_14"> 
+       <div> <a href="/company/task_map/catid_10/tagId_14.html" onclick="changeRadioTag(14,'tag');return false;">Orlando </a> <span class="tag_qty" onclick="changeRadioTag(14)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_7"> 
+       <div> <a href="/company/task_map/catid_10/tagId_7.html" onclick="changeRadioTag(7,'tag');return false;">Sunrise </a> <span class="tag_qty" onclick="changeRadioTag(7)">(2)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_44"> 
+       <div> <a href="/company/task_map/catid_10/tagId_44.html" onclick="changeRadioTag(44,'tag');return false;">D-i Miami </a> <span class="tag_qty" onclick="changeRadioTag(44)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_59"> 
+       <div> <a href="/company/task_map/catid_10/tagId_59.html" onclick="changeRadioTag(59,'tag');return false;">N.Miami Beach </a> <span class="tag_qty" onclick="changeRadioTag(59)">(1)</span> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="city_tag" onclick="updateCompanies();" id="tag_5"> 
+       <div> <a href="/company/task_map/catid_10/tagId_5.html" onclick="changeRadioTag(5,'tag');return false;">Pembroke Pines </a> <span class="tag_qty" onclick="changeRadioTag(5)">(1)</span> 
+       </div> 
+      </div>  
+     </div> 
+    </div> 
+    <hr> 
+    <div class="company_tag_filter"> 
+     <div class="title"> <span>商家</span> <a class="more"></a> 
+     </div> 
+     <div class="company_tag_filter_content"> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_45"> 
+       <div> <a href="/company/task_map/catid_10/id_45.html" onclick="changeRadioTag(45,'company');return false;">好又鲜超级市场 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_66"> 
+       <div> <a href="/company/task_map/catid_10/id_66.html" onclick="changeRadioTag(66,'company');return false;">新亚超级市场 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_133"> 
+       <div> <a href="/company/task_map/catid_10/id_133.html" onclick="changeRadioTag(133,'company');return false;">Foodtown Supermarket </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_165"> 
+       <div> <a href="/company/task_map/catid_10/id_165.html" onclick="changeRadioTag(165,'company');return false;">百佳超级市场 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_166"> 
+       <div> <a href="/company/task_map/catid_10/id_166.html" onclick="changeRadioTag(166,'company');return false;">西贡超级市场-美心饼家 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_168"> 
+       <div> <a href="/company/task_map/catid_10/id_168.html" onclick="changeRadioTag(168,'company');return false;">亚洲市场 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_170"> 
+       <div> <a href="/company/task_map/catid_10/id_170.html" onclick="changeRadioTag(170,'company');return false;">中侨超市 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_223"> 
+       <div> <a href="/company/task_map/catid_10/id_223.html" onclick="changeRadioTag(223,'company');return false;">添美超级市场 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_226"> 
+       <div> <a href="/company/task_map/catid_10/id_226.html" onclick="changeRadioTag(226,'company');return false;">北京超市 </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_282"> 
+       <div> <a href="/company/task_map/catid_10/id_282.html" onclick="changeRadioTag(282,'company');return false;">新华食品批发公司-TAMPA </a> 
+       </div> 
+      </div> 
+      <div class="each_tag"> 
+       <input type="radio" name="company_tag" onclick="updateCompanies();" id="company_289"> 
+       <div> <a href="/company/task_map/catid_10/id_289.html" onclick="changeRadioTag(289,'company');return false;">百佳超级市场 </a> 
+       </div> 
+      </div>  
+     </div> 
+    </div> 
+   </div> 
+   <input type="hidden" id="catid" value="10">
+   <input type="hidden" id="tagid" value=""> 
+   <div class="main_content"> 
+    <div id="map"></div> 
+    <noscript>
+     <b>JavaScript must be enabled in order for you to use Google Maps.</b> However, it seems JavaScript is either disabled or not supported by your browser. To view Google Maps, enable JavaScript by changing your browser options, and then try again. 
+    </noscript> 
+    <div> 
+     <div> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Map Bottom 728x90, created 2/5/09 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="0961286486"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div> 
+    </div> 
+    <div id="reviewBlock"> 
+     <fieldset id="xspace-rates2"> 
+      <div id="xspace-rates-tip2">
+       评分
+      </div> 
+      <div id="xspace-rates-bg2"> 
+       <div id="xspace-rates-star2" class="xspace-rates0">
+        &nbsp;
+       </div> 
+       <div id="xspace-rates-a2"> <a href="javascript:;" onmouseover="rateHover2(2,'太差了');" onmouseout="rateOut2();" onclick="setRateScore('2', '');" title="太差了">1</a> <a href="javascript:;" onmouseover="rateHover2(4,'一般,但不推荐');" onmouseout="rateOut2();" onclick="setRateScore('4', '');" title="一般,但不推荐">2</a> <a href="javascript:;" onmouseover="rateHover2(6,'还不错');" onmouseout="rateOut2();" onclick="setRateScore('6', '');" title="还不错">3</a> <a href="javascript:;" onmouseover="rateHover2(8,'真的很不错');" onmouseout="rateOut2();" onclick="setRateScore('8', '');" title="真的很不错">4</a> <a href="javascript:;" onmouseover="rateHover2(10,'简直太棒了');" onmouseout="rateOut2();" onclick="setRateScore('10', '');" title="简直太棒了">5</a> 
+       </div> 
+       <input type="hidden" id="xspace-rates-value2" name="rates" value="0"> 
+      </div> 
+      <div id="xspace-rates-memo2"></div> 
+     </fieldset> 
+    </div> 
+    <div class="category_content"> 
+     <div class="map_box_header">
+       佛罗里达华人超级市场分布图 Top 10
+     </div> 
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">1</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="百佳超级市场">百佳超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="PK Oriental Mart">PK Oriental Mart</a>
+       </div><a href="/supermarket/task_review/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_165/%E7%99%BE%E4%BD%B3%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_165.html" title="点击查看地图">255 NE 167th St, Miami, FL 33162</a>
+         </div>
+        </div>
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_165.html" title="点击查看地图">9501 SW 72nd St, Miami, FL 33173</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(305)654-9646
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_126/%E4%BA%9A%E6%B4%B2%E8%B6%85%E5%B8%82.html" title="亚洲超市" class="map_link">亚洲超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_2/Miami.html" title="Miami" class="map_link">Miami</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">2</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" class="map_link" target="_blank" title="中国超市">中国超市</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" class="map_link" target="_blank" title="China Supermarket">China Supermarket</a>
+       </div><a href="/supermarket/task_review/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_star">
+        &nbsp;2个人参与评分&nbsp;共有3条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_125.html" title="点击查看地图">1332 N State Rd 7 Margate, FL 33063</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;561-289-7676
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_229/%E8%B6%85%E5%B8%82.html" title="超市" class="map_link">超市</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">3</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="第一东方超级市场">第一东方超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="1st Oriental Supermarket">1st Oriental Supermarket</a>
+       </div><a href="/supermarket/task_review/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_29.html" title="点击查看地图">5132 West Colonial Dr. ,Orlando, FL 32808</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;407-292-3668
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_79/%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" title="东方超级市场" class="map_link">东方超级市场</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_14/Orlando.html" title="Orlando" class="map_link">Orlando</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_80/%E6%9D%82%E8%B4%A7.html" title="杂货" class="map_link">杂货</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_81/%E6%B5%B7%E9%B2%9C%E5%B8%82%E5%9C%BA.html" title="海鲜市场" class="map_link">海鲜市场</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_82/%E6%B0%91%E6%97%8F%E9%A3%9F%E5%93%81.html" title="民族食品" class="map_link">民族食品</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">4</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="好又鲜超级市场">好又鲜超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="Md Oriental Market">Md Oriental Market</a>
+       </div><a href="/supermarket/task_review/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_45/%E5%A5%BD%E5%8F%88%E9%B2%9C%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_45.html" title="点击查看地图">10127 E Adamo Dr Tampa, FL 33619</a>
+         </div>
+        </div>
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_45.html" title="点击查看地图">1106 East Fowler Avenue Tampa, FL 33612 Hillsborough County</a>
+         </div>
+        </div>
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_45.html" title="点击查看地图">7580 49th St N. Pinellas Park,FL 33781</a><a class="ctrl-address-more">更多地址&gt;&gt;</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(813) 868-1688
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_126/%E4%BA%9A%E6%B4%B2%E8%B6%85%E5%B8%82.html" title="亚洲超市" class="map_link">亚洲超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_127/%E9%9B%B6%E5%94%AE%E6%89%B9%E5%8F%91.html" title="零售批发" class="map_link">零售批发</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">5</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_39/%E5%A5%A5%E5%85%B0%E5%A4%9A%E4%BE%9D%E8%97%A9%E5%85%AC%E5%8F%B8.html" class="map_link" target="_blank" title="奥兰多依藩公司">奥兰多依藩公司</a>
+       </div><a href="/supermarket/task_review/id_39/%E5%A5%A5%E5%85%B0%E5%A4%9A%E4%BE%9D%E8%97%A9%E5%85%AC%E5%8F%B8.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_39/%E5%A5%A5%E5%85%B0%E5%A4%9A%E4%BE%9D%E8%97%A9%E5%85%AC%E5%8F%B8.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_39/%E5%A5%A5%E5%85%B0%E5%A4%9A%E4%BE%9D%E8%97%A9%E5%85%AC%E5%8F%B8.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_39/%E5%A5%A5%E5%85%B0%E5%A4%9A%E4%BE%9D%E8%97%A9%E5%85%AC%E5%8F%B8.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_39.html" title="点击查看地图">315 Wilmer Ave Orlando Fl 32811（Old Winter Garden Rd.碰到Wilmer Ave转北）</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;407-462-7452,617-671-8570
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_112/%E6%89%B9%E5%8F%91.html" title="批发" class="map_link">批发</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_113/%E5%95%86%E9%93%BA.html" title="商铺" class="map_link">商铺</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_114/%E9%A3%9F%E5%93%81%E6%89%B9%E5%8F%91.html" title="食品批发" class="map_link">食品批发</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">6</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_118/%E6%B0%B8%E5%8F%91%E8%B6%85%E5%B8%82.html" class="map_link" target="_blank" title="永发超市">永发超市</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_118/%E6%B0%B8%E5%8F%91%E8%B6%85%E5%B8%82.html" class="map_link" target="_blank" title="Wing Fa Asian Supermarket">Wing Fa Asian Supermarket</a>
+       </div><a href="/supermarket/task_review/id_118/%E6%B0%B8%E5%8F%91%E8%B6%85%E5%B8%82.html" class="review" title="点评"></a><a href="/supermarket/task_message/id_118/%E6%B0%B8%E5%8F%91%E8%B6%85%E5%B8%82.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分&nbsp;共有1条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_118.html" title="点击查看地图">9624 SW 72nd St Miami, FL 33173</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(305) 274-1818
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_229/%E8%B6%85%E5%B8%82.html" title="超市" class="map_link">超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_78/%E5%8D%8E%E4%BA%BA%E8%B6%85%E5%B8%82.html" title="华人超市" class="map_link">华人超市</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">7</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="新亚超级市场">新亚超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="A-Green Supermarket">A-Green Supermarket</a>
+       </div><a href="/supermarket/task_review/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_66/%E6%96%B0%E4%BA%9A%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_66.html" title="点击查看地图">1321 E FLETCHER AVE. TAMPA,FL 33612</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;813-971-3287
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_168/%E4%BA%9A%E6%B4%B2%E9%A3%9F%E5%93%81.html" title="亚洲食品" class="map_link">亚洲食品</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">8</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_162/%E4%B8%AD%E5%85%B4%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="中兴超级市场">中兴超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_162/%E4%B8%AD%E5%85%B4%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="Chung Hing Oriental Market">Chung Hing Oriental Market</a>
+       </div><a href="/supermarket/task_review/id_162/%E4%B8%AD%E5%85%B4%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_message/id_162/%E4%B8%AD%E5%85%B4%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="tag_star">
+        &nbsp;1个人参与评分&nbsp;共有1条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_162.html" title="点击查看地图">1855 N.E.163rd Stret, N.Miami Beach, FL 33162</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;305-947-6038
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_229/%E8%B6%85%E5%B8%82.html" title="超市" class="map_link">超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_59/N.Miami%20Beach.html" title="N.Miami Beach" class="map_link">N.Miami Beach</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">9</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" class="map_link" target="_blank" title="Chun Ching Oriental Food Supply">Chun Ching Oriental Food Supply</a>
+       </div><a href="/supermarket/task_review/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_28.html" title="点击查看地图">418 NW 8th Ave,Gainesville, FL 32601</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;352-376-5885
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_78/%E5%8D%8E%E4%BA%BA%E8%B6%85%E5%B8%82.html" title="华人超市" class="map_link">华人超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_15/Gainesville.html" title="Gainesville" class="map_link">Gainesville</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl>
+     <dl class="regular_company">
+      <dt class="tag_title">
+       <span class="tags_counter">10</span>
+       <div class="company-title">
+        <a href="/supermarket/task_view/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="鸿运超级市场">鸿运超级市场</a><span class="blue_font">-</span><a href="/supermarket/task_view/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="map_link" target="_blank" title="Lucky Oriental Mart">Lucky Oriental Mart</a>
+       </div><a href="/supermarket/task_review/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="review" title="点评"></a><a href="/supermarket/task_image/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="image" title="图片"></a><a href="/supermarket/task_message/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" class="message" title="留言"></a>
+      </dt>
+      <dd class="company_detail">
+       <div class="company_img">
+        <div class="wrap1">
+         <div class="wrap2">
+          <div class="wrap3"> <a href="/supermarket/task_view/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank"> </a> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tag_star">
+        &nbsp;1个人参与评分&nbsp;共有1条评论
+       </div>
+       <div class="tag_text">
+        <div class="address_list_block">
+         <div class="adress_text">
+          地址:&nbsp;&nbsp;<a href="/supermarket/id_113.html" title="点击查看地图">8356 Sw 40 Street, D-i Miami, FL 33155</a>
+         </div>
+        </div>
+        <div class="list_phone">
+         电话:&nbsp;&nbsp;(305) 220-2838
+        </div>
+        <div class="list_category">
+         分类:&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" class="map_link" target="_blank">华人超级市场</a><span>&gt;</span><span class="list_tag"><a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_126/%E4%BA%9A%E6%B4%B2%E8%B6%85%E5%B8%82.html" title="亚洲超市" class="map_link">亚洲超市</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_222/%E5%95%86%E5%9C%BA%E8%B4%AD%E7%89%A9.html" title="商场购物" class="map_link">商场购物</a>,&nbsp;&nbsp;<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list/tagId_44/D-i%20Miami.html" title="D-i Miami" class="map_link">D-i Miami</a></span>
+        </div>
+       </div>
+      </dd>
+     </dl> 
+    </div> 
+    <div> 
+     <div> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Map Bottom 728x90, created 2/5/09 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="0961286486"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 

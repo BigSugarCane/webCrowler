@@ -1,0 +1,706 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/search/key_%e6%a9%b1%e6%9f%9c.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达华人资讯网 - 佛罗里达本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e6%a9%b1%e6%9f%9c.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_category" id="search_category"> <span id="recommend1"></span> 您要查找的信息，可能属于下列分类: <span class="category"> <a href="/company/task_list/catid_275.html" class="map_link" target="_blank" title="卫浴产品，橱柜装修"> 卫浴橱柜 </a> </span> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" class="map_link" target="_blank" title="发伟行餐馆用具 公司">发伟行餐馆用具 公司</a><span class="blue_font">-</span><a href="/company/task_view/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" class="map_link" target="_blank" title="Fairway Restaurant Equipment">Fairway Restaurant Equipment</a>
+         </div><a href="/company/task_review/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" class="review" title="点评"></a><a href="/company/task_image/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" class="image" title="图片"></a><a href="/company/task_message/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_109/%E5%8F%91%E4%BC%9F%E8%A1%8C%E9%A4%90%E9%A6%86%E7%94%A8%E5%85%B7%20%E5%85%AC%E5%8F%B8.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_109.html" title="点击查看地图">5510 W. Colonial Drive # 103 Orlando, FL 32808-7663</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(407) 521-8288
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_176/%E9%A4%90%E5%85%B7.html" title="餐具" class="map_link">餐具</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_219/%E5%8E%A8%E6%88%BF%E7%94%A8%E5%85%B7.html" title="厨房用具" class="map_link">厨房用具</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_116/Allied%20Kitchen%20and%20Bath.html" class="map_link" target="_blank" title="Allied Kitchen and Bath">Allied Kitchen and Bath</a>
+         </div><a href="/company/task_review/id_116/Allied%20Kitchen%20and%20Bath.html" class="review" title="点评"></a><a href="/company/task_image/id_116/Allied%20Kitchen%20and%20Bath.html" class="image" title="图片"></a><a href="/company/task_message/id_116/Allied%20Kitchen%20and%20Bath.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_116/Allied%20Kitchen%20and%20Bath.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_116.html" title="点击查看地图">10234 NW .47th St.,Sunrise ,FL 33351</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(954) 918-0288,(954) 651-7988
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_177/%E5%8E%A8%E5%85%B7.html" title="厨具" class="map_link">厨具</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_227/%E5%8D%AB%E5%85%B7.html" title="卫具" class="map_link">卫具</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_7/Sunrise.html" title="Sunrise" class="map_link">Sunrise</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" class="map_link" target="_blank" title="新光餐具城">新光餐具城</a><span class="blue_font">-</span><a href="/company/task_view/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" class="map_link" target="_blank" title="Sunlight Home Center LLC">Sunlight Home Center LLC</a>
+         </div><a href="/company/task_review/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" class="review" title="点评"></a><a href="/company/task_image/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" class="image" title="图片"></a><a href="/company/task_message/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_74/%E6%96%B0%E5%85%89%E9%A4%90%E5%85%B7%E5%9F%8E.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_74.html" title="点击查看地图">5068 W Colonial Dr.,Orlando ,FL 32808</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;407-822-1818
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_176/%E9%A4%90%E5%85%B7.html" title="餐具" class="map_link">餐具</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_177/%E5%8E%A8%E5%85%B7.html" title="厨具" class="map_link">厨具</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_14/Orlando.html" title="Orlando" class="map_link">Orlando</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" class="map_link" target="_blank" title="台面橱柜厂家直销">台面橱柜厂家直销</a><span class="blue_font">-</span><a href="/company/task_view/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" class="map_link" target="_blank" title="Himalaya Kitchen &amp; Granite">Himalaya Kitchen &amp; Granite</a>
+         </div><a href="/company/task_review/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" class="review" title="点评"></a><a href="/company/task_image/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" class="image" title="图片"></a><a href="/company/task_message/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_294/%E5%8F%B0%E9%9D%A2%E6%A9%B1%E6%9F%9C%E5%8E%82%E5%AE%B6%E7%9B%B4%E9%94%80.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_294.html" title="点击查看地图">3500 NW 77TH CT, Miami, Fl 33122</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;7867973259
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list.html" class="map_link" target="_blank">建筑装修</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_158/%E8%A3%85%E4%BF%AE.html" title="装修" class="map_link">装修</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_156/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99.html" title="建筑材料" class="map_link">建筑材料</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_345/%E5%B1%85%E5%AE%B6.html" title="居家" class="map_link">居家</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_411/%E7%BF%BB%E6%96%B0.html" title="翻新" class="map_link">翻新</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_2/Miami.html" title="Miami" class="map_link">Miami</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="map_link" target="_blank" title="全美50州《无需雇主或会计师核实》不查收入首套自住屋贷款">全美50州《无需雇主或会计师核实》不查收入首套自住屋贷款</a><span class="blue_font">-</span><a href="/company/task_view/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="map_link" target="_blank" title="美国联邦政府特许银行直接发款 - 最少可节省房贷支出16%">美国联邦政府特许银行直接发款 - 最少可节省房贷支出16%</a>
+         </div><a href="/company/task_review/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="review" title="点评"></a><a href="/company/task_image/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="image" title="图片"></a><a href="/company/task_message/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_596/%E5%85%A8%E7%BE%8E50%E5%B7%9E%E3%80%8A%E6%97%A0%E9%9C%80%E9%9B%87%E4%B8%BB%E6%88%96%E4%BC%9A%E8%AE%A1%E5%B8%88%E6%A0%B8%E5%AE%9E%E3%80%8B%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E9%A6%96%E5%A5%97%E8%87%AA%E4%BD%8F%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;877-699-0990
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_666/%E8%B4%B7%E6%AC%BE%E9%93%B6%E8%A1%8C.html" title="贷款银行" class="map_link">贷款银行</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_669/%E4%B8%8D%E6%9F%A5%E6%94%B6%E5%85%A5%E6%88%BF%E5%B1%8B%E8%B4%B7%E6%AC%BE.html" title="不查收入房屋贷款" class="map_link">不查收入房屋贷款</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_140/%E9%87%8D%E6%96%B0%E8%B4%B7%E6%AC%BE.html" title="重新贷款" class="map_link">重新贷款</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_129/%E6%8A%B5%E6%8A%BC%E8%B4%B7%E6%AC%BE.html" title="抵押贷款" class="map_link">抵押贷款</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_799/%E5%85%8D%E8%B4%B9%E6%88%BF%E8%B4%B7%E9%A2%84%E6%89%B9%E4%BF%A1.html" title="免费房贷预批信" class="map_link">免费房贷预批信</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" class="map_link" target="_blank" title="全通餐具">全通餐具</a><span class="blue_font">-</span><a href="/company/task_view/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" class="map_link" target="_blank" title="Allway Restaurant Equipment Supplies">Allway Restaurant Equipment Supplies</a>
+         </div><a href="/company/task_review/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" class="review" title="点评"></a><a href="/company/task_image/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" class="image" title="图片"></a><a href="/company/task_message/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_33/%E5%85%A8%E9%80%9A%E9%A4%90%E5%85%B7.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_33.html" title="点击查看地图">2424 South Orange Blossom Tr.,Orlando,Fl32805</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;407-650-8268
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_95/%E6%9D%BF%E6%9F%9C%E6%9C%8D%E5%8A%A1.html" title="板柜服务" class="map_link">板柜服务</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_96/%E6%B0%B4%E6%A7%BD.html" title="水槽" class="map_link">水槽</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_97/%E7%83%B9%E9%A5%AA%E8%AE%BE%E5%A4%87.html" title="烹饪设备" class="map_link">烹饪设备</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_98/%E5%88%B6%E5%86%B7.html" title="制冷" class="map_link">制冷</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_99/%E7%83%A4%E7%9B%98.html" title="烤盘" class="map_link">烤盘</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_213/%E9%A1%B6%E7%BA%A7%E6%A9%B1%E6%9F%9C%E7%9F%B3%E6%9D%90%E6%89%B9%E5%8F%91%E4%B8%AD%E5%BF%83.html" class="map_link" target="_blank" title="顶级橱柜石材批发中心">顶级橱柜石材批发中心</a><span class="blue_font">-</span><a href="/company/task_view/id_213/%E9%A1%B6%E7%BA%A7%E6%A9%B1%E6%9F%9C%E7%9F%B3%E6%9D%90%E6%89%B9%E5%8F%91%E4%B8%AD%E5%BF%83.html" class="map_link" target="_blank" title="Tops Kitchen Cabinets &amp; Granite">Tops Kitchen Cabinets &amp; Granite</a>
+         </div><a href="/company/task_review/id_213/%E9%A1%B6%E7%BA%A7%E6%A9%B1%E6%9F%9C%E7%9F%B3%E6%9D%90%E6%89%B9%E5%8F%91%E4%B8%AD%E5%BF%83.html" class="review" title="点评"></a><a href="/company/task_message/id_213/%E9%A1%B6%E7%BA%A7%E6%A9%B1%E6%9F%9C%E7%9F%B3%E6%9D%90%E6%89%B9%E5%8F%91%E4%B8%AD%E5%BF%83.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_213.html" title="点击查看地图">12650 N.W .107 Ave .,Miami FL 33178</a>
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_213.html" title="点击查看地图">6684 Jimmy Carter Blvd.,Suite B Norcross ,GA30071</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;305-392-9938
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list.html" class="map_link" target="_blank">建筑装修</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_156/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99.html" title="建筑材料" class="map_link">建筑材料</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_158/%E8%A3%85%E4%BF%AE.html" title="装修" class="map_link">装修</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE/task_list/tagId_267/Suite%20B%20Norcross.html" title="Suite B Norcross" class="map_link">Suite B Norcross</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">8</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" class="map_link" target="_blank" title="橱柜门维修">橱柜门维修</a><span class="blue_font">-</span><a href="/company/task_view/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" class="map_link" target="_blank" title="Thermofoil Repair">Thermofoil Repair</a>
+         </div><a href="/company/task_review/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" class="review" title="点评"></a><a href="/company/task_image/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" class="image" title="图片"></a><a href="/company/task_message/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_668/%E6%A9%B1%E6%9F%9C%E9%97%A8%E7%BB%B4%E4%BF%AE.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;6199923388
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list.html" class="map_link" target="_blank">卫浴橱柜</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_879/%E6%A9%B1%E6%9F%9C%E7%BB%B4%E4%BF%AE.html" title="橱柜维修" class="map_link">橱柜维修</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_880/%E6%A9%B1%E6%9F%9C%E7%BF%BB%E6%96%B0.html" title="橱柜翻新" class="map_link">橱柜翻新</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_881/%E5%8E%A8%E5%8D%AB%E8%A3%85%E4%BF%AE.html" title="厨卫装修" class="map_link">厨卫装修</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_882/%E5%8E%A8%E5%8D%AB%E7%BF%BB%E6%96%B0.html" title="厨卫翻新" class="map_link">厨卫翻新</a>,&nbsp;&nbsp;<a href="/company/catid_275/%E5%8D%AB%E6%B5%B4%E6%A9%B1%E6%9F%9C/task_list/tagId_883/%E5%AE%B6%E5%BA%AD%E8%A3%85%E4%BF%AE.html" title="家庭装修" class="map_link">家庭装修</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/f/page_viewtopic/t_47022.html" target="_blank"><h4><span class="key">橱柜</span>门专业修复翻新,服务于全美50州</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们专业维修翻新损坏的<span class="key">橱柜</span>门，专业电脑比对颜色，全美独有技术翻新，终身维修质保，只需邮递需要维修的柜门，我们保证翻新后的柜门和你厨房里的剩余<span class="key">橱柜</span>门颜色相同，大量节省您更换所有<span class="key">橱柜</span>门和柜体的成本和时间。</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_21.html">其他信息</a> <span class="view">0评论</span> <span class="reply">24浏览</span> <span class="time">03/13</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_36893.html" target="_blank"><h4>全新实木<span class="key">橱柜</span>,一手资源,厨房拆除组装安装,<span class="key">橱柜</span>,台面,水台一条龙服务</h4></a> 
+         <div class="content"> 
+          <p class="p-text">本公司主营厨房卫生间<span class="key">橱柜</span>台面装修，一手价格，无中间商额外花销，可中英文交流。公司有<span class="key">橱柜</span>台面库存并陈列于展厅，不必等待可马上提货，测量设计估价组装安装一条龙服务。现感恩节大促，折扣高达55%。&nbsp; </p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_35.html">买房卖房</a> <span class="view">0评论</span> <span class="reply">36浏览</span> <span class="time">2019/11/06</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_14802.html" target="_blank"><h4>Louisiana州 <span class="key">橱柜</span>石材安装师傅及销售代表</h4></a> 
+         <div class="content"> 
+          <p class="p-text">Louisiana州 <span class="key">橱柜</span>石材公司因业务增长，高薪诚请安装师傅，学徒及销售代表， 需会英文， 性格耐心工作仔细，愿意虚心学习者， 无经验可培训。 请电985-856-6860 john&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">365浏览</span> <span class="time">2018/05/06</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1898.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1898.html" target="_blank"><h4>如何选购橱柜</h4></a> 
+          <div class="info">
+           <span>2018/06/04</span><span>36710观看</span>
+          </div> 
+          <p>厨房是家居生活非常重要的地方，对于厨房里各种的设施，也会让大家在装修的时候花费很多的心思，其中橱柜应该如何选购呢？有什么特别需要注意的吗？材质上和颜色的选择上如何考虑？今天的How视频告诉您如何选购橱柜。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_494.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_494.html" target="_blank"><h4>如何DIY安装抽油烟机</h4></a> 
+          <div class="info">
+           <span>2017/01/03</span><span>55839观看</span>
+          </div> 
+          <p>刚移民美国的新移民，经济上并不是人人都很宽裕，但是要维持国内的生活习惯，美国本地的抽油烟机似乎就不够实用了。找人安装一个中式抽油烟机，安装费动辄100多美元。那么，如何自己DIY安装抽油烟机呢？How视频特意邀请方太集团总经理，手把手教我们如何自己安装抽油烟机。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_987.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_987.html" target="_blank"><h4>如何维护保养冰箱</h4></a> 
+          <div class="info">
+           <span>2017/07/30</span><span>16768观看</span>
+          </div> 
+          <p>冰箱是每个家庭必备的家用电器，如何维护和保养冰箱呢？怎样做可以延长冰箱的使用寿命呢？今天的How 视频教你如何维护保养冰箱。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1040.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1040.html" target="_blank"><h4>在美国如何买新房</h4></a> 
+          <div class="info">
+           <span>2017/07/24</span><span>8056观看</span>
+          </div> 
+          <p>美国的新房买卖和中国有着很大的区别，从购买流程到购买到的房屋所包含的内容都相去甚远。那么，在美国买新房需注意哪些问题？经过哪些步骤？做哪些准备？选择贷款购房和现金购房需要准备的资料有哪些区别？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2371.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2371.html" target="_blank"><h4>如何使用气钉枪（在木头上固定 Pneumatic Strip Framing Nailer）</h4></a> 
+          <div class="info">
+           <span>2018/09/16</span><span>8638观看</span>
+          </div> 
+          <p>固定木质材料时无须使用冲击力较大的射钉枪只需使用气钉枪即可固定，那么，气钉枪如何使用呢？How视频为您解答。</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="2" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="sea_right">
+     <div class="publish-company">
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div>
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="/restaurant.html" target="_black" class="normal_font bold_font blue_font">美食地图</a> 
+        </div> <span><a href="/restaurant.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html" class="black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/f/page_viewtopic/t_25587.html" target="_blank" class="small_font black_font" title="餐饮贷款 快速到账 9176601166 同兴资本"> 餐饮贷款 快速到账 9176601166 同...</a></li> 
+       <li><a href="/f/page_viewtopic/t_62914.html" target="_blank" class="small_font black_font" title="网美奶茶店的专家 御茶&amp;丰茶 新推出乾拌面系列！"> 网美奶茶店的专家 御茶&amp;丰茶 ...</a></li> 
+       <li><a href="/f/page_viewtopic/t_33326.html" target="_blank" class="small_font black_font" title="美国-佛州奥兰多华人旅游接送服务"> 美国-佛州奥兰多华人旅游接送服务</a></li> 
+       <li><a href="/f/page_viewtopic/t_59942.html" target="_blank" class="small_font black_font" title="御茶&amp;丰茶 全方位的手摇饮材料供应商！"> 御茶&amp;丰茶 全方位的手摇饮材料...</a></li> 
+       <li><a href="/f/page_viewtopic/t_59896.html" target="_blank" class="small_font black_font" title="卓越电脑 - 北美华人最佳的点餐系统,智能云端点餐系统"> 卓越电脑 - 北美华人最佳的点餐系...</a></li> 
+      </ul> 
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="http://https://www.chineseinflorida.com/travel.html" target="_blank" class="normal_font bold_font blue_font">旅游地图</a>
+        </div> <span><a href="http://https://www.chineseinflorida.com/travel.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="travel_map padding">
+       <a href="http://https://www.chineseinflorida.com/travel.html" target="_blank"></a>
+      </div> 
+      <dl class="sortcate"> 
+       <dt>
+        <di

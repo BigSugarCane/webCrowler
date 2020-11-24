@@ -1,0 +1,833 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/creditcard.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_creditcard.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>信用卡 - 拉斯维加斯华人资讯网</title> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/store_creditcard.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/deals_discount.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/creditcard.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="pathway left"> <a href="/" class="pathway1">首页</a> &gt; <a href="/deals.html" class="pathway">特价 </a> &gt;信用卡 
+   </div> 
+   <div class="right"> <a class="disclosure" href="javascript:void(0)" onclick="TB_show(&quot;&quot;,&quot;index3.php?option=com_disclosure&amp;width=500&amp;height=400.html&quot;)">Advertiser Disclosure</a> 
+   </div> 
+   <div class="creditcard"> 
+    <div class="credit"> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_36.html" target="_blank">Amazon: 买$50 Amazon礼卡 送$15 Credit</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_36.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left">
+          &nbsp; 
+        </div> 
+        <div class="cre_btn left"> <!--<div ><a href="/creditcard/d_36.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_36.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_35.html" target="_blank">BankAmericard Travel Rewards® Credit Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_35.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>Earn unlimited 1.5 points per $1 spent on all purchases, with no annual fee and no foreign transaction fees and your points don't expire</li> 
+           <li><em></em>20,000 online bonus points if you make at least $1,000 in purchases in the first 90 days - that can be a $200 statement credit toward travel purchases</li> 
+           <li><em></em>Use your card to book your trip how and where you want – you’re not limited to specific websites with blackout dates or restrictions</li> 
+           <li><em></em>Redeem points for a statement credit to pay for flights, hotels, vacation packages, cruises, rental cars, or baggage fees</li> 
+           <li><em></em>Comes with chip technology for enhanced security and protection at chip-enabled terminals</li> 
+           <li><em></em>0% Introductory APR for 12 billing cycles for purchases, then 15.24% - 23.24% Variable APR</li> 
+           <li><em></em>Get an additional 10% customer points bonus on every purchase when you have an active Bank of America® checking or savings account</li> 
+           <li><em></em>If you’re a Preferred Rewards client, you can increase that bonus to 25% - 75%.</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div ><a href="/creditcard/d_35.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_35.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_1.html" target="_blank">Southwest Rapid Rewards® Priority Credit Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_1.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送60,000点，需前三个月内消费$2000</li> 
+           <li><em></em>免费托运两件大行李</li> 
+           <li><em></em>第二年起，每年送7,500点数</li> 
+           <li><em></em>每年送$75西南消费报销</li> 
+           <li><em></em>每年送四次升舱机会</li> 
+           <li><em></em>持卡在西南航空机舱内消费享受20% off</li> 
+           <li><em></em>西南航空、酒店、租车消费2x送点数</li> 
+           <li><em></em>其余消费1x送点数</li> 
+           <li><em></em>持卡期间，点数永不过期</li> 
+           <li><em></em>点数使用没有任何日期和座位的限制</li> 
+           <li><em></em>无境外消费手续费</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_1.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_1.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_3.html" target="_blank">Hilton Honors Ascend Card from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_3.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送125,000点，需要前三个月内消费$2,000</li> 
+           <li><em></em>一个日历年内消费满$15,000赠送希尔顿旗下任意酒店周末住宿一晚</li> 
+           <li><em></em>在希尔顿旗下酒店消费12x点</li> 
+           <li><em></em>餐厅、超市、加油站消费6x点</li> 
+           <li><em></em>其他消费3x积分</li> 
+           <li><em></em>一个日历年内消费满$40,000立即送钻石会员籍，可用至第二年底</li> 
+           <li><em></em>年费$95</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_3.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_3.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_7.html" target="_blank">IHG® Rewards Club Premier Credit Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_7.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送80,000点，只需前三个月消费满$2,000</li> 
+           <li><em></em>限时！再拿40,000点，需在开卡前六个月中，一共消费满$5,000</li> 
+           <li><em></em>第二年起每年可获得免费一晚</li> 
+           <li><em></em>使用积分兑换4晚或以上，第四晚免费</li> 
+           <li><em></em>IHG消费25x送点数</li> 
+           <li><em></em>加油站、超市、餐厅消费2x送点数</li> 
+           <li><em></em>其他消费1x送点数</li> 
+           <li><em></em>送白金会员</li> 
+           <li><em></em>每四年报销一次Global Entry或TSA Pre消费，最多可报销$100</li> 
+           <li><em></em>IHG旗下分店众多，有：洲际<span>InterContinental</span>、皇冠假日<span>Crowne Plaza</span>、Kimpton、EVEN Hotels, Indigo Hotel, 以及假日酒店Holida</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_7.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_7.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_8.html" target="_blank">美联航信用卡</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_8.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>限时！开卡送60,000里程！</li> 
+           <li><em></em>首年无年费，第二年起年费$95</li> 
+           <li><em></em>新！餐厅、酒店消费2x送里程</li> 
+           <li><em></em>新！报销$100 GobalEntry或TSA Pre消费</li> 
+           <li><em></em>新！美联航机上消费75折</li> 
+           <li><em></em>用此卡买机票，第一件行李免费托运</li> 
+           <li><em></em>优先登机；每年送两张休息室入场券</li> 
+           <li><em></em>美联航消费2x送里程，其他消费1x送里程</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_8.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_8.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_10.html" target="_blank">万豪全新联名卡</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_10.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>限时！开卡送100,000点！需三个月内消费满$5000</li> 
+           <li><em></em>万豪与喜达屋合并后，大通推出的全新酒店联名卡</li> 
+           <li><em></em>第二年起每年送一晚！( 价值最多35,000点)</li> 
+           <li><em></em>万豪旗下酒店消费6x送点数</li> 
+           <li><em></em>其他消费2x送点数</li> 
+           <li><em></em>持卡就送银会员，年消费满$35,000可直通金会员</li> 
+           <li><em></em>每年送15个定级房晚</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_10.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_10.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_12.html" target="_blank">Ink Business Unlimited℠ Credit Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_12.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送$500现金，只需前三个月消费$3,000</li> 
+           <li><em></em>所有消费返现1.5%</li> 
+           <li><em></em>前12个月免息</li> 
+           <li><em></em>给员工加副卡免费</li> 
+           <li><em></em>无年费</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_12.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_12.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> 
+     <div> 
+      <div>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video 728*90 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="8048097268"></ins> 
+       <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script> 
+      </div> 
+     </div> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_14.html" target="_blank">Gold Delta SkyMiles® Credit Card from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_14.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送30,000达美里程，需前三个月消费满$1000</li> 
+           <li><em></em>再送$50账单报销，需前三个月在达美任意消费一笔</li> 
+           <li><em></em>达美消费2x里程，其余消费1x里程</li> 
+           <li><em></em>自己和三个同伴第一件行李免费托运，每次非常可省最多$200</li> 
+           <li><em></em>优先登机；</li> 
+           <li><em></em>无境外消费手续费</li> 
+           <li><em></em>第一年免年费，第二年起年费$95</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_14.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_14.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_15.html" target="_blank">Blue Delta SkyMiles® Credit Card from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_15.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送10,000里程，需三个月内消费满$500</li> 
+           <li><em></em>无年费</li> 
+           <li><em></em>餐厅消费2x里程</li> 
+           <li><em></em>达美消费2x里程</li> 
+           <li><em></em>航班内消费享受25%优惠</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_15.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_15.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_16.html" target="_blank">Hilton Honors Card from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_16.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送75,000点，需前三个月消费满$1,000</li> 
+           <li><em></em>在希尔顿旗下酒店消费送7x点</li> 
+           <li><em></em>餐厅、超市、加油站消费送5x点</li> 
+           <li><em></em>其他消费送3x点</li> 
+           <li><em></em>无境外费</li> 
+           <li><em></em>送Hilton银会员。一个日历年内消费满$20,000立即升级为金会员，并可用至次年结束</li> 
+           <li><em></em>无年费</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_16.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_16.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_17.html" target="_blank">The Plum Card® from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_17.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>按时还款就送1.5%优惠。相当于所有消费返现1.5%</li> 
+           <li><em></em>只要支付最低还款额，就有最多60天的账单免息期</li> 
+           <li><em></em>极其适合大宗消费，消费无额度限制</li> 
+           <li><em></em>增加雇员副卡无年费</li> 
+           <li><em></em>无境外消费手续费</li> 
+           <li><em></em>首年无年费，第二年起年费$250<br> &nbsp;</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_17.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_17.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_18.html" target="_blank">American Express® Gold Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_18.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送35,000 Memebership Rewards点数，需前三个月消费满$2000</li> 
+           <li><em></em>餐厅消费4x送点数</li> 
+           <li><em></em>超市消费4x送点数（限每年前$25,000餐厅消费）</li> 
+           <li><em></em>航空消费3x送点数（需在航司官方渠道订票）</li> 
+           <li><em></em>每月在精选餐厅消费可报销最多$10</li> 
+           <li><em></em>无境外消费手续费</li> 
+           <li><em></em>每个日历年送$100航空杂费报销，需使用在自选的一个航司上</li> 
+           <li><em></em>送$75酒店消费报销，以及房型升级，需在<span>americanexpress.com/hc定房</span></li> 
+           <li><em></em><span>在2017年，有150万个新商户开始接受Amex信用卡</span></li> 
+           <li><em></em>年费$250</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_18.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_18.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_19.html" target="_blank">The Platinum Card® from American Express</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_19.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em>开卡送60,000 Membership Rewards点，需前三个月消费满$5000</li> 
+           <li><em></em>每年送最多$200 Uber消费报销，并享受VIP待遇</li> 
+           <li><em></em>在航司官方渠道或Amex Travel渠道定机票5x送点数</li> 
+           <li><em></em>在amextravel.com定酒店5x送点数</li> 
+           <li><em></em>可免费使用在世界各地机场的百夫长休息室</li> 
+           <li><em></em>每年送$200航班杂费报销，需使用在自选的某一航司上</li> 
+           <li><em></em>每年送$100 Saks Fifth Avenue商场消费报销。每半年可用$50，使用前需注册</li> 
+           <li><em></em>在精选酒店享受价值$550的福利待遇，如房型升级等。</li> 
+           <li><em></em>年费$550</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_19.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_19.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div class="cre_elt"> 
+      <div class="cre_tlt">
+       <a href="/creditcard/d_21.html" target="_blank">Chase Sapphire Preferred® Card</a>
+      </div> 
+      <div class="cre_inf"> 
+       <div class="cre_dlt clearfix"> 
+        <div class="cre_img left"> <a href="/creditcard/d_21.html" target="_blank">  </a> 
+        </div> 
+        <div class="cre_jl left"> 
+         <div> 
+          <ul> 
+           <li><em></em><strong>开卡送60,000点，需前三个月消费满$4,000。</strong></li> 
+           <li><em></em><strong>60,000点可以直接兑换为$600现金，也可以在Chase旅游频道里作为$750旅游消费使用。</strong></li> 
+           <li><em></em><strong>点数可以1:1转入主流航空公司的里程或酒店常客项目</strong>（美联航、西南航空、捷蓝航空、维京航空、英航/西班牙航空、爱尔兰航空、法航/荷兰航空、新加坡航空，以及Hyatt酒店、万豪/利兹·卡尔顿酒店、IHG洲际酒店）</li> 
+           <li><em></em>餐厅、旅行消费2x送点数，其他消费1x送点数</li> 
+           <li><em></em>可使用点数兑换任何旅行消费（机票、酒店、租车、游轮等），没有任何限制</li> 
+           <li><em></em>使用点数兑换旅行消费时，点数会增值25%</li> 
+           <li><em></em>无境外消费手续费</li> 
+           <li><em></em>本卡被MONEY杂志评为“2016-2017年度最佳旅行信用卡”</li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="cre_btn left"> <!--<div style="display:none;margin-top:1px;"><a href="/creditcard/d_21.html" target="_blank">立即办理</a></div>--> 
+         <div>
+          <a href="/creditcard/d_21.html" target="_blank">用卡攻略</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> <!-- BEGIN 广告 --> <!-- END 广告  --> 
+     <div>
+      <div class="clear"></div> 
+      <div> 
+       <div class="page_pagination_box" id="page_pagination"> 

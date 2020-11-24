@@ -1,0 +1,674 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/resume/task_search.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>简历搜索 - 人才库 - 拉斯维加斯华人资讯网</title> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/resume.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/resume.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li class="active"><a href="/resume.html" class="brand">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="activeText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/resume/task_search.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form>
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/resume.html" class="common_pathway2">人才库</a> <a href="/resume/task_search.html" class="common_pathway2">简历搜索</a> 
+   </div> 
+   <div class="to_com_idf">
+    <div class="button-panel">
+     <span class="button-g-mark"></span><a class="button-white button-a" href="/resume/task_companyIdentify.html">企业认证</a>
+    </div>
+   </div>
+   <div class="search_box"> 
+    <form action="/resume/task_search.html" method="post" name="resume_search"> 
+     <div class="form_title">
+      搜索简历
+     </div> 
+     <div class="full_line"> <span class="left_label">关键词</span> 
+      <input type="text" name="keyword" value=""> 
+     </div> 
+     <div class="full_line"> <span class="left_label">最后更新时间</span> <select id="last_update" name="last_edit" data=""> <option value="0">不限</option> <option value="15552000">六个月内</option> <option value="7776000">三个月内</option> <option value="2592000">一个月内</option> <option value="1296000">两周内</option> </select> 
+     </div> 
+     <div class="full_line"> <span class="right_label">求职状态</span> <select id="work_status" name="work_status" data=""> <option value="0">不限</option> <option value="1">目前正在找工作</option> <option value="2">半年内无换工作计划</option> <option value="3">一年内无换工作计划</option> <option value="4">观望有好的机会再考虑</option> <option value="5">我暂时不想找工作</option> </select> 
+     </div> 
+     <div class="full_line"> <span class="left_label">是否需要工作签证</span> <select id="work_visa" name="work_visa" data=""> <option value="-1">不限</option> <option value="1">是</option> <option value="0">否</option> </select> 
+     </div> 
+     <div class="half_line"> <span class="right_label">学历要求</span> <select id="education" name="education" data=""> <option value="0">不限</option> <option value="1">高中</option> <option value="2">专科</option> <option value="3">本科</option> <option value="4">硕士</option> <option value="5">博士</option> <option value="6">其他</option> </select> 
+     </div> 
+     <div class="half_line"> <span class="middle_label">至</span> <select id="education_max" name="education_max"> <option value="0">不限</option> </select> 
+     </div> 
+     <div class="full_line"> <span class="left_label">工作年限</span> <select id="work_year" name="work_experience" data=""> <option value="0">不限</option> <option value="1">无经验</option> <option value="2">1年以下</option> <option value="3">1-3年</option> <option value="4">3-5年</option> <option value="5">5-10年</option> <option value="6">10年以上</option> </select> 
+     </div> 
+     <div class="full_line"> <span class="right_label">居住地</span> <select id="location" name="location" data=""> <option value="0">不限</option> <option value="1">美国</option> <option value="2">中国大陆</option> <option value="3">台湾</option> <option value="4">香港</option> <option value="5">澳门</option> <option value="6">其他地区</option> </select> 
+     </div> 
+     <div class="half_line"> <span class="left_label">求职行业意向</span> 
+      <input type="text" id="job_industry" name="job_industry_1" value=""> <span class="close_condition"></span> 
+      <input type="hidden" id="job_industry_id" name="job_industry" value=""> 
+      <input type="hidden" id="job_industry_category_id" name="job_industry_category" value=""> 
+     </div> 
+     <div class="half_line"> <span class="right_label">求职职能意向</span> 
+      <input type="text" id="job_function" name="job_function_1" value=""> <span class="close_condition"></span> 
+      <input type="hidden" id="job_function_id" name="job_function" value=""> 
+      <input type="hidden" id="job_function_parent_id" name="job_function_parent" value=""> 
+      <input type="hidden" id="job_function_category_id" name="job_function_category" value=""> 
+     </div> 
+     <div class="full_line"> <span class="left_label">移民身份</span> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_2" value="2" checked> <label for="immigration_status_2">美国公民</label> 
+      </div> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_3" value="3" checked> <label for="immigration_status_3">绿卡</label> 
+      </div> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_4" value="4" checked> <label for="immigration_status_4">工卡</label> 
+      </div> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_5" value="5" checked> <label for="immigration_status_5">H-1B</label> 
+      </div> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_6" value="6" checked> <label for="immigration_status_6">F-1及OPT</label> 
+      </div> 
+      <div class="check_item"> 
+       <input type="checkbox" name="immigration_status[]" id="immigration_status_7" value="7" checked> <label for="immigration_status_7">其他身份</label> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="submit">
+      <div class="button-panel">
+       <span class="button-b-search white"></span><a class="button-blue button-a" href="javascript:rSearchPost(1,1)">搜索</a>
+      </div>
+     </div> <a href="javascript:clearC()" class="r_clearc">清空搜索条件</a> <a href="/resume/task_viewCollection.html" class="r_view_collect_link">简历收藏中心</a> 
+     <input type="hidden" name="for_search" value="1"> 
+    </form> 
+   </div> 
+   <div class="resume_list"> 
+    <div class="resume_list_title"> 
+     <div class="resume_list_title_in"> <span class="text">最近更新的简历</span> <span class="resume_count">本站已上传简历1831份</span> 
+     </div> 
+    </div> 
+    <table border="0" cellspacing="0" cellpadding="0" class="for_search"> 
+     <tbody> 
+      <tr> 
+       <th></th> 
+       <th>姓名</th> 
+       <th>居住地</th> 
+       <th>性别</th> 
+       <th>最高学历</th> 
+       <th>工作年限</th> 
+       <th>移民身份</th> 
+       <th>求职意向</th> 
+       <th>更新时间</th> 
+       <th>加入收藏</th> 
+      </tr> 
+      <tr data="24917db15c4350db081a62150a486cd07e" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="24917db15c4350db081a62150a486cd07e"> </td> 
+       <td class="real_name"> <a target="_blank">A***e</a> </td> 
+       <td class="residence">Las Vegas</td> 
+       <td class="gender">女</td> 
+       <td class="education"></td> 
+       <td class="work_year">无经验</td> 
+       <td class="immigration_status">绿卡</td> 
+       <td class="job_intention">收银员</td> 
+       <td class="last_edit">2020-09-18</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('24917db15c4350db081a62150a486cd07e', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="d30960ce77424917db15c2149350db081a" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="d30960ce77424917db15c2149350db081a"> </td> 
+       <td class="real_name"> <a target="_blank">E***e</a> </td> 
+       <td class="residence">Las Vegas</td> 
+       <td class="gender">男</td> 
+       <td class="education">本科</td> 
+       <td class="work_year">1-3年</td> 
+       <td class="immigration_status">美国公民</td> 
+       <td class="job_intention">软件工程师</td> 
+       <td class="last_edit">2020-09-12</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('d30960ce77424917db15c2149350db081a', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="e21e4e58ad4d30960ce77214824917db15" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="e21e4e58ad4d30960ce77214824917db15"> </td> 
+       <td class="real_name"> <a target="_blank">R***蓉</a> </td> 
+       <td class="residence">宝鸡市</td> 
+       <td class="gender">女</td> 
+       <td class="education">专科</td> 
+       <td class="work_year">3-5年</td> 
+       <td class="immigration_status">其他身份</td> 
+       <td class="job_intention">杂工</td> 
+       <td class="last_edit">2020-07-18</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('e21e4e58ad4d30960ce77214824917db15', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="0d73a250924e21e4e58ad2147d30960ce7" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="0d73a250924e21e4e58ad2147d30960ce7"> </td> 
+       <td class="real_name"> <a target="_blank">Y***琼</a> </td> 
+       <td class="residence">HENDERSON</td> 
+       <td class="gender">女</td> 
+       <td class="education">本科</td> 
+       <td class="work_year">10年以上</td> 
+       <td class="immigration_status">绿卡</td> 
+       <td class="job_intention">财务助理/文员</td> 
+       <td class="last_edit">2020-07-07</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('0d73a250924e21e4e58ad2147d30960ce7', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="936a40b7e840d73a250922146e21e4e58a" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="936a40b7e840d73a250922146e21e4e58a"> </td> 
+       <td class="real_name"> <a target="_blank">h***英</a> </td> 
+       <td class="residence">兰州</td> 
+       <td class="gender">女</td> 
+       <td class="education">高中</td> 
+       <td class="work_year">3-5年</td> 
+       <td class="immigration_status">其他身份</td> 
+       <td class="job_intention">客服专员/助理</td> 
+       <td class="last_edit">2020-07-03</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('936a40b7e840d73a250922146e21e4e58a', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="c182f930a04936a40b7e821450d73a2509" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="c182f930a04936a40b7e821450d73a2509"> </td> 
+       <td class="real_name"> <a target="_blank">x***田</a> </td> 
+       <td class="residence">天津</td> 
+       <td class="gender">女</td> 
+       <td class="education">专科</td> 
+       <td class="work_year">3-5年</td> 
+       <td class="immigration_status">H-1B</td> 
+       <td class="job_intention">软件测试</td> 
+       <td class="last_edit">2020-05-07</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('c182f930a04936a40b7e821450d73a2509', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="7dc1c7653a4c182f930a02144936a40b7e" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="7dc1c7653a4c182f930a02144936a40b7e"> </td> 
+       <td class="real_name"> <a target="_blank">y***颜</a> </td> 
+       <td class="residence">天津</td> 
+       <td class="gender">女</td> 
+       <td class="education">本科</td> 
+       <td class="work_year">1-3年</td> 
+       <td class="immigration_status">H-1B</td> 
+       <td class="job_intention">软件测试</td> 
+       <td class="last_edit">2020-05-07</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('7dc1c7653a4c182f930a02144936a40b7e', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="5d6646aad942a34abd6eb21419f44e956e" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="5d6646aad942a34abd6eb21419f44e956e"> </td> 
+       <td class="real_name"> <a target="_blank">x***叁</a> </td> 
+       <td class="residence">天津市南开区</td> 
+       <td class="gender">男</td> 
+       <td class="education">本科</td> 
+       <td class="work_year">3-5年</td> 
+       <td class="immigration_status">H-1B</td> 
+       <td class="job_intention">高级软件工程师</td> 
+       <td class="last_edit">2020-04-15</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('5d6646aad942a34abd6eb21419f44e956e', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="37d097caf1423c97e9cb921395d6646aad" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="37d097caf1423c97e9cb921395d6646aad"> </td> 
+       <td class="real_name"> <a target="_blank">Y***颜</a> </td> 
+       <td class="residence">tianjin</td> 
+       <td class="gender">女</td> 
+       <td class="education">专科</td> 
+       <td class="work_year">5-10年</td> 
+       <td class="immigration_status">工卡</td> 
+       <td class="job_intention">互联网软件开发工程师</td> 
+       <td class="last_edit">2020-04-15</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('37d097caf1423c97e9cb921395d6646aad', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="abdbeb4d8d45a1e3a5aed2122ef41d4887" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="abdbeb4d8d45a1e3a5aed2122ef41d4887"> </td> 
+       <td class="real_name"> <a target="_blank">s***木</a> </td> 
+       <td class="residence">天津</td> 
+       <td class="gender">男</td> 
+       <td class="education">硕士</td> 
+       <td class="work_year">1-3年</td> 
+       <td class="immigration_status">H-1B</td> 
+       <td class="job_intention">高级软件工程师</td> 
+       <td class="last_edit">2020-04-14</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('abdbeb4d8d45a1e3a5aed2122ef41d4887', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="44cd7a8f7f402b1be0d482120abdbeb4d8" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="44cd7a8f7f402b1be0d482120abdbeb4d8"> </td> 
+       <td class="real_name"> <a target="_blank">Y***宇</a> </td> 
+       <td class="residence">中国大陆</td> 
+       <td class="gender">女</td> 
+       <td class="education">高中</td> 
+       <td class="work_year">无经验</td> 
+       <td class="immigration_status">F-1及OPT</td> 
+       <td class="job_intention">高级软件工程师</td> 
+       <td class="last_edit">2020-03-22</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('44cd7a8f7f402b1be0d482120abdbeb4d8', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="3937230de3492bbd31f8e21171b5230e3e" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="3937230de3492bbd31f8e21171b5230e3e"> </td> 
+       <td class="real_name"> <a target="_blank">J***m</a> </td> 
+       <td class="residence">美国</td> 
+       <td class="gender">女</td> 
+       <td class="education"></td> 
+       <td class="work_year">1年以下</td> 
+       <td class="immigration_status">绿卡</td> 
+       <td class="job_intention">家教</td> 
+       <td class="last_edit">2020-03-17</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('3937230de3492bbd31f8e21171b5230e3e', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="4ba3c163cd43937230de3211692bbd31f8" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="4ba3c163cd43937230de3211692bbd31f8"> </td> 
+       <td class="real_name"> <a target="_blank">F***g</a> </td> 
+       <td class="residence">美国</td> 
+       <td class="gender">女</td> 
+       <td class="education"></td> 
+       <td class="work_year">10年以上</td> 
+       <td class="immigration_status">美国公民</td> 
+       <td class="job_intention"></td> 
+       <td class="last_edit">2020-03-07</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('4ba3c163cd43937230de3211692bbd31f8', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="bdc4626aa144ba3c163cd21153937230de" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="bdc4626aa144ba3c163cd21153937230de"> </td> 
+       <td class="real_name"> <a target="_blank">M***g</a> </td> 
+       <td class="residence">美国</td> 
+       <td class="gender">女</td> 
+       <td class="education"></td> 
+       <td class="work_year">10年以上</td> 
+       <td class="immigration_status">绿卡</td> 
+       <td class="job_intention">缝纫工</td> 
+       <td class="last_edit">2020-03-04</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('bdc4626aa144ba3c163cd21153937230de', 1, this)"></a> </td> 
+      </tr> 
+      <tr data="51174add1c4bdc4626aa121144ba3c163c" class="list ban"> 
+       <td class="chk"> <input type="checkbox" name="r_checkbox[]" value="51174add1c4bdc4626aa121144ba3c163c"> </td> 
+       <td class="real_name"> <a target="_blank">y***n</a> </td> 
+       <td class="residence">其他地区</td> 
+       <td class="gender">女</td> 
+       <td class="education">本科</td> 
+       <td class="work_year">10年以上</td> 
+       <td class="immigration_status">其他身份</td> 
+       <td class="job_intention">销售主管</td> 
+       <td class="last_edit">2020-03-03</td> 
+       <td> <a class="button_collect todo" onclick="oneCollect('51174add1c4bdc4626aa121144ba3c163c', 1, this)"></a> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <div class="resume_list_title bottom"> 
+     <div class="resume_list_title_in r_quick_collect"> 
+      <input type="checkbox" onclick="select_all('r_checkbox', this)"><span>全选</span> 
+      <div class="button-panel">
+       <a class="button-yellow button-a" href="javascript:quickCollect()">快速收藏</a>
+      </div> 
+      <div class="button-panel">
+       <a class="button-blue button-a" href="javascript:quickMarkRead()">标为已读</a>
+      </div> 
+      <div class="page_outer">
+       <div class="clear"></div> 
+       <div> 
+        <div class="page_pagination_box" id="page_pagination"> <a class="page_prev" onclick="pageSectionFun(this,rSearchPost,0)"></a> <a class="current_page" onclick="pageSectionFun(this,rSearchPost,0)">1</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">2</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">3</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">4</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">5</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">6</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">7</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">8</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">9</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">10</a> <a class="page_num" onclick="pageSectionFun(this,rSearchPost,0)">... 11</a> <a class="page_next" onclick="pageSectionFun(this,rSearchPost,0)"></a> 
+         <div class="page_jump">
+          <input class="page_text" value="1" type="text" name="jumpto" id="jumpto" size="2" height="18" onmouseover="this.focus()" onfocus="this.select()" onkeypress="pageSectionFun(this,rSearchPost,0)"> <span class="page_text">/ 11 页</span> 
+         </div> 
+        </div> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+    var __test = [{"id":"2150","hashId":"24917db15c4350db081a62150a486cd07e","gid":"0","userId":"2381496","resumeName":"Aijie Wu","nameEn":"Wu","nameEnLast":"Aijie","nameCn":"Aijie","nameCnLast":"Wu","nameFull":"Aijie","nameEnFull":"Aijie Wu","nameCnFull":"WuAijie","nameShort":"A***e","gender":"2","genderTxt":"\u5973","birthday":"1991\/06\/23","birthdayShow":"1991\/06\/23","birthYear":"1991","birthMonth":"06","birthDay":"23","wechat":"","wechatImage":"\/images\/resume_attach\/info\/24917db15c4350db081a62150a486cd07ew.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"7023263148","phoneShort":"***-***-3148","phoneImage":"\/images\/resume_attach\/info\/24917db15c4350db081a62150a486cd07ep.png?v=308b9f14d8a39cdb4727c606737ad95f","email":"windyella426@gmail.com","emailShort":"windye****@gmail.com","emailImage":"\/images\/resume_attach\/info\/24917db15c4350db081a62150a486cd07ee.png?v=9abcf9c0b14da936b6e6c2881e2a9e75","marital":"","maritalTxt":null,"location":"1","state":"NV","city":"Las Vegas","street":"9682 Villa lorena Ave ","zipCode":"89147","locationTxt":"\u7f8e\u56fd","fullAddr":"9682 Villa lorena Ave, Las Vegas, \u5185\u534e\u8fbe, 89147","shortAddr":"Las Vegas","middleAddr":"Las Vegas, \u5185\u534e\u8fbe","immigrationStatus":"3","immigrationStatusTxt":"\u7eff\u5361","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":["1"],"jobTypeTxt":"\u5168\u804c","salaryNow":null,"salaryDesireNum":"8","salaryDesireUnit":"5","salaryDesireTxt":"8 \u6bcf\u5c0f\u65f6","relocationAgree":"0","relocationTxt":"","workExperience":"1","workYear":"\u65e0\u7ecf\u9a8c","webPage":"","highDegree":null,"indate":"2020-09-18 21:02:53","lastEdit":"1600462973","lastEditH":"2020-09-18","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":77,"jobIndustry":[],"jobIndustryStr":"","jobIndustryTxt":"","jobIndustryFirstTxt":"","jobFunction":["4827"],"jobFunctionStr":"4827","jobFunctionTxt":"\u6536\u94f6\u5458","jobFunctionFirstTxt":"\u6536\u94f6\u5458","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_24917db15c4350db081a62150a486cd07e.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2149","hashId":"d30960ce77424917db15c2149350db081a","gid":"0","userId":"2386036","resumeName":"INFO","nameEn":"He","nameEnLast":"Eric","nameCn":"","nameCnLast":"","nameFull":"Eric","nameEnFull":"Eric He","nameCnFull":"","nameShort":"E***e","gender":"1","genderTxt":"\u7537","birthday":"","birthdayShow":"","wechat":"","wechatImage":"\/images\/resume_attach\/info\/d30960ce77424917db15c2149350db081aw.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"7026397011","phoneShort":"***-***-7011","phoneImage":"\/images\/resume_attach\/info\/d30960ce77424917db15c2149350db081ap.png?v=7b32388b8d5994c632eba7df674376f7","email":"lifeisabiggift@yahoo.com","emailShort":"lifeisa****@yahoo.com","emailImage":"\/images\/resume_attach\/info\/d30960ce77424917db15c2149350db081ae.png?v=e7ccdaf3417dc0b736dfd00d2df6d654","marital":"1","maritalTxt":"\u672a\u5a5a","location":"1","state":"NV","city":"Las Vegas","street":"","zipCode":"89147","locationTxt":"\u7f8e\u56fd","fullAddr":"Las Vegas, Nevada, 89147","shortAddr":"Las Vegas","middleAddr":"Las Vegas, Nevada","immigrationStatus":"2","immigrationStatusTxt":"\u7f8e\u56fd\u516c\u6c11","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":["1"],"jobTypeTxt":"\u5168\u804c","salaryNow":null,"salaryDesireNum":"72000","salaryDesireUnit":"1","salaryDesireTxt":"72000 \u6bcf\u5e74","relocationAgree":"0","relocationTxt":"","workExperience":"3","workYear":"1-3\u5e74","webPage":"","highDegree":"\u672c\u79d1","indate":"2020-09-13 06:48:17","lastEdit":"1599979914","lastEditH":"2020-09-12","totalView":"0","authority":"2","default":false,"langNo":1,"langTxt":"\u82f1\u6587","langCnTxt":"\u82f1\u6587","percent":88,"jobIndustry":["1"],"jobIndustryStr":"1","jobIndustryTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobFunction":["0107"],"jobFunctionStr":"0107","jobFunctionTxt":"\u8f6f\u4ef6\u5de5\u7a0b\u5e08","jobFunctionFirstTxt":"\u8f6f\u4ef6\u5de5\u7a0b\u5e08","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_d30960ce77424917db15c2149350db081a.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2148","hashId":"e21e4e58ad4d30960ce77214824917db15","gid":"0","userId":"2372150","resumeName":"\u6c42\u804c\u7b80\u5386","nameEn":"li","nameEnLast":"Rebecca","nameCn":"\u84c9","nameCnLast":"\u674e","nameFull":"Rebecca","nameEnFull":"Rebecca li","nameCnFull":"\u674e\u84c9","nameShort":"R***\u84c9","gender":"2","genderTxt":"\u5973","birthday":"1997\/03\/24","birthdayShow":"1997\/03\/24","birthYear":"1997","birthMonth":"03","birthDay":"24","wechat":"","wechatImage":"\/images\/resume_attach\/info\/e21e4e58ad4d30960ce77214824917db15w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"9253890640","phoneShort":"***-***-0640","phoneImage":"\/images\/resume_attach\/info\/e21e4e58ad4d30960ce77214824917db15p.png?v=139ad74d5ab4668bb7755cef0f5aadae","email":"lirong97324@gmail.com","emailShort":"lirong****@gmail.com","emailImage":"\/images\/resume_attach\/info\/e21e4e58ad4d30960ce77214824917db15e.png?v=cc5e6a1c7e1f80d2647ed0366b55276f","marital":"","maritalTxt":null,"location":"2","state":"23","city":"\u5b9d\u9e21\u5e02","street":"\u91d1\u53f0\u533a","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u91d1\u53f0\u533a, \u5b9d\u9e21\u5e02, \u9655\u897f","shortAddr":"\u5b9d\u9e21\u5e02","middleAddr":"\u5b9d\u9e21\u5e02, \u9655\u897f","immigrationStatus":"7","immigrationStatusTxt":"\u5176\u4ed6\u8eab\u4efd","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"2500","salaryDesireUnit":"2","salaryDesireTxt":"2500 \u6bcf\u6708","relocationAgree":"0","relocationTxt":"","workExperience":"4","workYear":"3-5\u5e74","webPage":"","highDegree":"\u4e13\u79d1","indate":"2020-07-18 07:06:00","lastEdit":"1595056045","lastEditH":"2020-07-18","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":82,"jobIndustry":["44","45","46"],"jobIndustryStr":"44;45;46","jobIndustryTxt":"\u9910\u996e\u4e1a;\u9152\u5e97\/\u65c5\u6e38;\u5a31\u4e50\/\u4f11\u95f2\/\u4f53\u80b2","jobIndustryFirstTxt":"\u9910\u996e\u4e1a","jobFunction":["4817","4814","4827","4918","6405","6404"],"jobFunctionStr":"4817;4814;4827;4918;6405;6404","jobFunctionTxt":"\u6742\u5de5;\u6d17\u7897\u5de5;\u6536\u94f6\u5458;\u5065\u8eab\u623f\u670d\u52a1;\u6551\u751f\u5458;\u6e38\u6cf3\u6559\u7ec3","jobFunctionFirstTxt":"\u6742\u5de5","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_e21e4e58ad4d30960ce77214824917db15.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2147","hashId":"0d73a250924e21e4e58ad2147d30960ce7","gid":"0","userId":"2372009","resumeName":"\u53f2\u8273\u743c\u7b80\u5386","nameEn":"SHI ","nameEnLast":"YANQIONG","nameCn":"\u8273\u743c","nameCnLast":"\u53f2","nameFull":"YANQIONG","nameEnFull":"YANQIONG SHI ","nameCnFull":"\u53f2\u8273\u743c","nameShort":"Y***\u743c","gender":"2","genderTxt":"\u5973","birthday":"1964\/02\/11","birthdayShow":"1964\/02\/11","birthYear":"1964","birthMonth":"02","birthDay":"11","wechat":"","wechatImage":"\/images\/resume_attach\/info\/0d73a250924e21e4e58ad2147d30960ce7w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"8058867654","phoneShort":"***-***-7654","phoneImage":"\/images\/resume_attach\/info\/0d73a250924e21e4e58ad2147d30960ce7p.png?v=b31347692d3c47962bb367f54a888031","email":"joan.ysts@gmail.com","emailShort":"joan.****@gmail.com","emailImage":"\/images\/resume_attach\/info\/0d73a250924e21e4e58ad2147d30960ce7e.png?v=e63435100a424657149c716e55ad47c4","marital":"2","maritalTxt":"\u5df2\u5a5a","location":"1","state":"NV","city":"HENDERSON","street":"","zipCode":"89074","locationTxt":"\u7f8e\u56fd","fullAddr":"HENDERSON, \u5185\u534e\u8fbe, 89074","shortAddr":"HENDERSON","middleAddr":"HENDERSON, \u5185\u534e\u8fbe","immigrationStatus":"3","immigrationStatusTxt":"\u7eff\u5361","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":["1","2"],"jobTypeTxt":"\u5168\u804c;\u517c\u804c","salaryNow":null,"salaryDesireNum":"30000","salaryDesireUnit":"1","salaryDesireTxt":"30000 \u6bcf\u5e74","relocationAgree":"0","relocationTxt":"","workExperience":"6","workYear":"10\u5e74\u4ee5\u4e0a","webPage":"","highDegree":"\u672c\u79d1","indate":"2020-07-07 19:55:40","lastEdit":"1594155946","lastEditH":"2020-07-07","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":83,"jobIndustry":["10"],"jobIndustryStr":"10","jobIndustryTxt":"\u4f1a\u8ba1\/\u5ba1\u8ba1","jobIndustryFirstTxt":"\u4f1a\u8ba1\/\u5ba1\u8ba1","jobFunction":["0422"],"jobFunctionStr":"0422","jobFunctionTxt":"\u8d22\u52a1\u52a9\u7406\/\u6587\u5458","jobFunctionFirstTxt":"\u8d22\u52a1\u52a9\u7406\/\u6587\u5458","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_0d73a250924e21e4e58ad2147d30960ce7.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2146","hashId":"936a40b7e840d73a250922146e21e4e58a","gid":"0","userId":"2371957","resumeName":"","nameEn":"xu","nameEnLast":"hongying","nameCn":"\u7ea2\u82f1","nameCnLast":"\u8bb8","nameFull":"hongying","nameEnFull":"hongying xu","nameCnFull":"\u8bb8\u7ea2\u82f1","nameShort":"h***\u82f1","gender":"2","genderTxt":"\u5973","birthday":"1997\/04\/12","birthdayShow":"1997\/04\/12","birthYear":"1997","birthMonth":"04","birthDay":"12","wechat":"Y728058","wechatImage":"\/images\/resume_attach\/info\/936a40b7e840d73a250922146e21e4e58aw.png?v=8017f0e8aa44a3f2257084cf8113ea9c","phone":"18293639098","phoneShort":"***-***-9098","phoneImage":"\/images\/resume_attach\/info\/936a40b7e840d73a250922146e21e4e58ap.png?v=dc4d65f6772cb0d89a882a3c99125196","email":"1916048620@qq.com","emailShort":"19160****@qq.com","emailImage":"\/images\/resume_attach\/info\/936a40b7e840d73a250922146e21e4e58ae.png?v=865304bd8becb0f8872c439d60a4589a","marital":"1","maritalTxt":"\u672a\u5a5a","location":"2","state":"28","city":"\u5170\u5dde","street":"\u6c11\u4e3b\u897f\u8def","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u6c11\u4e3b\u897f\u8def, \u5170\u5dde, \u7518\u8083","shortAddr":"\u5170\u5dde","middleAddr":"\u5170\u5dde, \u7518\u8083","immigrationStatus":"7","immigrationStatusTxt":"\u5176\u4ed6\u8eab\u4efd","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":["1"],"jobTypeTxt":"\u5168\u804c","salaryNow":null,"salaryDesireNum":"3000","salaryDesireUnit":"2","salaryDesireTxt":"3000 \u6bcf\u6708","relocationAgree":"1","relocationTxt":"\u6211\u613f\u610f\u4e3a\u4e86\u5de5\u4f5c\u642c\u5bb6","workExperience":"4","workYear":"3-5\u5e74","webPage":"","highDegree":"\u9ad8\u4e2d","indate":"2020-07-03 09:51:53","lastEdit":"1593769913","lastEditH":"2020-07-03","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":94,"jobIndustry":["15","30","44","28","37","36"],"jobIndustryStr":"15;30;44;28;37;36","jobIndustryTxt":"\u8d38\u6613\/\u8fdb\u51fa\u53e3;\u6587\u5b57\u5a92\u4f53\/\u51fa\u7248;\u9910\u996e\u4e1a;\u516c\u5173\/\u5e02\u573a\u63a8\u5e7f\/\u4f1a\u5c55;\u4e13\u4e1a\u670d\u52a1(\u54a8\u8be2\u3001\u4eba\u529b\u8d44\u6e90\u3001\u8d22\u4f1a);\u4e2d\u4ecb\u670d\u52a1","jobIndustryFirstTxt":"\u8d38\u6613\/\u8fdb\u51fa\u53e3","jobFunction":["3204","3202","3213","3002","3003","0604"],"jobFunctionStr":"3204;3202;3213;3002;3003;0604","jobFunctionTxt":"\u5ba2\u670d\u4e13\u5458\/\u52a9\u7406;\u5ba2\u670d\u7ecf\u7406;\u7f51\u7edc\/\u5728\u7ebf\u5ba2\u670d;\u6e20\u9053\/\u5206\u9500\u4e13\u5458;\u5ba2\u6237\u4ee3\u8868;\u4eba\u529b\u4e13\u5458","jobFunctionFirstTxt":"\u5ba2\u670d\u4e13\u5458\/\u52a9\u7406","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_936a40b7e840d73a250922146e21e4e58a.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2145","hashId":"c182f930a04936a40b7e821450d73a2509","gid":"0","userId":"1708695","resumeName":"Android 202005071530","nameEn":"yan","nameEnLast":"xintian","nameCn":"\u5fc3\u7530","nameCnLast":"\u989c","nameFull":"xintian","nameEnFull":"xintian yan","nameCnFull":"\u989c\u5fc3\u7530","nameShort":"x***\u7530","gender":"2","genderTxt":"\u5973","birthday":"2009\/05\/28","birthdayShow":"2009\/05\/28","birthYear":"2009","birthMonth":"05","birthDay":"28","wechat":"","wechatImage":"\/images\/resume_attach\/info\/c182f930a04936a40b7e821450d73a2509w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"62684898766","phoneShort":"**********","phoneImage":"\/images\/resume_attach\/info\/c182f930a04936a40b7e821450d73a2509p.png?v=22cf487c471ec5d0199b005b1888205c","email":"123666@123666.com","emailShort":"123666@123666.com","emailImage":"\/images\/resume_attach\/info\/c182f930a04936a40b7e821450d73a2509e.png?v=abbfb5c7a1fdf435b006f20dc16a2c89","marital":"","maritalTxt":null,"location":"2","state":"14","city":"\u5929\u6d25","street":"\u5357\u5f00\u6995\u82d1\u8def58\u53f7\u946b\u8302\u519b\u6c11\u56ed","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u5357\u5f00\u6995\u82d1\u8def58\u53f7\u946b\u8302\u519b\u6c11\u56ed, \u5929\u6d25, \u5929\u6d25","shortAddr":"\u5929\u6d25","middleAddr":"\u5929\u6d25, \u5929\u6d25","immigrationStatus":"5","immigrationStatusTxt":"H-1B","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"1000","salaryDesireUnit":"2","salaryDesireTxt":"1000 \u6bcf\u6708","relocationAgree":"0","relocationTxt":"","workExperience":"4","workYear":"3-5\u5e74","webPage":"","highDegree":"\u4e13\u79d1","indate":"2020-05-07 07:29:02","lastEdit":"1588836542","lastEditH":"2020-05-07","totalView":"0","authority":"2","default":true,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":70,"jobIndustry":["2"],"jobIndustryStr":"2","jobIndustryTxt":"\u8ba1\u7b97\u673a\u786c\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u786c\u4ef6","jobFunction":["2707"],"jobFunctionStr":"2707","jobFunctionTxt":"\u8f6f\u4ef6\u6d4b\u8bd5","jobFunctionFirstTxt":"\u8f6f\u4ef6\u6d4b\u8bd5","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_c182f930a04936a40b7e821450d73a2509.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2144","hashId":"7dc1c7653a4c182f930a02144936a40b7e","gid":"0","userId":"1739940","resumeName":"Apple 202005061531","nameEn":"xin","nameEnLast":"yan","nameCn":"\u989c","nameCnLast":"\u6b23","nameFull":"yan","nameEnFull":"yan xin","nameCnFull":"\u6b23\u989c","nameShort":"y***\u989c","gender":"2","genderTxt":"\u5973","birthday":"2004\/04\/15","birthdayShow":"2004\/04\/15","birthYear":"2004","birthMonth":"04","birthDay":"15","wechat":"","wechatImage":"\/images\/resume_attach\/info\/7dc1c7653a4c182f930a02144936a40b7ew.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"17136872939","phoneShort":"***-***-2939","phoneImage":"\/images\/resume_attach\/info\/7dc1c7653a4c182f930a02144936a40b7ep.png?v=fecc133160b62bb5256259da72b3577b","email":"junxingtian@chineseinla.com","emailShort":"junxin****@chineseinla.com","emailImage":"\/images\/resume_attach\/info\/7dc1c7653a4c182f930a02144936a40b7ee.png?v=aa4e5a54d71e470de0969966325e1c86","marital":"","maritalTxt":null,"location":"2","state":"14","city":"\u5929\u6d25","street":"\u5bb9\u9662\u8def","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u5bb9\u9662\u8def, \u5929\u6d25, \u5929\u6d25","shortAddr":"\u5929\u6d25","middleAddr":"\u5929\u6d25, \u5929\u6d25","immigrationStatus":"5","immigrationStatusTxt":"H-1B","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"1200","salaryDesireUnit":"2","salaryDesireTxt":"1200 \u6bcf\u6708","relocationAgree":"0","relocationTxt":"","workExperience":"3","workYear":"1-3\u5e74","webPage":"","highDegree":"\u672c\u79d1","indate":"2020-05-07 07:29:02","lastEdit":"1588836542","lastEditH":"2020-05-07","totalView":"0","authority":"2","default":true,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":70,"jobIndustry":["1"],"jobIndustryStr":"1","jobIndustryTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobFunction":["2707"],"jobFunctionStr":"2707","jobFunctionTxt":"\u8f6f\u4ef6\u6d4b\u8bd5","jobFunctionFirstTxt":"\u8f6f\u4ef6\u6d4b\u8bd5","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_7dc1c7653a4c182f930a02144936a40b7e.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2141","hashId":"5d6646aad942a34abd6eb21419f44e956e","gid":"0","userId":"468926","resumeName":"\u674e\u5c0f\u4e0904161348","nameEn":"lee","nameEnLast":"xiaosan","nameCn":"\u6653\u53c1","nameCnLast":"\u674e","nameFull":"xiaosan","nameEnFull":"xiaosan lee","nameCnFull":"\u674e\u6653\u53c1","nameShort":"x***\u53c1","gender":"1","genderTxt":"\u7537","birthday":"1996\/06\/16","birthdayShow":"1996\/06\/16","birthYear":"1996","birthMonth":"06","birthDay":"16","wechat":"15822336655","wechatImage":"\/images\/resume_attach\/info\/5d6646aad942a34abd6eb21419f44e956ew.png?v=05f20fd2ac75d54876928ccd4e793202","phone":"15822336655","phoneShort":"***-***-6655","phoneImage":"\/images\/resume_attach\/info\/5d6646aad942a34abd6eb21419f44e956ep.png?v=05f20fd2ac75d54876928ccd4e793202","email":"15822336655@qq.com","emailShort":"158223****@qq.com","emailImage":"\/images\/resume_attach\/info\/5d6646aad942a34abd6eb21419f44e956ee.png?v=053282330cab8b28b71f76c0d1dcec58","marital":"2","maritalTxt":"\u5df2\u5a5a","location":"2","state":"14","city":"\u5929\u6d25\u5e02\u5357\u5f00\u533a","street":"\u6995\u82d1\u8def1\u53f7\u946b\u8302\u79d1\u6280\u56ed","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u6995\u82d1\u8def1\u53f7\u946b\u8302\u79d1\u6280\u56ed, \u5929\u6d25\u5e02\u5357\u5f00\u533a, TIANJIN","shortAddr":"\u5929\u6d25\u5e02\u5357\u5f00\u533a","middleAddr":"\u5929\u6d25\u5e02\u5357\u5f00\u533a, TIANJIN","immigrationStatus":"5","immigrationStatusTxt":"H-1B","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":["1"],"jobTypeTxt":"\u5168\u804c","salaryNow":null,"salaryDesireNum":"1500","salaryDesireUnit":"2","salaryDesireTxt":"1500 \u6bcf\u6708","relocationAgree":"1","relocationTxt":"\u6211\u613f\u610f\u4e3a\u4e86\u5de5\u4f5c\u642c\u5bb6","workExperience":"4","workYear":"3-5\u5e74","webPage":"","highDegree":"\u672c\u79d1","indate":"2020-04-16 05:46:48","lastEdit":"1587016228","lastEditH":"2020-04-15","totalView":"0","authority":"2","default":false,"langNo":1,"langTxt":"\u82f1\u6587","langCnTxt":"\u82f1\u6587","percent":100,"jobIndustry":["1","2"],"jobIndustryStr":"1;2","jobIndustryTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6;\u8ba1\u7b97\u673a\u786c\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobFunction":["0106","0107"],"jobFunctionStr":"0106;0107","jobFunctionTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08;\u8f6f\u4ef6\u5de5\u7a0b\u5e08","jobFunctionFirstTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_5d6646aad942a34abd6eb21419f44e956e.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2139","hashId":"37d097caf1423c97e9cb921395d6646aad","gid":"0","userId":"1746230","resumeName":"7p iPhone new","nameEn":"Xin","nameEnLast":"Yan","nameCn":"\u989c","nameCnLast":"\u6b23","nameFull":"Yan","nameEnFull":"Yan Xin","nameCnFull":"\u6b23\u989c","nameShort":"Y***\u989c","gender":"2","genderTxt":"\u5973","birthday":"1999\/05\/30","birthdayShow":"1999\/05\/30","birthYear":"1999","birthMonth":"05","birthDay":"30","wechat":"","wechatImage":"\/images\/resume_attach\/info\/37d097caf1423c97e9cb921395d6646aadw.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"17136872936","phoneShort":"***-***-2936","phoneImage":"\/images\/resume_attach\/info\/37d097caf1423c97e9cb921395d6646aadp.png?v=03b1d3ff4a523e451c5a539c314e82fb","email":"17136872936@163.com","emailShort":"171368****@163.com","emailImage":"\/images\/resume_attach\/info\/37d097caf1423c97e9cb921395d6646aade.png?v=cc04499ccdee8fbcc867f0f7b22d8c3f","marital":"","maritalTxt":null,"location":"2","state":"14","city":"tianjin","street":"\u6995\u82d1\u8def1\u53f7","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u6995\u82d1\u8def1\u53f7, tianjin, TIANJIN","shortAddr":"tianjin","middleAddr":"tianjin, TIANJIN","immigrationStatus":"4","immigrationStatusTxt":"\u5de5\u5361","workVisa":"0","workVisaTxt":"\u5426","workStatus":"3","workStatusTxt":"\u4e00\u5e74\u5185\u65e0\u6362\u5de5\u4f5c\u8ba1\u5212","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"1000","salaryDesireUnit":"2","salaryDesireTxt":"1000 \u6bcf\u6708","relocationAgree":"0","relocationTxt":"","workExperience":"5","workYear":"5-10\u5e74","webPage":"","highDegree":"\u4e13\u79d1","indate":"2020-04-16 03:23:44","lastEdit":"1587008343","lastEditH":"2020-04-15","totalView":"0","authority":"2","default":true,"langNo":1,"langTxt":"\u82f1\u6587","langCnTxt":"\u82f1\u6587","percent":76,"jobIndustry":["1"],"jobIndustryStr":"1","jobIndustryTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobFunction":["2501"],"jobFunctionStr":"2501","jobFunctionTxt":"\u4e92\u8054\u7f51\u8f6f\u4ef6\u5f00\u53d1\u5de5\u7a0b\u5e08","jobFunctionFirstTxt":"\u4e92\u8054\u7f51\u8f6f\u4ef6\u5f00\u53d1\u5de5\u7a0b\u5e08","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_37d097caf1423c97e9cb921395d6646aad.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2122","hashId":"abdbeb4d8d45a1e3a5aed2122ef41d4887","gid":"0","userId":"68","resumeName":"one plus 7pro","nameEn":"lee","nameEnLast":"sam","nameCn":"\u6563\u6728","nameCnLast":"\u674e","nameFull":"sam","nameEnFull":"sam lee","nameCnFull":"\u674e\u6563\u6728","nameShort":"s***\u6728","gender":"1","genderTxt":"\u7537","birthday":"1997\/05\/01","birthdayShow":"1997\/05\/01","birthYear":"1997","birthMonth":"05","birthDay":"01","wechat":"","wechatImage":"\/images\/resume_attach\/info\/abdbeb4d8d45a1e3a5aed2122ef41d4887w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"21345346","phoneShort":"**********","phoneImage":"\/images\/resume_attach\/info\/abdbeb4d8d45a1e3a5aed2122ef41d4887p.png?v=e09140ee88332774052642e060cae496","email":"645677@123.com","emailShort":"645677@123.com","emailImage":"\/images\/resume_attach\/info\/abdbeb4d8d45a1e3a5aed2122ef41d4887e.png?v=c1c1f0490977fc95fc6cc6454a65d3c0","marital":"","maritalTxt":null,"location":"2","state":"14","city":"\u5929\u6d25","street":"\u6995\u56ed\u8def","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u6995\u56ed\u8def, \u5929\u6d25, \u5929\u6d25","shortAddr":"\u5929\u6d25","middleAddr":"\u5929\u6d25, \u5929\u6d25","immigrationStatus":"5","immigrationStatusTxt":"H-1B","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"900","salaryDesireUnit":"1","salaryDesireTxt":"900 \u6bcf\u5e74","relocationAgree":"0","relocationTxt":"","workExperience":"3","workYear":"1-3\u5e74","webPage":"","highDegree":"\u7855\u58eb","indate":"2020-04-14 09:51:10","lastEdit":"1586857870","lastEditH":"2020-04-14","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":70,"jobIndustry":["1"],"jobIndustryStr":"1","jobIndustryTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobIndustryFirstTxt":"\u8ba1\u7b97\u673a\u8f6f\u4ef6","jobFunction":["0106","0107"],"jobFunctionStr":"0106;0107","jobFunctionTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08;\u8f6f\u4ef6\u5de5\u7a0b\u5e08","jobFunctionFirstTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_abdbeb4d8d45a1e3a5aed2122ef41d4887.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2120","hashId":"44cd7a8f7f402b1be0d482120abdbeb4d8","gid":"0","userId":"28","resumeName":"","nameEn":"Xiong","nameEnLast":"Yu","nameCn":"\u5b87","nameCnLast":"\u718a","nameFull":"Yu","nameEnFull":"Yu Xiong","nameCnFull":"\u718a\u5b87","nameShort":"Y***\u5b87","gender":"2","genderTxt":"\u5973","birthday":"2018\/08\/08","birthdayShow":"2018\/08\/08","birthYear":"2018","birthMonth":"08","birthDay":"08","wechat":"","wechatImage":"\/images\/resume_attach\/info\/44cd7a8f7f402b1be0d482120abdbeb4d8w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"12345673219","phoneShort":"***-***-3219","phoneImage":"\/images\/resume_attach\/info\/44cd7a8f7f402b1be0d482120abdbeb4d8p.png?v=b71eb6fe93dee3ce53a22bf53f60e642","email":"2854673219@qq.com","emailShort":"28546****@qq.com","emailImage":"\/images\/resume_attach\/info\/44cd7a8f7f402b1be0d482120abdbeb4d8e.png?v=1cb0385c8f69c45d7ab4b1d52f4a8013","marital":"","maritalTxt":null,"location":"2","state":"14","city":"","street":"","zipCode":null,"locationTxt":"\u4e2d\u56fd\u5927\u9646","fullAddr":"\u5929\u6d25","shortAddr":"\u4e2d\u56fd\u5927\u9646","middleAddr":"\u5929\u6d25","immigrationStatus":"6","immigrationStatusTxt":"F-1\u53caOPT","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"4","salaryDesireUnit":"2","salaryDesireTxt":"4 \u6bcf\u6708","relocationAgree":"0","relocationTxt":"","workExperience":"1","workYear":"\u65e0\u7ecf\u9a8c","webPage":"","highDegree":"\u9ad8\u4e2d","indate":"2020-03-23 03:06:33","lastEdit":"1584932793","lastEditH":"2020-03-22","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":58,"jobIndustry":[],"jobIndustryStr":"","jobIndustryTxt":"","jobIndustryFirstTxt":"","jobFunction":["0106"],"jobFunctionStr":"0106","jobFunctionTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08","jobFunctionFirstTxt":"\u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08","completeBase":true,"completeJob":true,"viewUrl":"\/resume\/task_viewResume\/id_44cd7a8f7f402b1be0d482120abdbeb4d8.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2117","hashId":"3937230de3492bbd31f8e21171b5230e3e","gid":"0","userId":"2361880","resumeName":"","nameEn":"Kim","nameEnLast":"JJ","nameCn":"","nameCnLast":"","nameFull":"JJ","nameEnFull":"JJ Kim","nameCnFull":"","nameShort":"J***m","gender":"2","genderTxt":"\u5973","birthday":"2002\/12\/24","birthdayShow":"2002\/12\/24","birthYear":"2002","birthMonth":"12","birthDay":"24","wechat":"","wechatImage":"\/images\/resume_attach\/info\/3937230de3492bbd31f8e21171b5230e3ew.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"11111111111","phoneShort":"**********","phoneImage":"\/images\/resume_attach\/info\/3937230de3492bbd31f8e21171b5230e3ep.png?v=adbc91a43e988a3b5b745b8529a90b61","email":"ekhelpservice@gmail.com","emailShort":"ekhelps****@gmail.com","emailImage":"\/images\/resume_attach\/info\/3937230de3492bbd31f8e21171b5230e3ee.png?v=338679f2a3e724e84000426d55ade0a5","marital":"","maritalTxt":null,"location":"1","state":"","city":"","street":"","zipCode":"92802","locationTxt":"\u7f8e\u56fd","fullAddr":"92802","shortAddr":"\u7f8e\u56fd","middleAddr":"\u7f8e\u56fd","immigrationStatus":"3","immigrationStatusTxt":"\u7eff\u5361","workVisa":"0","workVisaTxt":"\u5426","workStatus":"4","workStatusTxt":"\u89c2\u671b\u6709\u597d\u7684\u673a\u4f1a\u518d\u8003\u8651","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"","salaryDesireUnit":"","salaryDesireTxt":"","relocationAgree":"0","relocationTxt":"","workExperience":"2","workYear":"1\u5e74\u4ee5\u4e0b","webPage":"","highDegree":null,"indate":"2020-03-18 00:28:20","lastEdit":"1584491399","lastEditH":"2020-03-17","totalView":"0","authority":"2","default":false,"langNo":1,"langTxt":"\u82f1\u6587","langCnTxt":"\u82f1\u6587","percent":38,"jobIndustry":[],"jobIndustryStr":"","jobIndustryTxt":"","jobIndustryFirstTxt":"","jobFunction":["1205"],"jobFunctionStr":"1205","jobFunctionTxt":"\u5bb6\u6559","jobFunctionFirstTxt":"\u5bb6\u6559","completeBase":true,"completeJob":false,"viewUrl":"\/resume\/task_viewResume\/id_3937230de3492bbd31f8e21171b5230e3e.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2116","hashId":"4ba3c163cd43937230de3211692bbd31f8","gid":"0","userId":"463922","resumeName":"","nameEn":"Feng","nameEnLast":"Fanny","nameCn":"","nameCnLast":"","nameFull":"Fanny","nameEnFull":"Fanny Feng","nameCnFull":"","nameShort":"F***g","gender":"2","genderTxt":"\u5973","birthday":"","birthdayShow":"","wechat":"","wechatImage":"\/images\/resume_attach\/info\/4ba3c163cd43937230de3211692bbd31f8w.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"9179165226","phoneShort":"***-***-5226","phoneImage":"\/images\/resume_attach\/info\/4ba3c163cd43937230de3211692bbd31f8p.png?v=ae365f6dde1c50a448f4fa2018458f32","email":"huifangfeng129@gmail.com","emailShort":"huifang****@gmail.com","emailImage":"\/images\/resume_attach\/info\/4ba3c163cd43937230de3211692bbd31f8e.png?v=d27f7d2c7ae8a5b28631697f644c9b68","marital":"","maritalTxt":null,"location":"1","state":"","city":"","street":"","zipCode":"89147","locationTxt":"\u7f8e\u56fd","fullAddr":"89147","shortAddr":"\u7f8e\u56fd","middleAddr":"\u7f8e\u56fd","immigrationStatus":"2","immigrationStatusTxt":"\u7f8e\u56fd\u516c\u6c11","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"","salaryDesireUnit":"","salaryDesireTxt":"","relocationAgree":"0","relocationTxt":"","workExperience":"6","workYear":"10\u5e74\u4ee5\u4e0a","webPage":"","highDegree":null,"indate":"2020-03-08 00:12:51","lastEdit":"1583626456","lastEditH":"2020-03-07","totalView":"0","authority":"2","default":false,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":33,"jobIndustry":["16","17","18"],"jobIndustryStr":"16;17;18","jobIndustryTxt":"\u6279\u53d1\/\u96f6\u552e;\u5feb\u901f\u6d88\u8d39\u54c1(\u98df\u54c1\u3001\u996e\u6599\u3001\u5316\u5986\u54c1);\u670d\u88c5\/\u7eba\u7ec7\/\u76ae\u9769","jobIndustryFirstTxt":"\u6279\u53d1\/\u96f6\u552e","jobFunction":[],"jobFunctionStr":"","jobFunctionTxt":"","jobFunctionFirstTxt":"","completeBase":true,"completeJob":false,"viewUrl":"\/resume\/task_viewResume\/id_4ba3c163cd43937230de3211692bbd31f8.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2115","hashId":"bdc4626aa144ba3c163cd21153937230de","gid":"0","userId":"2360142","resumeName":"","nameEn":"fengming","nameEnLast":"Ming","nameCn":"Fengming","nameCnLast":"Deng","nameFull":"Ming","nameEnFull":"Ming fengming","nameCnFull":"DengFengming","nameShort":"M***g","gender":"2","genderTxt":"\u5973","birthday":"1969\/06\/09","birthdayShow":"1969\/06\/09","birthYear":"1969","birthMonth":"06","birthDay":"09","wechat":"","wechatImage":"\/images\/resume_attach\/info\/bdc4626aa144ba3c163cd21153937230dew.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"7024908956","phoneShort":"***-***-8956","phoneImage":"\/images\/resume_attach\/info\/bdc4626aa144ba3c163cd21153937230dep.png?v=832ba15c6df4db5fbc911dc0772e614d","email":"305453765@qq.com","emailShort":"30545****@qq.com","emailImage":"\/images\/resume_attach\/info\/bdc4626aa144ba3c163cd21153937230dee.png?v=478a69569161394f59bb426f20d02e65","marital":"","maritalTxt":null,"location":"1","state":"NV","city":"","street":"","zipCode":"89113","locationTxt":"\u7f8e\u56fd","fullAddr":"\u5185\u534e\u8fbe, 89113","shortAddr":"\u7f8e\u56fd","middleAddr":"\u5185\u534e\u8fbe","immigrationStatus":"3","immigrationStatusTxt":"\u7eff\u5361","workVisa":"0","workVisaTxt":"\u5426","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"","salaryDesireUnit":"","salaryDesireTxt":"","relocationAgree":"0","relocationTxt":"","workExperience":"6","workYear":"10\u5e74\u4ee5\u4e0a","webPage":"","highDegree":null,"indate":"2020-03-05 03:26:56","lastEdit":"1583378882","lastEditH":"2020-03-04","totalView":"0","authority":"2","default":true,"langNo":0,"langTxt":"\u4e2d\u6587","langCnTxt":"\u4e2d\u6587","percent":38,"jobIndustry":["44","45","46","47","48"],"jobIndustryStr":"44;45;46;47;48","jobIndustryTxt":"\u9910\u996e\u4e1a;\u9152\u5e97\/\u65c5\u6e38;\u5a31\u4e50\/\u4f11\u95f2\/\u4f53\u80b2;\u7f8e\u5bb9\/\u4fdd\u5065;\u751f\u6d3b\u670d\u52a1","jobIndustryFirstTxt":"\u9910\u996e\u4e1a","jobFunction":["3816"],"jobFunctionStr":"3816","jobFunctionTxt":"\u7f1d\u7eab\u5de5","jobFunctionFirstTxt":"\u7f1d\u7eab\u5de5","completeBase":true,"completeJob":false,"viewUrl":"\/resume\/task_viewResume\/id_bdc4626aa144ba3c163cd21153937230de.html","banView":true,"avatarDft":true,"avatarSrc":"\/images\/home_page\/logo_gray.png"},{"id":"2114","hashId":"51174add1c4bdc4626aa121144ba3c163c","gid":"48","userId":"2360129","resumeName":"","nameEn":"sun","nameEnLast":"ying","nameCn":"","nameCnLast":"","nameFull":"ying","nameEnFull":"ying sun","nameCnFull":"","nameShort":"y***n","gender":"2","genderTxt":"\u5973","birthday":"1975\/06\/05","birthdayShow":"1975\/06\/05","birthYear":"1975","birthMonth":"06","birthDay":"05","wechat":"","wechatImage":"\/images\/resume_attach\/info\/51174add1c4bdc4626aa121144ba3c163cw.png?v=d41d8cd98f00b204e9800998ecf8427e","phone":"0032479677143","phoneShort":"**********","phoneImage":"\/images\/resume_attach\/info\/51174add1c4bdc4626aa121144ba3c163cp.png?v=db3b9d9993d96e2bebdf0392d4fa45d2","email":"Yingying0614@hotmail.com","emailShort":"Yingyi****@hotmail.com","emailImage":"\/images\/resume_attach\/info\/51174add1c4bdc4626aa121144ba3c163ce.png?v=83ffe53a3d17a78608257938c5848ed6","marital":"","maritalTxt":null,"location":"6","state":"","city":"","street":"","zipCode":null,"locationTxt":"\u5176\u4ed6\u5730\u533a","fullAddr":"","shortAddr":"\u5176\u4ed6\u5730\u533a","middleAddr":"\u5176\u4ed6\u5730\u533a","immigrationStatus":"7","immigrationStatusTxt":"\u5176\u4ed6\u8eab\u4efd","workVisa":"1","workVisaTxt":"\u662f","workStatus":"1","workStatusTxt":"\u76ee\u524d\u6b63\u5728\u627e\u5de5\u4f5c","jobTypeArray":[],"jobTypeTxt":"","salaryNow":null,"salaryDesireNum":"","salaryDesireUnit":"","salaryDesireTxt":"","relocationAgree":"0","relocationTxt":"","workExperience":"6","workYear":"10\u5e74\u4ee5\u4e0a","webPage":"","highDegree":"\u672c\u79d1","indate":"2020-03-03 08:47:47","lastEdit":"1583225267","lastEditH":"2020-03-03","totalView":"1","authority":"2","default":true,"langNo":1,"langTxt":"\u82f1\u6587","langCnTxt":"\u82f1\u6587","percent":47,"jobIndustry":["16","15","17","20","45","46"],"jobIndustryStr":"16;15;17;20;45;46","jobIndustryTxt":"\u6279\u53d1\/\u96f6\u552e;\u8d38\u6613\/\u8fdb\u51fa\u53e3;\u5feb\u901f\u6d88\u8d39\u54c1(\u98df\u54c1\u3001\u996e\u6599\u3001\u5316\u5986\u54c1);\u5962\u4f88\u54c1\/\u6536\u85cf\u54c1\/\u5de5\u827a\u54c1\/\u73e0\u5b9d;\u9152\u5e97\/\u65c5\u6e38;\u5a31\u4e50\/\u4f11\u95f2\/\u4f53\u80b2","jobIndustryFirstTxt":"\u6279\u53d1\/\u96f6\u552e","jobFunction":["0203","0226","4901","4909","4919","4904"],"jobFunctionSt

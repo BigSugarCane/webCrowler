@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/focus/mid_17.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>周末去哪儿 - 拉斯维加斯华人资讯网</title> 
+  <meta name="keywords" content="周末去哪儿,洛杉矶,嘉年华,万圣节,圣诞嘉年华,圣盖博感恩节火鸡跑跑,洛杉矶电影节,阵屋拉面,恐怖蜡像馆,假面舞,跳蚤市场,中国彩灯节,许留山,圣诞狗狗,圣诞节派对,环球影城跨年,李玟世界巡回演唱会,洛杉矶动物园,电音倒数,小东京,亨廷顿,独立日,周末去哪,Rose,国庆,烟花秀,折扣,周末"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/focus/mid_17.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="top"> 
+    <div class="lt-left"> <a href="/live.html" class="lt-home">首页</a> <span class="lt-category">分类</span> <span class="lt-menu">栏目</span> 
+     <div class="m-search-box" id="videosearch"> 
+      <input type="text" class="m-search-input search_input" placeholder="请输入您要查询的内容"> 
+      <div class="m-search-btn button-panel">
+       <span class="m-search-icon"></span>
+      </div> 
+     </div> 
+    </div> 
+    <div class="lt-right"> 
+    </div> 
+   </div> 
+   <div id="m-live-area-category"> 
+    <div class="m-live-block-category"> <a href="/live/category/1.html">美国法律</a> <a href="/live/category/2.html">保险金融</a> <a href="/live/category/3.html">留学美国</a> <a href="/live/category/4.html">生活日常</a> <a href="/live/category/5.html">美国医疗</a> <a href="/live/category/6.html">美国房产</a> <a href="/live/category/7.html">休闲娱乐</a> <a href="/live/category/8.html">汽车交通</a> 
+    </div> 
+   </div> 
+   <div id="m-live-area-menu"> 
+    <div class="m-live-block-menu"> <a href="/focus.html">焦点播报</a> <a href="/focus/mId_2.html">焦点早知道</a> <a href="/focus/mId_3.html">焦点追踪</a> <a href="/focus/mId_4.html">焦点快报</a> <a href="/focus/mId_7.html">焦点突发</a> <a href="/focus/mId_8.html">焦点连线</a> <a href="/focus/mId_11.html">洛城快报</a> <a href="/focus/mId_12.html">财经焦点</a> <a href="/focus/mId_17.html">周末去哪儿</a> <a href="/focus/mId_18.html">洛城午间报</a> <a href="/focus/mId_19.html">焦点大家谈</a> <a href="/focus/mId_20.html">纽约头条</a> <a href="/focus/mId_33.html">美国头条</a> <a href="/live/menu/6.html">法律月报</a> <a href="/live/menu/7.html">移民热线</a> <a href="/live/menu/8.html">看房直播间</a> <a href="/live/menu/9.html">美国升学直通车</a> <a href="/live/menu/10.html">李想律师以案说法</a> <a href="/live/menu/11.html">移民排期抢先看</a> <a href="/live/menu/1.html">一周龙珠汇</a> <a href="/live/menu/2.html">热辣点评</a> <a href="/live/menu/3.html">焦点连线</a> <a href="/live/menu/12.html">信不信由你</a> <a href="/live/menu/16.html">焦点大家谈</a> <a href="/live/menu/5.html">笑生说法</a> <a href="/live/menu/14.html">空中市场</a> <a href="/live/menu/13.html">法律援助热线</a> <a href="/live/menu/17.html">邓洪说法</a> <a href="/live/menu/18.html">杨梅娥律师移民访谈</a> <a href="/live/menu/19.html">周末侃侃侃</a> <a href="/live/menu/20.html">洛城情报站</a> <a href="/live/menu/21.html">枫林夜话</a> <a href="/live/menu/22.html">焦点观察</a> <a href="/live/menu/23.html">法规观察室</a> <a href="/live/menu/24.html">纽约生活头条</a> <a href="/live/menu/25.html">总统推了啥</a> <a href="/live/menu/26.html">洛城早知道</a> <a href="/live/menu/27.html">全球新闻头条</a> <a href="/live/menu/28.html">实时追踪</a> <a href="/live/menu/29.html">周律议案厅</a> <a href="/live/menu/30.html">文美大学申请规划</a> <a href="/live/menu/31.html">新闻X英语</a> <a href="/live/menu/52.html">湾区早知道</a> <a href="/live/menu/53.html">新闻日日睇</a> <a href="/live/menu/55.html">新闻知多D</a> <a href="/live/menu/56.html">湾区焦点</a> <a href="/live/menu/58.html">西雅图焦点</a> <a href="/live/menu/61.html">焦点周报</a> <a href="/live/menu/62.html">沙雕新闻</a> <a href="/live/menu/63.html">法政博谈</a> <a href="/live/menu/64.html">周六十点半</a> <a href="/live/menu/15.html">其它</a> 
+    </div> 
+   </div>
+   <div class="video_title pull_margin_top8"> 
+    <div class="vtitle_block"> <span class="icon"><i></i></span> 
+    </div> 
+    <div class="vtitle_block"> <span class="vtitle"> <span>周末去哪儿</span> </span> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/video.css?v=v1638" type="text/css" media="screen"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/focus.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <div class="vrow vlist_row"> 
+    <div class="col-md-8 vleft" id="main"> 
+     <div class="main_block"> 
+      <div class="tabPage" id="tabPage"> 
+       <ul> 
+        <li class="active"><a href="/focus/mId_17.html" onclick=""><span>最新</span></a></li> 
+        <li><a href="/focus/mId_17/sort_2.html" onclick=""><span>热门</span></a></li> 
+        <li><a href="/focus/mId_17/sort_3.html" onclick=""><span>评论</span></a></li> 
+       </ul> 
+      </div> 
+      <div class="v_equal_list col1 rowf2 itt_detail_con" _colnum="1" _actionnum="1" _arrowpos> 
+       <div class="v_equal_cell"> <a href="/focus/id_2971.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2971.html" target="_blank" title="2020鼠年十二生肖运势解析！唐人街除夕夜迎春典礼、佛光山西来寺新年活动、环球影城中国新年庆典……周末去哪儿(春节特别篇）Jan 23，2020">
+          <div class="v_equal_name">
+           2020鼠年十二生肖运势解析！唐人街除夕夜迎春典礼、佛光山西来寺新年活动、环球影城中国新年庆典……周末去哪儿(春节特别篇）Jan 23，2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>52分钟28秒</span> <span>851 views</span> <span>01/23</span> 
+         </div> 
+         <div class="v_equal_des">
+          唐人街天后宫除夕夜迎春典礼 时间：1月24日 10:00PM - 25日 12:30AM 地点：Thien Hau Temple, 756 Yale St, Los Angele, CA 90012 门票：免费 网站：http://chinatownla.com/wp1/event/midnight-temple-ceremony/?instance_id=504 佛光山西来寺2020新年活动 时间：1月24日-25日 地点：3456 Glenmark Drive, Hacienda Heights, CA 91745 门票：免费 网站：https://www.fgs.org.tw/events/2020letter/ 南海岸广场购物中心新春活动 时间：1月23日-2月9日 地点：South Coast Plaza 3333 Bristol St, Costa Mesa, CA 门票：免费 网站：https://www.southcoastplaza.com/ 环球影城中国新年庆典 时间：1月23日至2月9日 地点：Universal Studios Hollywood Universal Studios Blvd, Los Angeles, CA 网站：https://www.universalstudioshollywood.com/web/en/us/things-to-do/events-and-seasonal-activities/lunar-new-year 圣塔莫尼卡广场迎新年活动 时间：2019年1月25日 地点：395 Santa Monica Place, Santa Monica, CA 90401 官网：https://www.santamonicaplace.com/ 亚太博物馆农历新年庆典 时间：1月25日 11am-5pm 地点：USC Pacific Asia Museum 46 North Los Robles Ave., Pasadena, California 91101 门票：免费 网站：https://pacificasiamuseum.usc.edu/
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2911.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2911.html" target="_blank" title="中国南北方春节大不同!尤雅刘恺威演唱会!比弗利山庄中国新年庆典!华人工商大展!海外春晚! 周末去哪儿 Jan 16,2020">
+          <div class="v_equal_name">
+           中国南北方春节大不同!尤雅刘恺威演唱会!比弗利山庄中国新年庆典!华人工商大展!海外春晚! 周末去哪儿 Jan 16,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>22分钟49秒</span> <span>567 views</span> <span>01/16</span> 
+         </div> 
+         <div class="v_equal_des">
+          台湾歌后尤雅携手魅力男神刘恺威精彩献唱！ 时间：Jan 19，2020 周日下午五点 地点：Agua Caliente Resort Casino Spa Rancho Mirage（热水镇） 32-250 Bob Hope Dr, Rancho Mirage, CA 92270 门票：$58/$88/$128/$168/$188 网站：https://www.hotwatercasino.com/chinese-new-year 第9届比弗利山庄中国新年庆典 时间：1/18 下午3：00 – 下午5：00 地点：Saban Theatre /8440 Wilshire Blvd, Beverly Hills, CA 90211 门票：＄10 网站：http://www.events365.us/event/beverly-hills/ The Americana at Brand 贺新岁迎金鼠庆祝活动 时间：1/19/20 下午2：00 – 下午 5：00 地点：（The Americana at Brand）889 Americana Way. Glendale, CA 91210 门票：免费 网站：https://americanaatbrand.com/ 华人工商大展 时间：1/18 – 1/19 上午10：00 – 下午 7：00 地点：2705 Fairplex Dr, La Verne, CA 91750 门票：$12 65岁以上和13岁以下$10 网站：http://www.asianamericanexpo.com/Visitors# 海外春晚 少儿专场 时间：1/18 下午两点 地点：100 N BARRANCA ST STE150,WEST COVINA, CA 91791 门票：$20USD（可获10张奖券） 网站：www.usnationaltv.com 迪士尼乐园2020农历新年 时间：1/17 – 2/9 地点：Disneyland Park /1313 Disneyland Dr, Anaheim, CA 92802 门票：$104.00 － $150.00 网站：https://disneyland.disney.go.com/events-tours/lunar-new-year/ Westminster农历新年花市 时间：即日起-23日 10a.m.-10p.m. 地点：Disneyland Park /1313 Disneyland Dr, Anaheim, CA 92802 门票：$104.00 － $150.00 网站：https://disneyland.disney.go.com/events-tours/lunar-new-year/
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2853.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2853.html" target="_blank" title="串串界的传说排5小时也要吃的“马路边边”!帕萨迪纳春节庆祝活动!Monterey Park鼠年庆祝活动!长滩市漫画展!洛杉矶乐高盛会!洛杉矶地铁无裤日! 周末去哪儿Jan 9,2020">
+          <div class="v_equal_name">
+           串串界的传说排5小时也要吃的“马路边边”!帕萨迪纳春节庆祝活动!Monterey Park鼠年庆祝活动!长滩市漫画展!洛杉矶乐高盛会!洛杉矶地铁无裤日! 周末去哪儿Jan 9,2020
+          </div></a> 
+         <div class="v-name-view-time"> <span>12分钟27秒</span> <span>300 views</span> <span>01/09</span> 
+         </div> 
+         <div class="v_equal_des">
+          马路边边LA直营店地址： 18194 Colima Rd STE A, Rowland Heights, CA 91748 帕萨迪纳春节庆祝活动 时间：1/12/2020 周日 下午2-5pm 地点：Marengo Elementary PTA（马伦戈小学社区） 1400 Marengo Ave, South Pasadena, CA 91030 门票：免费 网站https://www.eventbrite.com/e/marengo-lunar-new-year-festival-2020-tickets-83246746259#map-target Monterey Park鼠年庆祝活动 时间：1/11 早上10点至晚上9点 1/12 早上10点至晚上7点 地点：City of Monterey Park on Garvey Ave 门票：免费 网站：http://lunarnewyears.com/ Long Beach ComicExpo长滩市漫画展 时间：1月11日—12日 Sat 10am-6pm︱Sun 11am-5pm 地点：Long Beach Convention Center （300 E. Ocean Blvd., Long Beach, CA 90802 ） 门票：周六票 $40︱周日票$25︱周末票 $55︱︱10岁或以下免费 网站：http://longbeachcomicexpo.com Bricks LA洛杉矶乐高盛会 时间：1月11-12日 Sat 9 am - 5 pm︱Sun 10 am - 4 pm 地点：Pasadena Convention Center （300 E Green St, Pasadena, CA 91101） 门票：$5 and kids under 5 are free! 网站：http://www.bricksla.com/ 洛杉矶地铁无裤日 时间：1月12日 1pm － 3pm 地点： LA Metro System。 -Del Mar station on the Gold Line in Pasadena -Atlantic station on the Gold Line in East Los Angeles -Willowbrook/Rosa Parks station on the A Line (Blue) in Willowbrook -North Hollywood station on the Red Line in North Hollywood -Wilshire/Western station on the Purple Line in Koreatown -Culver City station on the E Line (Expo) in Culver City 门票：地铁票价自付 网站： www.facebook.com/events/468762453826566/ 更多活动信息，请订阅洛杉矶华人资讯网Newsletter https://www.chineseinla.com/newsletter/task_history.html
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2739.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2739.html" target="_blank" title="迪士尼卡通明星倾巢而出冰上起舞!李玟世界巡回演唱会!洛杉矶动物园玛丽皇后号迪士尼新年烟火倒数！周末去哪儿Dec.26.2019">
+          <div class="v_equal_name">
+           迪士尼卡通明星倾巢而出冰上起舞!李玟世界巡回演唱会!洛杉矶动物园玛丽皇后号迪士尼新年烟火倒数！周末去哪儿Dec.26.2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>25分钟43秒</span> <span>286 views</span> <span>2019/12/26</span> 
+         </div> 
+         <div class="v_equal_des">
+          李玟YOU&amp;I世界巡回演唱会 日期：12月28日 晚上9点到晚上11点 地址：3799 Las Vegas Blvd, Las Vegas, NV89109 门票： $ $118/ $188/ $228/ $268 / VIP $328 玫瑰花车游行 日期：1月1日 地址：Pasadena 官网：www.tournamentofroses.com/ 电音倒数派对 日期：12月31日 下午4点 至1月1日 凌晨2点 门票：$120.00 – $220.00 地址：Nos Events Center/689 S E St.,San Bernardino, CA 92408 官网： countdownnye.com 洛杉矶动物园新年家庭欢 日期：12月31日 晚上6点至晚上8点 门票：$49-$74 地址：L.A. Zoo/5333 Zoo Dr, Los Angeles, CA 90027 官网：www.lazoo.org Marina del Rey新年焰火庆典 日期：12月31日 晚上7点 至 1月01日 凌晨1点 地址：Burton Chace Park：13650 Mindanao Way, Marina del Rey, CA 90292 官网：https://www.visitmarinadelrey.com/events/christmas 洛杉矶 Grand Park 新年倒数 日期：12月31日晚上8点 至 1月1日 凌晨1点 地址：210 W Temple St, Los Angeles 官网：nyela.grandparkla.org 玛丽皇后号跨年活动 日期：12月31日 晚上8点 至 1月1日 凌晨1点 地址：1126 Queens Hwy, Long Beach, CA 90802 官网：https://www.queenmary.com/calendar-of-events/new-years-eve/nye/ 迪士尼乐园新年烟火倒数 时间：12月31日 晚上9点 至 1月1日 凌晨0点 地址：disneyland dr,Anaheim CA92802 官网：disneyland.disney.go.com/calendars/day/2019-12-31 环球影城跨年庆典 时间：12月31日 晚上21:00 至 1月01日 凌晨2点 地址：100 universal city plaza, universal city CA91608 官网：https://www.universalstudioshollywood.com
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2693.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2693.html" target="_blank" title="一生总要看一次的歌舞剧《胡桃匣子》！黎耀祥丶朱咪咪北美同台！迪士尼圣诞派对小东京圣诞派对游船灯饰游行！周末去哪儿Dec 19, 2019">
+          <div class="v_equal_name">
+           一生总要看一次的歌舞剧《胡桃匣子》！黎耀祥丶朱咪咪北美同台！迪士尼圣诞派对小东京圣诞派对游船灯饰游行！周末去哪儿Dec 19, 2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>19分钟14秒</span> <span>232 views</span> <span>2019/12/19</span> 
+         </div> 
+         <div class="v_equal_des">
+          一生必看的芭蕾舞剧“胡桃匣子” 黎耀祥丶朱咪咪北美同台陪您过圣诞 2019圣诞派对游船灯饰游行 迪士尼圣诞派对 小东京日本文化协会圣诞派对 圣诞免费送玩具活动 猫咪领养活动
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2667.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2667.html" target="_blank" title="甜品店”祖师爷”进驻尔湾!圣诞纸雕展!圣诞老人北极村!圣诞节酒吧马拉松派对！周末去哪儿 Dec 12，2019">
+          <div class="v_equal_name">
+           甜品店”祖师爷”进驻尔湾!圣诞纸雕展!圣诞老人北极村!圣诞节酒吧马拉松派对！周末去哪儿 Dec 12，2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>15分钟4秒</span> <span>263 views</span> <span>2019/12/12</span> 
+         </div> 
+         <div class="v_equal_des">
+          许留山Hui Lau Shan 地址: 5365 Alton Pkwy, Unit M, Irvine, CA 92604 营业时间: 周一：1:00pm-8:00pm，周二-周日：1:00pm-10:00pm 圣诞纸雕展 时间：12月13日 10:00am 至 12月15日 10:00pm 地点：189 The Grove Dr, Los Angeles, CA 90036 价钱：免费 圣诞老人北极村 时间：12月13日 11:00am 至 12月30日 11:00pm 地点：1147 Palmetto St, Los Angeles, CA 90013 价钱：25-30 洛杉矶摇滚跳蚤市场 时间：12月14日 11:00am 至 12月14日 4:00pm 地点：448 S Main St, Los Angeles, CA 90013 价钱：免费 圣诞狗狗活动 时间：12月14日 11:00am 至 12月14日 2:00pm 地点：8555 Beverly Blvd, Los Angeles, CA 90048 价钱：免费 狗狗圣诞派对 时间：12月14日 2:00pm 至 12月14日 6:00pm 地点：4824 Vineland Ave, Los Angeles, CA 91601 价钱：免费, 但是圣诞老人合影20 圣诞节酒吧马拉松派对 时间：12月14日 4:00pm 至 12月14日 11:59pm 地点：Downtown Los Angeles 价钱：$15
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2666.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2666.html" target="_blank" title="华人区最正宗&quot;日本寿司&quot;巷子深处&quot;隐藏的宝石&quot;!圣诞节活动大汇总!洛杉矶下雪嘉年华！周末去哪儿 Dec 05，2019">
+          <div class="v_equal_name">
+           华人区最正宗"日本寿司"巷子深处"隐藏的宝石"!圣诞节活动大汇总!洛杉矶下雪嘉年华！周末去哪儿 Dec 05，2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>14分钟26秒</span> <span>369 views</span> <span>2019/12/05</span> 
+         </div> 
+         <div class="v_equal_des">
+          Makomae Japanese Cuisine 地址: 868 N Diamond Bar Blvd, Diamond Bar, CA 91765 电话: 909-861-6537 营业时间: 周一到周六 11:30am-2:00pm 5:00pm-9:00pm 圣诞节点灯活动 时间: 圣诞晚会从2019年11月29日下午5点开始, 如果天气没有特别的问题, 会一直会持续到12月30日.第一班火车从下午5点开始, 最后一班火车是周一到周四晚上8点, 周五周六周日晚上9点. 地点: 4400 Crystal Springs Drive, Los Angeles, CA 90027 http://m.griffithparktrainrides.com/holiday-lights-festival-train 洛杉矶年度圣诞晚会 时间: 12月24日 下午3点到6点 地点: Dorothy Chandler Pavilion of the Music Center, 135 N. Grand Ave., Los Angeles,CA 90012 网址:https://www.musiccenter.org/tickets/events-by-the-music-center/holidaycelebration/ Chinese Lantern Festival 中国彩灯节 时间：11月28日 5:30pm 至 1月5日 9:00pm 地点：1101 W McKinley Ave, Pomona, CA 91768 价钱：$16 官网：goldstar.com/events/pomona-ca/magical-chinese-lantern-festival-tickets-1 艺术家和跳蚤市场 日期:截止到12月21日下午5点 网站： artistsandfleas.com/losangeles 洛杉矶下雪嘉年华 时间：12月6日 6:00pm 至10:30pm 地点：2010 Stadium Way, Los Angeles, CA 90026 官网：snowdayla.com 节日圣诞嘉年华 时间：12月7日 2:00pm 至5:00pm 地点：23537 Calabasas Road, Calabasas, CA 91302 官网：leonisadobemuseum.org
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2665.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2665.html" target="_blank" title="探访洛杉矶最好吃的拉面店!洛杉矶电影节!洛杉矶动物园圣诞灯!圣盖博感恩节火鸡跑跑!南加州大学柯基见面会!洛杉矶水上河灯节!岳云鹏世界巡演! 周末去哪儿Nov 14,2019">
+          <div class="v_equal_name">
+           探访洛杉矶最好吃的拉面店!洛杉矶电影节!洛杉矶动物园圣诞灯!圣盖博感恩节火鸡跑跑!南加州大学柯基见面会!洛杉矶水上河灯节!岳云鹏世界巡演! 周末去哪儿Nov 14,2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>13分钟34秒</span> <span>310 views</span> <span>2019/11/14</span> 
+         </div> 
+         <div class="v_equal_des">
+          视频简介： JINYA Ramen Bar 阵屋拉面 700 Wilshire Blvd Suite B, Los Angeles, CA 90017 (213) 628-3736 11：00-23：00 AFI Fest 2019 (洛杉矶电影节) 活动时间：11月14日中午 12:00 至11月21日下午 11:30 活动地址：5410 Hollywood Blvd, Los Angeles, CA 90027 活动网站：fest.afi.com L.A. Zoo Lights (洛杉矶动物园圣诞灯) 活动时间：11月15日 6:00pm 至 1月5日 10:00pm 活动地点：5333 Zoo Dr, Los Angeles, CA 90027 活动价钱：$11 活动官网：lazoolights.org San Gabriel 圣盖博感恩节火鸡跑跑 活动时间：11月16日 上午 7:00 至 9:00 活动地点：South Ramona St &amp; Wells St, San Gabriel, CA 91776 活动票价：$20 -35 活动网站：sangabrielcity.com/1411/Turkey-Trot 南加州大学柯基见面会 活动时间：11月17日 10:00am 至 11月17日 1:00pm 活动地点：3551 Trousdale Pkwy, Los Angeles, CA 90089 活动价钱：免费 活动官网：facebook.com/events/432220794037267 洛杉矶水上河灯节 活动时间：11月16日 下午 4:00 至 9:30 活动地点：750 S Santa Anita Ave, South El Monte, CA 91733 活动票价：$25-40 活动官网：WaterLanternFestival.com
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2664.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2664.html" target="_blank" title="直击洛杉矶华人区万圣节现场: 中国僵尸华人鬼屋千奇百怪! 西好莱坞万圣节街头派对! 洛杉矶秋季嘉年华! 南瓜投掷大赛! 周末去哪儿Oct 31,2019">
+          <div class="v_equal_name">
+           直击洛杉矶华人区万圣节现场: 中国僵尸华人鬼屋千奇百怪! 西好莱坞万圣节街头派对! 洛杉矶秋季嘉年华! 南瓜投掷大赛! 周末去哪儿Oct 31,2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>10分钟58秒</span> <span>970 views</span> <span>2019/10/31</span> 
+         </div> 
+         <div class="v_equal_des">
+          西好莱坞万圣节街头派对 地点:Santa Monica Blvd，Doheny Dr 与 La Cienega Blvd 之间 官网:https://www.visitwesthollywood.com/halloween-carnaval/ 时间:6::00pm——11:00pm 费用: 免费 洛杉矶秋季嘉年华 LA Fall Fair 时间：10/31-11/3 具体开放时间请查看官网 地址：1600 Rosemead Blvd, South El Monte, CA 费用：$15 详情：lafallfair.com 南瓜投掷大赛 PUMPKIN LAUNCH 时间：11月2日10：00 - 14：00 地点：Cal State Fullerton 地址：800 N. State College Blvd，Fullerton, CA 费用：免费 详情：https://oc.discoverycube.org/event/pumpkinlaunch/ 洛杉矶亡灵节游行 时间：11月02日 12:00PST 至 11月02日 23:59 地点：6000 Santa Monica Blvd, Los Angeles, CA 90038 网站： ladayofthedead.com
+         </div> 
+        </div> 
+       </div> 
+       <div class="v_equal_cell"> <a href="/focus/id_2663.html" target="_blank"> 
+         <div class="v_equal_img">  <span class="v-play"></span> 
+         </div> </a> 
+        <div class="v_equal_text"> <a href="/focus/id_2663.html" target="_blank" title="美国真的有自由吗？胖娜娜夜市！电音节卷土重来！柯基日！小东京万圣节之夜！洛杉矶假面舞会！周末去哪儿，Oct 24,2019">
+          <div class="v_equal_name">
+           美国真的有自由吗？胖娜娜夜市！电音节卷土重来！柯基日！小东京万圣节之夜！洛杉矶假面舞会！周末去哪儿，Oct 24,2019
+          </div></a> 
+         <div class="v-name-view-time"> <span>19分钟6秒</span> <span>397 views</span> <span>2019/10/24</span> 
+         </div> 
+         <div class="v_equal_des">
+          2019年10月24日周末去哪儿内容看点： Escape： Psycho Circus 时间：10月25日 17:00 至 10月26日 23:59 地点：689 S E St, San Bernardino, CA 92408 费用：$129.99 - $209.99 Panana Night Market（Torrance周末夜市） 10月25日 16:00 至 10月27日 23:00 3525 W Carson St, Torrance, CA 90503美国 费用：$5.00 详情：panananightmarket.com So Cal Corgi Beach Day (亨廷顿沙滩柯基日) 10月26日 10:00 至 10月26日 15:00 美国加利福尼亚州亨廷顿比奇 Haunted Little Tokyo: Block Party 2019 （小东京万圣节之夜） 10月26日 18:00 至 10月26日 23:59 UNICEF Masquerade Ball (洛杉矶假面舞会) 10月26日 21:00 至 10月27日 02:00 627 N La Peer Dr, West Hollywood, CA 90069 费用：$290.00 - $500.00 网站：unicefmasqla.org Madame Tussauds Halloween 恐怖蜡像馆 10月01日 10:00 至 10月31日 22:00 6933 Hollywood Blvd, Los Angeles, CA 90028美国 费用：$16.99 - $30.95 网站：heritagesquare.org/events/calendar
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+      <div> 
+       <div class="page_pagination_box" id="page_pagination"> <a class="page_prev" onclick="return true"></a> <a class="current_page" onclick="return true">1</a> <a href="/focus/mId_17/p_2.html" class="page_num" onclick="return true">2</a> <a href="/focus/mId_17/p_3.html" class="page_num" onclick="return true">3</a> <a href="/focus/mId_17/p_2.html" class="page_next" onclick="return true"></a> 
+        <div class="page_jump">
+         <input class="page_text" value="1" type="text" name="jumpto" id="jumpto" size="2" height="18" onmouseover="this.focus()" onfocus="this.select()" onkeypress="pageJumpTo(event, '/focus/mId_17/p_', 3)"> <span class="page_text">/ 3 页</span> 
+        </div> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+    <div class="col-md-4 vright"> 
+     <div class="v_right_block">
+      <div class="video_title sub"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <span>热门标签</span> </span> 
+       </div> 
+      </div>
+      <div class="vlabels"> <a href="/focus/mId_17/tId_906.html" class="v_hot_label_cell" title="洛杉矶"> <span class="name">洛杉矶</span> </a> <a href="/focus/mId_17/tId_4817.html" class="v_hot_label_cell" title="周末去哪儿"> <span class="name">周末去哪儿</span> </a> <a href="/focus/mId_17/tId_4825.html" class="v_hot_label_cell" title="嘉年华"> <span class="name">嘉年华</span> </a> <a href="/focus/mId_17/tId_453.html" class="v_hot_label_cell" title="万圣节"> <span class="name">万圣节</span> </a> <a href="/focus/mId_17/tId_4839.html" class="v_hot_label_cell" title="圣诞嘉年华"> <span class="name">圣诞嘉年华</span> </a> <a href="/focus/mId_17/tId_4838.html" class="v_hot_label_cell" title="圣盖博感恩节火鸡跑跑"> <span class="name">圣盖博感恩节火鸡跑跑</span> </a> <a href="/focus/mId_17/tId_4837.html" class="v_hot_label_cell" title="洛杉矶电影节"> <span class="name">洛杉矶电影节</span> </a> <a href="/focus/mId_17/tId_4836.html" class="v_hot_label_cell" title="阵屋拉面"> <span class="name">阵屋拉面</span> </a> <a href="/focus/mId_17/tId_4835.html" class="v_hot_label_cell" title="恐怖蜡像馆"> <span class="name">恐怖蜡像馆</span> </a> <a href="/focus/mId_17/tId_4834.html" class="v_hot_label_cell" title="假面舞"> <span class="name">假面舞</span> </a> <a href="/focus/mId_17/tId_4840.html" class="v_hot_label_cell" title="跳蚤市场"> <span class="name">跳蚤市场</span> </a> <a href="/focus/mId_17/tId_4841.html" class="v_hot_label_cell" title="中国彩灯节"> <span class="name">中国彩灯节</span> </a> <a href="/focus/mId_17/tId_4842.html" class="v_hot_label_cell" title="许留山"> <span class="name">许留山</span> </a> <a href="/focus/mId_17/tId_4843.html" class="v_hot_label_cell" title="圣诞狗狗"> <span class="name">圣诞狗狗</span> </a> <a href="/focus/mId_17/tId_4844.html" class="v_hot_label_cell" title="圣诞节派对"> <span class="name">圣诞节派对</span> </a> <a href="/focus/mId_17/tId_4939.html" class="v_hot_label_cell" title="环球影城跨年"> <span class="name">环球影城跨年</span> </a> <a href="/focus/mId_17/tId_4940.html" class="v_hot_label_cell" title="李玟世界巡回演唱会"> <span class="name">李玟世界巡回演唱会</span> </a> <a href="/focus/mId_17/tId_4941.html" class="v_hot_label_cell" title="洛杉矶动物园"> <span class="name">洛杉矶动物园</span> </a> <a href="/focus/mId_17/tId_4942.html" class="v_hot_label_cell" title="电音倒数"> <span class="name">电音倒数</span> </a> <a href="/focus/mId_17/tId_4833.html" class="v_hot_label_cell" title="小东京"> <span class="name">小东京</span> </a> <a href="/focus/mId_17/tId_4832.html" class="v_hot_label_cell" title="亨廷顿"> <span class="name">亨廷顿</span> </a> <a href="/focus/mId_17/tId_3811.html" class="v_hot_label_cell" title="独立日"> <span class="name">独立日</span> </a> <a href="/focus/mId_17/tId_4816.html" class="v_hot_label_cell" title="周末去哪"> <span class="name">周末去哪</span> </a> <a href="/focus/mId_17/tId_4818.html" class="v_hot_label_cell" title="Rose"> <span class="name">Rose</span> </a> <a href="/focus/mId_17/tId_4819.html" class="v_hot_label_cell" title="国庆"> <span class="name">国庆</span> </a> <a href="/focus/mId_17/tId_4820.html" class="v_hot_label_cell" title="烟花秀"> <span class="name">烟花秀</span> </a> <a href="/focus/mId_17/tId_4821.html" class="v_hot_label_cell" title="折扣"> <span class="name">折扣</span> </a> <a href="/focus/mId_17/tId_4822.html" class="

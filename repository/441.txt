@@ -1,0 +1,1296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/f/page_viewforum/f_29.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_forum/task_vforum/f_29.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>拉斯维加斯工作求职，兼职及全职工作信息，招聘信息及求职机会 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="发布拉斯维加斯本地求职招聘信息，各类工作及兼职，全职岗位等，为个人提供就业机会，为企业提供人才招聘"> 
+  <meta name="keywords" content="找工作,工作,兼职,招聘,求职,招兼职,招工,美国就业,翻译,家教,留学生,展览会翻译"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/js/forum.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/js/thickbox.v3.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row" _scrollrole="ft">
+    <div class="sda_right3"> <a href="http://ubertrk.com/c/363249/519128/3437?subId1=v2forumforumroof&amp;sharedid=000_vegas" target="_blank"> </a> 
+    </div>
+   </div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li class="active"><a href="/f.html" class="brand">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="row">
+    <div class="ads_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Chineseinla Forum top 728x90, created 2/5/09 --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="6230786716"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="ads_right3"> <a href="http://airbnb.evyy.net/c/363249/290446/4560?subId1=ForumIndex&amp;sharedid=nychinaren.com" target="_blank" rel="nofollow"> </a> 
+    </div>
+   </div> 
+   <div class="forum_left"> <!-- mod : announces --> 
+    <form method="post" action="/f/page_viewforum/f_29/start_0.html"> 
+     <div class="forum_line">
+      <div class="forum_path">
+       <span><a href="/f.html">拉斯维加斯华人论坛 首页</a> &gt; <a href="/f/page_viewforum/f_29.html">工作求职</a></span>
+      </div> <a href="/f/page_pppping/mode_newtopic/f_29.html"><span class="btn_forum_post_new">发布新帖</span></a> <a href="/f/page_pppping/newvote_1/mode_newtopic/f_29.html"><span class="btn_forum_post_new btn_forum_vote_new">发布投票</span></a> 
+     </div> 
+     <div class="forum_line"> 
+      <div class="forum_name"> 
+       <h1 class="forum_h1"><a class="h1_a" href="/f/page_viewforum/f_29.html">工作求职</a></h1> 
+       <div class="image_version">
+        <div class="button-panel">
+         <span class="button-b-new-picture"></span><a class="button-white button-a" href="javascript:imageVersionSelect('/f/page_viewforum/imgv_1/f_29.html')">图片版</a>
+        </div>
+       </div> <!-- <div class="search_advanced" style="display: block"><div class=button-panel><span class="button-b-search2"></span><input class="button-white-search no-bg-border button-i" type="button" value="精确查找" onclick="toggleSearch()" /><span class="button-b-triangle"></span></div></div> --> 
+       <div class="button-panel">
+        <span class="button-b-search"></span>
+        <input class="button-white-narrow b-search button-i" type="button" value="" onclick="searchForumSearch(29)">
+       </div> 
+       <input type="text" id="forumkey" name="forumkey" class="input_search" value="请输入版内查询关键词..." onkeypress="return searchForumOnKeyProcess(event, this.form, 29)" onfocus="this.style.color='#333';if (this.value =='请输入版内查询关键词...'){this.value ='';}" onblur="if (this.value ==''){this.value='请输入版内查询关键词...';this.style.color='#ccc';}"> 
+      </div> 
+     </div> 
+     <div id="search_dropdown"> <!-- <div class="search_border_top"></div> --> 
+      <table> 
+       <tbody> 
+        <tr class="search_row"> 
+         <td class="search_title"> <span>工作性质：</span> </td> 
+         <td class="search_item"> <a href="/f/page_viewforum/f_29/items_43BAA.html" item_id="43 " class="search_tags" target="_self" title="全职">全职</a> <a href="/f/page_viewforum/f_29/items_44BAA.html" item_id="44 " class="search_tags" target="_self" title="兼职">兼职</a> <a href="/f/page_viewforum/f_29/items_45BAA.html" item_id="45 " class="search_tags" target="_self" title="短期工作">短期工作</a> <a href="/f/page_viewforum/f_29/items_46BAA.html" item_id="46 " class="search_tags" target="_self" title="实习生">实习生</a> <a href="/f/page_viewforum/f_29/items_47BAA.html" item_id="47 " class="search_tags" target="_self" title="其他">其他</a> </td> 
+        </tr> 
+        <tr class="search_row"> 
+         <td class="search_title"> <span>行业：</span> </td> 
+         <td class="search_item"> <a href="/f/page_viewforum/f_29/items_48BAA.html" item_id="48 " class="search_tags" target="_self" title="文职人员">文职人员</a> <a href="/f/page_viewforum/f_29/items_49BAA.html" item_id="49 " class="search_tags" target="_self" title="电脑相关">电脑相关</a> <a href="/f/page_viewforum/f_29/items_50BAA.html" item_id="50 " class="search_tags" target="_self" title="餐厅">餐厅</a> <a href="/f/page_viewforum/f_29/items_51BAA.html" item_id="51 " class="search_tags" target="_self" title="仓库">仓库</a> <a href="/f/page_viewforum/f_29/items_52BAA.html" item_id="52 " class="search_tags" target="_self" title="销售">销售</a> <a href="/f/page_viewforum/f_29/items_53BAA.html" item_id="53 " class="search_tags" target="_self" title="保姆/家教">保姆/家教</a> <a href="/f/page_viewforum/f_29/items_54BAA.html" item_id="54 " class="search_tags" target="_self" title="司机">司机</a> <a href="/f/page_viewforum/f_29/items_55BAA.html" item_id="55 " class="search_tags" target="_self" title="翻译/导游">翻译/导游</a> <a href="/f/page_viewforum/f_29/items_56BAA.html" item_id="56 " class="search_tags" target="_self" title="其他">其他</a> </td> 
+        </tr> 
+        <tr class="search_row"> 
+         <td class="search_title"> <span>类型：</span> </td> 
+         <td class="search_item"> <a href="/f/page_viewforum/f_29/items_59BAA.html" item_id="59 " class="search_tags" target="_self" title="招聘">招聘</a> <a href="/f/page_viewforum/f_29/items_60BAA.html" item_id="60 " class="search_tags" target="_self" title="求职">求职</a> <a href="/f/page_viewforum/f_29/items_61BAA.html" item_id="61 " class="search_tags" target="_self" title="其他">其他</a> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <div class="search_row search_row_selected"> 
+       <div class="search_title"> <span>已选：</span> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="search_tags"> 
+      <ul class="search_key"> 
+       <li class="more"><a href="javascript:moreTags()">更多<span class="button-b-triangle"></span></a></li> 
+       <li class="less"><a href="javascript:lessTags()">收起<span class="button-b-triangle-up"></span></a></li> 
+       <li><a title="part time" href="/f/page_viewforum/f_29/key_part+time.html" class="tags">part time</a></li> 
+       <li><a title="企台" href="/f/page_viewforum/f_29/key_%E4%BC%81%E5%8F%B0.html" class="tags">企台</a></li> 
+       <li><a title="翻译" href="/f/page_viewforum/f_29/key_%E7%BF%BB%E8%AF%91.html" class="tags">翻译</a></li> 
+       <li><a title="会计" href="/f/page_viewforum/f_29/key_%E4%BC%9A%E8%AE%A1.html" class="tags">会计</a></li> 
+       <li><a title="酒店招聘" href="/f/page_viewforum/f_29/key_%E9%85%92%E5%BA%97%E6%8B%9B%E8%81%98.html" class="tags">酒店招聘</a></li> 
+       <li><a title="按摩招聘" href="/f/page_viewforum/f_29/key_%E6%8C%89%E6%91%A9%E6%8B%9B%E8%81%98.html" class="tags">按摩招聘</a></li> 
+       <li><a title="代购" href="/f/page_viewforum/f_29/key_%E4%BB%A3%E8%B4%AD.html" class="tags">代购</a></li> 
+       <li><a title="修理" href="/f/page_viewforum/f_29/key_%E4%BF%AE%E7%90%86.html" class="tags">修理</a></li> 
+       <li><a title="展览" href="/f/page_viewforum/f_29/key_%E5%B1%95%E8%A7%88.html" class="tags">展览</a></li> 
+       <li><a title="短期工作" href="/f/page_viewforum/f_29/key_%E7%9F%AD%E6%9C%9F%E5%B7%A5%E4%BD%9C.html" class="tags">短期工作</a></li> 
+       <li><a title="餐馆招聘" href="/f/page_viewforum/f_29/key_%E9%A4%90%E9%A6%86%E6%8B%9B%E8%81%98.html" class="tags">餐馆招聘</a></li> 
+       <li><a title="月子中心" href="/f/page_viewforum/f_29/key_%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83.html" class="tags">月子中心</a></li> 
+       <li><a title="针灸" href="/f/page_viewforum/f_29/key_%E9%92%88%E7%81%B8.html" class="tags">针灸</a></li> 
+       <li><a title="主持人" href="/f/page_viewforum/f_29/key_%E4%B8%BB%E6%8C%81%E4%BA%BA.html" class="tags">主持人</a></li> 
+       <li><a title="餐馆" href="/f/page_viewforum/f_29/key_%E9%A4%90%E9%A6%86.html" class="tags">餐馆</a></li> 
+       <li><a title="企台" href="/f/page_viewforum/f_29/key_%E4%BC%81%E5%8F%B0.html" class="tags">企台</a></li> 
+       <li><a title="导游" href="/f/page_viewforum/f_29/key_%E5%AF%BC%E6%B8%B8.html" class="tags">导游</a></li> 
+       <li><a title="设计" href="/f/page_viewforum/f_29/key_%E8%AE%BE%E8%AE%A1.html" class="tags">设计</a></li> 
+       <li><a title="美甲" href="/f/page_viewforum/f_29/key_%E7%BE%8E%E7%94%B2.html" class="tags">美甲</a></li> 
+       <li><a title="厨师" href="/f/page_viewforum/f_29/key_%E5%8E%A8%E5%B8%88.html" class="tags">厨师</a></li> 
+       <li><a title="电工" href="/f/page_viewforum/f_29/key_%E7%94%B5%E5%B7%A5.html" class="tags">电工</a></li> 
+       <li><a title="杂技演员" href="/f/page_viewforum/f_29/key_%E6%9D%82%E6%8A%80%E6%BC%94%E5%91%98.html" class="tags">杂技演员</a></li> 
+       <li><a title="寿司学徒" href="/f/page_viewforum/f_29/key_%E5%AF%BF%E5%8F%B8%E5%AD%A6%E5%BE%92.html" class="tags">寿司学徒</a></li> 
+       <li><a title="装修" href="/f/page_viewforum/f_29/key_%E8%A3%85%E4%BF%AE.html" class="tags">装修</a></li> 
+       <li><a title="发牌" href="/f/page_viewforum/f_29/key_%E5%8F%91%E7%89%8C.html" class="tags">发牌</a></li> 
+       <li><a title="律师" href="/f/page_viewforum/f_29/key_%E5%BE%8B%E5%B8%88.html" class="tags">律师</a></li> 
+       <li><a title="展会" href="/f/page_viewforum/f_29/key_%E5%B1%95%E4%BC%9A.html" class="tags">展会</a></li> 
+       <li><a title="赌场" href="/f/page_viewforum/f_29/key_%E8%B5%8C%E5%9C%BA.html" class="tags">赌场</a></li> 
+       <li><a title="寿司" href="/f/page_viewforum/f_29/key_%E5%AF%BF%E5%8F%B8.html" class="tags">寿司</a></li> 
+       <li><a title="司机" href="/f/page_viewforum/f_29/key_%E5%8F%B8%E6%9C%BA.html" class="tags">司机</a></li> 
+       <li><a title="快递" href="/f/page_viewforum/f_29/key_%E5%BF%AB%E9%80%92.html" class="tags">快递</a></li> 
+       <li><a title="月嫂" href="/f/page_viewforum/f_29/key_%E6%9C%88%E5%AB%82.html" class="tags">月嫂</a></li> 
+       <li><a title="求职" href="/f/page_viewforum/f_29/key_%E6%B1%82%E8%81%8C.html" class="tags">求职</a></li> 
+       <li><a title="alhambra" href="/f/page_viewforum/f_29/key_alhambra.html" class="tags">alhambra</a></li> 
+       <li><a title="微信" href="/f/page_viewforum/f_29/key_%E5%BE%AE%E4%BF%A1.html" class="tags">微信</a></li> 
+       <li><a title="美容" href="/f/page_viewforum/f_29/key_%E7%BE%8E%E5%AE%B9.html" class="tags">美容</a></li> 
+       <li><a title="摄影" href="/f/page_viewforum/f_29/key_%E6%91%84%E5%BD%B1.html" class="tags">摄影</a></li> 
+       <li><a title="仓库" href="/f/page_viewforum/f_29/key_%E4%BB%93%E5%BA%93.html" class="tags">仓库</a></li> 
+       <li><a title="ktv" href="/f/page_viewforum/f_29/key_ktv.html" class="tags">ktv</a></li> 
+       <li><a title="ces" href="/f/page_viewforum/f_29/key_ces.html" class="tags">ces</a></li> 
+       <li><a title="亚马逊" href="/f/page_viewforum/f_29/key_%E4%BA%9A%E9%A9%AC%E9%80%8A.html" class="tags">亚马逊</a></li> 
+       <li><a title="sushi" href="/f/page_viewforum/f_29/key_sushi.html" class="tags">sushi</a></li> 
+       <li><a title="兼职" href="/f/page_viewforum/f_29/key_%E5%85%BC%E8%81%8C.html" class="tags">兼职</a></li> 
+       <li><a title="dealer" href="/f/page_viewforum/f_29/key_dealer.html" class="tags">dealer</a></li> 
+       <li><a title="美容师" href="/f/page_viewforum/f_29/key_%E7%BE%8E%E5%AE%B9%E5%B8%88.html" class="tags">美容师</a></li> 
+       <li><a title="模特" href="/f/page_viewforum/f_29/key_%E6%A8%A1%E7%89%B9.html" class="tags">模特</a></li> 
+      </ul> 
+     </div> 
+     <div class="forum_tab"> 
+      <ul> 
+      </ul> 
+     </div> 
+     <div></div> 
+     <div class="f_topics_tab"> <a href="/f/page_viewforum/f_29.html" class="active">全部信息</a> <a href="/resume/task_jobs.html" class="pro">精英招聘</a> 
+     </div> 
+     <div class="forum_line"> 
+      <div class="topic_list_title"> 
+       <div class="topic_list_title_in"> 
+        <div class="topic_list_1"> 
+         <ul> 
+          <li>排序：<a class="sort_chosen" href="javascript:void(0)">按最后更新时间<span class="button-b-triangle"></span></a> 
+           <ul> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_A1A.html">按最后更新时间</a></li> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_A2A.html">按发帖时间</a></li> 
+            <div class="nav-arrow">
+             <div class="nav-arrow-inner"></div>
+            </div> 
+           </ul> </li> 
+          <div>
+           |
+          </div> 
+          <li>时间：<a class="sort_chosen" href="javascript:void(0)">全部时间<span class="button-b-triangle"></span></a> 
+           <ul> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_AA.html">全部时间</a></li> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_AA1.html">最近24小时</a></li> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_AA3.html">最近三天</a></li> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_AA7.html">最近一周</a></li> 
+            <li><a class="sort_choice" href="/f/page_viewforum/f_29/items_AA30.html">最近一个月</a></li> 
+            <div class="nav-arrow">
+             <div class="nav-arrow-inner"></div>
+            </div> 
+           </ul> </li> 
+          <div>
+           |
+          </div> 
+          <li><a class="sort_chosen" href="/f/page_viewforum/f_29/elite_1.html">精华贴</a></li> 
+         </ul> 
+        </div> 
+        <div class="topic_list_2">
+         作者
+        </div> 
+        <div class="topic_list_3">
+         回复/阅读
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11"> <span class="sticky" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havepage1"> <a href="/f/page_viewtopic/t_25046.html" class="title">Lyft司机别走冤枉路,轻松赚取万元</a><span> </span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_52.html">yujingjie</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-08-06</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">13</span>
+        </div> 
+        <div>
+         <span class="read_count">5176</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_33966.html" class="title">送包裹工作 18-25每小时</a><span></span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_547873.html">1446Heenle</a></span>
+        </div> 
+        <div>
+         <span class="time">10:17 am</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">7816</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_50525.html" class="title">外贸公司高薪聘请FULL TIME/PART TIME销售人员</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1737903.html">glswjs</a></span>
+        </div> 
+        <div>
+         <span class="time">8:23 am</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">3054</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_84379.html" class="title">金手指项目招市场推广</a><span></span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2388818.html">michaelwu527527</a></span>
+        </div> 
+        <div>
+         <span class="time">12:57 am</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">9</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_84378.html" class="title">客运司机。Vegas -洛杉矶</a><span></span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1745312.html">小迪</a></span>
+        </div> 
+        <div>
+         <span class="time">12:47 am</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">11</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_84075.html" class="title">金牌月嫂华姐6264933565（全美接单）</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2372123.html">817笹本恒子</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-07</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">29</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_73722.html" class="title">资深月嫂兼催乳师9497749167</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1742961.html">4818欢乐马</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-07</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">202</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_78121.html" class="title">Amazon合作夥伴,自己是老板. 撑握工作技能,时薪可达$35/小时 </a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2372088.html">Junlee888</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-07</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">268</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_42757.html" class="title">全美通用联邦认证专业正规 按摩反射疗法执照申请/培训</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1715450.html">NCC足疗证</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-06</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">592</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_41537.html" class="title">招男女按摩师</a><span></span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1711467.html">sikeliu</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-06</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">420</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_75914.html" class="title">US ARMY HIRING ! (FULL / PART TIME)</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2371791.html">SSGChen</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-06</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">475</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_84306.html" class="title">金牌月嫂华姐6264933565（全美接单）</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2388806.html">8042华姐</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-06</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">4</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_75505.html" class="title">免费为全美的华人华侨推荐月嫂育儿嫂</a><span></span> <span class="img" title="含有图片">&nbsp;</span> <span class="video" title="含有视频">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1746298.html">3636坚持</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-03</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">8</span>
+        </div> 
+        <div>
+         <span class="read_count">87</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_83768.html" class="title">金牌月嫂欢迎宝妈点击这里链接查看详情</a><span></span> <span class="img" title="含有图片">&nbsp;</span> <span class="video" title="含有视频">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_1746298.html">3636坚持</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-03</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">3</span>
+        </div> 
+        <div>
+         <span class="read_count">10</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_44476.html" class="title">求职求职</a><span></span> <span class="img" title="含有图片">&nbsp;</span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_10.html">zhaolei</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-03</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">1</span>
+        </div> 
+        <div>
+         <span class="read_count">1391</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_list_11 topic_list_112"> <span class="read" title="没有新帖">&nbsp;</span> 
+       </div> 
+       <div class="topic_list_12"> 
+        <div class="havenopage"> <a href="/f/page_viewtopic/t_84159.html" class="title">招收各州代购/买手,欢迎合作</a><span></span> 
+        </div> 
+       </div> 
+       <div class="topic_list_2"> 
+        <div>
+         <span class="author"><a href="/user/id_2388791.html">btw--studio</a></span>
+        </div> 
+        <div>
+         <span class="time">2020-10-03</span>
+        </div> 
+       </div> 
+       <div class="topic_list_3"> 
+        <div>
+         <span class="reply_count">0</span>
+        </div> 
+        <div>
+         <span class="read_count">41</span>
+        </div> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail"> 
+       <div class="topic_option_left">
+        <a href="/f/page_viewforum/f_29/mark_topics.html" class="mard_all_read">标记所有帖子为已读</a>
+       </div> 
+       <div class="topic_option_right">
+        时间：<select name="topicdays"><option value="0" selected>所有的帖子</option><option value="1">1 天内</option><option value="7">7 天内</option><option value="14">2 星期内</option><option value="30">1 月内</option><option value="90">3 月内</option><option value="180">6 月内</option><option value="364">1 年内</option></select>
+        <input type="submit" class="liteoption" value="Go" name="submit"><span class="gensmall">转跳到:&nbsp;<select id="forumJumpBox" name="f" onchange="forumJump()"><option value="-1">选择一个版面</option><option value="-1">&nbsp;</option><option value="-1">拉斯维加斯生活资讯</option><option value="-1">----------------</option><option value="29">工作求职</option><option value="5">房屋出租</option><option value="35">买房卖房</option><option value="3">二手商品</option><option value="8">买车修车</option><option value="6">投资理财</option><option value="32">医疗健康</option><option value="56">保险理赔</option><option value="21">其他信息</option><option value="59">驾照罚单</option><option value="61">搬家装修</option><option value="-1">&nbsp;</option><option value="-1">拉斯维加斯旅游</option><option value="-1">----------------</option><option value="7">拉斯维加斯旅游</option><option value="11">展会表演</option><option value="27">拉斯维加斯名人</option><option value="58">登记结婚</option><option value="34">购物指南</option><option value="2">拉斯维加斯美食</option><option value="-1">&nbsp;</option><option value="-1">拉斯维加斯介绍</option><option value="-1">----------------</option><option value="57">赌城新闻</option><option value="12">社团活动</option><option value="-1">&nbsp;</option><option value="-1">海外生活</option><option value="-1">----------------</option><option value="149">新闻</option><option value="19">异乡生活</option><option value="37">交友征婚</option><option value="28">求助专区</option><option value="-1">&nbsp;</option><option value="-1">法律移民</option><option value="-1">----------------</option><option value="4">法律移民</option><option value="-1">&nbsp;</option><option value="-1">网站建设</option><option value="-1">----------------</option><option value="20">使用指南</option><option value="60">摄影专区</option><option value="-1">&nbsp;</option><option value="-1">我要上头条</option><option value="-1">----------------</option><option value="62">我要上头条</option></select></span> 
+       </div> 
+      </div> 
+      <div class="topic_list_detail topic_list_pages"> 
+       <div class="topic_option_left">
+        <a href="/f/page_pppping/mode_newtopic/f_29.html"><span class="btn_forum_post_new">发布新贴</span></a>
+       </div> 
+       <div class="topic_option_right pagination_right">
+        <span class="current_page">1</span><a href="/f/page_viewforum/f_29/start_15.html" class="page_index_link">2</a><a href="/f/page_viewforum/f_29/start_30.html" class="page_index_link">3</a> ... <a href="/f/page_viewforum/f_29/start_2970.html" class="page_index_link">199</a><a href="/f/page_viewforum/f_29/start_2985.html" class="page_index_link">200</a><a href="/f/page_viewforum/f_29/start_3000.html" class="page_index_link">201</a>&nbsp;&nbsp;<a href="/f/page_viewforum/f_29/start_15.html">下一页</a>
+        <input type="button" value="跳转到" onclick="forumPageJumpTo(29, 0,15)">第
+        <input type="text" name="jumpto" id="jumpto" size="3" onkeypress="return forumPageJumpTo2(event, 29, 0,15)" onmouseover="this.focus()" onfocus="this.select()/">页
+       </div> 
+      </div> 
+     </div> 
+    </form> 
+    <script type="text/javascript">
+$(function(){
+	init_viewforum();
+});
+</script> 
+   </div> 
+   <div class="forum_right"> <span><a href="javascript:void(0);" url="/index3.php?option=com_v2_mobile&amp;page=js&amp;mode=forumDeclare&amp;id=29" onclick="showMemo(this)">版块说明</a></span> 
+    <div class="to_resume_box"> 
+     <div class="to_resume_title">
+      <a href="/resume.html" target="_blank">人才库</a>
+     </div> 
+     <div class="to_resume_info"> <a class="resume-create" href="/resume/task_manage.html" target="_blank">创建简历</a> 
+      <div class="txt">
+       共有202人在人才库创建了简历
+      </div> 
+      <div class="txt">
+       最近24小时新增了20份简历
+      </div> 
+      <div class="txt">
+       共有21个企业通过了认证
+      </div> 
+     </div> 
+    </div> 
+    <div class="allrim resumes">
+     <div class="title"> <a href="/resume/task_search.html">求职信息</a> 
+     </div> 
+     <div class="fr_resumes"> 
+      <ul> 
+       <li> <a href="/resume/task_viewResume/id_96a93ba89a4e8fd4a8a5b1766db29450c3.html">  
+         <div class="info"> 
+          <div class="name">
+           S***婷
+          </div> 
+          <div class="fun">
+           人力经理
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_4d6b3e38b94d3a7f48c122087bf424cb7b.html">  
+         <div class="info"> 
+          <div class="name">
+           R***i
+          </div> 
+          <div class="fun">
+           行政主厨/厨师长
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_8038da89e44cee8d6b7ce201365d2ea034.html">  
+         <div class="info"> 
+          <div class="name">
+           J***e
+          </div> 
+          <div class="fun">
+           客服经理
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_31fefc0e5739dcb88e013187a2557a7b2.html">  
+         <div class="info"> 
+          <div class="name">
+           h***桓
+          </div> 
+          <div class="fun">
+           音乐/美术教师
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_f340f1b1f63e4a6222cdb241cb70ab375.html">  
+         <div class="info"> 
+          <div class="name">
+           A***N
+          </div> 
+          <div class="fun">
+           业务拓展主管/经理
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_4496bf24af4aa2a7737131828069654d5c.html">  
+         <div class="info"> 
+          <div class="name">
+           A***u
+          </div> 
+          <div class="fun">
+           销售代表
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_ecd62de20e4d25414405e1789bf201d540.html">  
+         <div class="info"> 
+          <div class="name">
+           S***生
+          </div> 
+          <div class="fun">
+           网站营运经理/主管
+          </div> 
+         </div> </a> </li> 
+       <li> <a href="/resume/task_viewResume/id_b432f34c5a465fc52ed8f1915cb79f8fa5.html">  
+         <div class="info"> 
+          <div class="name">
+           W***成
+          </div> 
+          <div class="fun">
+           送餐员
+          </div> 
+         </div> </a> </li> 
+      </ul> <a href="/resume/task_search.html" class="more">更多&gt;&gt;</a>
+     </div>
+    </div> 
+    <div> <a href="https://www.vegaschinaren.com/company.html" target="_blank"></a> 
+    </div> 
+    <div> <a href="javascript:void(0)" onclick="TB_show(&quot;&quot;,&quot;index3.php?option=com_disclosure&amp;width=500&amp;height=400.html&quot;)">Advertiser Disclosure</a> 
+    </div> 
+    <div class="allrim "> 
+     <div class="normal_gallery dealdis__rlike"> 
+      <div class="title_1"> 
+       <div class="box_b"> <span class="tab1"><a href="/deal.html" target="_blank">猜你喜欢</a></span> <span class="more"><a href="/deal.html" target="_blank">更多&gt;</a></span> 
+       </div> 
+      </div> 
+      <div class="dealdis__rld"> 
+       <div class="active"> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_586797.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_586797.html" target="_blank">Columbia Switchback女款户外夹克</a> <span class="redcolor">$19.98</span> <span class="dis_delete">$39.99</span> <span class="redcolor">50% OFF</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_586453.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_586453.html" target="_blank">PAVOI 14K金 12星座项链</a> <span class="redcolor">$12.95</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_586432.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_586432.html" target="_blank">Puma Evercat Jane 托特包</a> <span class="redcolor">$19.6</span> <span class="dis_delete">$23.06</span> <span class="redcolor">15% OFF</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+       </div> 
+       <div class="active"> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587038.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587038.html" target="_blank">HANASCO 防水电动水牙线</a> <span class="redcolor">$16</span> <span class="dis_delete">$39.99</span> <span class="redcolor">60% OFF</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587037.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587037.html" target="_blank">《真人快打11》PS4 实体版</a> <span class="redcolor">$19.99</span> <span class="dis_delete">$59.99</span> <span class="redcolor">67% OFF</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587034.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587034.html" target="_blank">史低价！LEGO 乐高 星球大战系列 75278 D-O机器人</a> <span class="redcolor">$55.99</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+       </div> 
+       <div class="active"> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587033.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587033.html" target="_blank">Arm &amp; Hammer 蔬菜水果安心清洗剂，16oz 3瓶装</a> <span class="redcolor">$14.8</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587032.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587032.html" target="_blank">AmazonBasics 不锈钢马桶刷</a> <span class="redcolor">$7.6</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587031.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587031.html" target="_blank">2020年新款！Sony索尼 X800H 4K LED HDR 智能电视机，55吋</a> <span class="redcolor">$698</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+       </div> 
+       <div class="active"> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587030.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587030.html" target="_blank">Haggar Cool 18 经典男士长裤</a> <span class="redcolor">$19.99</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_565844.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_565844.html" target="_blank">史低价！WD西数 Blue 3D NAND 固态硬盘，500GB</a> <span class="redcolor">$57.99</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+        <dl> 
+         <dt> 
+          <div class="clear"> 
+           <div class="dealdis__rimg"> <a href="/disdetail/d_587029.html" target="_blank">  </a> 
+           </div> 
+           <div class="dealdis__rdsp"> <a href="/disdetail/d_587029.html" target="_blank">DASH 带温控电子小火锅</a> <span class="redcolor">$16.99</span> <span class="dis_delete">$19.99</span> <span class="redcolor">15% OFF</span> 
+           </div> 
+           <div></div> 
+          </div> 
+         </dt> 
+        </dl> 
+       </div> 
+      </div> 
+      <div class="dealdis_iteam"> 
+       <div class="iteams"> 
+        <div class="iteam current"></div> 
+        <div class="iteam"></div> 
+        <div class="iteam"></div> 
+        <div class="iteam"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>  
+    <div class="allrim"> 
+     <div class="title_1"> 
+      <div class="box_b"> <span class="tab1">热帖</span> 
+      </div> 
+     </div> 
+     <div class="content4"> 
+      <ul class="arrowli"> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84379.html" title="金手指项目招市场推广" target="_blank">金手指项目招市场推广</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84378.html" title="客运司机。Vegas -洛杉矶" target="_blank">客运司机。Vegas -洛杉矶</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84306.html" title="金牌月嫂华姐6264933565（全美接单）" target="_blank">金牌月嫂华姐6264933565（全美接单）</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83768.html" title="金牌月嫂欢迎宝妈点击这里链接查看详情" target="_blank">金牌月嫂欢迎宝妈点击这里链接查看详情</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84167.html" title="人找车" target="_blank">人找车</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84159.html" title="招收各州代购/买手,欢迎合作" target="_blank">招收各州代购/买手,欢迎合作</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84141.html" title="诚聘全职初级通讯网络测试员" target="_blank">诚聘全职初级通讯网络测试员</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_84106.html" title="十年月嫂求职" target="_blank">十年月嫂求职</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83736.html" title="精神小伙" target="_blank">精神小伙</a></li> 
+       <li><a href="https://www.vegaschinaren.com/f/page_viewtopic/t_83645.html" title="中电电气（美国）招聘-运营岗" target="_blank">中电电气（美国）招聘-运营岗</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+    var rihgtColumn = $("div.forum_right").children("div");
+    	rihgtColumn[0].style.marginTop='15px';
+    </script> 
+   <script type="text/javascript">
+$(window).load(function() {
+	bottom_position();
+});
+$(function(){
+    var $forum_right = $('.forum_right');
+    var rightLength = ($forum_right.offset().top) + $forum_right.height();
+    var rightPositionLeft = $forum_right.offset().left;
+    $(window).scroll(function(){
+        if($(window).scrollTop() > rightLength){
+            $('.hot_forum').parent().parent().css({'position':"fixed",'top':0,'left':rightPositionLeft,'width':'262px'});
+        }else{
+            $('div.allrim').css('position','static');
+        }
+    });
+})
+</script>
+   <div class="forum_left"> 
+    <div class="sjdp_half"> 
+     <div class="sjdp"> 
+      <div class="sjdp1"> 
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- 336x228 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1110580468"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div> 
+      <div class="sjdp2"> 
+       <div> 
+        <dl class="highlight_tour_forum"> 
+         <dt class="title">
+          <a href="/company/task_latest_review.html">最新商家点评</a>
+         </dt> 
+         <dt class="summary">
+          VegasChinaRen总共有1620条点评, 1790次评分
+         </dt> 
+         <dt class="company">
+          <a href="/company/task_view/id_30624/%E9%99%88%E7%BA%A2.html" target="_blank" title="陈红" class="link">陈红</a>
+         </dt> 
+         <dd class="comment_by">
+           Review by <a href="/user/id_2387684.html" class="user">Xiaojun</a> at 09/30/20
+         </dd> 
+         <dd class="comment">
+          十分感谢Nancy和Ellen，我好幸运的在VEGAS遇到了这样热情丶亲切丶专业的团队，...
+         </dd> 
+         <dt class="company">
+          <a href="/company/task_view/id_30788/%E5%BD%AD%E5%B0%9A.html" target="_blank" title="彭尚" class="link">彭尚</a>
+         </dt> 
+         <dd class="comment_by">
+           Review by <a href="/user/id_224523.html" class="user">qaws123</a> at 09/23/20
+         </dd> 
+         <dd class="comment">
+          这已经是第二次找彭尚帮我卖房了，没有他办不了的事，这次顺利的又帮我把房子给卖出去了。他的优势主要是为客户着想，对市...
+         </dd> 
+         <dt class="company">
+          <a href="/restaurant/task_view/id_15066/%E9%92%B1%E5%BA%84%E9%9D%A2%E5%AE%B6.html" target="_blank" title="钱庄面家" class="link">钱庄面家</a>
+         </dt> 
+         <dd class="comment_by">
+           Review by <a href="/user/id_1718779.html" class="user">nuannuan</a> at 09/18/20
+         </dd> 
+         <dd class="comment">
+          还

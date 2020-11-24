@@ -1,0 +1,638 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/search/key_%e6%96%b0%e5%86%a0.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>洛杉矶华人资讯网 - 洛杉矶本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e6%96%b0%e5%86%a0.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://c3.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://c3.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.chineseinla.com/focus.html" class="map_link" target="_blank">焦点播报</a> 
+      </dt> 
+      <dd>
+       洛杉矶华人热点话题，焦点追踪
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/hotnews/1976377.html" target="_blank"><h4>防趁火打劫！湾区城市规定疫情期间外卖服务费上限</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间10月8日，据CBS BayArea报道，疫情期间，很多人依赖外卖服务购物和点餐。但有些商家却趁此机会大肆敛财，收取高额的外卖服务费。为了杜绝这一情况，湾区核桃溪市议会周二晚通过了<span class="key">新冠</span>肺炎疫情期间当地餐馆支</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">290浏览</span> <span class="time">1小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976364.html" target="_blank"><h4>食物救助盒内藏川普信 洛杉矶学区不买账：拿出去!</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间10月7日，据洛杉矶时报报道，美国农业部上个月开始要求通过“农民家庭食品盒计划”提供的数百万盒食品中加入一封来自总统川普的信。信中谈到，要在这个困难时期为“最需要帮助的人”提供服务。但是，很多人</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">159浏览</span> <span class="time">1小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976193.html" target="_blank"><h4>美媒透露特朗普<span class="key">新冠</span>治疗费用 乘机往返医院4万美元</h4></a> 
+         <div class="content"> 
+          <p class="p-text">https://twitter.com/MadamMiaow/status/1313915500620062720&nbsp; &nbsp; 据路透社8日报道，向特朗普提供“抗体鸡尾酒疗法”的美国再生元制药公司（RegeneronPharmaceuticals）7日发表声明表示，已向美国食品药品</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">505浏览</span> <span class="time">5小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976173.html" target="_blank"><h4>川普口中的神药,再生元的<span class="key">新冠</span>治疗是咋回事</h4></a> 
+         <div class="content"> 
+          <p class="p-text">据 纽约邮报 报道 川普昨日（星期三，10月7日）在推特上发布了一段关于他在沃尔特里德医疗中心（Walter Reed Medical Center）接受治疗的视频，他说：“这简直难以置信。我立刻感觉就很好。我三天前的感觉和现在一样</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">626浏览</span> <span class="time">6小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976107.html" target="_blank"><h4>世卫组织赴华调查<span class="key">新冠</span>起源 已提交专家名单待审</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间10月7日，据南华早报报道，世界卫生组织(who)本周一召开<span class="key">新冠</span>病毒疫情应对特别会议，计划组成一个国际专家团前往中国，以调查疫情起源。世卫组织执行主任瑞安（Michael Ryan）称已经提交专家名单给中国当局考</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">1112浏览</span> <span class="time">14小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976084.html" target="_blank"><h4>专家称玻璃隔板荒谬 无法阻止病毒随空气传播</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间10月7日，据纽约时报报道，在当晚举行的副总统候选人辩论中，迈克·彭斯(Mike Pence)和参议员卡玛拉·哈里斯(Kamala Harris)坐在讲台上，两人之间的距离超过12英尺(3.6米)，中间隔着有机玻璃屏障。科学家表</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">911浏览</span> <span class="time">15小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1976019.html" target="_blank"><h4>川普称感染是“上帝的祝福” 点名让中国付出代价</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间10月7日，据纽约时报报道，美国总统川普当天称感染<span class="key">新冠</span>病毒是上帝的祝福，表示自己接受的实验性治疗有效，并承诺将向所以美国人免费提供这项治疗。最后川普表示美国疫情严重全是“中国的错”，中国必须为此</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">19评论</span> <span class="reply">2861浏览</span> <span class="time">18小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975666.html" target="_blank"><h4>突发! 加州州长纽森办公室一名员工确诊<span class="key">新冠</span>!</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间2020年10月7日，据KTLA5报道，加州州长纽森(Gavin Newsom)办公室一名工作人员的<span class="key">新冠</span>病毒检测结果呈阳性，目前已开始对和这名工作人员有过接触的人进行追踪。 &nbsp; &nbsp; 5333334 &nbsp; 图：加州州长</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">2809浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975647.html" target="_blank"><h4>白宫医生：川普已超过24小时无症状并检测出抗体</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西当地时间10月7日，据CNBC报道，美国总统川普的一名治疗医生10月7日周三在一份备忘录中表示，川普已经24个小时没有出现任何症状，并继续在白宫接受<span class="key">新冠</span>治疗。 &nbsp; &nbsp; &nbsp; 5333287 &nbsp; 图：川普 （</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">1508浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975630.html" target="_blank"><h4>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西当地时间10月7日，据国会山报报道，美国顶级病毒专家安东尼·福奇博士在10月6日周二对美国<span class="key">新冠</span>疫情给出了一个截至目前最严峻的数字。他表示，美国在疫情结束之前将会有30万到40万人死亡。 &nbsp; &nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">1594浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975573.html" target="_blank"><h4>多名美军将领宣布自我隔离,其中包含参谋长联席会议主席</h4></a> 
+         <div class="content"> 
+          <p class="p-text">10月7日电 美国国防部数名官员表示，美军参谋长联席会议主席马克 · 米利（MarkMilley）和参联会数名成员已宣布隔离。早前他们曾与美国海岸警卫队一名高级官员数次一起开会，而这名官员检测出<span class="key">新冠</span>病毒呈阳性。&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">289浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975539.html" target="_blank"><h4>福奇：美国将有30到40万人死于<span class="key">新冠</span></h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">据国会山报道，周二，安东尼·福奇博士对<span class="key">新冠</span>病毒疫情给出了一个截至目前最严峻的数字，他说在美国的疫情结束之前，将可能有30万到40万人死于这种疾病。&nbsp; &nbsp; 5332974&nbsp; &nbsp; https://twitter.com/Ame</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">557浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975501.html" target="_blank"><h4>两千多科学家联署声明主张“群体免疫”引争议</h4></a> 
+         <div class="content"> 
+          <p class="p-text">综合《卫报》、《华尔街日报》报道 一个由科学家组成的国际团体呼吁各国政府推翻其冠状病毒防治策略，让年轻人和健康人恢复正常生活，同时保护最脆弱的群体。&nbsp; &nbsp; 这份计划以起草地马萨诸塞州小镇命名，被</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">1046浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975136.html" target="_blank"><h4>工伤赔偿常见问题-第四部分-金钱</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">工伤赔偿常见问题-第四部分-金钱&nbsp; 5331488&nbsp; 若不幸在工作中受伤可能要承受的不止身体上的疼痛，还可能随之带来的经济压力。华明胜律师事务所了解若在工作中受伤将带给人的巨大影响，以下是一下常见客人对</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_102.html">法律服务</a> <span class="view">0评论</span> <span class="reply">21浏览</span> <span class="time">2天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975129.html" target="_blank"><h4>工伤赔偿常见问题-第四部分-金钱</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">工伤赔偿常见问题-第四部分-金钱&nbsp; &nbsp; 若不幸在工作中受伤可能要承受的不止身体上的疼痛，还可能随之带来的经济压力。华明胜律师事务所了解若在工作中受伤将带给人的巨大影响，以下是一下常见客人对于工伤</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_80.html">华明胜律师专栏</a> <span class="view">0评论</span> <span class="reply">11浏览</span> <span class="time">2天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1974996.html" target="_blank"><h4><span class="key">新冠</span>“攻破”五角大楼 美军方高层多人被隔离</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间2020年10月6日，据美联社报道，两名美国官员说，美国海岸警卫队一名高级官员的<span class="key">新冠</span>病毒检测呈阳性后，参谋长联席会议主席和五角大楼其他军方多名高层领导人，因可能接触过<span class="key">新冠</span>病毒均已被隔离。 &nbsp; &amp;n</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1287浏览</span> <span class="time">2天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1974966.html" target="_blank"><h4>削减预算致河滨县高等法院决定每月关闭一天</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间2020年10月6日，据洛杉矶当地媒体KTLA5报道，河滨县高级法院周二宣布，由于<span class="key">新冠</span>病毒大流行造成的收入不足，从10月份开始法院每月将关闭一天。 &nbsp; &nbsp; 5330810 &nbsp; 图：河滨县高等法院 （来源：KT</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">391浏览</span> <span class="time">2天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1974287.html" target="_blank"><h4>川普提前出院是政治需要? 医生称：他仍处于危险的脆弱期</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间2020年10月5日，据华盛顿邮报报道，美国总统川普的医生表示，川普在感染<span class="key">新冠</span>进入医院治疗后，最早可能于周一出院。这一消息让外界的传染病专家大为震惊。他们表示，川普仍处于危险的脆弱期，以往的病例显示</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">1评论</span> <span class="reply">1143浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1974276.html" target="_blank"><h4>记者实拍：疫情下重开的圣地亚哥海洋世界</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">【洛杉矶华人资讯网编辑LEO LU10月5日报道】<span class="key">新冠</span>疫情历经数月的蔓延，似乎已经有了缓和的迹象。在经历了漫长的关闭后，位于圣地亚哥的海洋世界和动物园终于重开。而此前不久，迪士尼则因为加州迟迟不允许主题公园开</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">992浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1974199.html" target="_blank"><h4>世卫组织估计: 世界上十分之一的人已感染<span class="key">新冠</span> 约7.6亿</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美西时间2020年10月5日，据NBC报道，世界卫生组织紧急事务负责人周一表示，该组织的“最佳估计”显示，全球大约有十分之一的人可能感染了<span class="key">新冠</span>病毒，这一数字是目前已确诊病例的20多倍。他警告说，未来将是一段非常艰</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">542浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinla.com/v/v_3246.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3246.html" target="_blank"><h4>面对新冠 H1B 持有人和H1B中签者要如何应对？《杨梅娥律师移民访谈》第2期2020.04.14</h4></a> 
+          <div class="info">
+           <span>04/09</span><span>9875观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3283.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3283.html" target="_blank"><h4>川普新政对后新冠时代移民影响！焦点连线2020.06.30</h4></a> 
+          <div class="info">
+           <span>06/29</span><span>0观看</span>
+          </div> 
+          <p>自川普上任以来，除了宣布要于美墨边界建造阻挡非法移民的高牆之外，川普政府的动作也是频频，也针对特定地区、国家限缩移民人口额度。在这个特殊时期也发布了移民新规，本次How视频直播节目特别连线张大钦律师跟大家聊聊川普新政对后新冠时代移民影响。 公司网站：www.visatopia.com 联系电话：626-346-0909 更多详情：chineseinla.com/lawyer/task_view/id_35170/张大钦律师.html 张大钦律师2004年从美国杨百翰大学获得法学博士学位（JD）；于1997年从中国外交学院取得学士学位。张大钦律师拥有十六年美国移民法执业经验。他是纽约州注册律师和美国移民律师协会（AILA）会员，曾拥有美国犹他州律师资格和美国最高法院出庭律师资格。来美国之前，他还是中国的执业律 师。身为第一代移民，他完整地经历过移民这条艰辛的历程，非常熟悉整个过程中要面对的众多挑战。除了自己勉力践行自己的美国梦以外，张大钦律师也致力于帮 助世界各地的人们和他们的家庭去实现他们移民美国的梦想。 张大钦 律师事务所业务范围：精美国职业技术移民 (PERM, EB1B)，杰出人才移民(NIW, EB1A), 商业投资移民(EB1C， EB5), 以及各类工作签证(H1B, L1, O1, E2)。此外，也从事公司注册，商业合同和企业资产收购等业务。 是格林纳达政府制定的护照代理商。 擅长于为高资产高净值客户订身量做移民途径。 总部设在洛杉矶县工业市并在尔湾和硅谷设有分所。曾经为各种各样的客户解决复杂的移民问题，拥有非常丰富的移民经验，有能力克服在错综复杂的移民过程中所面临的多种挑战，为客户提供最中肯的建议，最可靠的服务，达致最理想的结果。 【How视频频道会员链接】https://</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3284.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3284.html" target="_blank"><h4>受新冠感染劳工如何进行工伤索赔？《法律月报》2020.07.01第18期</h4></a> 
+          <div class="info">
+           <span>06/29</span><span>0观看</span>
+          </div> 
+          <p>《#法律月报 》是#洛杉矶华人资讯网，为广大海内外华人特别制作的一档法制节目，我们每月都会邀请华明胜律师事务所，为大家直播关于移民，人体伤害，刑事法，工伤赔偿与社安等领域节目。节目我们特邀工伤部门经理 Maurice Lin 跟大家讲讲受新冠感染劳工如何进行工伤索赔？ 华明胜律师事务所创始于与1984年，在移民业务，人体伤害，刑事法，工伤赔偿与社安等领域都拥有非常专业的律师与经验丰富的法律资深团队。移民法律团队服务过的客户跨越50州甚至遍及全球。 更多详细信息请看： law888.com 免费咨询电话： 626-282-6868 华明胜律师事务所YouTube 官方频道：https://www.youtube.com/channel/UCFDHJANDaxx8nFwixnQp6-g?view_as=subscriber</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3290.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3290.html" target="_blank"><h4>[三角税务专区-美税牛人]与新冠息息相关的各种税务优惠，你得到了吗？</h4></a> 
+          <div class="info">
+           <span>07/02</span><span>0观看</span>
+          </div> 
+          <p>本次How视频直播节目 特别连线三角会计师事务所董事长 牛志文为大家讲解与新冠息息相关的各种税务优惠，你得到了吗？ 快手账号：TriangleAcc 抖音账号：TriangleAcc 美税牛人Steve Niu ，请关注以获得最新资讯https://www.youtube.com/channel/UCZsSe5O5xkzP3GNz5QbGyww/featured 「美国三角会计」- 温情提示 又发钱！先到先得，4840亿元的第二轮纾困政府补助金：PPP、EIDL...... 小商业主这次一定不要错过 !!! 请尽快填写下方申请表发送我们以帮助你申请。 申请表链接 贷款帮助申请表：https://wj.qq.com/s2/5741870/a350/ 失业补助申请表：https://wj.qq.com/s2/5736865/7f07/ 相关申请Q&amp;A直播链接 https://chelseasun.easywebinar.live/event-registration-17 微信/电话： 1-9194121040 美国三角会计集团 April 24，2020 三角会计集团洛杉矶办公室 Triangle Accounting, Inc.(USA) 总部电话: 9193801040 更多详情：https://www.chineseinla.com/accountant/task_view/id_87860/%E4%B8%89%E8%A7%92%E4%BC%9A%E8%AE%A1%E9%9B%86%E5%9B%A2%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8A%9E%E5%85%AC%E5%AE%A4.html</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3301.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3301.html" target="_blank"><h4>新冠期间移民政策调整后问题全解答《法律月报》2020.08.05第19期</h4></a> 
+          <div class="info">
+           <span>07/29</span><span>0观看</span>
+          </div> 
+          <p>《#法律月报 》是#洛杉矶华人资讯网，为广大海内外华人特别制作的一档法制节目，我们每月都会邀请华明胜律师事务所，为大家直播关于移民，人体伤害，刑事法，工伤赔偿与社安等领域节目。节目我们特邀Tina跟大家讲讲新冠期间移民政策调整后问题! 华明胜律师事务所创始于与1984年，在移民业务，人体伤害，刑事法，工伤赔偿与社安等领域都拥有非常专业的律师与经验丰富的法律资深团队。移民法律团队服务过的客户跨越50州甚至遍及全球。 更多详细信息请看： law888.com 免费咨询电话： 626-282-6868 华明胜律师事务所YouTube 官方频道：https://www.youtube.com/channel/UCFDHJANDaxx8nFwixnQp6-g?view_as=subscriber</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3308.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3308.html" target="_blank"><h4>新冠期间离婚率飙升 婚姻不保如何保住婚姻绿卡？《李想律师以案说法》第13期2020.08.19</h4></a> 
+          <div class="info">
+           <span>08/13</span><span>0观看</span>
+          </div> 
+          <p>《李想律师以案说法》是洛杉矶华人资讯网联合李想律师事务所推出的一档法制栏目。栏目采取以案说法，大家参与，法律专家李想律师评说的节目样式。栏目宗旨重在普法，每期节目邀请李想律师事务所与大家一起探讨移民，商业，刑事法，家庭法的热点问题。 第12期节目李想律师将为大家带来最新移民禁令应对详解——入境恢复及维持合法身份工卡新政 李想律师事务所位于美国加州洛杉矶郡阿罕布拉市，成立于2012，是一家覆盖移民法，刑法，家庭法，商业法的综合型律师事务所。我们的律师团队精通美国移民法，刑法，致力于拥护移民权益，帮助在美华人。我们的律师拥有丰富出庭经验， 根据客人背景情况，提出最优化解决方案，开业至今已经帮助数千名客人获得合法身份，解决各类纠纷。 律所创办人李想律师（Sabrina Li）毕业于美国南加州大学(USC)法学院，本科毕业于北京师范大学。 拥有丰富的法律从业经验，擅长办理移民，刑事相关的疑难杂案，是美国加州，纽约州，第九巡回，第六巡回法院的注册律师，并持有中国法律职业资格证书。 在美有任何法律相关问题请联系李想律师事务所： 中文服务电话：626-800-4820 英文服务电话： 213-375-8096 传真: 213-375-8096 电子邮件：info@xlilaw.com 地址：801 S. Garfield Ave., Ste 338, Alhambra, CA 91801 网站: www.xlilaw.com 中文网站:www.lixianglaw.com</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3316.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3316.html" target="_blank"><h4>美国新冠动荡下，亚马逊逆势增长，带来物流业的新机会《洛城情报站》Aug 21 2020</h4></a> 
+          <div class="info">
+           <span>08/20</span><span>0观看</span>
+          </div> 
+          <p>疫情正在引发全球范围的经济动荡，但多家国际科技巨头却在疫情中增长。今年4月至6月三个月里，亚马逊（Amazon）的销售额就飙升了40%，也给物流业带来了新机会。本次节目我们就特邀小猪有车 CEO 陈江跟大家聊聊这件事。 小猪有车 CEO 陈江 电话：714-813-0158 网址：piggycars.com 地址：19093 Colima Rd，Rowland heights，CA 91748</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3331.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3331.html" target="_blank"><h4>监控摄像头如何挑选？新冠期间，如何保护您和家人？《洛城情报站》第197期Sep 10, 2020</h4></a> 
+          <div class="info">
+           <span>09/08</span><span>0观看</span>
+          </div> 
+          <p>大美帝并不是所有的地方都一片祥和，有不少小伙伴就遇到包裹被偷，甚至是入室盗窃。考虑装上一套或是一台家庭安防、监控系统可以大大减低发生这些情况的危险，即使发生意外状况也能够为事后处理带来更多的便利。 那么，市面上，这么多家防监控摄像头如何挑选呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3272.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3272.html" target="_blank"><h4>非常时期健康保险全方位解析</h4></a> 
+          <div class="info">
+           <span>06/15</span><span>0观看</span>
+          </div> 
+          <p>疫情在美国愈演愈烈，各方面都受到巨大影响，也唤醒了民众对健康及保险的重视。疫情期间，健康保险该如何购买？如何使用健康保險看診及做新冠相關檢測？不同移民身份、旅游、毕业、失业等不同情况，该如何获得医疗保险？新冠疫情期間社安局關門，快到65歲如何申請紅藍卡？本期的How视频请到加州华人健保首选——华兴保险的总裁张国兴先生及健康保险部门负责人，高级健保规划师Anna高女士，与大家分享疫情期间关于健康保险的最新资讯并现场解答各类相关问题。 华兴保险致力于提供全方位的保险服务，拥有过百位领有专业执照的保险规划师，主要业务在於提供企业及个人量身的各项风险管理策略，满足客户不同的保险需求，无论是保险业绩及企业规模皆属全美亚裔经纪之冠。如今的华兴保险，在个人市场方面累积服务客户超过十二万名，为个人及家庭提供完整的保护伞；也为超过六千家企业提供全方面的风险规划包括商业、劳工、团体健康保险及各项相关保险业务。在健康保险方面，华兴保险不但与各大主流保险公司保持紧密联系，更是加州全保推荐的顶尖经纪，除了免费为客户提供专业的健保规划服务，协助客户申请政府保费补助外，更注重客户体验，提供售后服务，让客户买得放心、用得安心，以过硬的专业素质及顶尖的服务水准树立了良好的口碑，是加州民众的健保首选。 &nbsp; 电话：626-333-1111 微信公众号：KCAL3331111 (华兴在南加) 网址：www.kcal.net</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3324.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3324.html" target="_blank"><h4>近期移民新动向总结和深度分析《移民法律月报》2020.09.02第20期</h4></a> 
+          <div class="info">
+           <span>08/28</span><span>0观看</span>
+          </div> 
+          <p>《#移民法律月报 》是#洛杉矶华人资讯网，为广大海内外华人特别制作的一档法制节目，我们每月都会邀请华明胜律师事务所，为大家直播关于移民，人体伤害，刑事法，工伤赔偿与社安等领域节目。节目我们特邀Tina跟大家讲讲新冠期间移民政策调整后问题! 华明胜律师事务所创始于与1984年，在移民业务，人体伤害，刑事法，工伤赔偿与社安等领域都拥有非常专业的律师与经验丰富的法律资深团队。移民法律团队服务过的客户跨越50州甚至遍及全球。 更多详细信息请看： law888.com 免费咨询电话： 626-282-6868 华明胜律师事务所YouTube 官方频道：https://www.youtube.com/channel/UCFDHJANDaxx8nFwixnQp6-g?view_as=subscriber</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3333.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3333.html" target="_blank"><h4>注意！回国新规定 如何做核酸检测？《洛城情报站》第199期Sep 11, 2020</h4></a> 
+          <div class="info">
+           <span>09/11</span><span>0观看</span>
+          </div> 
+          <p>最初各大使领馆的要求都是出具出发前五天有效的核酸报告，但最近按照民航局，外交部和海关的要求，赴中国的中、外籍乘客必须在美完成新冠病毒核酸检测，凭3日(72小时)内出具的核酸检测阴性证明才能登机。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_3342.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_3342.html" target="_blank"><h4>2021新财年职业移民排期大幅度提前 对美国境内申请者有何影响？《移民法律月报》第21期2020.10.07</h4></a> 
+          <div class="info">
+           <span>5天前</span><span>0观看</span>
+          </div> 
+          <p>《#移民法律月报 》是#洛杉矶华人资讯网，为广大海内外华人特别制作的一档法制节目，我们每月都会邀请华明胜律师事务所，为大家直播关于移民，人体伤害，刑事法，工伤赔偿与社安等领域节目。节目我们特邀Tina跟大家讲讲新冠期间移民政策调整后问题! 华明胜律师事务所创始于与1984年，在移民业务，人体伤害，刑事法，工伤赔偿与社安等领域都拥有非常专业的律师与经验丰富的法律资深团队。移民法律团队服务过的客户跨越50州甚至遍及全球。 更多详细信息请看： law888.com 免费咨询电话： 626-282-6868 华明胜律师事务

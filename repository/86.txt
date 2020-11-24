@@ -1,0 +1,448 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js" type="text/javascript"></script> 
+  <title>佛罗里达华人生活资讯 - 佛罗里达华人资讯网</title> 
+  <meta name="description" content="佛罗里达华人生活资讯,包含租房,买车,二手商品,华人医生,会计师,华人超市,华人职业介绍等信息"> 
+  <meta name="keywords" content="佛罗里达华人生活,佛罗里达租房,佛罗里达求职,佛罗里达华人超市,佛罗里达华人医生,买车，修车"> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/top_eye/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/mainmenu.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/js/thickbox.v2.css" type="text/css" media="screen"> 
+ </head> 
+ <body> 
+  <div id="page"> 
+   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"> 
+    <tbody>
+     <tr>
+      <td width="1%">&nbsp;</td> 
+      <td width="98%" valign="top" height="26"> 
+       <table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"> 
+        <tbody>
+         <tr> 
+          <td width="9"> </td> 
+          <td width="98%"> 
+           <div> 
+            <div> 
+             <form name="searchForm" id="searchForm" onsubmit="return false;"> 
+              <input type="text" id="key" name="key" value="请输入您要查找的华人商家信息..." onkeypress="return searchCompanyOnKeyProcessGlobal(event, this.form)" onfocus="setDefaultSearchGlobal(this.form)"> 
+              <input type="button" name="Search" value="搜索" onclick="searchCompanyGlobal()"> 
+             </form> 
+            </div> 
+            <script type="application/javascript">
+var defaultSearchLang = '请输入您要查找的华人商家信息...';
+var map_input_search_key = "请输入您要查询的内容";
+</script>
+           </div> 
+           <div> <a href="javascript:setCookie('zlang','gb',15)"></a> <a href="javascript:setCookie('zlang','tw',15)"></a> 
+           </div> 
+           <div> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.ChineseInFlorida.com&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe> 
+           </div> 
+           <div> <a href="/register.html" class="user">注册</a> | <a href="/f/page_login.html" class="user">登录</a> 
+           </div></td> 
+          <td width="9"></td> 
+         </tr> 
+        </tbody>
+       </table> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr>
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td width="98%" valign="top" height="70"> 
+       <div id="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+       </div> 
+       <div id="topright"> 
+       </div> 
+       <div class="clear"></div> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td width="98%">
+       <div class="navbar"> 
+        <div class="navbar-inner"> 
+         <ul class="nav"> 
+          <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+          <li></li> 
+          <li class="active"><a href="/living.html" class="brand">生活资讯</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+          <li></li> 
+          <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="submenu_list" id="active_submenu"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="activeText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu38"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu100"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu1151"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu1095"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu161"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu132"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu42"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <div class="submenu_list" id="inactive_submenu67"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <form name="menu_logout" action="f/page_login/logout_true" method="post">
+        <input type="hidden" name="redirect" value="/living.html"> 
+        <div class="submenu_list" id="inactive_submenu37"> 
+         <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+          <tbody> 
+           <tr> 
+            <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+       </form> 
+       <div class="submenu_list" id="inactive_submenu1163"> 
+        <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td width="1%">&nbsp;</td> 
+      <td valign="top" width="98%" align="left"> 
+       <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"> 
+        <tbody>
+         <tr> 
+          <td valign="top"> 
+           <div> 
+            <div class="tabhead"> 
+             <ul> 
+              <li><a href="/restaurant/task_list/catid_6.html" class="active" target="_blank"><span>佛罗里达中餐馆</span></a></li> 
+              <li><a href="/restaurant.html" target="_blank"><span>佛罗里达美食地图</span></a></li> 
+              <li><a href="/f/page_viewforum/f_2.html" target="_blank"><span>佛罗里达美食论坛</span></a></li> 
+              <li><a href="/restaurant/tagId_10/task_list.html" target="_blank"><span>四川菜</span></a></li> 
+              <li><a href="/restaurant/tagId_38/task_list.html" target="_blank"><span>自助餐</span></a></li> 
+             </ul> 
+            </div> 
+            <div class="more_link2"> <a href="/restaurant/task_list/catid_6.html" target="_blank">更多&gt;</a> 
+            </div> 
+            <div class="moduletable_0"> 
+             <div class="module_inner_table"> 
+              <dl class="image_gallery0">
+               <dt> 
+                <div class="wrap1">
+                 <div class="wrap2">
+                  <div class="wrap3"> <a href="/restaurant/task_view/id_34.html" target="_blank">  </a> 
+                  </div>
+                 </div>
+                </div> 
+               </dt> 
+               <dd>
+                <a href="/restaurant/task_view/id_34.html" target="_blank" class="topictitle">奥卡拉餐厅美食轩</a>
+               </dd> 
+              </dl> 
+              <dl class="image_gallery0">
+               <dt> 
+                <div class="wrap1">
+                 <div class="wrap2">
+                  <div class="wrap3"> <a href="/restaurant/task_view/id_3.html" target="_blank">  </a> 
+                  </div>
+                 </div>
+                </div> 
+               </dt> 
+               <dd>
+                <a href="/restaurant/task_view/id_3.html" target="_blank" class="topictitle">广州酒家</a>
+               </dd> 
+              </dl> 
+              <dl class="image_gallery0">
+               <dt> 
+                <div class="wrap1">
+                 <div class="wrap2">
+                  <div class="wrap3"> <a href="/restaurant/task_view/id_130.html" target="_blank">  </a> 
+                  </div>
+                 </div>
+                </div> 
+               </dt> 
+               <dd>
+                <a href="/restaurant/task_view/id_130.html" target="_blank" class="topictitle">龙城海鲜烧腊酒家</a>
+               </dd> 
+              </dl> 
+              <dl class="image_gallery0">
+               <dt> 
+                <div class="wrap1">
+                 <div class="wrap2">
+                  <div class="wrap3"> <a href="/restaurant/task_view/id_15.html" target="_blank">  </a> 
+                  </div>
+                 </div>
+                </div> 
+               </dt> 
+               <dd>
+                <a href="/restaurant/task_view/id_15.html" target="_blank" class="topictitle">香港城酒家</a>
+               </dd> 
+              </dl> 
+             </div> 
+            </div> 
+            <div align="center"> 
+             <table width="100%"> 
+              <tbody>
+               <tr> 
+                <td width="50%" align="center"> </td> 
+                <td width="50%" align="center"> </td> 
+               </tr> 
+              </tbody>
+             </table> 
+            </div>
+            <div class="tabhead"> 
+             <ul> 
+              <li id="cat_0"> <a href="javascript:show_latest()" class="active"><span>最新资讯</span></a> </li>
+              <li id="cat_5"> <a href="javascript:show_cat_latest(5)"><span>佛罗里达介绍</span></a> </li> 
+              <li id="cat_1"> <a href="javascript:show_cat_latest(1)"><span>生活资讯</span></a> </li>
+              <li id="cat_3"> <a href="javascript:show_cat_latest(3)"><span>海外生活</span></a> </li> 
+             </ul>
+            </div> 
+            <div class="moduletable_0" id="home_topics"> 
+             <div id="topics"> 
+              <div class="more_link2"> <a href="/f.html" target="_blank">更多&gt;</a> 
+              </div> 
+              <table cellpadding="0" cellspacing="0" width="100%" class="topic_list"> 
+               <tbody>
+                <tr> 
+                 <td width="50%"> 
+                  <ul>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63553.html" target="_blank" title="地产公司诚招装修杂务工数名" class="link">地产公司诚招装修杂务工数名</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_32.html" target="_blank">医疗健康</a>】</span><a href="/f/page_viewtopic/t_63540.html" target="_blank" title="[征]纽约大学癌症病友家属研究" class="link">[征]纽约大学癌症病友家属研究</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_5.html" target="_blank">房屋出租</a>】</span><a href="/f/page_viewtopic/t_63535.html" target="_blank" title="迈阿密Coralterrace 转租（新楼）" class="link">迈阿密Coralterrace 转租（新楼）</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_58.html" target="_blank">驾照罚单</a>】</span><a href="/f/page_viewtopic/t_63531.html" target="_blank" title="无身份合法申请正式驾照" class="link">无身份合法申请正式驾照</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_35.html" target="_blank">买房卖房</a>】</span><a href="/f/page_viewtopic/t_63522.html" target="_blank" title="坦帕新房推荐" class="link">坦帕新房推荐</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_56.html" target="_blank">保险福利</a>】</span><a href="/f/page_viewtopic/t_63521.html" target="_blank" title="佛州应该买哪家保险公司的计划？ -之 Ambetter 篇" class="link">佛州应该买哪家保险公司的计划？ -之 Ambe</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_3.html" target="_blank">二手商品</a>】</span><a href="/f/page_viewtopic/t_63512.html" target="_blank" title="美国口罩生产厂直销" class="link">美国口罩生产厂直销</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_35.html" target="_blank">买房卖房</a>】</span><a href="/f/page_viewtopic/t_63480.html" target="_blank" title="纽约首选 免查收入/没身份/低信用 贷款公司 (业务覆盖全美 50 州) 首付最低20%/最高可贷到85%" class="link">纽约首选 免查收入/没身份/低信用 贷款公司</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63450.html" target="_blank" title="招聘按摩师" class="link">招聘按摩师</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63448.html" target="_blank" title="天马物流招聘直营店店长" class="link">天马物流招聘直营店店长</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_25.html" target="_blank">留学美国</a>】</span><a href="/f/page_viewtopic/t_63444.html" target="_blank" title="纽约语言学校发I-20/学费实惠/维持身份/身份转换/紧急转学/纯外教" class="link">纽约语言学校发I-20/学费实惠/维持身份/身</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63415.html" target="_blank" title="美国月嫂中心" class="link">美国月嫂中心</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_5.html" target="_blank">房屋出租</a>】</span><a href="/f/page_viewtopic/t_63413.html" target="_blank" title="奥兰多 192 大道上沃尔玛后面度假小区,独立一房公寓招租" class="link">奥兰多 192 大道上沃尔玛后面度假小区,独立</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63412.html" target="_blank" title="奥兰多送货公司请人" class="link">奥兰多送货公司请人</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_37.html" target="_blank">交友征婚</a>】</span><a href="/f/page_viewtopic/t_63408.html" target="_blank" title="征婚 FL 485男 征女生" class="link">征婚 FL 485男 征女生</a></li>
+                  </ul> </td> 
+                 <td width="50%"> 
+                  <ul>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_3.html" target="_blank">二手商品</a>】</span><a href="/f/page_viewtopic/t_63358.html" target="_blank" title="LED植物照明灯一批" class="link">LED植物照明灯一批</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_56.html" target="_blank">保险福利</a>】</span><a href="/f/page_viewtopic/t_63357.html" target="_blank" title="HH金融集团:金牌保险理财师团报价组 免费报价,专业设计,贴心服务 !" class="link">HH金融集团:金牌保险理财师团报价组 免费报</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63351.html" target="_blank" title="按摩请人" class="link">按摩请人</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_3.html" target="_blank">二手商品</a>】</span><a href="/f/page_viewtopic/t_63350.html" target="_blank" title="高清监控IP摄像头。" class="link">高清监控IP摄像头。</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_21.html" target="_blank">其他信息</a>】</span><a href="/f/page_viewtopic/t_63345.html" target="_blank" title="自己建设网站的流程和步骤,零基础用US Domain Center做网站" class="link">自己建设网站的流程和步骤,零基础用US Dom</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_21.html" target="_blank">其他信息</a>】</span><a href="/f/page_viewtopic/t_63344.html" target="_blank" title="范 新 林 美 术 工 作 室 专 业 美 术 教 学" class="link">范 新 林 美 术 工 作 室 专 业 美 术 教 </a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_34.html" target="_blank">购物指南</a>】</span><a href="/f/page_viewtopic/t_62784.html" target="_blank" title="WOODBURYMALL 美国全网最低价批发品牌服装 / Champion / CK / TOMMY/ LEVIS" class="link">WOODBURYMALL 美国全网最低价批发品牌服装</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63328.html" target="_blank" title="Amazon合作夥伴,自己是老板. 撑握工作技能,时薪可达$35/小时 以上. 工作申请：www.fpa888.com" class="link">Amazon合作夥伴,自己是老板. 撑握工作技能</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63304.html" target="_blank" title="十年月嫂求职" class="link">十年月嫂求职</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63277.html" target="_blank" title="迈阿密贸易公司招聘办公室助理" class="link">迈阿密贸易公司招聘办公室助理</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_3.html" target="_blank">二手商品</a>】</span><a href="/f/page_viewtopic/t_63276.html" target="_blank" title="二手扬琴" class="link">二手扬琴</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_21.html" target="_blank">其他信息</a>】</span><a href="/f/page_viewtopic/t_63273.html" target="_blank" title="实力医疗器械公司诚招美国代理商" class="link">实力医疗器械公司诚招美国代理商</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_5.html" target="_blank">房屋出租</a>】</span><a href="/f/page_viewtopic/t_63272.html" target="_blank" title="奥兰多冬季花园Winter Garden,Storey Grove 小区全新4房3浴独栋别墅房出租" class="link">奥兰多冬季花园Winter Garden,Storey Grov</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_3.html" target="_blank">二手商品</a>】</span><a href="/f/page_viewtopic/t_63266.html" target="_blank" title="中国特效强力蟑螂药,蚂蚁药。无效退款" class="link">中国特效强力蟑螂药,蚂蚁药。无效退款</a></li>
+                   <li class="cat"><span class="home_cat">【<a href="/f/page_viewforum/f_29.html" target="_blank">工作求职</a>】</span><a href="/f/page_viewtopic/t_63240.html" target="_blank" title="十年老月嫂" class="link">十年老月嫂</a></li>
+                  </ul> </td> 
+                </tr> 
+               </tbody>
+              </table> 
+             </div>  
+            </div>
+            <div class="tabhead"> 
+             <ul> 
+              <li><a href="/doctor/task_list.html" class="active" target="_blank"><span>华人医生</span></a></li> 
+              <li><a href="/doctor.html" target="_blank"><span>佛罗里达人医生分布图</span></a></li> 
+              <li><a href="/doctor/tagId_22/task_list.html" target="_blank"><span>牙科</span></a></li> 
+              <li><a href="/doctor/tagId_27/task_list.html" target="_blank"><span>中医</span></a></li> 
+              <li><a href="/doctor/tagId_77/task_list.html" target="_blank"><span>推拿</span></a></li> 
+             </ul> 
+            </div> 
+            <div class="more_link2"> <a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">更多&gt;</a> 
+            </div> 
+            <div class="moduletable_0"> 
+             <div class="user_table"> 
+              <div class="module_inner_table"> 
+               <table cellpadding="0" cellspacing="0" width="97%"> 
+                <tbody>
+                 <tr> 
+                  <td width="50%"> 
+                   <ul>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_444/%E9%99%88%E7%BA%A2.html" target="_blank" title="陈红 - Hong Chen" class="link">陈红 - Hong Chen</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_179/%E6%9B%BE%E6%99%93%E6%A2%85.html" target="_blank" title="曾晓梅 - Xiao Mei Zeng" class="link">曾晓梅 - Xiao Mei Zeng</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_181/%E9%99%88%E9%80%B8%E6%B0%91.html" target="_blank" title="陈逸民 - Yat-Min Chen" class="link">陈逸民 - Yat-Min Chen</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_267/%E7%BF%9F%E6%B0%8F%E9%92%88%E7%81%B8%E4%B8%AD%E5%8C%BB%E8%AF%8A%E6%89%80.html" target="_blank" title="翟氏针灸中医诊所 - TZE'S ACUPUNCTURE AND HERB, INC." class="link">翟氏针灸中医诊所 - TZE'S ACUPUNCT</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_338/%E4%BD%9B%E5%B7%9E%E4%B8%AD%E5%8C%BB%E8%AF%8A%E6%89%80.html" target="_blank" title="佛州中医诊所" class="link">佛州中医诊所</a></li>
+                   </ul> </td> 
+                  <td width="50%"> 
+                   <ul>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_177/%E5%8D%83%E9%93%81.html" target="_blank" title="千铁 - Tie Qian" class="link">千铁 - Tie Qian</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_230/%E6%88%BF%E6%B3%B0.html" target="_blank" title="房泰" class="link">房泰</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_266/%E8%BF%88%E9%98%BF%E5%AF%86%E9%92%88%E7%82%99%E6%8C%89%E6%91%A9%E6%AD%A2%E7%97%9B%E4%B8%AD%E5%BF%83.html" target="_blank" title="迈阿密针炙按摩止痛中心 - WEST FLAGLER PAIN CARE CENTER INC." class="link">迈阿密针炙按摩止痛中心 - WEST FLA</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_287/enci%E5%8D%B5%E5%AD%90%E9%93%B6%E8%A1%8C.html" target="_blank" title="enci卵子银行 - enci eggbank" class="link">enci卵子银行 - enci eggbank</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" target="_blank">华人医生</a>】</span><a href="/doctor/task_view/id_369/%E8%BD%A6%E7%A5%B8%E5%A4%8D%E5%81%A5.html" target="_blank" title="车祸复健 - Ky Chung" class="link">车祸复健 - Ky Chung</a></li>
+                   </ul> </td> 
+                 </tr> 
+                </tbody>
+               </table> 
+              </div> 
+             </div> 
+            </div>
+            <div class="tabhead"> 
+             <ul> 
+              <li><a href="/supermarket/task_list.html" class="active" target="_blank"><span>华人超级市场</span></a></li> 
+              <li><a href="/supermarket.html" target="_blank"><span>华人超级市场分布图</span></a></li> 
+              <li><a href="/supermarket/tagId_9/task_list.html" target="_blank"><span>海鲜</span></a></li> 
+              <li><a href="/supermarket/tagId_30/task_list.html" target="_blank"><span>韩国超市</span></a></li> 
+              <li><a href="/supermarket/tagId_68/task_list.html" target="_blank"><span>日本超市</span></a></li> 
+             </ul> 
+            </div> 
+            <div class="more_link2"> <a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">更多&gt;</a> 
+            </div> 
+            <div class="moduletable_0"> 
+             <div class="hotel_table"> 
+              <div class="module_inner_table"> 
+               <table cellpadding="0" cellspacing="0" width="97%"> 
+                <tbody>
+                 <tr> 
+                  <td width="50%"> 
+                   <ul>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_113/%E9%B8%BF%E8%BF%90%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank" title="鸿运超级市场 - Lucky Oriental Mart" class="link">鸿运超级市场 - Lucky Orient</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_298/%E5%8C%97%E4%BA%AC%E8%B6%85%E5%B8%82.html" target="_blank" title="北京超市 - Beijing Mart" class="link">北京超市 - Beijing Mart</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_118/%E6%B0%B8%E5%8F%91%E8%B6%85%E5%B8%82.html" target="_blank" title="永发超市 - Wing Fa Asian Supermarket" class="link">永发超市 - Wing Fa Asian Su</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_282/%E6%96%B0%E5%8D%8E%E9%A3%9F%E5%93%81%E6%89%B9%E5%8F%91%E5%85%AC%E5%8F%B8-TAMPA.html" target="_blank" title="新华食品批发公司-TAMPA - SANWA FARMER'S MARKET" class="link">新华食品批发公司-TAMPA - SA</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_29/%E7%AC%AC%E4%B8%80%E4%B8%9C%E6%96%B9%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank" title="第一东方超级市场 - 1st Oriental Supermarket" class="link">第一东方超级市场 - 1st Orie</a></li>
+                   </ul> </td> 
+                  <td width="50%"> 
+                   <ul>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_125/%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%B8%82.html" target="_blank" title="中国超市 - China Supermarket" class="link">中国超市 - China Supermarke</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_162/%E4%B8%AD%E5%85%B4%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.html" target="_blank" title="中兴超级市场 - Chung Hing Oriental Market" class="link">中兴超级市场 - Chung Hing O</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_156/%E4%B8%AD%E5%9B%BD%E5%9F%8E%E8%B6%85%E5%B8%82.html" target="_blank" title="中国城超市 - New York Mart" class="link">中国城超市 - New York Mart</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_28/Chun%20Ching%20Oriental%20Food%20Supply.html" target="_blank" title="Chun Ching Oriental Food Supply" class="link">Chun Ching Oriental Food Su</a></li>
+                    <li class="cat"><span class="home_cat">【<a href="/supermarket/%E5%8D%8E%E4%BA%BA%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA/task_list.html" target="_blank">华人超级市场</a>】</span><a href="/supermarket/task_view/id_30/Oriental%20Food%20%26%20Gift%20Market.html" target="_blank" title="Oriental Food &amp; Gift Market" class="link">Oriental Food &amp; Gift Market</a></li>
+                   </ul> </td> 
+                 </tr> 
+                </tbody>
+               </table> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="clear"> 
+           </div> </td> 
+          <td width="1%">&nbsp;</td> 
+          <td width="21%" valign="top"> <!--		<div style="margin: 10px 0">--> <!--			<a href="la_weblinks.html" style="margin-left: 18px;"><img src="/sda/weblinks.jpg" /></a>--> <!--		</div>--> <!--		--> </td> 
+         </tr> 
+        </tbody>
+       </table> </td> 
+      <td width="1%">&nbsp;</td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <div id="footer"> 
+    <div class="la_guide"> 
+     <div class="la_guide1"> 
+      <div class="la_guide_title">
+       佛罗里达生活指南
+      </div> 
+      <dl class="la_guide_list" id="guide_cat_9"> 
+       <dt>
+        推荐
+       </dt> 
+       <dd>
+        <a href="https://www.chineseinflorida.com/f.html">佛罗里达华人论坛</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinflorida.com/company.html">佛罗里达商家点评</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinflorida.com/doctor.html">佛罗里达华人医生分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.chineseinflorida.com/accountant.html">佛罗里达会计师分布图</a>
+      

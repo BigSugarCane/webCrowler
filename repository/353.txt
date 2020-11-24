@@ -1,0 +1,900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/search/key_%e7%a6%bb%e5%a9%9a.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>拉斯维加斯华人资讯网 - 拉斯维加斯本地的华人信息分享交流平台</title> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e7%a6%bb%e5%a9%9a.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://lv.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://lv.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://lv.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.vegaschinaren.com/kw/id_554/keyid_6746.html" class="map_link" target="_blank">离婚</a> 
+      </dt> 
+      <dd>
+       拉斯维加斯离婚
+      </dd> 
+     </dl> 
+     <dl class="search_ads"> 
+      <dt> <a href="/company/task_view/id_15128.html" class="map_link" target="_blank">拉斯维加斯婚姻登记处 - Marriage Bureau</a> 
+      </dt> 
+      <dd>
+       办理结婚.离婚手续
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="静远翻译移民服务">静远翻译移民服务</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="map_link" target="_blank" title="Jing" s translation and immigration service'>Jing's Translation and Immigration service</a>
+         </div><a href="/lawyer/task_review/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="review" title="点评"></a><a href="/lawyer/task_image/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="image" title="图片"></a><a href="/lawyer/task_message/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/lawyer/task_view/id_15295/%E9%9D%99%E8%BF%9C%E7%BF%BB%E8%AF%91%E7%A7%BB%E6%B0%91%E6%9C%8D%E5%8A%A1.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_15295.html" title="点击查看地图">4255 Spring Mountain Rd., Suite C 109A, Las Vegas, NV 89102</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-494-9084
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4448/%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83.html" title="福利中心" class="map_link">福利中心</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4508/%E5%A9%9A%E5%A7%BB%E7%BB%BF%E5%8D%A1.html" title="婚姻绿卡" class="map_link">婚姻绿卡</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4447/%E6%B3%95%E5%BE%8B%E7%A6%8F%E5%88%A9%E6%9C%8D%E5%8A%A1.html" title="法律福利服务" class="map_link">法律福利服务</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="黄婷律师事务所">黄婷律师事务所</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="Hwang Law Group">Hwang Law Group</a>
+         </div><a href="/lawyer/task_review/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="review" title="点评"></a><a href="/lawyer/task_image/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="image" title="图片"></a><a href="/lawyer/task_displayVideo/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="video" title="视频"></a><a href="/lawyer/task_displayCard/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="card" title="商业名片"></a><a href="/lawyer/task_message/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/lawyer/task_view/id_33047/%E9%BB%84%E5%A9%B7%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_33047.html" title="点击查看地图">2880 S Jones Blvd Suite 2, Las Vegas, NV 89146</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-820-0888
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4332/%E8%BD%A6%E7%A5%B8.html" title="车祸" class="map_link">车祸</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4346/%E5%88%91%E4%BA%8B%E6%B3%95.html" title="刑事法" class="map_link">刑事法</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_7814/%E4%BA%A4%E9%80%9A%E7%BD%9A%E5%8D%95.html" title="交通罚单" class="map_link">交通罚单</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="蔡晓薇律师事务所">蔡晓薇律师事务所</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="JENNIFER HW TSAI，ESQ">JENNIFER HW TSAI，ESQ</a>
+         </div><a href="/lawyer/task_review/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="review" title="点评"></a><a href="/lawyer/task_image/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="image" title="图片"></a><a href="/lawyer/task_message/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/lawyer/task_view/id_14784/%E8%94%A1%E6%99%93%E8%96%87%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;11个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_14784.html" title="点击查看地图">1810 E s8, sahara ave., ste 10, las vegas, nv 89104</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702- 727-3943, 702-358-0626
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4332/%E8%BD%A6%E7%A5%B8.html" title="车祸" class="map_link">车祸</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4347/%E6%88%BF%E5%B1%8B%E9%87%8D%E6%95%B4.html" title="房屋重整" class="map_link">房屋重整</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="孙杰律师事务所">孙杰律师事务所</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="Sun Law Group,LLC">Sun Law Group,LLC</a>
+         </div><a href="/lawyer/task_review/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="review" title="点评"></a><a href="/lawyer/task_image/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="image" title="图片"></a><a href="/lawyer/task_message/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/lawyer/task_view/id_15531/%E5%AD%99%E6%9D%B0%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_15531.html" title="点击查看地图">6145 Spring Mtn.,Rd.,#201,Las Vegas,NV 89103</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-968-9900
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4332/%E8%BD%A6%E7%A5%B8.html" title="车祸" class="map_link">车祸</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4703/%E7%A0%B4%E4%BA%A7.%E5%95%86%E6%A0%87.html" title="破产.商标" class="map_link">破产.商标</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4388/Las%20Vegas.html" title="Las Vegas" class="map_link">Las Vegas</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_30634/%E5%BB%96%E5%90%AF%E6%98%8C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="廖启昌律师事务所">廖启昌律师事务所</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_30634/%E5%BB%96%E5%90%AF%E6%98%8C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="The Law Office of Kenneth Liu">The Law Office of Kenneth Liu</a>
+         </div><a href="/lawyer/task_review/id_30634/%E5%BB%96%E5%90%AF%E6%98%8C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="review" title="点评"></a><a href="/lawyer/task_message/id_30634/%E5%BB%96%E5%90%AF%E6%98%8C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_30634.html" title="点击查看地图">819 S 6th St, Las Vegas, NV 89101</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702 385 0639
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4341/%E7%A0%B4%E4%BA%A7.html" title="破产" class="map_link">破产</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4332/%E8%BD%A6%E7%A5%B8.html" title="车祸" class="map_link">车祸</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4358/%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B.html" title="公司成立" class="map_link">公司成立</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4388/Las%20Vegas.html" title="Las Vegas" class="map_link">Las Vegas</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_14788/%E7%8E%8B%E6%AC%A3%E5%BE%8B%E5%B8%88.html" class="map_link" target="_blank" title="王欣律师">王欣律师</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_14788/%E7%8E%8B%E6%AC%A3%E5%BE%8B%E5%B8%88.html" class="map_link" target="_blank" title="WANG XIN， ESQ">WANG XIN， ESQ</a>
+         </div><a href="/lawyer/task_review/id_14788/%E7%8E%8B%E6%AC%A3%E5%BE%8B%E5%B8%88.html" class="review" title="点评"></a><a href="/lawyer/task_message/id_14788/%E7%8E%8B%E6%AC%A3%E5%BE%8B%E5%B8%88.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;702-868-8248
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4333/%E7%A7%BB%E6%B0%91.html" title="移民" class="map_link">移民</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4474/%E6%88%BF%E5%B1%8B%E9%87%8D%E8%B4%B7.html" title="房屋重贷" class="map_link">房屋重贷</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4332/%E8%BD%A6%E7%A5%B8.html" title="车祸" class="map_link">车祸</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/lawyer/task_view/id_32823/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A6%BB%E5%A9%9A%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="拉斯维加斯离婚律师事务所">拉斯维加斯离婚律师事务所</a><span class="blue_font">-</span><a href="/lawyer/task_view/id_32823/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A6%BB%E5%A9%9A%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="map_link" target="_blank" title="Las Vegas Divorce Attorney">Las Vegas Divorce Attorney</a>
+         </div><a href="/lawyer/task_review/id_32823/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A6%BB%E5%A9%9A%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="review" title="点评"></a><a href="/lawyer/task_message/id_32823/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E7%A6%BB%E5%A9%9A%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/lawyer/id_32823.html" title="点击查看地图">2700 Las Vegas Blvd S, 1014,Las Vegas, NV 89109</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;7026012511
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="map_link" target="_blank">华人律师</a><span>&gt;</span><span class="list_tag"><a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4348/%E7%A6%BB%E5%A9%9A.html" title="离婚" class="map_link">离婚</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4360/%E4%BF%A1%E6%89%98.html" title="信托" class="map_link">信托</a>,&nbsp;&nbsp;<a href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list/tagId_4388/Las%20Vegas.html" title="Las Vegas" class="map_link">Las Vegas</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/hotnews/70818.html" target="_blank"><h4>鲍毓明或在抵达纽约当年注册结婚 09年在加州<span class="key">离婚</span></h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; ‘鲍毓明事件’发生已近一周，多家媒体跟踪报道了这件事。&nbsp; &nbsp; 我们发现，此前的许多报道与讨论，聚焦于所谓‘收养’之后的情况。人们更多地关注与争议其中的情色、女权问题，甚至是媒体报道的公允</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">8浏览</span> <span class="time">04/17</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/67344.html" target="_blank"><h4>相看两厌成另类疫情 上海<span class="key">离婚</span>预约排到4月中</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">135141&nbsp; &nbsp; 武汉肺炎疫情让中国民众过了一个多月的居家生活，夫妻朝夕相处产生更多摩擦，一些地方出现<span class="key">离婚</span>潮。（示意图／图取自Pixabay图库）&nbsp; &nbsp; 武汉肺炎疫情让中国民众过了一个多月的居家生活</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">16浏览</span> <span class="time">03/17</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/67039.html" target="_blank"><h4>疫情期朝夕相处致摩擦增多？四川现“<span class="key">离婚</span>高峰”</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">134469&nbsp; &nbsp; 随着新冠肺炎疫情发展逐渐稳定，全国多地的正常工作生活秩序逐渐恢复正常，相关政务机构都逐渐复工。上游新闻记者从四川省达州市通川区婚姻登记处获悉，从2月24日到3月11日，通川区婚姻登记处已</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">12浏览</span> <span class="time">03/14</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_62671.html" target="_blank"><h4>律师专栏 车祸赔偿怎么争取到最大赔偿金额？ 朱建丞律师事务所646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">122938&nbsp; 122939&nbsp; 122940&nbsp; 122941&nbsp; 【律师专栏】 &nbsp; &nbsp; 很多人可能不知道意外或车祸赔偿官司，一般并不太会进入庭审阶段，都是通过和解完成的，而且赔钱的基本都是保险公司。这样做是</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">80浏览</span> <span class="time">01/29</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_60674.html" target="_blank"><h4>在内华达州申请无过错<span class="key">离婚</span>程序是怎样的？</h4></a> 
+         <div class="content"> 
+          <p class="p-text">请问那位知道美国国籍本人 想在内华达州申请<span class="key">离婚</span>需要呆满一年吗？流程是怎样的 双方无过错 不聘请律师 最快多久？</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_28.html">求助专区</a> <span class="view">0评论</span> <span class="reply">78浏览</span> <span class="time">01/05</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_59846.html" target="_blank"><h4>（律师专栏）从新泽西枪击事件看美国控枪有多难 朱建丞律师事务所646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; 117727&nbsp; 117728&nbsp; 117729&nbsp; 117730&nbsp; 12月10日，美国新泽西州泽西市一家犹太超市发生枪击事件，6人遇难，包括1名警察中弹不治，2名枪手和3名平民，另外还有3名警察受伤。当局表示，事件很可</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">76浏览</span> <span class="time">2019/12/25</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_57608.html" target="_blank"><h4>侨报）绿卡申请配偶子女不排期 律师解读 朱建丞律师事务所646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">114124&nbsp; 114125&nbsp; 114126&nbsp; 114127&nbsp; &nbsp; 【侨报纽约讯】亲属移民排期提前！根据最新发布的移民排期表，亲属移民类别中的绿卡申请及未婚丶未满21岁的子女排期继续保持自今年中旬以来不用排队等</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">36浏览</span> <span class="time">2019/11/21</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_57139.html" target="_blank"><h4>（侨报新闻）移民局拟新规 剥夺庇护申请人工卡资格 朱建丞律师事务所646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">113687&nbsp; 113688&nbsp; 113689&nbsp; 【侨报纽约讯】美国公民与移民服务局(USCIS)13日公布新规提案(proposed rule)，计划通过剥夺多类庇护申请人的工卡申请，进一步收紧庇护申请(asylum applications)政策。律师</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">47浏览</span> <span class="time">2019/11/15</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_56520.html" target="_blank"><h4>（侨报新闻）酒驾药驾记录影响入籍 朱建丞律师事务所 646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">112576&nbsp; 112577&nbsp; 112578&nbsp; &nbsp; 【侨报纽约讯】允许无证移民申请驾照的绿灯法案(Green Light Bill)于今年年中在州议会通过，并由州长签字立法，预计于今年12月生效。律师提醒，无证移民申领驾照若涉</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">24浏览</span> <span class="time">2019/11/07</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_56082.html" target="_blank"><h4>（侨报新闻）法律咨询会解读出生公民权新法范围 朱建丞律师事务所 646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">112106&nbsp; 112107&nbsp; 112108&nbsp; 112109&nbsp; &nbsp; 【侨报纽约讯】联邦政府29日颁布新法，对“出生公民权”做出改变，再次引发移民群体担忧。美东华人社团联合总会30日在曼哈顿华埠举办移民法律咨询，律</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">19浏览</span> <span class="time">2019/11/03</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_51975.html" target="_blank"><h4>侨报 经第三国入美国 申请政庇或将被拒 朱建丞律师事务所 646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">106511&nbsp; 106512&nbsp; 106513&nbsp; &nbsp; 【侨报记者尹英姿9月17日纽约报道】联邦最高法院(Supreme Court of the United States)于本月中旬通过并公布的法庭文件，允许特朗普政府“抬高”政治庇护申请门槛，</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">50浏览</span> <span class="time">2019/09/18</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_51759.html" target="_blank"><h4>侨报 绿卡享公共福利 返美不会被拒入境 朱建丞律师事务所 646-518-7998</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; 106203&nbsp; 106204&nbsp; 106205&nbsp; &nbsp; 【侨报记者尹英姿9月10日纽约报道】特朗普政府计划在10月15日实行“公共负担”(Public Charge)新规，在华裔等移民社区引发持续性寒蝉效应。一名华妪因享有白</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_4.html">法律移民</a> <span class="view">0评论</span> <span class="reply">38浏览</span> <span class="time">2019/09/16</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_192.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_192.html" target="_blank"><h4>如何既离婚又拿到婚姻绿卡</h4></a> 
+          <div class="info">
+           <span>2016/08/09</span><span>8560观看</span>
+          </div> 
+          <p>婚姻双方若是在生活中出现问题，绿卡申请者为了拿到婚姻绿卡可能会选择忍气吞声的生活。但其实在美国若是出现家庭暴力，受害方即使离婚也可以直接申请绿卡。与配偶离婚想要申请绿卡需要提交相关证明，证明之前婚姻的真实性。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_194.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_194.html" target="_blank"><h4>如何在拉斯维加斯办理离婚</h4></a> 
+          <div class="info">
+           <span>2017/06/21</span><span>3161观看</span>
+          </div> 
+          <p>在哪里离婚最快最省事？绝对是拉斯维加斯！拉斯维加斯既是结婚的天堂，也是离婚的天堂。那么，在拉斯维加斯办理离婚需要进行哪些步骤呢？ </p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_492.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_492.html" target="_blank"><h4>在美国离婚如何分房子</h4></a> 
+          <div class="info">
+           <span>2017/01/02</span><span>31051观看</span>
+          </div> 
+          <p>继王宝强、张纪中之后，何洁也要离婚了，他们的共同点是：都在美国加州用于房产。那么，一个中国人，在美国有房子，离婚时，如何分割美国的房产呢？并且，我们经常听说美国人的离婚大战一旦开始就是马拉松，原因之一就是各种财产分割不能达成共识。那么，即使是一个美国人，在离婚时，又应该如何分割房产呢？且听洛杉矶知名华人律师为您详细评说：在美国离婚时如何分房子。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1143.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1143.html" target="_blank"><h4>如何办理简易离婚</h4></a> 
+          <div class="info">
+           <span>2017/08/24</span><span>7359观看</span>
+          </div> 
+          <p>离婚在美国有很多方式，其中最简单的离婚方式是简易离婚，离婚双方都是离婚诉请人，但是简易离婚适合所有的人吗？办理简易离婚需要满足哪些条件呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1164.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1164.html" target="_blank"><h4>对方拿到结婚绿卡后就要离婚怎么办</h4></a> 
+          <div class="info">
+           <span>2017/08/28</span><span>11662观看</span>
+          </div> 
+          <p>若自己的妻子或丈夫通过与自己结婚拿到了美国绿卡，但是拿到绿卡后就提出要离婚，我们该怎么办呢？若对方提出正是因为获得绿卡才结婚时我们又该如何做才能保护自己的权益呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1315.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1315.html" target="_blank"><h4>在美国离婚如何分财产</h4></a> 
+          <div class="info">
+           <span>2017/10/30</span><span>9692观看</span>
+          </div> 
+          <p>夫妻双方因为各种矛盾导致无法继续生活，对簿公堂。为了保护自己的权益不受到侵害，通常会在法庭上对财产进行分割。在美国法庭分割财产的原则是什么呢？如何才能拿到更多的财产呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1317.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1317.html" target="_blank"><h4>在美国离婚时如何冻结对方财产</h4></a> 
+          <div class="info">
+           <span>2017/11/02</span><span>1470观看</span>
+          </div> 
+          <p>夫妻双方办理离婚时，为了保护自己的利益会向法官申请在办理离婚手续期间，冻结双方财产。那么如何才能冻结对方财产呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1318.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1318.html" target="_blank"><h4>没有赚钱能力忽然被配偶要求离婚怎么办</h4></a> 
+          <div class="info">
+           <span>2017/11/05</span><span>1554观看</span>
+          </div> 
+          <p>结婚后，长期在家做家庭主妇相夫教子，逐渐失去了在社会上打拼的能力，没有了赚钱的能力却被配偶告知要求离婚时该怎么办呢？如何才能维护自己的权益呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1322.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1322.html" target="_blank"><h4>遭受家庭暴力后如何办理离婚</h4></a> 
+          <div class="info">
+           <span>2017/11/12</span><span>1752观看</span>
+          </div> 
+          <p>结婚后，夫妻中的一方脾气暴躁，屡次殴打另一方。遭受了家庭暴力之后该如何办理离婚才能最大程度的保护自己的利益呢？在办理离婚时，美国有哪些法律可以保护受虐方的利益呢？若正在办理结婚绿卡，离婚后还能收到绿卡吗？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1323.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1323.html" target="_blank"><h4>夫妻分居两国如何在美国办理离婚</h4></a> 
+          <div class="info">
+           <span>2017/11/14</span><span>3092观看</span>
+          </div> 
+          <p>如果夫妻双方分居在两个国家，感情发生破裂后需要进行离婚，该如何在美国办理呢？如果双方离婚有争议需怎样才能将离婚诉请书递交给对方呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1872.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1872.html" target="_blank"><h4>留学生如何在美国办理离婚手续</h4></a> 
+          <div class="info">
+           <span>2018/05/23</span><span>518观看</span>
+          </div> 
+          <p>在美国的留学生如何办理离婚手续？办理离婚时有哪些注意事项？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1939.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1939.html" target="_blank"><h4>在美国如何签订离婚协议</h4></a> 
+          <div class="info">
+           <span>2018/05/27</span><span>4667观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，那么在美国，如何离婚？离婚协议应该如何签订？抚养权和抚养费如何体现？如果一方不同意协议内容，又该怎么办？今天的How视频告诉您在美国如何签订离婚协议。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_1992.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_1992.html" target="_blank"><h4>夫妻离婚时如何处理生前信托</h4></a> 
+          <div class="info">
+           <span>2018/06/18</span><span>351观看</span>
+          </div> 
+          <p>很多夫妻都会联名成立生前信托，那么，当婚姻破裂面临离婚时，应如何处理生前信托？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2359.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2359.html" target="_blank"><h4>在美国离婚如何争取孩子抚养权</h4></a> 
+          <div class="info">
+           <span>2018/09/06</span><span>3144观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路。那么在美国，离婚的时候怎样争取孩子的抚养权？抚养权的多少都有哪些考量标准？孩子的意愿也会被考虑吗？今天的How视频告诉您在美国离婚如何争取孩子抚养权。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2360.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2360.html" target="_blank"><h4>在美国离婚如何计算孩子抚养费</h4></a> 
+          <div class="info">
+           <span>2018/09/13</span><span>4191观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，那么在美国，离婚后孩子的抚养费怎么计算？如果有有变化怎么办？一方如果不给抚养费怎么办？孩子受了虐待，是否可以更改抚养权？今天的How视频告诉您在美国离婚如何计算孩子抚养费。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2361.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2361.html" target="_blank"><h4>在美国离婚如何计算夫妻赡养费</h4></a> 
+          <div class="info">
+           <span>2018/09/20</span><span>10834观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，那么在美国，离婚后夫妻双方的赡养费怎么计算？法律是如何规定的？结婚时间与赡养费有没有关系？今天的How视频告诉您在美国离婚如何计算夫妻赡养费。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2362.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2362.html" target="_blank"><h4>在美国离婚如何防止对方转移财产</h4></a> 
+          <div class="info">
+           <span>2018/09/10</span><span>3694观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，离婚时孩子的抚养权、抚养费、财产等等，都需要协商，作为婚后的共有财产，如何防止一方在离婚时转移财产呢？法律是如何规定的？隐藏财产被发现，有何后果？今天的How视频告诉您在美国离婚如何防止对方转移财产。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2363.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2363.html" target="_blank"><h4>在美国离婚后对方不付抚养费怎么办</h4></a> 
+          <div class="info">
+           <span>2018/09/24</span><span>3661观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，那么在美国，离婚后夫妻一方不付孩子的抚养费怎么办？法律是如何规定的？有什么方法可以要回长时间未付的抚养费？今天的How视频告诉您在美国离婚后对方不付抚养费怎么办。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2367.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2367.html" target="_blank"><h4>在美国如何进行单方离婚</h4></a> 
+          <div class="info">
+           <span>2018/10/07</span><span>5478观看</span>
+          </div> 
+          <p>离婚，就像是移民的魔咒，很多移民的夫妻都会走上离婚的路，那么在美国如何离婚？是否可以单方离婚？单方离婚的流程是什么？如果对方不同意离婚又该怎么办？今天的How视频告诉您在美国如何进行单方离婚。</p> 
+         </div> </li> 
+        <li> <a href="https://www.vegaschinaren.com/v/v_2528.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.vegaschinaren.com/v/v_2528.html" target="_blank"><h4>夫妻离婚后对外债务如何偿还</h4></a> 
+          <div class="info">
+           <span>2018/11/03</span><span>1012观看</span>
+          </div> 
+          <p>在美国夫妻离婚后财产是如何分配的？债务又该如何偿还？How视频为您解答。</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="2" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="sea_right">
+     <div class="publish-company">
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div>
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="/restaurant.html" target="_black" class="normal_font bold_font blue_font">美食地图</a> 
+        </div> <span><a href="/restaurant.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html" class="black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/f/page_viewtopic/t_84367.html" target="_blank" class="small_font black_font" title="MenuSifu：零成本实现餐馆单量倍增！2020最后冲刺靠它了！"> MenuSifu：零成本实现餐馆单量倍增...</a></li> 
+       <li><a href="/f/page_viewtopic/t_12180.html" target="_blank" class="small_font black_font" title="Maggie家印尼燕窝！虫草！野生花胶！鲍鱼元贝！羊肚菌！品质保证！价格最优！"> Maggie家印尼燕窝！虫草！野生花胶...</a></li> 
+       <li><a href="/f/page_viewtopic/t_59759.html" target="_blank" class="small_font black_font" title="EIMC卓文—来自中国的娱乐餐饮空间装饰整配商"> EIMC卓文—来自中国的娱乐餐饮空间...</a></li> 
+       <li><a href="/f/page_viewtopic/t_83482.html" target="_blank" class="small_font black_font" title="MenuSifu：如何正确处理食客差评,避免成为下一个“狗不理”？"> MenuSifu：如何正确处理食客差评,...</a></li> 
+       <li><a href="/f/page_viewtopic/t_83272.html" target="_blank" class="small_font black_font" title="湘味辣妈,地道湖南熟食,香辣小吃,即食！"> 湘味辣妈,地道湖南熟食,香辣小吃,...</a></li> 
+      </ul> 
+     </div> 
+     <div class="sda_right">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Company Home 300x250, created 7/4/10 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="3701933303"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="http://https://www.vegaschinaren.com/travel.html" target="_blank" class="normal_font bold_font blue_font">旅游地图</a>
+        </div> <span><a href="http://https://www.vegaschinaren.com/travel.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="travel_map padding">
+       <a href="http://https://www.vegaschinaren.com/travel.html" target="_blank"></a>
+      </div> 
+      <dl c

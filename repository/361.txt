@@ -1,0 +1,795 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.vegaschinaren.com/education.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vegaschinaren.com/page_second/task_education.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1306184349">
+  <title>美国留学条件_美国留学费用_美国留学签证全攻略 - 拉斯维加斯华人资讯网</title> 
+  <meta name="description" content="拉斯维加斯教育培训,包含拉斯维加斯大学，中学，小学，学区，拉斯维加斯语言学院，成人学校等信息以及美国知名大学，升学培训，留学机构等信息"> 
+  <meta name="keywords" content="拉斯维加斯大学,美国知名大学,拉斯维加斯语言学校,拉斯维加斯成人学校,拉斯维加斯职业培训,拉斯维加斯高中,拉斯维加斯中学，拉斯维加斯小学，拉斯维加斯学区"> 
+  <base href="https://www.vegaschinaren.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1567419462" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1481572826" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://lv.nychinaren.com/templates/horse/css/second_page.css?v=v1638" type="text/css">
+  <script src="https://lv.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1481572826" type="text/javascript"></script>
+  <script src="https://lv.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769822636">
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/526167134172472?fref=ts">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/lv_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@VegasChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.vegaschinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">拉斯维加斯</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;拉斯维加斯华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;vegaschinaren</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@VegasChinaRen.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="拉斯维加斯华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84324.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84298.html"><i class="icon_num_orange m_icon_num">2</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84356.html"><i class="icon_num_gray m_icon_num">3</i>福奇发出最严峻警告：美国在疫情结束前或有40万人死亡</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84317.html"><i class="icon_num_gray m_icon_num">4</i>美失业人口暴增 食物银行迎来80亿份"缺粮危机"</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84299.html"><i class="icon_num_gray m_icon_num">5</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84364.html"><i class="icon_num_gray m_icon_num">6</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84292.html"><i class="icon_num_gray m_icon_num">7</i>专家预测,新冠疫情即将进入新高峰</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84302.html"><i class="icon_num_gray m_icon_num">8</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84361.html"><i class="icon_num_gray m_icon_num">9</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/84321.html"><i class="icon_num_gray m_icon_num">10</i>新冠“攻破”五角大楼 美军方高层多人被隔离</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.vegaschinaren.com/la_weblinks.html">常用网站</a></span> <span><a href="https://www.vegaschinaren.com/howvideo.html">How视频</a></span> <span><a href="/search/key_%E5%BA%8A%E5%9E%AB.html">床垫</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BC%9A%E8%AE%A1.html">会计</a></span> <span><a href="/search/key_%E7%A6%BB%E5%A9%9A.html">离婚</a></span> <span><a href="/search/key_%E7%BF%BB%E8%AF%91.html">翻译</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li class="active"><a href="/education.html" class="brand">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">拉斯维加斯论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">拉斯维加斯大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">拉斯维加斯论坛</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">Vegas酒店</a></span><span class="inactiveText"><a href="/company/task_list/catid_185.html">Vegas秀</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">Vegas旅行团</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/lvtravel.html">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/travel.html">拉斯维加斯旅游图</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/company/task_list/catid_294.html">拉斯维加斯接送</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">拉斯维加斯法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_323.html">拉斯维加斯监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">DMV分布图</a></span><span class="inactiveText"><a href="/company/task_list/catid_322.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_277.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/food.html">拉斯维加斯美食首页</a></span><span class="inactiveText"><a href="/restaurant/task_list/catid_6.html">拉斯维加斯中餐厅</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_2.html">美食论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="f/page_viewforum/f_59.html">驾照罚单</a></span><span class="inactiveText"><a href="/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">拉斯维加斯主要节日</a></span><span class="inactiveText"><a href="/weather.html">拉斯维加斯天气</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/education.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">拉斯维加斯华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_2"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/university/task_list/catid_12.html" target="_blank">留学美国</a>
+     </div> 
+     <div class="title_more"> <a href=" https://www.vegaschinaren.com/university/task_list/catid_12.html" target="_blank">拉斯维加斯大学</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left"> 
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_53.html" title="留学申请" target="_blank"><span>留学申请</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11739.html" target="_blank">留学中介</a></span> <span><a href="https://www.vegaschinaren.com/university_map.html" target="_blank">名校地图</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11750.html" target="_blank">大学申请</a></span> <span><a href="https://www.vegaschinaren.com/university.html" target="_blank">大学分布图</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11738.html" target="_blank">CPT</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11757.html" target="_blank">OPT</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_53.html" title="签证身份" target="_blank"><span>签证身份</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11746.html" target="_blank">签证</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11760.html" target="_blank">挂名</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_12221.html" target="_blank">恢复身份</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11747.html" target="_blank">转学</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_12222.html" target="_blank">维持身份</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9949.html" target="_blank">学务</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA today highlight right --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1702832069"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div> 
+    <div class="group_middle"> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/university/task_list/catid_12.html" target="_blank">拉斯维加斯大学</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/university/task_list/catid_12.html" target="_blank">进入&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_15056/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E5%A4%A7%E5%AD%A6.html" title="拉斯维加斯大学" target="_blank">拉斯维加斯大学--University of Nevada-Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_15057/%E5%86%85%E5%8D%8E%E8%BE%BE%E5%8D%8E%E4%BA%BA%E5%AD%A6%E9%99%A2.html" title="内华达华人学院" target="_blank">内华达华人学院--Nevada Chinese Academy</a></li> 
+        <li><a href="/company/task_view/id_15058/WPI%20%E9%92%A2%E7%90%B4%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2.html" title="WPI 钢琴音乐学院" target="_blank">WPI 钢琴音乐学院--Wen Piano Institute</a></li> 
+        <li><a href="/company/task_view/id_15059/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2.html" title="拉斯维加斯音乐学院" target="_blank">拉斯维加斯音乐学院--Music &amp; Art of Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_30570/University-Nevada%3A%20Rogers%20Aron%20DO.html" title="University-Nevada: Rogers Aron DO" target="_blank">University-Nevada: Rogers Aron DO</a></li> 
+        <li><a href="/company/task_view/id_30571/University%20of%20Phoenix%20-%20Northwest%20Learning%20Center.html" title="University of Phoenix - Northwest Learning Center" target="_blank">University of Phoenix - Northwest Learning Center</a></li> 
+        <li><a href="/company/task_view/id_30572/University%20Medical%20Center.html" title="University Medical Center" target="_blank">University Medical Center</a></li> 
+        <li><a href="/company/task_view/id_30573/Anthem%20Institute.html" title="Anthem Institute" target="_blank">Anthem Institute</a></li> 
+        <li><a href="/company/task_view/id_30574/Sierra%20Nevada%20College.html" title="Sierra Nevada College" target="_blank">Sierra Nevada College</a></li> 
+        <li><a href="/company/task_view/id_30575/Kaplan%20College%20-%20Las%20Vegas.html" title="Kaplan College - Las Vegas" target="_blank">Kaplan College - Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_30651/%E5%8D%97%E5%86%85%E5%8D%8E%E8%BE%BE%E7%A4%BE%E5%8C%BA%E5%AD%A6%E9%99%A2.html" title="南内华达社区学院" target="_blank">南内华达社区学院--College of Southern Nevada</a></li> 
+        <li><a href="/company/task_view/id_30815/University%20of%20Nevada%20Las%20Vegas.html" title="University of Nevada Las Vegas" target="_blank">University of Nevada Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_30816/Honors%20College%20-%20UNLV.html" title="Honors College - UNLV" target="_blank">Honors College - UNLV</a></li> 
+        <li><a href="/company/task_view/id_30817/Nova%20Southeastern%20University.html" title="Nova Southeastern University" target="_blank">Nova Southeastern University</a></li> 
+        <li><a href="/company/task_view/id_30818/Carrington%20College.html" title="Carrington College" target="_blank">Carrington College</a></li> 
+        <li><a href="/company/task_view/id_32416/UNLV%20Student%20Recreation%20and%20Wellness%20Center.html" title="UNLV Student Recreation and Wellness Center" target="_blank">UNLV Student Recreation and Wellness Center</a></li> 
+        <li><a href="/company/task_view/id_32417/Andre%20Agassi%20College%20Preparatory%20Academy.html" title="Andre Agassi College Preparatory Academy" target="_blank">Andre Agassi College Preparatory Academy</a></li> 
+        <li><a href="/company/task_view/id_32418/CSN%20Summerlin.html" title="CSN Summerlin" target="_blank">CSN Summerlin</a></li> 
+        <li><a href="/company/task_view/id_32419/Academic%20Success%20Center.html" title="Academic Success Center" target="_blank">Academic Success Center</a></li> 
+        <li><a href="/company/task_view/id_32420/Euphoria%20Institute%20of%20Beauty%20Arts%20and%20Sciences.html" title="Euphoria Institute of Beauty Arts and Sciences" target="_blank">Euphoria Institute of Beauty Arts and Sciences</a></li> 
+        <li><a href="/company/task_view/id_32421/Las%20Vegas%20Institute%20For%20Advanced%20Dental%20Studies.html" title="Las Vegas Institute For Advanced Dental Studies" target="_blank">Las Vegas Institute For Advanced Dental Studies</a></li> 
+        <li><a href="/company/task_view/id_32422/Pima%20Medical%20Institute.html" title="Pima Medical Institute" target="_blank">Pima Medical Institute</a></li> 
+        <li><a href="/company/task_view/id_32423/Asher%20College.html" title="Asher College" target="_blank">Asher College</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_53.html" target="_blank">留学机构</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_53.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32332.html" target="_blank">锐意留学</a> </span> <span class="sponsor_contact"> <span class="tel">626-624-1734</span> </span> <span class="sponsor_introduce">名校申请,恢复身份</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32332.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32255.html" target="_blank">艾克留学</a> </span> <span class="sponsor_contact"> <span class="tel">818-272-8199</span> </span> <span class="sponsor_introduce">专业留学服务,小留学生</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32255.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32425.html" target="_blank">厚仁教育</a> </span> <span class="sponsor_contact"> <span class="tel">814-822-0567</span> </span> <span class="sponsor_introduce">留学申请,留学咨询,身份保持</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32425.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32424.html" target="_blank">乐学乐游美国</a> </span> <span class="sponsor_contact"> <span class="tel">626-872-1866</span> </span> <span class="sponsor_introduce">更好,更快,更安心的留学方式</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32424.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32369.html" target="_blank">心方向留学移民咨询</a> </span> <span class="sponsor_contact"> <span class="tel">626-620-4444</span> </span> <span class="sponsor_introduce">留学申请,夏令营</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32369.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.vegaschinaren.com/company/task_view/id_32362.html" target="_blank">美金榜赴美留学咨询</a> </span> <span class="sponsor_contact"> <span class="tel">281-797-5614</span> </span> <span class="sponsor_introduce">留学申请,语言学校</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.vegaschinaren.com/company/task_view/id_32362.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="sda_right3"> <a href="https://www.vegaschinaren.com/university_map.html" target="_blank"></a> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_3"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/company/task_list/catid_53.html" target="_blank">教育培训</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9353.html" class="right_vertical_line" target="_blank">音乐</a><a href=" https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9352.html" target="_blank">美术</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_53.html" title="教育培训" target="_blank"><span>教育培训</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/task_list/catid_298.html" target="_blank">语言学校</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11762.html" target="_blank">学习辅导</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11751.html" target="_blank">SAT辅导</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_11754.html" target="_blank">夏令营</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_7798.html" target="_blank">培训学校</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_7797.html" target="_blank">运动教练</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.vegaschinaren.com/company/task_list/catid_53.html" title="才艺培训" target="_blank"><span>才艺培训</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9353.html" target="_blank">音乐</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9352.html" target="_blank">美术</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9354.html" target="_blank">舞蹈</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_9341.html" target="_blank">功夫</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_7240.html" target="_blank">游泳</a></span> <span><a href="https://www.vegaschinaren.com/company/catid_53/task_list/tagId_7796.html" target="_blank">太极</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_53.html" target="_blank">教育培训</a>
+       </div> 
+       <div class="more2">
+        <a href="https://www.vegaschinaren.com/company/task_list/catid_53.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.vegaschinaren.com/company/task_view/id_30630/%E5%AE%B6%E5%BA%AD%E9%9F%B3%E4%B9%90%E4%B8%AD%E5%BF%83.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.vegaschinaren.com/company/task_view/id_30630/%E5%AE%B6%E5%BA%AD%E9%9F%B3%E4%B9%90%E4%B8%AD%E5%BF%83.html" target="_blank">家庭音乐中心</a>
+        </div> 
+        <div class="clear"></div> <a href="https://www.vegaschinaren.com/company/task_view/id_30628/%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%E9%99%A2.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.vegaschinaren.com/company/task_view/id_30628/%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%E9%99%A2.html" target="_blank">少林功夫院</a>
+        </div> 
+       </div> 
+       <div class="article_div2 newstyle_article_div"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_32255.html" title="艾克环球教育机构" target="_blank">艾克环球教育机构</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_30674.html" title="少林寺国际功夫学校" target="_blank">少林寺国际功夫学校</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_30650.html" title="IQ Abacus Math School" target="_blank">IQ Abacus Math School</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_30643.html" title="李琳虹音乐教室" target="_blank">李琳虹音乐教室</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_30640.html" title="内达华艺术学院" target="_blank">内达华艺术学院</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_30516.html" title="拉斯维加斯峨眉太极学校" target="_blank">拉斯维加斯峨眉太极学校</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_15568.html" title="拉斯维加斯太极禅健康中心" target="_blank">拉斯维加斯太极禅健康中心</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_32332.html" title="锐意留学服务" target="_blank">锐意留学服务</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_32369.html" title="心方向留学咨询" target="_blank">心方向留学咨询</a></li> 
+         <li><a href="https://www.vegaschinaren.com/company/task_view/id_32362.html" title="美金榜赴美留学" target="_blank">美金榜赴美留学</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+    </div> 
+    <div class="group_right">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_298.html" target="_blank">语言学校</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/f.html" target="_blank">进入论坛&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_15231/College%20South%20Nevada.html" title="College South Nevada" target="_blank">College South Nevada</a></li> 
+        <li><a href="/company/task_view/id_15440/ELS%20Language%20CentersLas%20Vegas.html" title="ELS Language Centers/Las Vegas" target="_blank">ELS Language Centers/Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_30812/Uceda%E8%8B%B1%E8%AF%AD%E5%AD%A6%E6%A0%A1.html" title="Uceda英语学校" target="_blank">Uceda英语学校--Uceda School</a></li> 
+        <li><a href="/company/task_view/id_30819/Shepherd%20School%20of%20Language.html" title="Shepherd School of Language" target="_blank">Shepherd School of Language</a></li> 
+        <li><a href="/company/task_view/id_30820/Las%20Vegas%20International%20Academy%20of%20English.html" title="Las Vegas International Academy of English" target="_blank">Las Vegas International Academy of English</a></li> 
+        <li><a href="/company/task_view/id_30821/Language%20Arts%20Academy.html" title="Language Arts Academy" target="_blank">Language Arts Academy</a></li> 
+        <li><a href="/company/task_view/id_30822/Uceda%E8%8B%B1%E8%AF%AD%E5%AD%A6%E6%A0%A1-%E6%8B%9B%E6%94%B6%E5%9B%BD%E9%99%85%E7%95%99%E5%AD%A6%E7%94%9F.html" title="Uceda英语学校-招收国际留学生" target="_blank">Uceda英语学校-招收国际留学生--Uceda School</a></li> 
+        <li><a href="/company/task_view/id_30823/Nevada%20Chinese%20Academy.html" title="Nevada Chinese Academy" target="_blank">Nevada Chinese Academy</a></li> 
+        <li><a href="/company/task_view/id_30824/Yale%20Language%20Center.html" title="Yale Language Center" target="_blank">Yale Language Center</a></li> 
+        <li><a href="/company/task_view/id_32765/%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%E8%AF%AD%E8%A8%80%E5%AD%A6%E6%A0%A1.html" title="拉斯维加斯语言学校" target="_blank">拉斯维加斯语言学校--Vegas Language School</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="sda_right3"> <a href="https://www.vegaschinaren.com/f/page_viewforum/f_5/key_%E5%AF%84%E5%AE%BF.html" target="_blank"></a> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_4"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.vegaschinaren.com/company/task_list/catid_81.html" target="_blank">拉斯维加斯学校</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.vegaschinaren.com/company/task_list/catid_50.html" class="right_vertical_line" target="_blank">高中</a><a href="https://www.vegaschinaren.com/company/task_list/catid_79.html" class="right_vertical_line" target="_blank">初中</a><a href="https://www.vegaschinaren.com/company/task_list/catid_80.html" class="right_vertical_line" target="_blank">小学</a><a href="https://www.vegaschinaren.com/company/task_list/catid_57.html" class="right_vertical_line" target="_blank">幼儿园</a><a href="https://www.vegaschinaren.com/company/task_list/catid_81.html" target="_blank">学区</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left_middle">  
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.vegaschinaren.com/school/type_3.html" class="active" target="_blank"><span><h2>拉斯维加斯高中TOP 10</h2></span></a>&nbsp;|&nbsp;<a href="https://www.vegaschinaren.com/company/task_map/catid_50.html" class="active" target="_blank"><span><h2>分布图</h2></span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.vegaschinaren.com/company/task_list/catid_50.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content"> 
+       <div class="thumb3"> <a href="/company/task_view/id_20402/W%20Las%20Vegas%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20402/W%20Las%20Vegas%20High%20School.html" target="_blank" class="topictitle" title="W Las Vegas High School"><span>W Las Vegas High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20391/Robertson%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20391/Robertson%20High%20School.html" target="_blank" class="topictitle" title="Robertson High School"><span>Robertson High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20370/Veterans%20Tribute%20Career%20Techincal%20Academy.html" target="_blank">  </a> <a href="/company/task_view/id_20370/Veterans%20Tribute%20Career%20Techincal%20Academy.html" target="_blank" class="topictitle" title="Veterans Tribute Career Techincal Academy"><span>Veterans Tribute</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20381/Trinity%20International%20Schools.html" target="_blank">  </a> <a href="/company/task_view/id_20381/Trinity%20International%20Schools.html" target="_blank" class="topictitle" title="Trinity International Schools"><span>Trinity</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20404/Bridge%20Academy%20Charter%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20404/Bridge%20Academy%20Charter%20School.html" target="_blank" class="topictitle" title="Bridge Academy Charter School"><span>Bridge Academy</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20369/West%20Career%20%26%20Technical%20Academy.html" target="_blank">  </a> <a href="/company/task_view/id_20369/West%20Career%20%26%20Technical%20Academy.html" target="_blank" class="topictitle" title="West Career &amp; Technical Academy"><span>West Career &amp;</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20380/Southeast%20Career%20Technical%20Academy.html" target="_blank">  </a> <a href="/company/task_view/id_20380/Southeast%20Career%20Technical%20Academy.html" target="_blank" class="topictitle" title="Southeast Career Technical Academy"><span>Southeast Career</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20384/Trinity%20International%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20384/Trinity%20International%20School.html" target="_blank" class="topictitle" title="Trinity International School"><span>Trinity</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20375/Variety%20Elementary%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20375/Variety%20Elementary%20School.html" target="_blank" class="topictitle" title="Variety Elementary School"><span>Variety Elementary</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_20379/Sunrise%20Mountain%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_20379/Sunrise%20Mountain%20High%20School.html" target="_blank" class="topictitle" title="Sunrise Mountain High School"><span>Sunrise Mountain</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_81.html" target="_blank">拉斯维加斯学区</a> | <a href="https://www.vegaschinaren.com/company/task_map/catid_81.html" target="_blank">分布图</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_81.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li class="lmr"><a href="/company/task_view/id_20410/Clark%20County%20School%20District.html" title="Clark County School District" target="_blank">Clark County School District</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_20411/State-Sponsored%20Charter%20Schools.html" title="State-Sponsored Charter Schools" target="_blank">State-Sponsored Charter Schools</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_20412/Las%20Vegas%20City%20Public%20Schools.html" title="Las Vegas City Public Schools" target="_blank">Las Vegas City Public Schools</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_20413/West%20Las%20Vegas%20Public%20Schools.html" title="West Las Vegas Public Schools" target="_blank">West Las Vegas Public Schools</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_30831/Kids%20R%20Kids%20Of%20Silverado%20Ranch.html" title="Kids R Kids Of Silverado Ranch" target="_blank">Kids R Kids Of Silverado Ranch</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_30832/OASIS%20BAPTIST%20CHURCH.html" title="OASIS BAPTIST CHURCH" target="_blank">OASIS BAPTIST CHURCH</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_30833/NEW%20HOPE%20CHRISTIAN%20ACADEMY.html" title="NEW HOPE CHRISTIAN ACADEMY" target="_blank">NEW HOPE CHRISTIAN ACADEMY</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_30834/MT%20OLIVE%20LUTERAN%20SCHOOL.html" title="MT OLIVE LUTERAN SCHOOL" target="_blank">MT OLIVE LUTERAN SCHOOL</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32403/Odyssey%20Charter%20Schools.html" title="Odyssey Charter Schools" target="_blank">Odyssey Charter Schools</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32404/Journey%20Education.html" title="Journey Education" target="_blank">Journey Education</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32405/Children%E2%80%99s%20Learning%20Adventure.html" title="Children’s Learning Adventure" target="_blank">Children’s Learning Adventure</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32406/James%20Bilbray%20Elementary%20School.html" title="James Bilbray Elementary School" target="_blank">James Bilbray Elementary School</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32407/Northshore%20Learning%20Tree.html" title="Northshore Learning Tree" target="_blank">Northshore Learning Tree</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32408/Kit%20Carson%20Elementary%20School.html" title="Kit Carson Elementary School" target="_blank">Kit Carson Elementary School</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32409/Clark%20County%20School%20District.html" title="Clark County School District" target="_blank">Clark County School District</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32410/Equipo%20Academy.html" title="Equipo Academy" target="_blank">Equipo Academy</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32411/Alcohol%20Awareness%20Training.html" title="Alcohol Awareness Training" target="_blank">Alcohol Awareness Training</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32412/Coronado%20High%20School.html" title="Coronado High School" target="_blank">Coronado High School</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32413/Kumon%20Math%20and%20Reading%20Center%20of%20Summerlin.html" title="Kumon Math and Reading Center of Summerlin" target="_blank">Kumon Math and Reading Center of Summerlin</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32414/Pinecrest%20Academy%20Nevada.html" title="Pinecrest Academy Nevada" target="_blank">Pinecrest Academy Nevada</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_32415/The%20Goddard%20School.html" title="The Goddard School" target="_blank">The Goddard School</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/school/type_2.html" target="_blank">拉斯维加斯初中TOP 10</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_79.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_20000/Sig%20Rogich%20Middle%20School.html" title="Sig Rogich Middle School" target="_blank">Sig Rogich Middle School</a></li> 
+        <li><a href="/company/task_view/id_20001/Hyde%20Park%20Middle%20School.html" title="Hyde Park Middle School" target="_blank">Hyde Park Middle School</a></li> 
+        <li><a href="/company/task_view/id_20002/Coral%20Academy%20of%20Science%20Las%20Vegas.html" title="Coral Academy of Science Las Vegas" target="_blank">Coral Academy of Science Las Vegas</a></li> 
+        <li><a href="/company/task_view/id_20003/Ernest%20Becker%20Middle%20School.html" title="Ernest Becker Middle School" target="_blank">Ernest Becker Middle School</a></li> 
+        <li><a href="/company/task_view/id_20004/Charles%20Silvestri%20Junior%20High%20School.html" title="Charles Silvestri Junior High School" target="_blank">Charles Silvestri Junior High School</a></li> 
+        <li><a href="/company/task_view/id_20005/Justice%20Myron%20E%20Leavitt%20Middle%20School.html" title="Justice Myron E Leavitt Middle School" target="_blank">Justice Myron E Leavitt Middle School</a></li> 
+        <li><a href="/company/task_view/id_20006/Victoria%20Fertitta%20Middle%20School.html" title="Victoria Fertitta Middle School" target="_blank">Victoria Fertitta Middle School</a></li> 
+        <li><a href="/company/task_view/id_20007/Ralph%20Cadwallader%20Middle%20School.html" title="Ralph Cadwallader Middle School" target="_blank">Ralph Cadwallader Middle School</a></li> 
+        <li><a href="/company/task_view/id_20008/Lawrence%20%26%20Heidi%20Canarelli%20Middle%20School.html" title="Lawrence &amp; Heidi Canarelli Middle School" target="_blank">Lawrence &amp; Heidi Canarelli Middle School</a></li> 
+        <li><a href="/company/task_view/id_20009/Anthony%20Saville%20Middle%20School.html" title="Anthony Saville Middle School" target="_blank">Anthony Saville Middle School</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.vegaschinaren.com/school/type_1.html" target="_blank">拉斯维加斯小学TOP 10</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.vegaschinaren.com/company/task_list/catid_80.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_20095/Halle%20Hewetson%20Elementary%20School.html" title="Halle Hewetson Elementary School" target="_blank">Halle Hewetson Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20096/Patricia%20A%20Bendorf%20Elementary%20School.html" title="Patricia A Bendorf Elementary School" target="_blank">Patricia A Bendorf Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20097/William%20Lummis%20Elementary%20School.html" title="William Lummis Elementary School" target="_blank">William Lummis Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20098/John%20W%20Bonner%20Elementary%20School.html" title="John W Bonner Elementary School" target="_blank">John W Bonner Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20099/D%27Vorre%20%26%20Hall%20Ober%20Elementary%20School.html" title="D'Vorre &amp; Hall Ober Elementary School" target="_blank">D'Vorre &amp; Hall Ober Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20100/Sheila%20R.%20Tarr%20Elementary%20School.html" title="Sheila R. Tarr Elementary School" target="_blank">Sheila R. Tarr Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20101/Ethel%20W.%20Staton%20Elementary%20School.html" title="Ethel W. Staton Elementary School" target="_blank">Ethel W. Staton Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20102/James%20Bilbray%20Elementary%20School.html" title="James Bilbray Elementary School" target="_blank">James Bilbray Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20103/Linda%20Rankin%20Givens%20Elementary%20School.html" title="Linda Rankin Givens Elementary School" target="_blank">Linda Rankin Givens Elementary School</a></li> 
+        <li><a href="/company/task_view/id_20104/Judy%20%26%20John%20L%20Goolsby%20Elementary%20School.html" title="Judy &amp; John L Goolsby Elementary School" target="_blank">Judy &amp; John L Goolsby Elementary School</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+     <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="sda_right3"> <a href="/university_map.html" target="_blank" rel="nofollow">  </a> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <script type="text/javascript" src="https://lv.nychinaren.com/includes/js/jquery-2.1.1.min.js"></script>
+   <script type="text/javascript">var jQuery_211 = $.noConflict(true);</script>
+   <script type="text/javascript" src="https://lv.nychinaren.com/includes/js/sidenavmenu.js?v=v1662"></script>
+   <script type="text/javascript">$(document).ready(function(){$("base").remove();});</script>
+   <div class="sideToolbar" id="sideToolbar">
+    <ul class="nav">
+     <li><a href="#education_2">留学美国</a></li>
+     <li><a href="#education_3">培训家教</a></li>
+     <li><a href="#education_4">赌城学校</a></li>
+    </ul><a class="back-to-top" href="#education_2" title="返回顶部"></a><a class="dim-code" href="http://t.qq.com/chineseinla_com" title="微信公众平台：vegaschinaren" target="_blank"></a>
+   </div>
+   <div class="row"> 
+    <div class="la_guide"> 
+     <div class="la_guide1"> 
+      <div class="la_guide_title">
+       拉斯维加斯生活指南
+      </div> 
+      <dl class="la_guide_list" id="guide_cat_9"> 
+       <dt>
+        推荐
+       </dt> 
+       <dd>
+        <a href="https://www.VegasChinaRen.com/f.html">拉斯维加斯华人论坛</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/company.html">拉斯维加斯商家点评</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/doctor.html">拉斯维加斯华人医生分布图</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/accountant.html">拉斯维加斯会计师分布图</a>
+       </dd>
+      </dl> 
+      <dl class="la_guide_list" id="guide_cat_6"> 
+       <dt>
+        拉斯维加斯
+       </dt> 
+       <dd>
+        <a href="https://www.VegasChinaRen.com/weather.html">拉斯维加斯天气</a>
+       </dd>
+       <dd>
+        <a href="https://www.VegasChinaRen.com/time.html">拉斯维加斯时间</a>
+       </dd>
+       <dd>
+        <a href="https

@@ -1,0 +1,1386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/v/task_group/gid_25.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinla.com/page_video/task_list/groupId_25.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>美国医疗 - How视频 - 洛杉矶华人资讯网</title> 
+  <meta name="description" content="在美国看医生要如何要选择合适的医生？怎样预约？如何用医疗保险？"> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li class="active"><a href="/v.html" class="brand">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="activeText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/v/task_group/gid_25.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/v.html" class="common_pathway2">How视频</a> <a href="/v/task_group/gid_25.html" class="common_pathway2">美国医疗</a> 
+   </div> 
+   <div class="video_search" id="videosearch"> 
+    <input type="text" class="search_input" placeholder="请输入视频关键字查找"> 
+    <div class="button-panel">
+     <span class="button-b-search"></span><a class="button-blue button-a" href="javascript:void(0)">搜索</a>
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://c3.nychinaren.com/includes/bootstrap/css/bootstrap.min.css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/includes/bootstrap/css/bootstrap-treeview.css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/video.css?v=v1638" type="text/css" media="screen"> 
+   <script src="https://c3.nychinaren.com/includes/bootstrap/js/bootstrap.min.js"></script> 
+   <script src="https://c3.nychinaren.com/includes/bootstrap/js/bootstrap-treeview.js"></script> 
+   <script src="https://c3.nychinaren.com/templates/horse/js/video.js?v=v1662"></script> 
+   <div class="vrow v_group_page"> 
+    <div id="main"> 
+     <div class="main_block vnode">
+      <div class="video_title"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <span>美国医疗</span> </span> 
+       </div> 
+      </div> 
+      <div class="v_screen_w"> 
+       <div class="v_screen"> 
+        <div class="v_equal_list col8 v_node" _colnum="8" _actionnum="8"> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_13.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_13.html" target="_blank">
+            <div class="v_equal_name">
+             妇产科
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_14.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_14.html" target="_blank">
+            <div class="v_equal_name">
+             医疗保险
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_15.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_15.html" target="_blank">
+            <div class="v_equal_name">
+             医疗工作
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_46.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_46.html" target="_blank">
+            <div class="v_equal_name">
+             医疗纠纷
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_52.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_52.html" target="_blank">
+            <div class="v_equal_name">
+             医学检测
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_56.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_56.html" target="_blank">
+            <div class="v_equal_name">
+             家庭全科
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_59.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_59.html" target="_blank">
+            <div class="v_equal_name">
+             牙科
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_60.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_60.html" target="_blank">
+            <div class="v_equal_name">
+             眼科
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_69.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_69.html" target="_blank">
+            <div class="v_equal_name">
+             心理咨询
+            </div></a> 
+          </div> 
+         </div> 
+         <div class="v_equal_cell"> <a href="/v/task_listNode/nid_74.html" target="_blank"> 
+           <div class="v_equal_img">  
+           </div> </a> 
+          <div class="v_equal_text"> <a href="/v/task_listNode/nid_74.html" target="_blank">
+            <div class="v_equal_name">
+             中医养生
+            </div></a> 
+          </div> 
+         </div> 
+        </div> 
+       </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div class="row grid vl123"> 
+       <div class="v-lrnp"> <a href="/v/v_251.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>在美国如何避孕？</h3> <span>很多年轻夫妇时常纠结于意外怀孕怎么办，其实只要采取合理的措施，是完全可以避免意外怀孕的，那么，...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_2126.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何正确使用枸杞</h3> <span>枸杞因其具有护肝养肾的作用，因此近些年来备受人们的推崇，那么，如何选购枸杞呢？枸杞又该如何正确...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_655.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>在美国如何植牙</h3> <span>植牙是什么？什么样的人可以做植牙手术？对于牙齿缺失的患者植牙有什么优点？植牙手术究竟如何操作？...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_736.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>美国牙医教你牙齿松动怎么办</h3> <span>牙齿的松动和人的年龄是没有关系的，小小的牙龈出血不注意也会引发牙齿松动和脱落。如果我们的牙齿已...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_780.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>美国牙医教您如何缓解牙痛</h3> <span>...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+       <div class="v-lrnp fig-txt-sl"> <a href="/v/v_1214.html" target="_blank"> 
+         <figure class="effect-milo">  <span class="v-play"></span> 
+          <figcaption> 
+           <h3>如何判断自己得了抑郁症</h3> <span>随着生活压力的增加，很多人都会感到抑郁。患有抑郁症越早发现，就能越早进行治疗，那么如何判断自己...</span> 
+          </figcaption> 
+         </figure> </a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block"> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_13.html">妇产科</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_13.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_2769.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>中医如何治疗痛经</h3> <span>痛经是很多女性朋友常常会面临的问题，甚至有比较严重的人群会疼到无法起床，那么从中医的角度来讲，...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2684.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何用中医手法缓解产妇颈部疼痛</h3> <span>颈部血液流通不畅会导致头疼、失眠、掉发、记忆力减退、耳鸣等症状。产妇颈部疼痛如何用中医手法缓解...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2685.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何用中医手法缓解产妇腰肩疼痛</h3> <span>产妇长时间低头或抱孩子会导致腰肩部位的疼痛，如何用中医手法缓解疼痛？How视频为您解答。</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2655.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>乳腺炎发烧怎么办</h3> <span>很多妈妈们在坐月子母乳喂养期间可能都会经历乳腺炎，那么，一旦因乳腺炎发烧了该如何处理？...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2672.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>赴美生子如何选择月嫂</h3> <span>很多孕妈妈在坐月子的时候都会选择请月嫂，这样既减轻了自己的负担也能够了解到更多照顾宝宝的知识，...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="main_block"> 
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_14.html">医疗保险</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_14.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="row grid vl14"> 
+        <div class="v-lrnp"> <a href="/v/v_3277.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>医疗账单砍价；国内亲朋买抗癌药</h3> <span>本次How视频直播节目特邀信凯尔硅谷创始人 CEO Jackie...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2596.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何申请医疗长期照顾</h3> <span>医疗长期照顾保险是否包含在红蓝卡的医疗计划之中？什么年纪购买医疗保险保费更划算？申请通过率更高...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2598.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何购买短期临时医疗保险</h3> <span>外出旅行时想要购买临时的旅行医疗保险该怎么办？如何选择旅行医疗保险？通常旅行医疗保险最长可承保...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2597.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>如何在65岁之前申请红蓝卡</h3> <span>联邦医疗保险，Medicare则为俗称的红蓝卡，很多人都知道红蓝卡的申请通常需要年满65周岁，...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+        <div class="v-lrnp fig-non-des"> <a href="/v/v_2540.html" target="_blank"> 
+          <figure class="effect-milo">  <span class="v-play"></span> 
+           <figcaption> 
+            <h3>购买红蓝卡后看病如何省钱</h3> <span>联邦医疗保险，Medicare则为俗称的红蓝卡，但红蓝卡包含可很多不同的计划供大家选择，如何选...</span> 
+           </figcaption> 
+          </figure> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block">
+      <div>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video 728*90 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="8048097268"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div>
+     </div> 
+     <div class="main_block vcat3"> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_15.html">医疗工作</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_15.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3277.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3277.html" target="_blank">
+             <div class="v_equal_name">
+              医疗账单砍价；国内亲朋买抗癌药
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1236.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1236.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何成为一名心理医生
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_656.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_656.html" target="_blank">
+             <div class="v_equal_name">
+              如何更新护士助理执照
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_643.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_643.html" target="_blank">
+             <div class="v_equal_name">
+              如何拿到复健护士助理执照
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_636.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_636.html" target="_blank">
+             <div class="v_equal_name">
+              如何拿到加州高端护理执照
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_635.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_635.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何考取CPR急救证件
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_491.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_491.html" target="_blank">
+             <div class="v_equal_name">
+              如何成为一名美国牙医？
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_167.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_167.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何成为护士助理
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_46.html">医疗纠纷</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_46.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_296.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_296.html" target="_blank">
+             <div class="v_equal_name">
+              如何跟医院讨价还价
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_287.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_287.html" target="_blank">
+             <div class="v_equal_name">
+              如何避免陷入整容陷阱
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_277.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_277.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何避免医疗事故
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_52.html">医学检测</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_52.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_3277.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_3277.html" target="_blank">
+             <div class="v_equal_name">
+              医疗账单砍价；国内亲朋买抗癌药
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2673.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2673.html" target="_blank">
+             <div class="v_equal_name">
+              如何预防乳腺癌
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2648.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2648.html" target="_blank">
+             <div class="v_equal_name">
+              如何识别乳腺癌的症状
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_351.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_351.html" target="_blank">
+             <div class="v_equal_name">
+              如何做基因检测
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_56.html">家庭全科</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_56.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2861.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2861.html" target="_blank">
+             <div class="v_equal_name">
+              如何用中医疗法治疗青春痘
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2860.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2860.html" target="_blank">
+             <div class="v_equal_name">
+              如何调理饮食情绪等生活方式预防长青春痘
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2859.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2859.html" target="_blank">
+             <div class="v_equal_name">
+              风热咳嗽了如何用小偏方缓解
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2858.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2858.html" target="_blank">
+             <div class="v_equal_name">
+              如何治疗冬季外感咳嗽
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2825.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2825.html" target="_blank">
+             <div class="v_equal_name">
+              如何用小偏方缓解风寒感冒
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2703.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2703.html" target="_blank">
+             <div class="v_equal_name">
+              如何治疗荨麻疹
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1212.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1212.html" target="_blank">
+             <div class="v_equal_name">
+              如何打电话预约医生
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_1151.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1151.html" target="_blank">
+             <div class="v_equal_name">
+              如何做双桂茴香暖手包
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_59.html">牙科</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_59.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_1815.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_1815.html" target="_blank">
+             <div class="v_equal_name">
+              在美国看牙医那点事儿
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_827.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_827.html" target="_blank">
+             <div class="v_equal_name">
+              儿童牙齿碰伤怎么办
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_826.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_826.html" target="_blank">
+             <div class="v_equal_name">
+              儿童如何矫正牙齿
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_825.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_825.html" target="_blank">
+             <div class="v_equal_name">
+              儿童长了多生牙怎么办
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_824.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_824.html" target="_blank">
+             <div class="v_equal_name">
+              儿童如何保护牙齿
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_823.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_823.html" target="_blank">
+             <div class="v_equal_name">
+              如何给儿童刷牙
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_788.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_788.html" target="_blank">
+             <div class="v_equal_name">
+              儿童掉牙后长时间长不出新牙怎么办
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_787.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_787.html" target="_blank">
+             <div class="v_equal_name">
+              儿童换牙时如何拔牙
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_60.html">眼科</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_60.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_611.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_611.html" target="_blank">
+             <div class="v_equal_name">
+              在美国如何配眼镜
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_590.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_590.html" target="_blank">
+             <div class="v_equal_name">
+              如何做雷射视力矫正手术
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_580.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_580.html" target="_blank">
+             <div class="v_equal_name">
+              如何利用眼镜保护眼睛
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_579.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_579.html" target="_blank">
+             <div class="v_equal_name">
+              如何预防假性近视
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_578.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_578.html" target="_blank">
+             <div class="v_equal_name">
+              如何预防近视
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_576.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_576.html" target="_blank">
+             <div class="v_equal_name">
+              儿童眼睛散光怎么办
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_575.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_575.html" target="_blank">
+             <div class="v_equal_name">
+              如何降低隐形眼镜对眼睛的伤害
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_573.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_573.html" target="_blank">
+             <div class="v_equal_name">
+              眼睛近视但不能做镭射手术怎么办
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_69.html">心理咨询</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_69.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2468.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2468.html" target="_blank">
+             <div class="v_equal_name">
+              如何用催眠法调理失眠
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2440.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2440.html" target="_blank">
+             <div class="v_equal_name">
+              如何通过渐进式放松法催眠别人
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2439.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2439.html" target="_blank">
+             <div class="v_equal_name">
+              如何通过按压穴位催眠别人
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2373.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2373.html" target="_blank">
+             <div class="v_equal_name">
+              男生吸引女生的N种方法
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2438.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2438.html" target="_blank">
+             <div class="v_equal_name">
+              如何通过眼睛凝视法催眠别人
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2408.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2408.html" target="_blank">
+             <div class="v_equal_name">
+              如何用催眠疗法治疗抑郁症
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2337.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2337.html" target="_blank">
+             <div class="v_equal_name">
+              如何让你的演讲更吸引人
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2372.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2372.html" target="_blank">
+             <div class="v_equal_name">
+              如何成为男生心目中永远的女神
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+      <div class="main_block">
+       <div class="video_title sub"> 
+        <div class="vtitle_block"> <span class="icon"><i></i></span> 
+        </div> 
+        <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_listNode/nid_74.html">中医养生</a> </span> 
+        </div> 
+        <div class="vtitle_block"> <a class="vtags" href="/v/task_listNode/nid_74.html">更多&gt;&gt;</a> 
+        </div> 
+       </div> 
+       <div class="v_screen_w"> 
+        <div class="v_screen"> 
+         <div class="v_equal_list col4" _colnum="4" _actionnum="1" _arrowpos _arrowhover> 
+          <div class="v_equal_cell"> <a href="/v/v_2954.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2954.html" target="_blank">
+             <div class="v_equal_name">
+              如何用小偏方预防糖尿病
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2953.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2953.html" target="_blank">
+             <div class="v_equal_name">
+              如何用小偏方应对头痛症状
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2947.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2947.html" target="_blank">
+             <div class="v_equal_name">
+              如何用小偏方扩张血管预防高血压
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2946.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2946.html" target="_blank">
+             <div class="v_equal_name">
+              如何用小偏方缓解女性痛经
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2897.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2897.html" target="_blank">
+             <div class="v_equal_name">
+              天冷如何用小偏方预防心脏病
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2846.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2846.html" target="_blank">
+             <div class="v_equal_name">
+              风寒咳嗽了如何用小偏方缓解
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2826.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2826.html" target="_blank">
+             <div class="v_equal_name">
+              胃寒胃痛怎么办
+             </div></a> 
+           </div> 
+          </div> 
+          <div class="v_equal_cell"> <a href="/v/v_2684.html" target="_blank"> 
+            <div class="v_equal_img">  <span class="v-play"></span> 
+            </div> </a> 
+           <div class="v_equal_text"> <a href="/v/v_2684.html" target="_blank">
+             <div class="v_equal_name">
+              如何用中医手法缓解产妇颈部疼痛
+             </div></a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> <span class="icon-angle-left"></span> <span class="icon-angle-right"></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="main_block eline">
+      <div class="video_title sub"> 
+       <div class="vtitle_block"> <span class="icon"><i></i></span> 
+       </div> 
+       <div class="vtitle_block"> <span class="vtitle"> <a href="/v/task_expert.html">热门专家</a> </span> 
+       </div> 
+       <div class="vtitle_block"> <a class="vtags" href="/v/task_expert.html">更多&gt;&gt;</a> 
+       </div> 
+      </div>
+      <div class="v_experts ul_page"> 
+       <ul> 
+        <li> <a href="/v/task_listExpert/eid_16.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+            Lydia Chang
+           </div> 
+           <div class="v-nc-review">  45条点评 
+           </div> 
+           <div class="v-nc-text">
+            安诚保险公司负责人，安诚保险是全加州top20的保险公司，业务范围包括：车险，房屋，摩托车，游艇，人寿，商业，医疗，旅游保险等。我们的目标：安诚保险——买保险前您是我们的客户，买保险后我们是您的朋友。在本公司注册名称Lydia_li。
+           </div> 
+          </div> </a> </li> 
+        <li class="line"></li> 
+        <li> <a href="/v/task_listExpert/eid_65.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+            袁骏
+           </div> 
+           <div class="v-nc-review">  2条点评 
+           </div> 
+           <div class="v-nc-text">
+            医学博士，来自北京, 毕业于北京第四中学和北京医科大学 (北京大学医学院)。纽约阿尔伯特爱因斯坦医学院，布朗克斯黎巴嫩医院内科住院医师训练。美国内科专科文凭, Diplomate, American Board of Internal Medicine (ABIM) 内科，家庭全科，老人科专家，南加州行医多年, 任多家医院主治医师。
+           </div> 
+          </div> </a> </li> 
+        <li class="line"></li> 
+        <li> <a href="/v/task_listExpert/eid_291.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+            罗淳予
+           </div> 
+           <div class="v-nc-review">  1条点评 
+           </div> 
+           <div class="v-nc-text">
+            罗淳予（Lori Lo）小姐来自台湾，17岁是移民至美已超过30年。她是在美国完成她的高中及大学学业。所以在语言上能说流利的应用国语与英语，也能说简单的广东话、台湾话及客家话。在罗小姐23岁那年因紧急状况进医院开到，因那是医保知识比较缺乏，也为选择到对的医疗保险，导致医疗费用竟自付数万美元！自此后，罗小姐深知如不好好了解医保，美国医疗费用将是天价！进入医保行业后，罗淳予小姐先是在全美最大的健保公司担任客服，之后晋升专员和顾问。其中担任公司的讲座主讲人数年，更常是谈话节目的座上宾。在积累许多保贵经验后，罗小姐成立了明龙保险事务所继续在医疗保险上用自己的专业服务在美的华人朋友。联邦医疗保险（俗称红蓝卡）是教复杂的医保，如还有语言上的障碍，对于申请及选择医保更是困难！每年都有许多人因为不了解联邦医疗保险而错过了登记期，而面临终身的罚款。罗淳予小姐在联邦医保方面是专家，可为您解答问题，帮助您登记适合的医保计划。寻求专业人士的帮助才是明智的选择！ 
+           </div> 
+          </div> </a> </li> 
+        <li class="line"></li> 
+        <li> <a href="/v/task_listExpert/eid_299.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+            刘丹
+           </div> 
+           <div class="v-nc-text">
+            Diane Liu, 刘丹博士， 中美产前产后母婴护理协会常务会长，美孕国际（洛杉矶）孕产恢复中心首席科学家，蔓妮斯健康管理公司的创始人，加州大学尔湾分校神经心理学博士， 芝加哥医学院神经科学硕士，美国执照中医专家，自幼随父亲习练扬氏太极拳。 擅长孕妇产前太极瑜伽，针灸法纠正胎位，药膳月子餐、专业产后恢复——产后抑郁症、产后盆底肌恢复、髋骨修复、产后催乳、乳腺炎和乳房癌的预防、子宫恢复、产后瘦身。 自然整体医疗康复对于各种慢性病、亚健康、疲劳、疼痛、失眠、过敏等等都有很好的疗效。她结合现代中医学、西医学的神经医学、解剖学、生理学和心理学，总结出现代自然整体医疗康复的理论与实践的体系：治、养、练，三位一体的，身体的和心理的整体康复系统。 网站 https://www.capsbaby.org/
+           </div> 
+          </div> </a> </li> 
+        <li class="line"></li> 
+        <li> <a href="/v/task_listExpert/eid_166.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+            童志敏
+           </div> 
+           <div class="v-nc-review">
+             1条点评 
+           </div> 
+           <div class="v-nc-text">
+            童志敏先生既是税务律师，又是律师、会计师、财务师，现任中美会计师协会会长，1989年他在University of Oregon俄勒冈大学获得了会计和经济（荣誉）学位。在他的本科生岁月中，他经常被Dean List院长列表中列出。在大学毕业前，他通过注册会计师考试。2002年，他毕业于Chapman University 查普曼大学法学院和通过他的注册律师师考试, 他的学习重点在税法。在他的学习期间，他两次被院长列表中列出, 并获得奖学金。而在学校中，他继续他的会计和税务业务。2002-2003年中，他获得了证券和保险牌照，和还获得CFP认证理财规划师的资格。2005年，他获得了LLM税务的法学硕士。 公司致力于为我们的客户提供最好的法律服务，专精税务法丶商业法丶遗产法。因为我们的承诺丶高质量的标准，公司能够以其他律师事务所无与伦比的服务帮助我们的客户处理棘手的情况。因为我们可以处理棘手的案件，许多地区的律师给我们打电话咨询，我们税务律师公司也因此获得了一定的声誉。能够熟练运用英语，普通话和广东话进行交流。
+           </div> 
+          </div> </a> </li> 
+        <li class="line"></li> 
+        <li> <a href="/v/task_listExpert/eid_133.html">  
+          <div class="v-nc-info"> 
+           <div class="v-nc-name">
+             Ruth Wu小思
+           </div> 
+           <div class="v-nc-review">  5条点评 
+           </div> 
+           <div class="v-nc-text">
+            美国知名同声传译员。翻译本科学士，美国大众传播硕士。参与大量中美政府层次、企事业单位间和高端个人的中英翻译工作，积累了丰富的实战经验。在美生活和工作多年，一直浸染在中西文化碰撞的第一线，深谙中西文化，对中英同传、交传、笔译拥有着独特的见解。多年来为各行业专家提供翻译服务，具有开阔的国际视野和独特见解。客户包括加州理工大学，北京现代汽车，美国联邦储备银行，中国商务部，中国文化部，中国广电总局，斯蒂芬•斯皮尔伯格，黄晓明，范•迪塞尔，派拉蒙前总裁Brad Grey，亚利桑那州前州长Jan Brewer等。 因对中美文化交流做出的突出贡献，获加州参议员Bob Huff和大洛杉矶郡郡长Michael Antonovich颁发嘉奖函（Certificate of Recognition）。
+           </div> 
+          </div> </a> </li> 
+       </ul> 
+      </div>
+     </div> 
+     <div class="main_block">
+      <div>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Video 728*90 --> 
+       <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="8048097268"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div>
+     </div> 
+    </div> 
+   </div>
+   <div class="row"> 
+    <div class="footer">
+     <div class="foot_left"> 
+      <div class="foot_left1"> <a href="/la_weblinks.html" target="_blank">洛杉矶华人常用网站</a>&nbsp;|&nbsp; <a href="/tag.html" target="_blank">标签</a>&nbsp;|&nbsp; <a href="/sitemap.html" target="_blank">网站地图</a>&nbsp;|&nbsp; <a href="/hotnews.html" target="_blank">洛杉矶新闻</a>&nbsp;|&nbsp; <a href="/contact.html" target="_blank">联系我们</a>&nbsp;|&nbsp; <a href="/aboutus.html" target="_blank">关于我们</a>&nbsp;|&nbsp;<a href="/a.html" target="_blank">竞价推广</a>&nbsp;|&nbsp;<a href="/realtor.html" target="_blank">房管家</a>&nbsp;|&nbsp; <a href="/clause.html" target="_blank">服务条款</a> 
+      </div> 
+      <div class="fo

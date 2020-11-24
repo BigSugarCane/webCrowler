@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.ChineseInSFBay.com/f/page_login.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="-1542212043">
+  <title>旧金山湾区华人资讯网 - 旧金山湾区本地的华人信息分享交流平台</title> 
+  <base href="https://www.ChineseInSFBay.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296486" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/includes/js/forum.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://www.ChineseInSFBay.com/includes/js/thickbox.v3.css?v=v1638" type="text/css">
+  <script src="https://www.ChineseInSFBay.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> <!-- Global site tag (gtag.js) - Google AdWords: 1065665763 --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1065665763"></script> 
+  <script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'AW-1065665763');
+</script> 
+  <script src="https://www.ChineseInSFBay.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296486" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinsfbay">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://www.chineseinla.com/includes/thirdpart_auth/get_weixin_code.php?appid=wx9097bda892aefe00&amp;scope=snsapi_login&amp;state=esdaca&amp;redirect_uri=https%3A%2F%2Fwww.ChineseInSFBay.com%2Fincludes%2Fthirdpart_auth%2Fweixin_login_callback.php">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E6%97%A7%E9%87%91%E5%B1%B1%E6%B9%BE%E5%8C%BA%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/563317173731667?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/sf_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInSFBay.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.ChineseInSFBay.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">旧金山</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;旧金山华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinsfbay</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInSFBay.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown"></div>
+   <div class="row"></div> 
+   <script>
+	$(function(){
+
+		$('div.forum_left_1').css('width','100%');
+
+		$("form.login-form").submit(function(){
+			var usrname = $("input.usrname").val();
+
+			var psw = $(".psw").val();
+
+			if(usrname.trim() == '' || psw.trim() == ''){
+				alert("用户名或密码不能为空");
+				return false;
+			}
+			return true
+		});
+
+	});
+</script> 
+   <div class="logo"> <a href="/" title="旧金山湾区华人资讯网">  </a> 
+   </div> 
+   <div class="login-label">
+    用户登录
+   </div> 
+   <div class="contactus"> <a href="/">返回首页</a> | <a href="/contact.html" target="_blank">联系我们</a> 
+   </div> 
+   <form class="login-form" action="" method="post" onsubmit="checkSubmitContent"> 
+    <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center"> <!-- <tr>
+	<td align="left" class="nav"><img alt="" src="/images/pathway_icon.png"/><span class="nav" style="padding-left:1em;"><a href="" class="nav"></a></span></td>
+  </tr> --> 
+    </table> 
+    <div class="main-login"> 
+     <div class="right-panel"> 
+      <div class="right-panel-username-input">
+       <input type="text" placeholder="用户名或者邮箱" class="post usrname" name="username" size="25" maxlength="40" value="">
+      </div> 
+      <div class="right-panel-psw-input">
+       <input type="password" placeholder="密码" class="post psw" name="password" size="25" maxlength="32">
+      </div> 
+      <div class="option-panel"> <span class="auto-login-check"><input class="the-checkbox" type="checkbox" name="autologin" checked>自动登录</span> <span class="forget-psw"><a href="/f/page_profile/mode_sendpassword.html" class="gensmall">忘记密码?</a></span> <span class="regist"><a href="https://www.ChineseInSFBay.com/register.html">免费注册</a></span> 
+      </div> <span class="topic_alert"> </span> 
+      <div class="login-footer"> 
+       <div class="button-panel">
+        <span class="button-login-icon"></span>
+        <input class="button-login button-i" type="submit" value="登录" name="login">
+       </div> 
+       <div class="clear"></div> 
+      </div> 
+     </div> 
+     <div class="middle"> 
+      <div class="line line-top"></div> 
+      <div class="or">
+       或
+      </div> 
+      <div class="line"></div> 
+     </div> 
+     <div class="third">
+      使用社交账号直接登录 
+      <div class="third-button">
+       <div class="button-panel">
+        <span class="button-facebook-icon"></span>
+        <input class="button-white button-i" type="button" value="facebook" onclick="window.location.href='https://www.facebook.com/dialog/oauth? client_id=1522988824624641&amp;response_type=token&amp;scope=email&amp; redirect_uri=https://www.chineseinsfbay.com/includes/thirdpart_auth/facebook_login_callback.php'">
+       </div>
+      </div> 
+      <div class="third-button">
+       <div class="button-panel">
+        <span class="button-weibo-icon"></span>
+        <input class="button-white button-i" type="button" value=" 新浪微博" onclick="window.location.href='https://api.weibo.com/oauth2/authorize?client_id=2835138913&amp;response_type=code&amp;redirect_uri=https://www.chineseinsfbay.com/includes/thirdpart_auth/weibo_login_callback.php'">
+       </div>
+      </div> 
+      <div class="third-button">
+       <div class="button-panel">
+        <span class="button-weixin-icon"></span>
+        <input class="button-white button-i" type="button" value=" 微信登录" onclick="window.location.href='https://www.chineseinla.com/includes/thirdpart_auth/get_weixin_code.php?appid=wx9097bda892aefe00&amp;scope=snsapi_login&amp;state=esdaca&amp;redirect_uri=https%3A%2F%2Fwww.ChineseInSFBay.com%2Fincludes%2Fthirdpart_auth%2Fweixin_login_callback.php'">
+       </div>
+      </div> <!-- <a href="<div class=button-panel><span class="button-facebook-icon"></span><input class="button-white button-i" type="button" value="facebook" onclick="window.location.href='https://www.facebook.com/dialog/oauth? client_id=1522988824624641&response_type=token&scope=email& redirect_uri=https://www.chineseinsfbay.com/includes/thirdpart_auth/facebook_login_callback.php'" /></div>" class="third-button"><img src="/images/facebook_post.png"/><span>  facebook</span></a>
+    	<a href="<div class=button-panel><span class="button-weibo-icon"></span><input class="button-white button-i" type="button" value=" 新浪微博" onclick="window.location.href='https://api.weibo.com/oauth2/authorize?client_id=2835138913&response_type=code&redirect_uri=https://www.chineseinsfbay.com/includes/thirdpart_auth/weibo_login_callback.php'" /></div>" class="third-button"><img src="/images/weibo_post.png"/><span>  新浪微博</span></a> --> <!-- <a href="" class="third-button"></a> --> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="bottomBanner"> <a href="/aboutus/task_app.html" target="_blank"></a> 
+     </div> 
+    </div> 
+    <input type="hidden" name="redirect" value=""> 
+   </form> 
+   <div class=""> 
+   </div> 
+   <div class="row"> 
+    <div class="footer">
+     <div class="foot_left"> 
+      <div class="foot_left1"> <a href="/la_weblinks.html" target="_blank">旧金山华人常用网站</a>&nbsp;|&nbsp; <a href="/tag.html" target="_blank">标签</a>&nbsp;|&nbsp; <a href="/sitemap.html" target="_blank">网站地图</a>&nbsp;|&nbsp; <a href="/hotnews.html" target="_blank">旧金山新闻</a>&nbsp;|&nbsp; <a href="/contact.html" target="_blank">联系我们</a>&nbsp;|&nbsp; <a href="/aboutus.html" target="_blank">关于我们</a>&nbsp;|&nbsp;<a href="/realtor.html" target="_blank">房管家</a>&nbsp;|&nbsp; <a href="/clause.html" target="_blank">服务条款</a> 
+      </div> 
+      <div class="foot_left2">
+       Copyright © 2016-2020&nbsp;<a href="/" target="_blank">ChineseInSFBay.com</a>All rights reserved.<a href="/privacies.html" class="link" target="_blank">Privacy Policy</a>. 广告联系 Support@ChineseInSFBay.com
+      </div>
+     </div>
+     <div class="foot_right">
+      <a href="/aboutus/task_app.html" target="_blank"></a><a href="http://www.weibo.com/chineseinsfbay" target="_blank"></a><a href="https://www.facebook.com/pages/%E6%97%A7%E9%87%91%E5%B1%B1%E6%B9%BE%E5%8C%BA%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/563317173731667?ref=hl" target="_blank"></a>
+     </div>
+    </div> 
+   </div> 
+  </div>
+  <script src="https://www.ChineseInSFBay.com/includes/js/inla.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/includes/js/homepage-other-city.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/includes/js/encrypt.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/includes/js/thickbox_plus.js?v=v1662" type="text/javascript"></script>
+  <script src="https://www.ChineseInSFBay.com/includes/calendar/WdatePicker.js?v=v1662" type="text/javascript"></script> 
+  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script> 
+  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-messaging.js"></script> 
+  <link rel="manifest" href="/manifest.json"> 
+  <script>
+		var NotificationConfig = {"apiKey":"AIzaSyCN8JuqP3qLS5MTVNCEWXltz1vMq_lEQuM","authDomain":"sfchinaren.firebaseapp.com","databaseURL":"https:\/\/sfchinaren.firebaseio.com","projectId":"sfchinaren","storageBucket":"","messagingSenderId":"112224423738"};
+var NotificationTag = 'sfchinaren';	</script> 
+  <script src="https://www.ChineseInSFBay.com/templates/horse

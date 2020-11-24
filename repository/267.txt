@@ -1,0 +1,1120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/search/key_%e5%ae%a0%e7%89%a9.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>洛杉矶华人资讯网 - 洛杉矶本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e5%ae%a0%e7%89%a9.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://c3.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://c3.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_category" id="search_category"> <span id="recommend1"></span> 您要查找的信息，可能属于下列分类: <span class="category"> <a href="/company/task_list/catid_152.html" class="map_link" target="_blank" title="洛杉矶动物避难所，流浪宠物聚居的地方..."> 动物避难所 </a> ,<a href="/company/task_list/catid_390.html" class="map_link" target="_blank" title="宠物旅馆, 宠物酒店"> 宠物旅馆 </a> ,<a href="/company/task_list/catid_196.html" class="map_link" target="_blank" title="宠物医院"> 宠物医院 </a> </span> 
+    </div>
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.chineseinla.com/company/task_list/catid_390.html" class="map_link" target="_blank">宠物旅馆 - 华人商家点评</a> 
+      </dt> 
+      <dd>
+       旅游，外出时宠物寄宿的地方
+      </dd> 
+     </dl> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.chineseinla.com/f/page_viewforum/f_57.html" class="map_link" target="_blank">猫狗宠物, 洛杉矶华人论坛</a> 
+      </dt> 
+      <dd>
+       宠物领养,宠物买卖
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company sponsor_company"> 
+        <dt class="tag_title bid-dt"> <span class="tags_counter">推</span> <a href="/company/task_view/id_86988/%E5%A4%A7%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%BA%97/bdsidw_4214914.html" class="map_link"> <span>大鱼眼镜店-高性价比时尚眼镜品牌，近视眼</span> </a> <a class="review" href="/company/task_view/id_86988/%E5%A4%A7%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%BA%97/bdsidw_4214914.html"></a> <a class="image" href="/company/task_view/id_86988/%E5%A4%A7%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%BA%97/bdsidw_4214914.html"></a> <span class="bid-right">竞价</span> 
+        </dt> 
+        <dd> 
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_86988/%E5%A4%A7%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%BA%97/bdsidw_4214914.html"></a> 
+            </div>
+           </div>
+          </div>
+         </div> 
+         <div class="tag_star"> &nbsp;12个人参与评分 &nbsp;共有13条评论 
+         </div> 
+        </dd> 
+        <dd> 
+         <div class="tag_text"> 
+          <div class="address_list_block"> 
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_86988.html" title="点击查看地图">301 W Valley Blvd, #106,San Gabriel, CA 91776</a>
+           </div> 
+          </div> 
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-782-7368
+          </div> 
+          <div class="list_category">
+           分类:&nbsp;&nbsp; <span class="list_tag"> <a href="/company/task_list/catid_46.html" class="map_link" target="_blank">眼镜店</a> <span>&gt;</span> <a href="/company/catid_46/task_list/tagId_484.html" class="map_link">眼镜店</a> , <a href="/company/catid_46/task_list/tagId_477.html" class="map_link">配眼镜</a> , <a href="/company/catid_46/task_list/tagId_4530.html" class="map_link">隐形眼镜</a> , <a href="/company/catid_46/task_list/tagId_19109.html" class="map_link">太阳眼镜</a> , <a href="/company/catid_46/task_list/tagId_35278.html" class="map_link">洛杉矶配眼镜哪里好</a> </span> 
+          </div> 
+         </div> 
+        </dd> 
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" class="map_link" target="_blank" title="鸿图中国">鸿图中国</a><span class="blue_font">-</span><a href="/company/task_view/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" class="map_link" target="_blank" title="Goodland Inc">Goodland Inc</a>
+         </div><a href="/company/task_review/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" class="review" title="点评"></a><a href="/company/task_image/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" class="image" title="图片"></a><a href="/company/task_message/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_12784/%E9%B8%BF%E5%9B%BE%E4%B8%AD%E5%9B%BD.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_12784.html" title="点击查看地图">145-18 156th Street, Suite 211 B Jamaica, NY 11434</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(718) 568-9082
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list.html" class="map_link" target="_blank">快递公司</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_2114/%E5%9B%BD%E9%99%85%E6%90%AC%E8%BF%90.html" title="国际搬运" class="map_link">国际搬运</a>,&nbsp;&nbsp;<a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_2115/%E7%A7%81%E4%BA%BA%E7%89%A9%E5%93%81.html" title="私人物品" class="map_link">私人物品</a>,&nbsp;&nbsp;<a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_2117/%E5%AE%A0%E7%89%A9%E8%BF%90%E8%BE%93.html" title="宠物运输" class="map_link">宠物运输</a>,&nbsp;&nbsp;<a href="/company/catid_31/%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8/task_list/tagId_2118/%E4%B8%AD%E7%BE%8E%E8%BF%90%E8%BE%93.html" title="中美运输" class="map_link">中美运输</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_13390/ARCADIA%20SMALL%20ANIMAL%20HOSPITAL.html" class="map_link" target="_blank" title="ARCADIA SMALL ANIMAL HOSPITAL">ARCADIA SMALL ANIMAL HOSPITAL</a>
+         </div><a href="/company/task_review/id_13390/ARCADIA%20SMALL%20ANIMAL%20HOSPITAL.html" class="review" title="点评"></a><a href="/company/task_message/id_13390/ARCADIA%20SMALL%20ANIMAL%20HOSPITAL.html" class="message" title="留言"></a><a href="/company/task_view/id_13390/ARCADIA%20SMALL%20ANIMAL%20HOSPITAL.html" class="tenyear" title="十年老店"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_13390.html" title="点击查看地图">311 N. Santa Anita Ave., Arcadia, CA 91006</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;.(626) 447-2244
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list.html" class="map_link" target="_blank">宠物医院</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_2381/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2.html" title="宠物医院" class="map_link">宠物医院</a>,&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_8/Arcadia.html" title="Arcadia" class="map_link">Arcadia</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32032/love.html" class="map_link" target="_blank" title="love">love</a>
+         </div><a href="/company/task_review/id_32032/love.html" class="review" title="点评"></a><a href="/company/task_message/id_32032/love.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_32032.html" title="点击查看地图">temple city blvd, temple city</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-298-7851
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list.html" class="map_link" target="_blank">宠物旅馆</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8227/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86.html" title="宠物旅馆" class="map_link">宠物旅馆</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8228/%E5%89%AA%E6%AF%9B.html" title="剪毛" class="map_link">剪毛</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17045/%E5%AE%A0%E7%89%A9%E5%AF%84%E5%85%BB.html" title="宠物寄养" class="map_link">宠物寄养</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17046/%E5%AE%A0%E7%89%A9%E6%B4%97%E6%BE%A1.html" title="宠物洗澡" class="map_link">宠物洗澡</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_6093/%E5%AE%A0%E7%89%A9.html" title="宠物" class="map_link">宠物</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="map_link" target="_blank" title="苏珊娜宠物家庭式寄养">苏珊娜宠物家庭式寄养</a><span class="blue_font">-</span><a href="/company/task_view/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="map_link" target="_blank" title="Susanna">Susanna</a>
+         </div><a href="/company/task_review/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="review" title="点评"></a><a href="/company/task_image/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="image" title="图片"></a><a href="/company/task_view/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html#coupon" class="coupon" title="Coupon"></a><a href="/company/task_displayCard/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="card" title="商业名片"></a><a href="/company/task_message/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_85362/%E8%8B%8F%E7%8F%8A%E5%A8%9C%E5%AE%A0%E7%89%A9%E5%AE%B6%E5%BA%AD%E5%BC%8F%E5%AF%84%E5%85%BB.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;3个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_85362.html" title="点击查看地图">13015 5th st, Chino, Ca 91710</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;4243082646
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list.html" class="map_link" target="_blank">宠物旅馆</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8227/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86.html" title="宠物旅馆" class="map_link">宠物旅馆</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17045/%E5%AE%A0%E7%89%A9%E5%AF%84%E5%85%BB.html" title="宠物寄养" class="map_link">宠物寄养</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17102/%E9%81%9B%E7%8B%97.html" title="遛狗" class="map_link">遛狗</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_6093/%E5%AE%A0%E7%89%A9.html" title="宠物" class="map_link">宠物</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_796/Chino.html" title="Chino" class="map_link">Chino</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="橙系动物专科医院">橙系动物专科医院</a><span class="blue_font">-</span><a href="/company/task_view/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="Orange County Veterinary Specialists">Orange County Veterinary Specialists</a>
+         </div><a href="/company/task_review/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" class="review" title="点评"></a><a href="/company/task_image/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" class="image" title="图片"></a><a href="/company/task_message/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_32911/%E6%A9%99%E7%B3%BB%E5%8A%A8%E7%89%A9%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_32911.html" title="点击查看地图">3021 Edinger Ave,Tustin, CA 92780</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;949-654-8950
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list.html" class="map_link" target="_blank">宠物医院</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_2381/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2.html" title="宠物医院" class="map_link">宠物医院</a>,&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_6093/%E5%AE%A0%E7%89%A9.html" title="宠物" class="map_link">宠物</a>,&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_48/Tustin.html" title="Tustin" class="map_link">Tustin</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" class="map_link" target="_blank" title="猫狗星球">猫狗星球</a><span class="blue_font">-</span><a href="/company/task_view/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" class="map_link" target="_blank" title="MG Planet Pet Grooming">MG Planet Pet Grooming</a>
+         </div><a href="/company/task_review/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" class="review" title="点评"></a><a href="/company/task_image/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" class="image" title="图片"></a><a href="/company/task_message/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_33759/%E7%8C%AB%E7%8B%97%E6%98%9F%E7%90%83.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_33759.html" title="点击查看地图">1457 S Nogales St, #A, Rowland Heights, CA 91748</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626 964 0666;626 675 6650
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list.html" class="map_link" target="_blank">宠物旅馆</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17045/%E5%AE%A0%E7%89%A9%E5%AF%84%E5%85%BB.html" title="宠物寄养" class="map_link">宠物寄养</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8228/%E5%89%AA%E6%AF%9B.html" title="剪毛" class="map_link">剪毛</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17046/%E5%AE%A0%E7%89%A9%E6%B4%97%E6%BE%A1.html" title="宠物洗澡" class="map_link">宠物洗澡</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_19/Rowland%20Heights.html" title="Rowland Heights" class="map_link">Rowland Heights</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_22659/%E7%88%B1%E5%B1%8B%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="爱屋动物医院">爱屋动物医院</a><span class="blue_font">-</span><a href="/company/task_view/id_22659/%E7%88%B1%E5%B1%8B%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="Elwood Animal Clinic">Elwood Animal Clinic</a>
+         </div><a href="/company/task_review/id_22659/%E7%88%B1%E5%B1%8B%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="review" title="点评"></a><a href="/company/task_message/id_22659/%E7%88%B1%E5%B1%8B%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_22659.html" title="点击查看地图">901 E. Route 66, #3AGlendora, CA 91740</a>
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_22659.html" title="点击查看地图">10158 E. Garvey Ave. El Monte, CA 91733</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(626) 914-5671、(626) 443-9461
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list.html" class="map_link" target="_blank">宠物医院</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_2381/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2.html" title="宠物医院" class="map_link">宠物医院</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">8</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" class="map_link" target="_blank" title="————">————</a><span class="blue_font">-</span><a href="/company/task_view/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" class="map_link" target="_blank" title="Orange County Pet sitting">Orange County Pet sitting</a>
+         </div><a href="/company/task_review/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" class="review" title="点评"></a><a href="/company/task_image/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" class="image" title="图片"></a><a href="/company/task_message/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_82262/%E2%80%94%E2%80%94%E2%80%94%E2%80%94.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_82262.html" title="点击查看地图">1763 West Beacon Ave,Anaheim,CA 92804</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;8282828288
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list.html" class="map_link" target="_blank">宠物旅馆</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_47812/%E4%B8%8D%E5%81%9A%E4%BA%86.html" title="不做了" class="map_link">不做了</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">9</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_13388/%E7%88%B1%E5%B0%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="爱尔动物医院">爱尔动物医院</a><span class="blue_font">-</span><a href="/company/task_view/id_13388/%E7%88%B1%E5%B0%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="map_link" target="_blank" title="ANIMAL HOSPITAL OF IRVINE">ANIMAL HOSPITAL OF IRVINE</a>
+         </div><a href="/company/task_review/id_13388/%E7%88%B1%E5%B0%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="review" title="点评"></a><a href="/company/task_message/id_13388/%E7%88%B1%E5%B0%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="message" title="留言"></a><a href="/company/task_view/id_13388/%E7%88%B1%E5%B0%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2.html" class="tenyear" title="十年老店"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_13388.html" title="点击查看地图">4200 Trabuco Rd., #160 Irvine, CA 92620</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(949) 559-9988
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list.html" class="map_link" target="_blank">宠物医院</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_2381/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2.html" title="宠物医院" class="map_link">宠物医院</a>,&nbsp;&nbsp;<a href="/company/catid_196/%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2/task_list/tagId_6/Irvine.html" title="Irvine" class="map_link">Irvine</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">10</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" class="map_link" target="_blank" title="101宠物精致美容">101宠物精致美容</a><span class="blue_font">-</span><a href="/company/task_view/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" class="map_link" target="_blank" title="101 Pets Grooming">101 Pets Grooming</a>
+         </div><a href="/company/task_review/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" class="review" title="点评"></a><a href="/company/task_image/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" class="image" title="图片"></a><a href="/company/task_message/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_33760/101%E5%AE%A0%E7%89%A9%E7%B2%BE%E8%87%B4%E7%BE%8E%E5%AE%B9.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_33760.html" title="点击查看地图">19747 Valley Blvd, Walnut, CA 91789</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;909 839 1839
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list.html" class="map_link" target="_blank">宠物旅馆</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8227/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86.html" title="宠物旅馆" class="map_link">宠物旅馆</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_8228/%E5%89%AA%E6%AF%9B.html" title="剪毛" class="map_link">剪毛</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_17046/%E5%AE%A0%E7%89%A9%E6%B4%97%E6%BE%A1.html" title="宠物洗澡" class="map_link">宠物洗澡</a>,&nbsp;&nbsp;<a href="/company/catid_390/%E5%AE%A0%E7%89%A9%E6%97%85%E9%A6%86/task_list/tagId_50/Walnut.html" title="Walnut" class="map_link">Walnut</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <div class="page"> <a data-page="0" data-type="0" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="0" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/f/page_viewtopic/t_1975981.html" target="_blank"><h4>法国斗牛犬专卖店</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">犬名：辛巴/10个月 稳定的基因只会随著时间成长而越来越美丽 不论是品相，体态，我们秉持专业的经验，将最好的一直承传下去 专业～卖的是服务，贵的是品质 地址：台湾省屏东县、政府合法台湾手机同步line0989871564 </p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">62浏览</span> <span class="time">19小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975682.html" target="_blank"><h4>9成新 两个婴儿/<span class="key">宠物</span>安全门 原价54刀,现在每个$25</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">现有两个婴儿/<span class="key">宠物</span>安全门，每个原价54刀 &nbsp; 现在25刀一个出售 ！&nbsp; LA地区Alhambra或Diamond Bar自取 &nbsp; 微信：rachely309 &nbsp; &nbsp; 5333376&nbsp; 5333377&nbsp; &nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_3.html">二手商品</a> <span class="view">0评论</span> <span class="reply">58浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975638.html" target="_blank"><h4>求看门犬,杜宾/罗威纳/德国牧羊犬</h4></a> 
+         <div class="content"> 
+          <p class="p-text">求看门犬，杜宾/罗威纳/德国牧羊犬&nbsp; 1-2岁，健康活泼，价格可洽谈&nbsp; 王先生 626-679-5352&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">20浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975569.html" target="_blank"><h4>两只1岁大的可爱小白兔求领养。（已被领养）</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">因为搬家没有后院了，小兔子不能在自由活动，所以希望有爱心的人&nbsp; 家可以领养它们，免费送两个笼子和兔粮。有意请电。9098599979。5333058 &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">75浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975437.html" target="_blank"><h4>转让<span class="key">宠物</span>猫</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我有一只健康可爱的<span class="key">宠物</span>猫（做过免疫，绝育），7岁了。想赠送给任何一位爱心人士，附赠100美元口粮费用。另附赠必须生活设备。地点在La Jolla，大学城附近，需要自取。&nbsp; 5333649&nbsp; 5333650&nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">176浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/1975300.html" target="_blank"><h4>狗叫声扰民,主人不管怎么办？专业人士给出建议</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">【洛杉矶华人资讯网 记者Tracy报道】<span class="key">宠物</span>在给一部分人带来陪伴的同时，也给另一部分人带来了困扰。近日，有读者在洛杉矶华人资讯网论坛发布了一则求助帖表示，邻居家的狗经常吠叫，已经严重影响其日常生活，多次与狗</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1912浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975243.html" target="_blank"><h4>可爱小白兔</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">有两只可爱小白兔出售～ 欢迎热爱小动物人士前来把小白兔领养回家！联系电话626-417-8356 5331961 5331962</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">47浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1974873.html" target="_blank"><h4>求看门犬,杜宾/罗威纳/德国牧羊犬</h4></a> 
+         <div class="content"> 
+          <p class="p-text">求看门犬，杜宾/罗威纳/德国牧羊犬&nbsp; 1-2岁，健康活泼，价格可洽谈&nbsp; 王先生 626-679-5352&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">37浏览</span> <span class="time">2天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1974358.html" target="_blank"><h4>健康亲人纯白仓鼠出售,装备齐全</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">所有生活必需品齐全，笼子，饮水器，跑轮，小屋子，冬天棉窝都齐全，$20全包。由于自己需要移居外州，需要找有爱心的人来抚养照顾他。小仓鼠从不咬人，很活泼爱玩，需要有额外的小空间给他活动（仓鼠不因一辈子生活</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">63浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1974205.html" target="_blank"><h4>Alhambra Brand New Condo 阿市全新城市屋。</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">地址：822 N. Monterey Street, Alhambra CA 91801&nbsp; &nbsp; 2 房 或 3 房，3 浴， 3 车库&nbsp; 全新冰箱，洗衣机，烘干机。&nbsp; 租金包含简单家具，水，电，瓦斯，无限网络。&nbsp; &nbsp; 租金每月$3,300--</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_83.html">旅馆短租</a> <span class="view">0评论</span> <span class="reply">30浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1973866.html" target="_blank"><h4>赛级布偶妹妹,找领养</h4></a> 
+         <div class="content"> 
+          <p class="p-text">一个月前接回的布偶妹妹，六个月大，赛级海豹双色，非常乖巧懂事亲人，爱撒娇，爱踩奶，身体健康，已绝育和疫苗。因为个人原因实在没办法再继续养了，希望找个好人家好好对她。有偿领养，<span class="key">宠物</span>用品猫砂猫粮等等有需要</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">3评论</span> <span class="reply">191浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1973435.html" target="_blank"><h4>超级亲人小狸花猫等待领养</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">超级亲人小狸花猫 送养 领养费$100 等待领养 六个月大脾气超级好 请短信联系 9095323639 5325100 5325101</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">2评论</span> <span class="reply">287浏览</span> <span class="time">4天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1973406.html" target="_blank"><h4>重金求人带猫狗上飞机</h4></a> 
+         <div class="content"> 
+          <p class="p-text">💰$1000求11/6以后南航La飞广州的愿意带狗狗的建议我一下可以吗 一个法老王幼犬 ❗$1500求10/22以后delta回国可以esa带猫咪回国的乘机人 感谢❤ 短信5108772497</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">111浏览</span> <span class="time">4天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1973157.html" target="_blank"><h4>纯种德牧</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">纯种德牧，带AKC证书，疫苗已打，现可回家。626-349-7864 5323989 5323990 5323991 5323992</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">307浏览</span> <span class="time">5天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1972866.html" target="_blank"><h4>新出生奶油色法斗</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">刚出生一个半月的法斗宝宝 活泼好动 价格可协商&nbsp; 已打第一针疫苗，可上门看狗&nbsp; 感兴趣的可以联系6265862380&nbsp; 5323079&nbsp; 5323080&nbsp; 5323081&nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">1评论</span> <span class="reply">246浏览</span> <span class="time">5天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1972787.html" target="_blank"><h4>出售银渐层矮脚</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">银渐层矮脚弟弟两个半月 1200 洛杉矶地区免费送猫上门短信联系6025624975 5322611 5322612 5322613</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">2评论</span> <span class="reply">286浏览</span> <span class="time">5天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1972414.html" target="_blank"><h4>求看门犬,杜宾/罗威纳/德国牧羊犬</h4></a> 
+         <div class="content"> 
+          <p class="p-text">求看门犬，杜宾/罗威纳/德国牧羊犬&nbsp; 1-2岁，健康活泼，价格可洽谈&nbsp; 王先生 626-679-5352&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_57.html">猫狗宠物</a> <span class="view">0评论</span> <span class="reply">101浏览</span> <span class="time">6天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1971475.html" target="_blank"><h4>猫窝猫树</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">可拆洗猫窝$15 (已手洗过，很干净）。 猫树$15。短信联系626-242-3069&nbsp; 5317774&nbsp; 5317775&nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_3.html">二手商品</a> <span class="view">0评论</span> <span class="reply">130浏览</span> <span class="time">7天前</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinla.com/v/v_45.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_45.html" target="_blank"><h4>如何挑选宠物狗</h4></a> 
+          <div class="info">
+           <span>2016/05/09</span><span>49458观看</span>
+          </div> 
+          <p>对于初次养狗的宠物爱好者，肯定会困扰于：挑选一只什么样的狗狗才适合自己，哪一种类的狗才更适合在家里养？这样的问题。下面视频就为您解答如何挑选宠物狗？</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_116.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_116.html" target="_blank"><h4>如何训练宠物狗趴下</h4></a> 
+          <div class="info">
+           <span>2016/06/14</span><span>28015观看</span>
+          </div> 
+          <p>宠物训练：当宠物狗学会坐下以后就可以训练它如何趴在地上不动，这个训练不可操之过急，要一点一点的增加时长。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_129.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_129.html" target="_blank"><h4>在美国如何购买宠物保险？</h4></a> 
+          <div class="info">
+           <span>2016/06/26</span><span>1631观看</span>
+          </div> 
+          <p>在美国生活养一只宠物可以为生活增添乐趣，为了保护自己的宠物购买宠物保险简单有效，那么什么样的宠物可以买保险，宠物保险又怎样买呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_649.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_649.html" target="_blank"><h4>邻居家的宠物太吵怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/07</span><span>1515观看</span>
+          </div> 
+          <p>家里养的宠物都难免会发出声音，但如果长时间的发出噪音就会影响到邻居的生活。那么，如果你邻居家的狗太吵，你该怎么办？处理的时候需要注意哪些问题？How视频为您一一解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_679.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_679.html" target="_blank"><h4>如何弃养宠物</h4></a> 
+          <div class="info">
+           <span>2017/03/20</span><span>1978观看</span>
+          </div> 
+          <p>宠物通常都是陪伴在人们身边很好的伙伴，但有时可能会因为一些特殊原因，我们不得不弃养宠物。那么，哪里可以接收弃养宠物？弃养宠物需要办理什么手续？携带哪些材料？How视频为您一一解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_680.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_680.html" target="_blank"><h4>如何领养宠物狗</h4></a> 
+          <div class="info">
+           <span>2017/03/20</span><span>6044观看</span>
+          </div> 
+          <p>在美国，宠物狗常被视为家庭成员中十分重要的一位，那么在美国如何才能领养到令自己十分心怡的宠物狗？领养宠物狗都需要经过哪些手续？需要注意哪些问题？How视频教您：如何领养宠物狗。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_681.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_681.html" target="_blank"><h4>如何办理和更新宠物许可证</h4></a> 
+          <div class="info">
+           <span>2017/03/20</span><span>684观看</span>
+          </div> 
+          <p>在美国，家里养宠物通常都需要办理动物许可证，那么，哪里可以办理动物许可证？办理动物许可证都需要准备什么材料？动物许可证有效期多长？如何续办更新？How视频为您一一解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1959.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1959.html" target="_blank"><h4>宠物如何入住宠物旅馆</h4></a> 
+          <div class="info">
+           <span>2018/06/03</span><span>967观看</span>
+          </div> 
+          <p>很多家里有宠物的小伙伴在需要旅行时都会头疼，宠物无法待在身边，该如何照顾。寄养中心和宠物旅馆便成了一个绝佳的选择，那么如何选择宠物旅馆？入住宠物旅馆时又有哪些注意事项？ How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1355.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1355.html" target="_blank"><h4>狗狗在院子里挖坑怎么办</h4></a> 
+          <div class="info">
+           <span>2017/11/26</span><span>2706观看</span>
+          </div> 
+          <p>狗狗固然可爱，但有些狗狗喜欢破坏家中的草坪，在草坪上挖坑这是为什么呢？如何避免狗狗在院子里挖坑呢？导致狗狗挖坑的原因有哪些呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1443.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1443.html" target="_blank"><h4>如何保护狗狗牙齿</h4></a> 
+          <div class="info">
+           <span>2017/12/20</span><span>2099观看</span>
+          </div> 
+          <p>保护狗狗的牙齿有哪些注意事项？人吃的食物可以给狗狗吃吗？是否应该在狗狗小的时候就为它刷牙？How为您一一解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1454.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1454.html" target="_blank"><h4>如何遛狗</h4></a> 
+          <div class="info">
+           <span>2018/01/07</span><span>12153观看</span>
+          </div> 
+          <p>如何让刚出生不久的小狗适应户外环境？遛狗时应该注意哪些问题？遛狗时狗狗出现一些不好的行为应该如何制止？How视频一一为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1488.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1488.html" target="_blank"><h4>如何让狗和猫和睦相处</h4></a> 
+          <div class="info">
+           <span>2018/01/14</span><span>6278观看</span>
+          </div> 
+          <p>狗狗为什么会一直追着猫跑？如何才让猫和狗和睦相处？当狗狗在追猫的时候主人应该怎么做？How视频一一为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1441.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1441.html" target="_blank"><h4>如何让狗狗变得友好</h4></a> 
+          <div class="info">
+           <span>2018/01/17</span><span>4679观看</span>
+          </div> 
+          <p>刚出生的小狗能够立刻抱回家吗？如何才能让小狗从小就养成一个对人对狗都十分有礼貌的习惯？如果狗狗一旦已经养成了不好的习惯又该如何改正？How视频一一为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1487.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1487.html" target="_blank"><h4>如何选择狗毛梳子</h4></a> 
+          <div class="info">
+           <span>2018/01/23</span><span>1949观看</span>
+          </div> 
+          <p>如何为狗狗选择狗毛梳子？如何为狗狗梳毛？为狗狗梳毛时应该注意哪些问题？How视频一一为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1444.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1444.html" target="_blank"><h4>如何让狗狗远离危险动物</h4></a> 
+          <div class="info">
+           <span>2018/01/28</span><span>803观看</span>
+          </div> 
+          <p>加州的自然环境保护良好因此有很多野生动物，那么，家养的狗狗遇到野生动物该怎么办？如何让家养狗狗远离危险动物？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1442.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1442.html" target="_blank"><h4>如何让狗狗乖乖下水游泳</h4></a> 
+          <div class="info">
+           <span>2018/02/21</span><span>1225观看</span>
+          </div> 
+          <p>所有的狗狗都怕水吗？如何才能让狗狗乖乖下水游泳呢？平常看到的将狗狗直接推到水池内强迫它游泳的方法是否可取呢？How视频一一为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1371.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1371.html" target="_blank"><h4>狗狗怕水怎么办</h4></a> 
+          <div class="info">
+           <span>2017/12/05</span><span>1384观看</span>
+          </div> 
+          <p>游泳对于大部分狗狗来说是一个非常不错的游玩项目。但是如果自己家的狗狗怕水该怎么办呢?如何培养自己的狗狗勇敢的下水游泳呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_47.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_47.html" target="_blank"><h4>如何教狗定点大小便</h4></a> 
+          <div class="info">
+           <span>2016/05/09</span><span>25919观看</span>
+          </div> 
+          <p>宠物训练：养只宠物狗可以给生活带来不少乐趣，但是狗狗若随处大小便，那可会给主人带来不小的麻烦，下面视频就介绍下如何让狗狗在主人指定位置大小便。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_46.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_46.html" target="_blank"><h4>如何教狗坐下</h4></a> 
+          <div class="info">
+           <span>2016/05/09</span><span>43164观看</span>
+          </div> 
+          <p>宠物训练：想要训练自己的狗狗坐下并不难，只要帮助狗狗抬起头，它注意力集中时会自然而然地坐下，但要注意千万别按狗狗的屁股强行让它坐下。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_44.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_44.html" target="_blank"><h4>如何训练狗Come</h4></a> 
+          <div class="info">
+           <span>2016/05/09</span><span>11249观看</span>
+          </div> 
+          <p>宠物训练：养狗的人都希望自己的狗狗能听话，一叫就过来。而训练狗狗在听到主人后就立马去到主人的身边也是学会训练宠物的第一步。</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="2" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="sea_right">
+     <div class="publish-company">
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div>
+     </div> 
+     <div> <a href="javascript:void(0)" onclick="TB_show(&quot;&quot;,&quot;index3.php?option=com_disclosure&amp;width=500&amp;height=400.html&quot;)">Advertiser Disclosure</a> 
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left">
+         <a target="_blank" href="/deals.html" class="normal_font bold_font blue_font">本地特价</a>
+        </div> <span><a target="_blank" href="/deal.html">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <dl class="home_hotdisdeal clearfix"> 
+       <dd class="deal_img"> <a href="/disdetail/d_544505.html" target="_blank">  </a> 
+       </dd> 
+       <dd class="deal_dsp"> <a href="/disdetail/d_544505.html" target="_blank"> <p class="deal_tlt">速抢！ECCO 爱步 Vitrus III 唯图系列 雕花版 男式牛津鞋/正装鞋</p> <p class="deal_prc"> $53.99&nbsp;&nbsp;&nbsp;&nbsp;<em class="delete"></em> </p> </a> 
+       </dd> 
+      </dl> 
+      <dl class="home_hotdisdeal clearfix"> 
+       <dd class="deal_img"> <a href="/disdetail/d_586750.html" target="_blank">  </a> 
+       </dd> 
+       <dd class="deal_dsp"> <a href="/disdetail/d_586750.html" target="_blank"> <p class="deal_tlt">吃火锅的季节到啦！Rosewill 1800瓦电磁炉，带不锈钢锅</p> <p class="deal_prc"> $35.99&nbsp;&nbsp;&nbsp;&nbsp;<em class="delete">$99.99</em> </p> </a> 
+       </dd> 
+      </dl> 
+      <dl class="home_hotdisdeal clearfix"> 
+       <dd class="deal_img"> <a href="/disdetail/d_587024.html" target="_blank">  </a> 
+       </dd> 
+       <dd class="deal_dsp"> <a href="/disdetail/d_587024.html" target="_blank"> <p class="deal_tlt">AOJEZOR 浴室带门储物角柜</p> <p class="deal_prc"> $25.99&nbsp;&nbsp;&nbsp;&nbsp;<em class="delete">$35.99</em> </p> </a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div> <a href="/company/task_view/id_23828.html" target="_blank" rel="nofollow"></a> 
+     </div>
+     <div> <a href="https://www.chineseinla.com/company/task_view/id_20079/K-Star%20%E7%BA%A2%E6%98%9F%E5%BC%BA%E5%8A%9B%E6%8A%BD%E6%B2%B9%E7%83%9F%E6%9C%BA.html" target="_blank" rel="nofollow"></a> 
+     </div>
+     <div class="sda_right"> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Company Home 300x250, created 7/4/10 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="3701933303"></ins> 
+      <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="http://https://www.chineseinla.com/travel.html" target="_blank" class="normal_font bold_font blue_font">旅游地图</a>
+        </div> <span><a href="http://https://www.chineseinla.com/travel.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="travel_map padding">
+       <a href="http://https://www.chineseinla.com/travel.html" target="_blank"></a>
+      </div> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="normal_font bold_font black_font">华人旅行社</a>
+        </div> <span><a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="black_font">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/company/task_view/id_81702/%E7%BE%8E%E5%9B%BD%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8%E5%85%AC%E5%8F%B8.html" target="_blank" class="small_font black_font">美国环球旅游公司</a></li> 
+       <li><a href="/company/task_view/id_80983/%E8%BE%BE%E7%BE%8E%E6%97%85%E8%A1%8C%E7%BD%91%20-%20www.dameiweb.com.html" target="_blank" class="small_font black_font">达美旅行网 - www.dameiweb.com</a></li> 
+       <li><a href="/company/task_view/id_68017/%E5%AE%9A%E8%87%AA%E6%B8%B8%E6%97%85%E8%A1%8C%E7%BD%91.html" target="_blank" class="small_font black_font">定自游旅行网</a></li> 
+       <li><a href="/company/task_view/id_67186/%E4%B8%AD%E5%8D%8E%E4%BC%9A%E5%8A%A1%E6%97%85%E6%B8%B8%E4%B8%AD%E5%BF%83.html" target="_blank" class="small_font black_font">中华会务旅游中心</a></li> 
+       <li><a href="/company/task_view/id_17906/%E7%BE%8E%E5%9B%BD%E7%9A%87%E5%AE%B6%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">美国皇家旅游</a></li> 
+      </ul> 
+     </div> 
+     <div class="sda_right"> 
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ChineseInLA Company Home 300x250, created 7/4/10 --> 
+      <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="3701933303"></ins> 
+      <s

@@ -1,0 +1,580 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/search/key_%e5%8d%8e%e4%b8%9c.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达华人资讯网 - 佛罗里达本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e5%8d%8e%e4%b8%9c.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/hotnews/63423.html" target="_blank"><h4>送钱送房送户口,中国二线城市抢到人了吗？</h4></a> 
+         <div class="content"> 
+          <p class="p-text">&nbsp; “抢人大战”过去3年，上海终于坐不住了。&nbsp; &nbsp; 9月23日，上海发布落户新政，复旦、上交大、同济、<span class="key">华东</span>师大的应届本科生，以及重点大学和重点学科的应届硕士生可直接落户。&nbsp; &nbsp; 从武汉市“</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">3浏览</span> <span class="time">3天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/51968.html" target="_blank"><h4>80年代人的生猛,是现在的年轻人想象不到的叛逆</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们终于发现，精神、理想、自由、独立、小说、诗歌、文学、艺术，都抵不过一张抄来的、毫无创意、满是商业术语的PPT。 &nbsp; 80731&nbsp; &nbsp; 1&nbsp; 崔健身披开襟大褂，裤脚一高一低，背着一把吉他，直愣愣</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">04/29</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/50907.html" target="_blank"><h4>川普放话要赶他出白宫 张经义说问心无愧</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; 77667&nbsp; &nbsp; 中国大陆东方卫视驻白宫记者张经义，遭川普恫吓，台湾陆委会也扬言开罚。图／联合报系资料照片&nbsp; &nbsp; 担任中国大陆东方卫视驻白宫记者的台湾人张经义日前在白宫记者会被美国总统川</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">04/18</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/50263.html" target="_blank"><h4>重磅！教育部宣布：终止与英美澳加等高校的合作！</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">75315&nbsp; &nbsp; &nbsp; 近期，中华人民共和国教育部发表声明：依法终止了 234个本科以上中外合作办学机构和项目，并公布了详细的名单。&nbsp; &nbsp; 在234个被终止的项目中，英国有60个，涉及的学校有华威大学</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">3浏览</span> <span class="time">04/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/50163.html" target="_blank"><h4>上海地产圈巨震:中海高管被带走 万科华润两人失联</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">75029&nbsp; &nbsp; &nbsp; 这个周末，上海地产圈都在传一个爆炸性的消息，中海上海总经理被带走调查了，随后，万科上海公司、华润<span class="key">华东</span>大区两名负责投资的人士，也失联了，电话打不通。&nbsp; &nbsp; 消息迅速散播到</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">04/11</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/49462.html" target="_blank"><h4>中国呼吸机成"抢手货" 经销商:定价一小时涨几万</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">72816&nbsp; &nbsp; “我们每天都接到上百个咨询呼吸机的电话，热线都被打爆了，但是货已经排到8月份，现在已经不接新单了。”<span class="key">华东</span>一家呼吸机生产商向21世纪经济报道记者说道。&nbsp; &nbsp; 另一家华北地区的呼吸机</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">04/05</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/47401.html" target="_blank"><h4>新冠血型感染研究:A型更易感 O型风险低</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">　　A型血患者更易感染，O型血相对风险较低。&nbsp; 　　这就是国内8所科研机构联合完成的最新新冠病毒研究。既有南方科技大学、上海交大和<span class="key">华东</span>师范等高校，也有深圳市第三人民医院（南方科技大学第二附属医院）、武</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">03/17</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/46977.html" target="_blank"><h4>投资移民如何高效提交I-485和I-944？《杨梅娥律师移民访谈》2020.03.13第1期</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">https://www.youtube.com/watch?v=RvT7G_CsFLM&nbsp; &nbsp; 《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。&nbsp; 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">03/13</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/44084.html" target="_blank"><h4>点赞！“建工最美青年”郑能量 逆行武汉满满正能量！</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img"> 【洛杉矶华人资讯网编辑Jimmy转载报道】&nbsp; &nbsp; 武汉，一座英雄的城市 &nbsp; 2020年庚子鼠年春节 &nbsp; 因为新型冠状病毒感染的肺炎疫情肆虐 &nbsp; 1月23日凌晨 &nbsp; 离汉通道关闭后 &nbsp; 武汉这</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">02/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/44016.html" target="_blank"><h4>资源都给了新冠 这群人失去希望只能煎熬</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">据南华早报2月12日报道，在武汉拥挤的医院中，新冠肺炎的患者正在接受治疗，但对于那些身在武汉的其他疾病患者而言，情况可能更糟。&nbsp; 58355&nbsp; 一名21岁的大学生由于罹患白血病在武汉协和医院已经住院10个</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1浏览</span> <span class="time">02/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/42266.html" target="_blank"><h4>拜耳在华赚百亿后自戗 堵死中企后路</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">据财新网近日消息，1月17日，中国国家医保局主导的第二轮药品带量采购正式开标。期间曝出巨大冷门，糖尿病药物阿卡波糖的四家竞标企业中，德国拜耳公司报出了每片药0.18元的超低价，将北京福元、<span class="key">华东</span>医药直接挤出局</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">01/19</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/41717.html" target="_blank"><h4>伊拉克又一高官遭暗杀身亡 全球再现巨震！</h4></a> 
+         <div class="content"> 
+          <p class="p-text">由美伊引发的中东紧张局势刚哨稍有缓和的迹象，又有波澜再起。在伊朗高官苏莱曼尼于伊拉克被杀之后，又曝出伊拉克本土官员被杀消息。当地时间1月12日，伊拉克人民动员委员会媒体部门证实，人民动员组织的“卡尔巴拉</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">01/13</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/32246.html" target="_blank"><h4>学生诉迪士尼禁带饮食成功！ 迪士尼补偿50元</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; 上海浦东新区法院消息，12日，<span class="key">华东</span>政法大学学生起诉上海迪士尼禁带饮食一案，原被告双方达成调解协议。食品损失46.30元，迪士尼补偿50元。&nbsp; &nbsp; 2019年1月30日，原告前往上海迪士尼乐园游玩，并携带</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1浏览</span> <span class="time">2019/09/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/27837.html" target="_blank"><h4>财经焦点：赤字7471亿!美经济亮警报恐陷恶性循环!中国6月进出口"双弱"!中国寄美黄金总量曝光多国运回黄金!停牌930天投资者夺命狂奔!OPEC预计明年石油需求下降!</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; &nbsp; &nbsp; 财经焦点：赤字7471亿!美经济亮警报恐陷恶性循环!中国6月进出口"双弱"!中国寄美黄金总量曝光多国运回黄金!停牌930天投资者夺命狂奔!OPEC预计明年石油需求下降! &nbsp; &amp;n</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1浏览</span> <span class="time">2019/07/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/27087.html" target="_blank"><h4>洛城焦点: 范冰冰疑似怀孕嫁富豪 过半华人罢买美货 范冰冰劈腿实锤? 移民局严查华人! Gucci不雅服装!</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">https://www.youtube.com/watch?v=RN0mOSPpWs4 &nbsp; &nbsp; &nbsp; 洛城焦点2019年6月27 日内容看点： &nbsp; 中国反美情绪高涨 过半华人罢买美国货! &nbsp; 高调分手换复出?范冰冰分手内幕遭曝光! &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">1浏览</span> <span class="time">2019/06/27</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/27083.html" target="_blank"><h4>范冰冰被曝已怀孕将嫁南京富商 花9亿摆平!以分手换复出?更多黑料 .</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">&nbsp; 34149 &nbsp; 6月27日范冰冰和李晨双双在微博上宣布分手！ &nbsp; “我们不再是我们” &nbsp; 加上昨天双宋离婚 &nbsp; 小编只能说 &nbsp; 爱情是不信了，瓜还是要吃的！ &nbsp; 因为两人突如其来的分手 &amp;nbs</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">2浏览</span> <span class="time">2019/06/27</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_8043.html" target="_blank"><h4>帮你解读食物自己发出的警告</h4></a> 
+         <div class="content"> 
+          <p class="p-text">　　“说话”似乎是高等动物的专利，无论高兴与否丶身体舒服与否，他们都会通过语言来告诉对方。其实，从某种意义上来说，食物也会“说话”，它们会通过一些外在变化向你“传达”某种特定的信息。本期，《生命时报》</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">24浏览</span> <span class="time">2017/07/25</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_7672.html" target="_blank"><h4>帮你解读食物自己发出的警告</h4></a> 
+         <div class="content"> 
+          <p class="p-text">　　“说话”似乎是高等动物的专利，无论高兴与否丶身体舒服与否，他们都会通过语言来告诉对方。其实，从某种意义上来说，食物也会“说话”，它们会通过一些外在变化向你“传达”某种特定的信息。本期，《生命时报》</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">23浏览</span> <span class="time">2017/07/17</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_7511.html" target="_blank"><h4>谈黑色食物如何养生</h4></a> 
+         <div class="content"> 
+          <p class="p-text">　　世界上的食材，均呈现出不同的色彩，红橙黄绿青蓝紫，色彩斑斓。在这其中，黑色并不讨巧，没有艳丽的颜色，没有规则的形状，但是有些食材却黑得彻底，黑得漂亮。 　　无聊时翻看“黑”这个字的解释，像煤或墨的</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">22浏览</span> <span class="time">2017/07/09</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_7344.html" target="_blank"><h4>炒菜前必看“吃油指南”</h4></a> 
+         <div class="content"> 
+          <p class="p-text">　　俗话说，“开门七件事，柴米油盐酱醋茶”。其中，油可谓中国饮食的重中之重。你家最常吃哪一种油?不同油各有怎样的健康利弊? 　　胡麻油最好凉拌 　　胡麻油又称亚麻籽油，是从胡科植物胡麻种子榨取的油。胡麻</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">26浏览</span> <span class="time">2017/06/29</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3234.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3234.html" target="_blank"><h4>投资移民如何高效提交I-485和I-944？《杨梅娥律师移民访谈》2020.03.13第一期</h4></a> 
+          <div class="info">
+           <span>03/09</span><span>2018观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.chineseinla.com/lawyer/task_view/id_677/%E6%9D%A8%E6%A2%85%E5%A8%A5%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3246.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3246.html" target="_blank"><h4>面对新冠 H1B 持有人和H1B中签者要如何应对？《杨梅娥律师移民访谈》第2期2020.04.14</h4></a> 
+          <div class="info">
+           <span>04/09</span><span>9875观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3264.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3264.html" target="_blank"><h4>非常时期移民局规定有哪些变化？《杨梅娥律师移民访谈》第3期2020.05.26</h4></a> 
+          <div class="info">
+           <span>05/21</span><span>0观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3278.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3278.html" target="_blank"><h4>被拒绝的移民申请者 决胜在联邦法院！《杨梅娥律师移民访谈》第4期2020.06.23</h4></a> 
+          <div class="info">
+           <span>06/22</span><span>0观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3294.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3294.html" target="_blank"><h4>好消息！近期移民局办理杰出人才绿卡新动向！《杨梅娥律师移民访谈》第5期2020.07.21</h4></a> 
+          <div class="info">
+           <span>07/18</span><span>0观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3309.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3309.html" target="_blank"><h4>过万移民官可能停薪留职 ！PERM劳工证绿卡新动向《杨梅娥律师移民访谈》第6期2020.08.18</h4></a> 
+          <div class="info">
+           <span>08/14</span><span>0观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_3335.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_3335.html" target="_blank"><h4>美国公民入籍疑难杂案全攻略《杨梅娥律师移民访谈》第7期2020.09.15</h4></a> 
+          <div class="info">
+           <span>09/13</span><span>0观看</span>
+          </div> 
+          <p>《杨梅娥律师移民访谈》是洛杉矶华人资讯网联合杨梅娥律师事务所开班的一档移民访谈节目。 我们每期会邀请杨梅娥律师为大家讲解移民相关的问题，涉及投资移民、杰出人才移民等。欢迎大家收看。 杨梅娥律师事务所联系电话：626 284 8832 官网：http://www.greencard4us.com 杨梅娥律师事务所有多年从事各类移民、签证的经验. 杨律师 从美国西南法学院（Southwestern University, School of Law)获得法学博士资格， 顺利通过加州律师 资格考试。杨律师现是加州注册律师，美国移民律师协会会员, 加州最高法院, 联邦地方法联邦地方法院，联邦第九巡回区出庭律师。 杨梅娥为很多中国大陆 科学家,舞星、歌星、电影电视导演,体育明星、杂技演员画家、中医师、留学人员教授成功申办成杰出人材绿卡。杨律师研究了美国移民局这几年对批案的标准的演变.掌握拉美国移民局批案的特点.取长补短,获得成功。 杨律师在中国就读于华东政法学院并取得法学本科和国际贸易法硕士学位，曾在上海涉外律师事务所工作，对中美贸易法颇有研究。杨律师也办理国际贸易商务纠纷,及海关扣押等案件。 更多详情：https://www.youtube.com/redirect?redir_token=fDhNZfD4DhxuoWyUlTDwnnq-ptV8MTU4NjU4MzY3NkAxNTg2NDk3Mjc2&amp;event=video_description&amp;v=RvT7G_CsFLM&amp;q=https%3A%2F%2Fwww.chineseinla.com%2Flawyer%2Ftask_view%2Fid_677%2F%25E6%259D%25A8%25E6%25A2%2585%25E5%25A8%25A5%25E</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="2" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="sea_right">
+     <div class="publish-company">
+      <div class="button-panel">
+       <span class="button-publish"></span><a class="button-white-blue button-a" href="/company/task_category_select.html">免费发布商家信息</a>
+      </div>
+     </div> 
+     <div class="company_right_frame"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="/restaurant.html" target="_black" class="normal_font bold_font blue_font">美食地图</a> 
+        </div> <span><a href="/restaurant.html" target="_blank" class="normal_font blue_font">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html" class="black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="focusul"> 
+       <li><a href="/f/page_viewtopic/t_25587.html" target="_blank" class="small_font black_font" title="餐饮贷款 快速到账 9176601166 同兴资本"> 餐饮贷款 快速到账 9176601166 同...</a></li> 
+       <li><a href="/f/page_viewtopic/t_62914.html" target="_blank" class="small_font black_font" title="网美奶茶店的专家 御茶&amp;丰茶 新推出乾拌面系列！"> 网美奶茶店的专家 御茶&amp;丰茶 ...</a></li> 
+       <li><a href="/f/page_viewtopic/t_33326.html" target="_blank" class="small_font black_font" title="美国-佛州奥兰多华人旅游接送服务"> 美国-佛州奥兰多华人旅游接送服务</a></li> 
+       <li><a href="/f/page_viewtopic/t_59942.html" target="_blank" class="small_font black_font" title="御茶&amp;丰茶 全方位的手摇饮材料供应商！"> 御茶&amp;丰茶 全方位的手摇饮材料...</a></li> 
+       <li><a href="/f/page_viewtopic/t_59896.html" target="_blank" class="small_font black_font" title="卓越电脑 - 北美华人最佳的点餐系统,智能云端点餐系统"> 卓越电脑 - 北美华人最佳的点餐系...</a></li> 
+      </ul> 
+     </div> 
+  

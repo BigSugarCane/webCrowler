@@ -1,0 +1,458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/resume.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>人才库 - 佛罗里达华人资讯网</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/resume.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/resume.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li class="active"><a href="/resume.html" class="brand">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/resume.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form>
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/resume.html" class="common_pathway2">人才库</a> 
+   </div> 
+   <div class="r-index row"> 
+    <div class="main_row row_block"> 
+     <div class="resume_left"> 
+      <div class="job_category"> 
+       <div class="header">
+        全部分类
+       </div> 
+       <div class="line"></div> 
+       <div class="items"> <a class="item" title="销售/客服/技术支持" href="/resume/task_jobs/jc_2.html" target="_blank">销售/客服/技术支持</a> <a class="item" title="建筑/房地产" href="/resume/task_jobs/jc_7.html" target="_blank">建筑/房地产</a> <a class="item" title="服务业" href="/resume/task_jobs/jc_10.html" target="_blank">服务业</a> <a class="item" title="计算机|互联网|通信|电子" href="/resume/task_jobs/jc_1.html" target="_blank">计算机|互联网|通信|电子</a> <a class="item" title="会计/金融/银行/保险" href="/resume/task_jobs/jc_3.html" target="_blank">会计/金融/银行/保险</a> <a class="item" title="生产/营运/采购/物流" href="/resume/task_jobs/jc_4.html" target="_blank">生产/营运/采购/物流</a> <a class="item" title="生物/制药/医疗/护理" href="/resume/task_jobs/jc_5.html" target="_blank">生物/制药/医疗/护理</a> <a class="item" title="广告/市场/媒体/艺术" href="/resume/task_jobs/jc_6.html" target="_blank">广告/市场/媒体/艺术</a> <a class="item" title="人事/行政/高级管理" href="/resume/task_jobs/jc_8.html" target="_blank">人事/行政/高级管理</a> <a class="item" title="咨询/法律/教育/科研" href="/resume/task_jobs/jc_9.html" target="_blank">咨询/法律/教育/科研</a> <a class="item" title="公务员/翻译/其他" href="/resume/task_jobs/jc_11.html" target="_blank">公务员/翻译/其他</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="resume_right"> 
+      <div class="row1 row_block"> 
+       <div id="search_entry"> 
+        <div class="search-box"> 
+         <input type="text" class="search_input" placeholder="请输入职位或者公司名称" value=""> 
+         <div class="button-panel">
+          <span class="button-b-search"></span><a class="button-white-nr button-a" href="javascript:void(0)">搜索</a>
+         </div> 
+        </div> 
+        <div class="entry"> 
+         <div class="button-panel">
+          <a class="button-blue button-a" href="/resume_company.html">企业入口</a>
+         </div> 
+         <div class="button-panel">
+          <a class="button-yellow button-a" href="/resume/task_manage.html">简历中心</a>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="row2 row_block"> 
+       <div class="swiper-container"> 
+        <div class="swiper-wrapper"> 
+         <div class="swiper-slide"> <a href="/resume/task_manage.html" target="_blank">  </a> 
+         </div> 
+         <div class="swiper-slide"> <a href="http://uber.7eer.net/c/363249/218769/3437?subId1=RenCaiKuLunBo" target="_blank">  </a> 
+         </div> 
+         <div class="swiper-slide"> <a href="http://airbnb.evyy.net/c/363249/392845/4560?subId1=RenCaiKuLunBo" target="_blank">  </a> 
+         </div> 
+         <div class="swiper-slide"> <a href="/howvideo/task_listLabel/lid_754.html" target="_blank">  </a> 
+         </div> 
+         <div class="swiper-slide"> <a href="/resume/task_companyIdentify.html" target="_blank">  </a> 
+         </div> 
+        </div> 
+       </div> 
+       <ul class="thumb"> 
+        <li>  </li> 
+        <li>  </li> 
+        <li>  </li> 
+        <li>  </li> 
+        <li>  </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="category_row row_block id_0"> 
+     <div class="resume_left"> <a class="header" title="销售/客服/技术支持" href="/resume/task_jobs/jc_2.html" target="_blank">销售/客服/技术支持</a> 
+      <div class="items"> <a title="销售代表" href="/resume/task_jobs/ji_3001.html" target="_blank">销售代表</a> <a title="销售经理" href="/resume/task_jobs/ji_0202.html" target="_blank">销售经理</a> <a title="销售主管" href="/resume/task_jobs/ji_0203.html" target="_blank">销售主管</a> <a title="渠道/分销专员" href="/resume/task_jobs/ji_3002.html" target="_blank">渠道/分销专员</a> <a title="销售总监" href="/resume/task_jobs/ji_0201.html" target="_blank">销售总监</a> <a title="渠道/分销经理" href="/resume/task_jobs/ji_0207.html" target="_blank">渠道/分销经理</a> <a title="客户经理/主管" href="/resume/task_jobs/ji_0208.html" target="_blank">客户经理/主管</a> <a title="渠道/分销主管" href="/resume/task_jobs/ji_0220.html" target="_blank">渠道/分销主管</a> <a title="区域销售经理" href="/resume/task_jobs/ji_0226.html" target="_blank">区域销售经理</a> <a title="区域销售总监" href="/resume/task_jobs/ji_0230.html" target="_blank">区域销售总监</a> <a title="业务拓展主管/经理" href="/resume/task_jobs/ji_0232.html" target="_blank">业务拓展主管/经理</a> <a title="渠道/分销总监" href="/resume/task_jobs/ji_0233.html" target="_blank">渠道/分销总监</a> <a title="团购经理/主管" href="/resume/task_jobs/ji_0234.html" target="_blank">团购经理/主管</a> <a title="大客户管理" href="/resume/task_jobs/ji_0235.html" target="_blank">大客户管理</a> <a title="客户代表" href="/resume/task_jobs/ji_3003.html" target="_blank">客户代表</a> <a title="销售工程师" href="/resume/task_jobs/ji_3004.html" target="_blank">销售工程师</a> <a title="电话销售" href="/resume/task_jobs/ji_3005.html" target="_blank">电话销售</a> <a title="经销商" href="/resume/task_jobs/ji_3006.html" target="_blank">经销商</a> <a title="团购业务员" href="/resume/task_jobs/ji_3008.html" target="_blank">团购业务员</a> <a title="大客户销售" href="/resume/task_jobs/ji_3009.html" target="_blank">大客户销售</a> <a title="网络/在线销售" href="/resume/task_jobs/ji_3010.html" target="_blank">网络/在线销售</a> <a title="会籍顾问" href="/resume/task_jobs/ji_3011.html" target="_blank">会籍顾问</a> <a title="销售助理" href="/resume/task_jobs/ji_3012.html" target="_blank">销售助理</a> <a title="销售行政经理/主管" href="/resume/task_jobs/ji_3101.html" target="_blank">销售行政经理/主管</a> <a title="销售行政专员/助理" href="/resume/task_jobs/ji_3102.html" target="_blank">销售行政专员/助理</a> <a title="商务经理" href="/resume/task_jobs/ji_3103.html" target="_blank">商务经理</a> <a title="商务主管/专员" href="/resume/task_jobs/ji_3104.html" target="_blank">商务主管/专员</a> <a title="商务助理" href="/resume/task_jobs/ji_3105.html" target="_blank">商务助理</a> <a title="销售行政助理" href="/resume/task_jobs/ji_3106.html" target="_blank">销售行政助理</a> <a title="业务分析经理/主管" href="/resume/task_jobs/ji_3108.html" target="_blank">业务分析经理/主管</a> <a title="业务分析专员/助理" href="/resume/task_jobs/ji_3109.html" target="_blank">业务分析专员/助理</a> <a title="客服总监" href="/resume/task_jobs/ji_3201.html" target="_blank">客服总监</a> <a title="客服经理" href="/resume/task_jobs/ji_3202.html" target="_blank">客服经理</a> <a title="客服主管" href="/resume/task_jobs/ji_3203.html" target="_blank">客服主管</a> <a title="客服专员/助理" href="/resume/task_jobs/ji_3204.html" target="_blank">客服专员/助理</a> <a title="售前/售后技术支持经理" href="/resume/task_jobs/ji_3205.html" target="_blank">售前/售后技术支持经理</a> <a title="售前/售后技术支持主管" href="/resume/task_jobs/ji_3206.html" target="_blank">售前/售后技术支持主管</a> <a title="售前/售后技术支持工程师" href="/resume/task_jobs/ji_3207.html" target="_blank">售前/售后技术支持工程师</a> <a title="咨询热线/呼叫中心服务人员" href="/resume/task_jobs/ji_3208.html" target="_blank">咨询热线/呼叫中心服务人员</a> <a title="客户关系经理/主管" href="/resume/task_jobs/ji_3210.html" target="_blank">客户关系经理/主管</a> <a title="投诉专员" href="/resume/task_jobs/ji_3211.html" target="_blank">投诉专员</a> <a title="VIP专员" href="/resume/task_jobs/ji_3212.html" target="_blank">VIP专员</a> <a title="网络/在线客服" href="/resume/task_jobs/ji_3213.html" target="_blank">网络/在线客服</a> 
+      </div> <a class="more" href="/resume/task_jobs/jc_2.html" target="_blank">查看更多&gt;&gt;</a> 
+     </div> 
+     <div class="resume_right"> 
+      <div class="title"> <a></a> 
+      </div> 
+      <div class="j_employs table"> 
+       <ul class="j_employ_line"> 
+        <li class="j_employ"> <a href="/resume/task_viewCompany/cid_10.html" class="j_employ_logo">  </a> 
+         <div class="j_employ_info"> <a href="/resume/task_viewCompany/cid_10.html"> 
+           <div class="j_employ_name">
+            馋猫地图
+           </div> </a> 
+         </div> </li> 
+        <li class="j_employ"> <a href="/resume/task_viewCompany/cid_7.html" class="j_employ_logo">  </a> 
+         <div class="j_employ_info"> <a href="/resume/task_viewCompany/cid_7.html"> 
+           <div class="j_employ_name">
+            CE Kitchen &amp; Bath Inc.
+           </div> </a> 
+         </div> </li> 
+        <li class="j_employ"> <a href="/resume/task_viewCompany/cid_5.html" class="j_employ_logo">  </a> 
+         <div class="j_employ_info"> <a href="/resume/task_viewCompany/cid_5.html"> 
+           <div class="j_employ_name">
+            LTS Associate, Inc.
+           </div> </a> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="category_row row_block id_1"> 
+     <div class="resume_left"> <a class="header" title="建筑/房地产" href="/resume/task_jobs/jc_7.html" target="_blank">建筑/房地产</a> 
+      <div class="items"> <a title="房地产中介/置业顾问" href="/resume/task_jobs/ji_6001.html" target="_blank">房地产中介/置业顾问</a> <a title="房地产销售" href="/resume/task_jobs/ji_6010.html" target="_blank">房地产销售</a> <a title="建筑工程师" href="/resume/task_jobs/ji_2101.html" target="_blank">建筑工程师</a> <a title="结构/土木/土建工程师" href="/resume/task_jobs/ji_2102.html" target="_blank">结构/土木/土建工程师</a> <a title="建筑机电工程师" href="/resume/task_jobs/ji_2103.html" target="_blank">建筑机电工程师</a> <a title="给排水/暖通工程" href="/resume/task_jobs/ji_2104.html" target="_blank">给排水/暖通工程</a> <a title="工程造价师/预结算经理" href="/resume/task_jobs/ji_2105.html" target="_blank">工程造价师/预结算经理</a> <a title="建筑工程管理/项目经理" href="/resume/task_jobs/ji_2106.html" target="_blank">建筑工程管理/项目经理</a> <a title="工程监理" href="/resume/task_jobs/ji_2107.html" target="_blank">工程监理</a> <a title="室内设计" href="/resume/task_jobs/ji_2108.html" target="_blank">室内设计</a> <a title="规划与设计" href="/resume/task_jobs/ji_2109.html" target="_blank">规划与设计</a> <a title="建筑制图/模型/渲染" href="/resume/task_jobs/ji_2110.html" target="_blank">建筑制图/模型/渲染</a> <a title="建筑安装施工员" href="/resume/task_jobs/ji_2111.html" target="_blank">建筑安装施工员</a> <a title="园艺/园林/景观设计" href="/resume/task_jobs/ji_2117.html" target="_blank">园艺/园林/景观设计</a> <a title="公路/桥梁/港口/隧道工程" href="/resume/task_jobs/ji_2118.html" target="_blank">公路/桥梁/港口/隧道工程</a> <a title="岩土工程" href="/resume/task_jobs/ji_2119.html" target="_blank">岩土工程</a> <a title="测绘/测量" href="/resume/task_jobs/ji_2120.html" target="_blank">测绘/测量</a> <a title="建筑工程验收" href="/resume/task_jobs/ji_2121.html" target="_blank">建筑工程验收</a> <a title="幕墙工程师" href="/resume/task_jobs/ji_2122.html" target="_blank">幕墙工程师</a> <a title="高级建筑工程师/总工" href="/resume/task_jobs/ji_2123.html" target="_blank">高级建筑工程师/总工</a> <a title="预结算员" href="/resume/task_jobs/ji_2124.html" target="_blank">预结算员</a> <a title="楼宇自动化" href="/resume/task_jobs/ji_2125.html" target="_blank">楼宇自动化</a> <a title="智能大厦/综合布线/安防/弱电" href="/resume/task_jobs/ji_2126.html" target="_blank">智能大厦/综合布线/安防/弱电</a> <a title="开发报建" href="/resume/task_jobs/ji_2127.html" target="_blank">开发报建</a> <a title="合同管理" href="/resume/task_jobs/ji_2128.html" target="_blank">合同管理</a> <a title="安全员" href="/resume/task_jobs/ji_2129.html" target="_blank">安全员</a> <a title="资料员" href="/resume/task_jobs/ji_2130.html" target="_blank">资料员</a> <a title="建筑设计师" href="/resume/task_jobs/ji_2131.html" target="_blank">建筑设计师</a> <a title="市政工程师" href="/resume/task_jobs/ji_2132.html" target="_blank">市政工程师</a> <a title="建筑项目助理" href="/resume/task_jobs/ji_2133.html" target="_blank">建筑项目助理</a> <a title="砌筑工" href="/resume/task_jobs/ji_2134.html" target="_blank">砌筑工</a> <a title="瓦工" href="/resume/task_jobs/ji_2135.html" target="_blank">瓦工</a> <a title="混凝土工" href="/resume/task_jobs/ji_2136.html" target="_blank">混凝土工</a> <a title="浇注工" href="/resume/task_jobs/ji_2137.html" target="_blank">浇注工</a> <a title="钢筋工" href="/resume/task_jobs/ji_2138.html" target="_blank">钢筋工</a> <a title="木工" href="/resume/task_jobs/ji_2139.html" target="_blank">木工</a> <a title="油漆工" href="/resume/task_jobs/ji_2140.html" target="_blank">油漆工</a> <a title="电梯工" href="/resume/task_jobs/ji_2141.html" target="_blank">电梯工</a> <a title="抹灰工" href="/resume/task_jobs/ji_2142.html" target="_blank">抹灰工</a> <a title="施工开料工" href="/resume/task_jobs/ji_2143.html" target="_blank">施工开料工</a> <a title="管道/暖通" href="/resume/task_jobs/ji_2144.html" target="_blank">管道/暖通</a> <a title="工长" href="/resume/task_jobs/ji_2145.html" target="_blank">工长</a> <a title="房地产项目/开发/策划经理" href="/resume/task_jobs/ji_4601.html" target="_blank">房地产项目/开发/策划经理</a> <a title="房地产项目/开发/策划主管/专员" href="/resume/task_jobs/ji_4602.html" target="_blank">房地产项目/开发/策划主管/专员</a> <a title="房产项目配套工程师" href="/resume/task_jobs/ji_4603.html" target="_blank">房产项目配套工程师</a> <a title="房地产项目招投标" href="/resume/task_jobs/ji_4608.html" target="_blank">房地产项目招投标</a> <a title="房地产投资分析" href="/resume/task_jobs/ji_4610.html" target="_blank">房地产投资分析</a> <a title="房地产资产管理" href="/resume/task_jobs/ji_4611.html" target="_blank">房地产资产管理</a> <a title="监察人员" href="/resume/task_jobs/ji_4612.html" target="_blank">监察人员</a> <a title="高级物业顾问/物业顾问" href="/resume/task_jobs/ji_4701.html" target="_blank">高级物业顾问/物业顾问</a> <a title="物业管理经理" href="/resume/task_jobs/ji_4702.html" target="_blank">物业管理经理</a> <a title="物业管理专员/助理" href="/resume/task_jobs/ji_4703.html" target="_blank">物业管理专员/助理</a> <a title="物业招商/租赁/租售" href="/resume/task_jobs/ji_4704.html" target="_blank">物业招商/租赁/租售</a> <a title="物业设施管理人员" href="/resume/task_jobs/ji_4705.html" target="_blank">物业设施管理人员</a> <a title="物业维修员" href="/resume/task_jobs/ji_4706.html" target="_blank">物业维修员</a> <a title="物业机电工程师" href="/resume/task_jobs/ji_4708.html" target="_blank">物业机电工程师</a> <a title="停车管理员" href="/resume/task_jobs/ji_4709.html" target="_blank">停车管理员</a> <a title="保安经理" href="/resume/task_jobs/ji_4710.html" target="_blank">保安经理</a> <a title="保安人员" href="/resume/task_jobs/ji_4711.html" target="_blank">保安人员</a> <a title="保洁" href="/resume/task_jobs/ji_4712.html" target="_blank">保洁</a> <a title="绿化工" href="/resume/task_jobs/ji_4713.html" target="_blank">绿化工</a> <a title="物业管理主管" href="/resume/task_jobs/ji_4714.html" target="_blank">物业管理主管</a> <a title="物业机电维修工" href="/resume/task_jobs/ji_4715.html" target="_blank">物业机电维修工</a> <a title="房地产评估" href="/resume/task_jobs/ji_6002.html" target="_blank">房地产评估</a> <a title="房地产店长/经理" href="/resume/task_jobs/ji_6004.html" target="_blank">房地产店长/经理</a> <a title="房地产客服" href="/resume/task_jobs/ji_6006.html" target="_blank">房地产客服</a> <a title="房地产内勤" href="/resume/task_jobs/ji_6007.html" target="_blank">房地产内勤</a> <a title="房地产销售经理/主管" href="/resume/task_jobs/ji_6009.html" target="_blank">房地产销售经理/主管</a> 
+      </div> <a class="more" href="/resume/task_jobs/jc_7.html" target="_blank">查看更多&gt;&gt;</a> 
+     </div> 
+     <div class="resume_right"> 
+      <div class="title"> <a></a> 
+      </div> 
+      <div class="j_employs table"> 
+       <ul class="j_employ_line"> 
+        <li class="j_employ"> <a href="/resume/task_viewCompany/cid_3.html" class="j_employ_logo">  </a> 
+         <div class="j_employ_info"> <a href="/resume/task_viewCompany/cid_3.html"> 
+           <div class="j_employ_name">
+            佛罗里达房地产BZ责任有限公司
+           </div> </a> 
+         </div> </li> 
+        <li class="j_employ"> </li> 
+        <li class="j_employ"> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="category_row row_block id_2"> 
+     <div class="resume_left"> <a class="header" title="服务业" href="/resume/task_jobs/jc_10.html" target="_blank">服务业</a> 
+      <div class="items"> <a title="店长/经理" href="/resume/task_jobs/ji_4801.html" target="_blank">店长/经理</a> <a title="餐饮服务员" href="/resume/task_jobs/ji_4803.html" target="_blank">餐饮服务员</a> <a title="乘务员" href="/resume/task_jobs/ji_1801.html" target="_blank">乘务员</a> <a title="商务司机" href="/resume/task_jobs/ji_1810.html" target="_blank">商务司机</a> <a title="飞机机长/副机长" href="/resume/task_jobs/ji_1822.html" target="_blank">飞机机长/副机长</a> <a title="空乘人员" href="/resume/task_jobs/ji_1823.html" target="_blank">空乘人员</a> <a title="地勤人员" href="/resume/task_jobs/ji_1824.html" target="_blank">地勤人员</a> <a title="列车/地铁车长" href="/resume/task_jobs/ji_1825.html" target="_blank">列车/地铁车长</a> <a title="列车/地铁司机" href="/resume/task_jobs/ji_1826.html" target="_blank">列车/地铁司机</a> <a title="船长/副船长" href="/resume/task_jobs/ji_1827.html" target="_blank">船长/副船长</a> <a title="船员" href="/resume/task_jobs/ji_1828.html" target="_blank">船员</a> <a title="客运司机" href="/resume/task_jobs/ji_1830.html" target="_blank">客运司机</a> <a title="货运司机" href="/resume/task_jobs/ji_1831.html" target="_blank">货运司机</a> <a title="出租车司机" href="/resume/task_jobs/ji_1832.html" target="_blank">出租车司机</a> <a title="班车司机" href="/resume/task_jobs/ji_1833.html" target="_blank">班车司机</a> <a title="特种车司机" href="/resume/task_jobs/ji_1835.html" target="_blank">特种车司机</a> <a title="叉车司机" href="/resume/task_jobs/ji_1836.html" target="_blank">叉车司机</a> <a title="铲车司机" href="/resume/task_jobs/ji_1837.html" target="_blank">铲车司机</a> <a title="吊车司机" href="/resume/task_jobs/ji_1838.html" target="_blank">吊车司机</a> <a title="驾校教练" href="/resume/task_jobs/ji_1839.html" target="_blank">驾校教练</a> <a title="代驾" href="/resume/task_jobs/ji_1840.html" target="_blank">代驾</a> <a title="餐厅领班" href="/resume/task_jobs/ji_4802.html" target="_blank">餐厅领班</a> <a title="礼仪/迎宾" href="/resume/task_jobs/ji_4804.html" target="_blank">礼仪/迎宾</a> <a title="行政主厨/厨师长" href="/resume/task_jobs/ji_4806.html" target="_blank">行政主厨/厨师长</a> <a title="中餐厨师" href="/resume/task_jobs/ji_4807.html" target="_blank">中餐厨师</a> <a title="调酒师/侍酒师/吧台员" href="/resume/task_jobs/ji_4808.html" target="_blank">调酒师/侍酒师/吧台员</a> <a title="茶艺师" href="/resume/task_jobs/ji_4809.html" target="_blank">茶艺师</a> <a title="传菜主管" href="/resume/task_jobs/ji_4811.html" target="_blank">传菜主管</a> <a title="厨师助理/学徒" href="/resume/task_jobs/ji_4812.html" target="_blank">厨师助理/学徒</a> <a title="配菜/打荷" href="/resume/task_jobs/ji_4813.html" target="_blank">配菜/打荷</a> <a title="洗碗工" href="/resume/task_jobs/ji_4814.html" target="_blank">洗碗工</a> <a title="送餐员" href="/resume/task_jobs/ji_4815.html" target="_blank">送餐员</a> <a title="咖啡师" href="/resume/task_jobs/ji_4816.html" target="_blank">咖啡师</a> <a title="杂工" href="/resume/task_jobs/ji_4817.html" target="_blank">杂工</a> <a title="西餐厨师" href="/resume/task_jobs/ji_4820.html" target="_blank">西餐厨师</a> <a title="日式厨师" href="/resume/task_jobs/ji_4821.html" target="_blank">日式厨师</a> <a title="面点师" href="/resume/task_jobs/ji_4822.html" target="_blank">面点师</a> <a title="西点师" href="/resume/task_jobs/ji_4823.html" target="_blank">西点师</a> <a title="预订员" href="/resume/task_jobs/ji_4824.html" target="_blank">预订员</a> <a title="传菜员" href="/resume/task_jobs/ji_4825.html" target="_blank">传菜员</a> <a title="大堂经理" href="/resume/task_jobs/ji_4826.html" target="_blank">大堂经理</a> <a title="收银员" href="/resume/task_jobs/ji_4827.html" target="_blank">收银员</a> <a title="酒店/宾馆经理" href="/resume/task_jobs/ji_4901.html" target="_blank">酒店/宾馆经理</a> <a title="酒店/宾馆销售" href="/resume/task_jobs/ji_4902.html" target="_blank">酒店/宾馆销售</a> <a title="大堂经理" href="/resume/task_jobs/ji_4903.html" target="_blank">大堂经理</a> <a title="楼面经理" href="/resume/task_jobs/ji_4904.html" target="_blank">楼面经理</a> <a title="酒店前台" href="/resume/task_jobs/ji_4905.html" target="_blank">酒店前台</a> <a title="客房服务员/楼面服务员" href="/resume/task_jobs/ji_4906.html" target="_blank">客房服务员/楼面服务员</a> <a title="行李员" href="/resume/task_jobs/ji_4907.html" target="_blank">行李员</a> <a title="清洁服务人员" href="/resume/task_jobs/ji_4908.html" target="_blank">清洁服务人员</a> <a title="导游/旅行顾问" href="/resume/task_jobs/ji_4909.html" target="_blank">导游/旅行顾问</a> <a title="票务" href="/resume/task_jobs/ji_4910.html" target="_blank">票务</a> <a title="宴会管理" href="/resume/task_jobs/ji_4912.html" target="_blank">宴会管理</a> <a title="机场代表" href="/resume/task_jobs/ji_4913.html" target="_blank">机场代表</a> <a title="管家部经理/主管" href="/resume/task_jobs/ji_4914.html" target="_blank">管家部经理/主管</a> <a title="宾客服务经理" href="/resume/task_jobs/ji_4915.html" target="_blank">宾客服务经理</a> <a title="预定部主管" href="/resume/task_jobs/ji_4916.html" target="_blank">预定部主管</a> <a title="预定员" href="/resume/task_jobs/ji_4917.html" target="_blank">预定员</a> <a title="健身房服务" href="/resume/task_jobs/ji_4918.html" target="_blank">健身房服务</a> <a title="旅游产品销售" href="/resume/task_jobs/ji_4919.html" target="_blank">旅游产品销售</a> <a title="行程管理/计调" href="/resume/task_jobs/ji_4920.html" target="_blank">行程管理/计调</a> <a title="签证专员" href="/resume/task_jobs/ji_4921.html" target="_blank">签证专员</a> <a title="美容顾问" href="/resume/task_jobs/ji_5001.html" target="_blank">美容顾问</a> <a title="美容助理" href="/resume/task_jobs/ji_5002.html" target="_blank">美容助理</a> <a title="瘦身顾问" href="/resume/task_jobs/ji_5003.html" target="_blank">瘦身顾问</a> <a title="发型师" href="/resume/task_jobs/ji_5004.html" target="_blank">发型师</a> <a title="发型助理/学徒" href="/resume/task_jobs/ji_5005.html" target="_blank">发型助理/学徒</a> <a title="美甲师" href="/resume/task_jobs/ji_5006.html" target="_blank">美甲师</a> <

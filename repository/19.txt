@@ -1,0 +1,1982 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <link rel="canonical" href="https://www.nychinaren.com">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.nychinaren.com">
+  <meta name="ir-site-verification-token" value="654412760">
+  <title>纽约华人资讯网 - 纽约本地的华人信息分享交流平台</title> 
+  <meta name="description" content="纽约华人资讯网是大纽约地区本地华人生活信息分享网站，为纽约本地华人、留学生、及来洛杉矶旅游、工作的朋友提供交流沟通的平台，提供纽约华人衣食住行、法律移民等多方面的信息"> 
+  <meta name="keywords" content="纽约华人,美国纽约,纽约美食地图,纽约旅游,纽约天气,纽约时间,纽约中国留学生,纽约大学,纽约餐馆,纽约中餐馆,纽约小吃,租房,租车,修车,工商服务,Chinese, NY,New York, Oversea, China, NY chinese， New York Chinese"> 
+  <meta name="robots" content="index, follow"> 
+  <base href="https://www.nychinaren.com/"> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://www.nychinaren.com/homestyle.css?v=v1638" type="text/css">
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+ </head> 
+ <body> 
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/nychinaren">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx3626f99564d7c123&amp;redirect_uri=http%3a%2f%2fwww.nychinaren.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E7%BA%BD%E7%BA%A6%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/297426903735540">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/ny_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@NYChinaRen.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.nychinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">纽约</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;纽约华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;nychinaren_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Forest Hills, NY 11375</p> 
+      <p class="contact-text">邮箱: Support@NYChinaRen.com</p> 
+      <p class="contact-text "> 电话: 718-568-6606 &nbsp;9:00-18:00(东部时间) </p> 
+      <p class="contact-text hastab"> 626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center"> 
+   <div class="home_top_row"> 
+    <div class="home_row"> 
+     <div class="logo"> <a href="/" title="纽约华人资讯网">  </a> 
+     </div> 
+     <div class="new-home-search"> 
+      <form name="searchForm" id="searchForm" onsubmit="return false;"> 
+       <div class="search"> 
+        <input type="text" id="key" name="key" value="请输入您要查找的华人商家信息..." onkeypress="return searchCompanyOnKeyProcessGlobal(event, this.form)" onfocus="if (this.value =='请输入您要查找的华人商家信息...'){this.value ='';this.style.color='#333';}" onblur="if (this.value ==''){this.value='请输入您要查找的华人商家信息...';this.style.color='#ccc';}" autocomplete="off"> <a href="javascript:searchCompanyGlobal()"></a> 
+        <div id="m_search_topic_hot_block" class="m_search_topic_hot_block m_search_topic_hot_home_block">
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450077.html"><i class="icon_num_red m_icon_num">1</i>纽约州长：将取消“红橙黄”三色地区的重新开放</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450190.html"><i class="icon_num_orange m_icon_num">2</i>布鲁克林百人焚烧口罩,抗议科莫新禁令</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450096.html"><i class="icon_num_gray m_icon_num">3</i>川普政府宣布全面改革H-1B签证计划,超过1/3申请将被拒</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450060.html"><i class="icon_num_gray m_icon_num">4</i>华裔民主党支持者：川普断送很多华裔赖以生存的生意链</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450086.html"><i class="icon_num_gray m_icon_num">5</i>假警察持枪入室抢劫了一位老人2万美元</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/449887.html"><i class="icon_num_gray m_icon_num">6</i>专家预测,新冠疫情即将进入新高峰</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450000.html"><i class="icon_num_gray m_icon_num">7</i>福奇警告说川普的新肺康复可能很快进入“逆转”</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/449889.html"><i class="icon_num_gray m_icon_num">8</i>川普回到白宫,医疗专家怎么看？</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450107.html"><i class="icon_num_gray m_icon_num">9</i>纽约市西奈山医院警告病床短缺</span>
+         </div>
+         <div class="m_search_topic_item">
+          <span href="/hotnews/450347.html"><i class="icon_num_gray m_icon_num">10</i>华盛顿邮报 川普可能让民主党的大胜变得轻而易举</span>
+         </div>
+        </div> 
+        <div id="search_key_div"></div> 
+       </div> 
+      </form> 
+     </div> 
+     <div class="new-home-app"> <a href="/aboutus/task_app.html" target="_blank"></a> 
+     </div> 
+     <div class="moduletable"> 
+      <div class="module_content"> 
+       <div class="mobile-notice"> <a href="https://www.ChineseInLA.com/la_weblinks/task_view/id_21293.html" rel="nofollow">  </a> 
+       </div> 
+      </div> 
+     </div> 
+     <div></div> 
+    </div> 
+   </div>  
+   <div class="home_row home_row_category"> 
+    <div class="category1"> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font" target="_blank" href="/f.html">华人论坛</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_1071.html">家政</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_11.html">活动</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="https://www.nychinaren.com/f/page_viewforum/f_3.html">二手商品</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_37.html">交友</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/company.html">商家点评</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/food.html">美食</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/doctor/task_list/catid_1.html">医生</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/company/task_list/catid_48.html">地产经纪</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/accountant/task_list/catid_3.html">会计师</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/la_weblinks.html">常用工具</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="https://www.nychinaren.com/q.html">报价通</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="https://www.nychinaren.com/ny_driver_license_test.html">驾照考试</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/focus/mId_2.html">焦点早知道</a>
+      </dd> 
+     </dl> 
+    </div> 
+    <div class="category2"> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/job.html">工作</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29.html">工作求职</a>
+      </dd> 
+      <dd>
+       <a class="small_font" target="_blank" href="/resume.html">人才库</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_recruitmentList/f_29.html">名企招聘</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/deals.html">特价</a>
+      </dt> 
+      <dd>
+       <a class="small_font" target="_blank" href="/deal.html">Deal</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/creditcard.html">信用卡</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/deals/m_3.html">超市打折</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/live.html">视频</a>
+      </dt> 
+      <dd>
+       <a class="small_font" target="_blank" href="/v.html">How视频</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/focus.html">焦点播报</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/focus/mId_3.html">焦点追踪</a>
+      </dd> 
+     </dl> 
+    </div> 
+    <div class="category3"> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/home.html">房产</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_5.html">房屋出租</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_72.html">经纪租房</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_35.html">买房卖房</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/law.html">法律</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/lawyer/task_list/catid_2.html">华人律师</a>
+      </dd> 
+      <dd>
+       <a class="small_font" target="_blank" href="/bulletin_table.html">移民排期</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/us_citizenship_test.html">入籍考试</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/nytravel.html">旅游</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/travel.html">景点图</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_43.html">接送</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/tour.html">路线</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/company/task_list/catid_27.html">旅行社</a>
+      </dd> 
+     </dl> 
+    </div> 
+    <div class="category4"> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/auto.html">汽车</a>
+      </dt> 
+      <dd>
+       <a class="small_font" target="_blank" href="/f/page_viewforum/f_8.html">汽车买卖</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="https://www.nychinaren.com/company/task_list/catid_28.html">修车保养</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_61.html">驾照罚单</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/food.html">美食</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/restaurant.html">中餐地图</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/company/task_list/catid_6.html">餐厅排行</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/food_express.html">美食快报</a>
+      </dd> 
+     </dl> 
+     <dl> 
+      <dt>
+       <a class="small_font bold_font black_font" target="_blank" href="/education.html">教育</a>
+      </dt> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_59.html">留学美国</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/university.html">纽约名校</a>
+      </dd> 
+      <dd>
+       <a class="small_font black_font" target="_blank" href="/company/task_list/catid_53.html">家教培训</a>
+      </dd> 
+     </dl> 
+    </div> 
+   </div> 
+   <div class="sda_left"> <a href="https://www.ChineseInLA.com/la_weblinks/task_view/id_21294.html" target="_blank" rel="nofollow"> </a>
+   </div>
+   <div class="sda_right"> <a href="https://www.bluedataesl.com/?lang=zh" target="_blank" rel="nofollow"></a>
+   </div>
+   <div class="sda_left"> <a href="https://www.nychinaren.com/company.html" target="_blank"></a>
+   </div>
+   <div class="sda_right"> <a href="https://www.nychinaren.com/doctor/task_view/id_15460/%E5%BC%A0%E7%AB%8B%E6%BE%84%E5%8C%BB%E7%94%9F.html" target="_blank"></a>
+   </div>
+   <div class="sda_left"> <a href="https://shop.baumannwisconsinginseng.com/?lang=zh&amp;utm_source=ny&amp;utm_medium=homebanner&amp;utm_campaign=branding" target="_blank" rel="nofollow">  </a>
+   </div>
+   <div class="sda_right"> <a href="http://www.gudedental.com/" target="_blank"></a>
+   </div>
+   <div class="sda_left"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_429360.html" target="_blank">  </a> 
+   </div>
+   <div class="sda_left"> <a href="https://www.newyorklife.com/recruiter/gchen1" target="_blank">  </a> 
+   </div>
+   <div class="sda_left"> <a href="/la_weblinks.html" target="_blank">  </a> 
+   </div>
+   <div class="sda_left"> <a href="/bulletin_table.html" target="_blank">  </a> 
+   </div>
+   <div class="sda_right"> <a href="https://www.a4lamerica.com/" target="_blank">  </a> 
+   </div>
+   <div class="sda_left"> <a href="/aboutus/task_app.html" target="_blank">  </a> 
+   </div>
+   <div class="searchbackground"> 
+    <div class="searchside"> 
+     <div class="text-ads-col text-ads-col-first"> <a href="https://www.nychinaren.com/la_weblinks.html" target="_blank"><span>纽约生活常用网站</span></a> <a href="https://www.chineseinla.com/company/task_view/id_10246.html" target="_blank" rel="nofollow"><span>北美首屈一指的旅行社</span></a> 
+     </div> 
+     <div class="text-ads-col"> <a href="https://www.nychinaren.com/bulletin_table.html" target="_blank"><span>美国最新移民排期表</span></a> <a href="https://www.nychinaren.com/live.html" target="_blank"><span>How视频直播间</span></a> 
+     </div> 
+     <div class="text-ads-col"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_92500.html" target="_blank"><span>Costco好用便宜保健品</span></a> <a href="https://www.nychinaren.com/v.html" target="_blank"><span>How视频精彩推荐</span></a> 
+     </div> 
+     <div class="text-ads-col"> <a href="https://www.nychinaren.com/deal.html" target="_blank"><span>本地特价超低折扣</span></a> <a href="https://www.nychinaren.com/f/page_viewtopic/t_91985.html" target="_blank"><span>海关禁止入境物品清单</span></a> 
+     </div> 
+     <div class="text-ads-col"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_92109.html" target="_blank"><span>在美国就医详细指南</span></a> <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank"><span>每日头条新闻订阅</span></a> 
+     </div> 
+    </div> 
+    <div></div> 
+   </div>
+   <div class="home_row home_new_row"> 
+    <div class="chief_left"> 
+     <div class="moduletable"> 
+      <div class="module_content"> 
+       <div>
+        <a href="https://www.nychinaren.com/company/task_view/id_46564/%E6%9B%BC%E5%93%88%E9%A1%BF%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B5%84%E6%B7%B1%E7%BB%8F%E7%BA%AA%20%20%E8%B0%AD%E7%90%B3%E8%BE%BE.html" target="_blank" rel="nofollow"> </a>
+       </div>
+       <div>
+        <a href="https://mapleleaffertility.com/" target="_blank"> </a>
+       </div>
+       <div>
+        <a href="https://www.nychinaren.com/restaurant.html" target="_blank"> </a>
+       </div>
+       <div> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="6029750063"></ins> 
+        <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="module_border"> 
+     </div> 
+    </div> 
+    <div class="chief_middle"> 
+     <div class="chief_middle_content"> 
+      <div class="gold_line"></div> 
+      <div class="tab_menu text_center shadegray"> <span class="shadewhite"><a class="gold_font normal_font bold_font" href="/hotnews.html" target="_blank">今日话题</a></span> <span class="shadegray"><a class="black_font normal_font" href="/hotnews.html" target="_blank">更多话题</a></span> 
+       <div class="float_right">
+        <a href="/focus.html" target="_blank"></a>
+       </div> 
+      </div> 
+      <div class="chief_middle_incontent"> 
+       <dl class="article_intro"> 
+        <dd class="article_intro_img"> <a href="/hotnews/450500.html" target="_blank"></a> 
+        </dd> 
+        <dt> <a href="/hotnews/450500.html" target="_blank" class="normal_font blue_font1 bold_font" title="《纽约头条》午间播报"><h1>《纽约头条》午间播报</h1></a> 
+        </dt> 
+        <dd class="article_intro_text small_font black_font" title="意见不一后两场辩论怎么办；美警告中国不要对台动武；纽约市关闭124所公校">
+          意见不一后两场辩论怎么办；美警告中国不要对台动武；纽约市关闭124所公校 
+        </dd> 
+       </dl> 
+       <ul class="tags"> 
+        <li><a class="small_font black_font " href="/hotnews/450535.html" target="_blank">科莫呼吁纽约市警察局在抗议行动中加强执法</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450516.html" target="_blank">皇后区男子手持两支枪在与警察的枪战中死亡</a></li>
+        <li><a class="small_font black_font " href="/hotnews/431912.html" target="_blank">点击一下，了解银行不想告诉您的秘密</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450512.html" target="_blank">川普去年曾要求沃尔特里德的医生签署保密协议</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450511.html" target="_blank">拜登15日将参加ABC座谈会节目代替与川普辩论</a></li>
+        <li><a class="small_font black_font " href="https://www.ondemandchina.com/zh-Hans/watch/soul-mate/movie-1?utm_source=chineseinla&amp;utm_medium=newslink&amp;utm_campaign=soul-mate&amp;utm_term=community_portal&amp;utm_content=gouxue" target="_blank">双女主是撕“哔”不见(狗)血,(作)出新境界 却双双封后(视频)</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450497.html" target="_blank">民主党发起新攻势 25号修正案决定川普是否下台</a></li> 
+       </ul> 
+       <dl class="article_intro"> 
+        <dd class="article_intro_img"> <a href="/hotnews/450456.html" target="_blank"></a> 
+        </dd> 
+        <dt> <a href="/hotnews/450456.html" target="_blank" class="normal_font blue_font1 bold_font" title="《纽约头条》早间播报"><h1>《纽约头条》早间播报</h1></a> 
+        </dt> 
+        <dd class="article_intro_text small_font black_font" title="彭斯哈里斯回避中国是敌是友；川普拒与拜登虚拟辩论；美国女诗人格丽克获诺奖">
+          彭斯哈里斯回避中国是敌是友；川普拒与拜登虚拟辩论；美国女诗人格丽克获诺奖 
+        </dd> 
+       </dl> 
+       <ul class="tags"> 
+        <li><a class="small_font black_font " href="/hotnews/436459.html" target="_blank">帮您解决因无身份没法办理或更新驾照的困扰</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450505.html" target="_blank">脸书删除与支持川普团体有关的假账户网络</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450499.html" target="_blank">米奇-麦康奈尔称因应对新冠方式不同而避开白宫</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450494.html" target="_blank">13人被控阴谋攻击密歇根州政府及绑架州长</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450450.html" target="_blank">川普口中的神药,再生元的新冠治疗是咋回事</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450448.html" target="_blank">莫德纳公司称在疫情期间不执行新冠疫苗专利权</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450443.html" target="_blank">纽约市市政厅公园周三晚再度抗议,无人遭到逮捕</a></li> 
+       </ul> 
+       <dl class="article_intro"> 
+        <dd class="article_intro_img"> <a href="/hotnews/450446.html" target="_blank"></a> 
+        </dd> 
+        <dt> <a href="/hotnews/450446.html" target="_blank" class="normal_font blue_font1 bold_font" title="《纽约时间 E闻美政》"><h1>《纽约时间 E闻美政》</h1></a> 
+        </dt> 
+        <dd class="article_intro_text small_font black_font" title="川普的口号：我赢！压倒一切！">
+          川普的口号：我赢！压倒一切！ 
+        </dd> 
+       </dl> 
+       <ul class="tags"> 
+        <li><a class="small_font black_font " href="/hotnews/450434.html" target="_blank">川普口中的新药，来自皇后区出生的亿万富翁</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450435.html" target="_blank">纽约市本地艺术家将户外用餐区变成艺术品</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450433.html" target="_blank">Ruby Tuesday餐厅申请破产保护</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450431.html" target="_blank">美国女诗人露易丝-格卢克摘得今年诺贝尔文学奖</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450429.html" target="_blank">纽约州80岁的老人要求酒吧顾客戴口罩后被杀</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450430.html" target="_blank">歌手泰勒-斯威夫特首度公开宣布支持拜登-哈里斯</a></li>
+        <li><a class="small_font black_font " href="/hotnews/450424.html" target="_blank">纽约市启动新冠疫情追踪地图</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="chief_middle_content_zhibo"> 
+      <div class="gold_line"></div> 
+      <div class="tab_menu_zhibo text_center shadegray"> 
+       <div class="tab_blank"></div> <span id="zhibo_tb3" class="shadewhite"><font class="normal_font"><a href="/live.html" target="_blank">视频</a></font></span> 
+       <div class="zhibo_style3">
+        <a href="/live.html" target="_blank" class="black_font small_font">更多视频&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="chief_middle_incontent_zhibo"> 
+       <dl class="zhibo_intro"> 
+        <dd class="zhibo_intro_img"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449637.html" target="_blank"></a> 
+        </dd> 
+        <dt> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449637.html" target="_blank" class="normal_font blue_font1 bold_font" title="《看房直播间》"><h1>《看房直播间》</h1></a> 
+        </dt> 
+        <dd class="zhibo_intro_text small_font black_font" title="曼哈顿豪宅市场交易火爆 复苏有望？；全美房价飙升 趋势或持续整个秋季">
+          曼哈顿豪宅市场交易火爆 复苏有望？；全美房价飙升 趋势或持续整个秋季 
+        </dd> 
+       </dl> 
+       <ul class="tags_zhibo"> 
+        <li><a class="small_font black_font " href="/focus/id_5439.html" target="_blank" title="川普称感染为“上帝祝福”点名让中国付出代价!副总统隔玻璃辩论哈里斯模糊谈疫苗!玻璃屏障难阻止病毒!美顾问警告大陆勿武力夺台!世卫赴华查新冠起源专家名单待审!焦点早知道Oct8,2020">川普称感染为“上帝祝福”点名让中国付出代价!副总统隔玻璃辩论哈里斯模糊谈疫苗!玻璃屏障难阻止病毒!美顾问警告大陆勿武力夺台!世卫赴华查新冠起源专家名单待审!焦点早知道Oct8,2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5438.html" target="_blank" title="白宫疫情恶化川普回到办公室；国土安全部称中国是长期战略威胁；被控杀害弗洛伊德的前警官百万美元保释《纽约头条》Oct.07.2020">白宫疫情恶化川普回到办公室；国土安全部称中国是长期战略威胁；被控杀害弗洛伊德的前警官百万美元保释《纽约头条》Oct.07.2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5437.html" target="_blank" title="医生称川普超24小时无症状；今晚副总统辩论五大看点；民调显示14发达国对中国恶感上升《纽约头条》Oct.07.2020">医生称川普超24小时无症状；今晚副总统辩论五大看点；民调显示14发达国对中国恶感上升《纽约头条》Oct.07.2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5436.html" target="_blank" title="川普上诉反对税表传票被驳回；联大39国声明关注新疆香港；川普改口支持具体救济协议《纽约头条》Oct.07.2020">川普上诉反对税表传票被驳回；联大39国声明关注新疆香港；川普改口支持具体救济协议《纽约头条》Oct.07.2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5435.html" target="_blank" title="总统候选人去世会怎么样？K-12开学在望！洛杉矶民选官员互撕白热化！汽油税被罢免议员再度参选！ 洛城快报Oct 7">总统候选人去世会怎么样？K-12开学在望！洛杉矶民选官员互撕白热化！汽油税被罢免议员再度参选！ 洛城快报Oct 7</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5434.html" target="_blank" title="唐人街25年老书店永久关门！美洲狮躲进民宅！LA市区水漫金山！不带驾照就上路 小心被拖车！如何寄回邮寄选票？洛城午间报 Oct 7, 2020">唐人街25年老书店永久关门！美洲狮躲进民宅！LA市区水漫金山！不带驾照就上路 小心被拖车！如何寄回邮寄选票？洛城午间报 Oct 7, 2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5433.html" target="_blank" title="川普回归椭圆形办公室 疗法花费超乎一般人想象！华府或对蚂蚁集团和腾讯支付实施限制！明年或新增1.5亿贫困人口！焦点播报 Oct 7,2020">川普回归椭圆形办公室 疗法花费超乎一般人想象！华府或对蚂蚁集团和腾讯支付实施限制！明年或新增1.5亿贫困人口！焦点播报 Oct 7,2020</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5432.html" target="_blank" title="$1200有戏 川普又改口支持具体救济措施！彭斯贺锦丽今晚对决有看点！美中酝酿脱钩 中国大举布局！39国谴责中国 华春莹搬出70国！焦点快报 Oct 7">$1200有戏 川普又改口支持具体救济措施！彭斯贺锦丽今晚对决有看点！美中酝酿脱钩 中国大举布局！39国谴责中国 华春莹搬出70国！焦点快报 Oct 7</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5431.html" target="_blank" title="美股被政策左右 创七月来最佳收盘！司法部重大政策变化或将左右选情！谷歌甲骨文上最高法对簿公堂！欧盟对英国脱欧协议达成乐观！硅谷印度工程师遭非人待遇！财经焦点 Oct 7">美股被政策左右 创七月来最佳收盘！司法部重大政策变化或将左右选情！谷歌甲骨文上最高法对簿公堂！欧盟对英国脱欧协议达成乐观！硅谷印度工程师遭非人待遇！财经焦点 Oct 7</a></li>
+        <li><a class="small_font black_font " href="/focus/id_5430.html" target="_blank" title="川普欲重返辩论 拜登:病没好不应辩论!美媒揭副总统辩论获胜关键!美国大选超400万人已投票创历史新高!川普改口支持具体救济措施!多名美军将领宣布自我隔离!焦点早知道Oct 7,2020">川普欲重返辩论 拜登:病没好不应辩论!美媒揭副总统辩论获胜关键!美国大选超400万人已投票创历史新高!川普改口支持具体救济措施!多名美军将领宣布自我隔离!焦点早知道Oct 7,2020</a></li> 
+       </ul> 
+      </div> 
+     </div>  
+     <div class="sda_chief"> <a href="https://www.nychinaren.com/aboutus/task_app.html" target="_blank" rel="nofollow">  </a> 
+     </div> 
+     <div class="chief_middle_content"> 
+      <div class="gold_line"></div> 
+      <div class="tab_menu text_center shadegray"> 
+       <div class="tab_blank"></div> <span id="tb3" class="shadewhite"><font class="normal_font"><a href="/company.html" target="_blank">商家点评</a></font></span> 
+       <div class="tab_blank_border"></div> <span id="tb4" class="shadegray"><font class="normal_font">最新点评</font></span> 
+       <div class="style3">
+        <a href="/company.html" target="_blank" class="black_font small_font">查找商家&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div id="sjdpBody" class="chief_middle_incontent"> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_37.html"> 日常生活</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/restaurant/task_list/catid_6.html" class="small_font black_font">餐馆</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_group/group_11.html" class="small_font black_font">购物</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/supermarket/task_list/catid_10.html" class="small_font black_font">华人超市</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/doctor/task_list/catid_1.html" class="small_font black_font">医生</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_33.html" class="small_font black_font">月子中心</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_39.html" class="small_font black_font">美容美发</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_38.html"> 房产服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_48.html" class="small_font black_font">地产经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_29.html" class="small_font black_font">建筑装修</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_131.html" class="small_font black_font">门窗玻璃</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_54.html" class="small_font black_font">清洁公司</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_45.html" class="small_font black_font">家具店</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_39.html"> 法律金融</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/lawyer/task_list/catid_2.html" class="small_font black_font">华人律师</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/accountant/task_list/catid_3.html" class="small_font black_font">华人会计师</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_51.html" class="small_font black_font">保险经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_67.html" class="small_font black_font">贷款经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_116.html" class="small_font black_font">银行</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_40.html"> 旅游服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/travel/task_list/catid_4.html" class="small_font black_font">旅游景点</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_27.html" class="small_font black_font">旅行社</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_63.html" class="small_font black_font">旅游接送</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_83.html" class="small_font black_font">酒店</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_250.html" class="small_font black_font">租车</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_304.html" class="small_font black_font">长途车</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_41.html"> 汽车相关</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_32.html" class="small_font black_font">驾驶教练</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_36.html" class="small_font black_font">汽车经销商</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_28.html" class="small_font black_font">修车保养</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_148.html" class="small_font black_font">车辆管理局</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_155.html" class="small_font black_font">拖车</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_42.html"> 教育服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/university/task_list/catid_12.html" class="small_font black_font">纽约大学</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_75.html" class="small_font black_font">留学中介</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_53.html" class="small_font black_font">培训学校</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_50.html" class="small_font black_font">高中</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_80.html" class="small_font black_font">小学</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_11.html" class="small_font black_font">图书馆</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_43.html"> 常用服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_31.html" class="small_font black_font">快递公司</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_65.html" class="small_font black_font">搬家</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_38.html" class="small_font black_font">照相馆</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_group/group_3.html" class="small_font black_font">政府机关</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_56.html" class="small_font black_font">职业介绍</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_160.html" class="small_font black_font">婚介</a>
+         </dd> 
+        </dl> 
+       </div> 
+      </div> 
+      <div id="zxdpBody" class="chief_middle_incontent"> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_48972/%E7%BE%8E%E5%9B%BD%E5%BF%83%E6%96%B9%E5%90%91%E7%95%99%E5%AD%A6%E7%A7%BB%E6%B0%91-%E5%90%8D%E6%A0%A1%E5%8D%87%E5%AD%A6%20%E8%BA%AB%E4%BB%BD%E6%81%A2%E5%A4%8D.html" target="_blank" title="美国心方向留学移民-名校升学 身份恢复">美国心方向留学移民-名校升学 身份恢</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/08
+         </dd> 
+         <dd title="转学办理快，收费也便宜，挺满意的。">
+          转学办理快，收费也便宜，挺满意的。
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_48146/%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B7%AF%E7%A7%9F%E8%BD%A6.html" target="_blank" title="美国一路租车">美国一路租车</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/06
+         </dd> 
+         <dd title="高顶奔驰15座周租仅要165/天 ，全纽约租车行最低价格。">
+          高顶奔驰15座周租仅要165/天 ，全纽约租车
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_49995/%E4%B8%80%E8%B7%AF%E7%A7%9F%E8%BD%A6.html" target="_blank" title="一路租车">一路租车</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/06
+         </dd> 
+         <dd title="非常好的华人租车公司奔驰高顶比其它租车公司便宜了$70多一天。赞">
+          非常好的华人租车公司奔驰高顶比其它租车公司便宜
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_50018/%E6%81%92%E5%A4%A7%E8%BD%A6%E8%A1%8C.html" target="_blank" title="恒大车行">恒大车行</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/06
+         </dd> 
+         <dd title="很好 很喜欢 很专业 比其他车行好很多">
+          很好 很喜欢 很专业 比其他车行好很多
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_45987/%E4%B8%87%E9%80%9A%E7%BD%9A%E5%8D%95%E4%B8%AD%E5%BF%83.html" target="_blank" title="万通罚单中心">万通罚单中心</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/06
+         </dd> 
+         <dd title="万通罚单，你的贴心小帮手">
+          万通罚单，你的贴心小帮手
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="comment"> 
+        <dl> 
+         <dt>
+          <a class="small_font blue_font1 bold_font" href="/company/task_view/id_37498/%E7%BE%8E%E5%9B%BD%E6%97%85%E6%B8%B8%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98%E7%9A%84%E6%97%85%E8%A1%8C%E7%A4%BE-%E9%97%A8%E5%BA%97%E6%A8%AA%E8%B7%A8%E4%B8%9C%E8%A5%BF%E4%B8%A4%E5%B2%B8-%E5%BD%A9%E8%99%B9%E4%B9%8B%E6%97%8524%E5%B0%8F%E6%97%B6%E6%9C%8D%E5%8A%A1.html" target="_blank" title="美国旅游性价比高的旅行社-门店横跨东西两岸-彩虹之旅24小时服务">美国旅游性价比高的旅行社-门店横跨东</a>
+         </dt> 
+         <dd>
+          &nbsp;Review at 2020/10/04
+         </dd> 
+         <dd title="非常不错很好推荐购买">
+          非常不错很好推荐购买
+         </dd> 
+        </dl> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="chief_middle_content"> 
+      <div class="gold_line"></div> 
+      <div class="tab_menu text_center"> <span><a target="_blank" class="gold_font normal_font bold_font" href="/company.html">商家点评</a></span> 
+       <div class="float_right">
+        <a href="/company.html" target="_blank"></a>
+       </div> 
+      </div> 
+      <div class="chief_middle_incontent"> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_37.html"> 日常生活</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/restaurant/task_list/catid_6.html" class="small_font black_font">餐馆</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_group/group_11.html" class="small_font black_font">购物</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/supermarket/task_list/catid_10.html" class="small_font black_font">华人超市</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/doctor/task_list/catid_1.html" class="small_font black_font">医生</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_33.html" class="small_font black_font">月子中心</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_39.html" class="small_font black_font">美容美发</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_38.html"> 房产服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_48.html" class="small_font black_font">地产经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_29.html" class="small_font black_font">建筑装修</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_131.html" class="small_font black_font">门窗玻璃</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_54.html" class="small_font black_font">清洁公司</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_45.html" class="small_font black_font">家具店</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_39.html"> 法律金融</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/lawyer/task_list/catid_2.html" class="small_font black_font">华人律师</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/accountant/task_list/catid_3.html" class="small_font black_font">华人会计师</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_51.html" class="small_font black_font">保险经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_67.html" class="small_font black_font">贷款经纪</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_116.html" class="small_font black_font">银行</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_40.html"> 旅游服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/travel/task_list/catid_4.html" class="small_font black_font">旅游景点</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_27.html" class="small_font black_font">旅行社</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_63.html" class="small_font black_font">旅游接送</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_83.html" class="small_font black_font">酒店</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_250.html" class="small_font black_font">租车</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_304.html" class="small_font black_font">长途车</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_41.html"> 汽车相关</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_32.html" class="small_font black_font">驾驶教练</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_36.html" class="small_font black_font">汽车经销商</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_28.html" class="small_font black_font">修车保养</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_148.html" class="small_font black_font">车辆管理局</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_155.html" class="small_font black_font">拖车</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_42.html"> 教育服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/university/task_list/catid_12.html" class="small_font black_font">纽约大学</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_75.html" class="small_font black_font">留学中介</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_53.html" class="small_font black_font">培训学校</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_50.html" class="small_font black_font">高中</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_80.html" class="small_font black_font">小学</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_11.html" class="small_font black_font">图书馆</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <div class="company_category"> 
+        <dl> 
+         <dt>
+          <a target="_blank" class="small_font bold_font blue_font1" href="/company/task_group/group_43.html"> 常用服务</a>
+         </dt> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_31.html" class="small_font black_font">快递公司</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_65.html" class="small_font black_font">搬家</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_38.html" class="small_font black_font">照相馆</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_group/group_3.html" class="small_font black_font">政府机关</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_56.html" class="small_font black_font">职业介绍</a>
+         </dd> 
+         <dd>
+          <a target="_blank" href="/company/task_list/catid_160.html" class="small_font black_font">婚介</a>
+         </dd> 
+        </dl> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="chief_right"> 
+     <div class="moduletable"> 
+      <div class="module_content"> 
+       <div>
+        <a href="https://www.ChineseInLA.com/la_weblinks/task_view/id_21295.html" target="_blank" rel="nofollow"> </a>
+       </div>
+       <div>
+        <a href="https://www.youtube.com/user/1688LASVEGAS/videos?view=0&amp;flow=grid&amp;view_as=public" target="_blank"> </a>
+       </div>
+       <div>
+        <a href="https://elizabewu.wixsite.com/immigration" target="_blank"> </a>
+       </div> 
+      </div> 
+     </div> 
+     <div class="moduletable"> 
+      <div class="module_content"> 
+       <div> 
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+        <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="9036571703"></ins> 
+        <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="moduletable"> 
+      <div class="module_content"> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div class="sda_right sda_right_special" height="60px"> <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow">  </a>
+   </div>
+   <div class="home_row with-shadow">
+    <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow"> </a>
+    <div class="blue_line">
+     <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow"> 
+      <div class="home_row_title"> <a href="/hotfocus.html" target="_blank"><span><h2>纽约焦点</h2></span></a> 
+       <ul> 
+        <li><a href="" class="active" target="_blank"></a></li> 
+       </ul> 
+      </div></a> 
+     <div class="focus_box m-focus_box"> 
+      <ul class="left"> 
+       <li class="big"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449146.html" target="_blank" title="烛光里的音乐会">  
+         <div class="mask"></div> </a> </li> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449149.html" target="_blank" title="切尔西市场的慕尼黑啤酒节">  
+         <div class="mask"></div> </a> </li> 
+       <li> <a href="https://www.nychinaren.com/hotnews/449083.html" target="_blank" title="这个周末,看看川普州立公园">  
+         <div class="mask"></div> </a> </li> 
+      </ul> 
+      <ul class="middle"> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_447567.html" target="_blank" title="石头森林里的一片绿洲">  
+         <div class="mask"></div> </a> </li> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_447679.html" target="_blank" title="当酒吧遇上保龄球">  
+         <div class="mask"></div> </a> </li> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_447680.html" target="_blank" title="纽约迎来全新汽车影院">  
+         <div class="mask"></div> </a> </li> 
+      </ul> 
+      <ul class="right"> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449147.html" target="_blank" title="人性的反思—墓地里的哀歌演唱会">  
+         <div class="mask"></div> </a> </li> 
+       <li> <a href="https://www.nychinaren.com/f/page_viewtopic/t_449148.html" target="_blank" title="最高的地方,最纯的空气,最美的瑜伽">  
+         <div class="mask"></div> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="sda_right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special">
+    <a href="https://www.nychinaren.com/f/page_viewforum/f_5.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/f/page_viewforum/f_2.html" target="_blank"><span>纽约美食</span></a> 
+      <ul> 
+       <li><a href="/restaurant.html" class="active" target="_blank">纽约美食地图</a></li> 
+       <li>|</li> 
+       <li><a href="/restaurant/task_list/catid_6.html" class="active" target="_blank">纽约中餐厅</a></li> 
+       <li>|</li> 
+       <li><a href="/restaurant/tagId_400/task_list.html" class="active" target="_blank">北方菜</a></li> 
+       <li>|</li> 
+       <li><a href="/restaurant/tagId_221/task_list.html" class="active" target="_blank">广东菜</a></li> 
+       <li>|</li> 
+       <li><a href="/restaurant/task_list/catid_6/tagId_347.html" class="active" target="_blank">海鲜</a></li> 
+      </ul> 
+     </div> 
+     <div class="one_third_1"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left "> <a target="_blank" href="/food_express.html" class="normal_font bold_font black_font">美食快报</a> 
+        </div> <span><a target="_blank" href="/food_express.html">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="inonethird"> 
+       <dl class="foodinfo"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_416141.html" target="_blank"></a> 
+        <dt> <a href="https://www.nychinaren.com/f/page_viewtopic/t_416141.html" target="_blank" class="blue_font3 bold_font small_font">疫期美食记 美食抚慰心灵 轻乳酪蛋糕+牛尾汤</a> 
+        </dt> 
+        <dd> <span class="normal_font small_font ">一日无事，唯有写字和美食。</span> 
+        </dd> 
+       </dl> 
+       <dl class="foodinfo"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_414077.html" target="_blank"></a> 
+        <dt> <a href="https://www.nychinaren.com/f/page_viewtopic/t_414077.html" target="_blank" class="blue_font3 bold_font small_font">疫期美食 纽约人7PM在唱歌,以及牛油火锅</a> 
+        </dt> 
+        <dd> <span class="normal_font small_font ">无论明天如何，人们还是会准时在七点聚集在窗前，弹着吉他高歌。</span> 
+        </dd> 
+       </dl> 
+       <dl class="foodinfo"> <a href="https://www.chineseinny.com/f/page_viewtopic/t_398836.html" target="_blank"></a> 
+        <dt> <a href="https://www.chineseinny.com/f/page_viewtopic/t_398836.html" target="_blank" class="blue_font3 bold_font small_font">用做和牛的方法做金枪鱼</a> 
+        </dt> 
+        <dd> <span class="normal_font small_font ">金枪鱼营养价值很高；用这种方法做金枪鱼-肉质鲜美好吃！</span> 
+        </dd> 
+       </dl> 
+      </div> 
+     </div> 
+     <div class="one_third_2"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/restaurant/task_list.html" class="normal_font  bold_font black_font">美食排行榜</a> 
+        </div> <span><a target="_blank" href="/restaurant/task_list.html">美食排行&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_15500/%E6%9C%B5%E9%A2%90%E9%A3%9F%E5%BA%9C.html" target="_blank">  <span>朵颐食府</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_10567/%E9%87%91%E4%B8%B0%E5%A4%A7%E9%85%92%E6%A5%BC.html" target="_blank">  <span>金丰大酒楼</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_15076/%E8%A5%BF%E5%AE%89%E5%90%8D%E5%90%83.html" target="_blank">  <span>西安名吃</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_16619/%E5%A4%A7%E6%B2%B3%E4%BA%BA%E5%AE%B6.html" target="_blank">  <span>大河人家</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_15133/%E9%99%88%E9%BA%BB%E5%A9%86%E5%B7%9D%E8%8F%9C%E9%A6%86.html" target="_blank">  <span>陈麻婆川菜馆</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_16702/%E6%95%A6%E5%9F%8E%E6%B5%B7%E9%B2%9C%E9%85%92%E5%AE%B6.html" target="_blank">  <span>敦城海鲜酒家</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_16621/%E7%9B%9B%E6%B4%A5%E7%BE%8E%E9%A3%9F.html" target="_blank">  <span>盛津美食</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_15607/%E5%8D%97%E7%BF%94%E5%B0%8F%E7%AC%BC%E5%8C%85.html" target="_blank">  <span>南翔小笼包</span> </a> 
+      </div> 
+      <div class="photo1"> <a href="/restaurant/task_view/id_15800/%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%B7%9D%E8%8F%9C%E9%A6%86.html" target="_blank">  <span>五粮液</span> </a> 
+      </div> 
+     </div> 
+     <div class="one_third_3"> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a href="https://www.nychinaren.com/restaurant.html" target="_black" class="normal_font bold_font black_font">美食地图</a> 
+        </div> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="https://www.nychinaren.com/restaurant.html" target="_black"></a> 
+      </div> 
+      <dl class="sortcate"> 
+       <dt> 
+        <div class="left"> <a target="_blank" href="/f/page_viewforum/f_2.html" class="normal_font bold_font black_font">美食论坛</a> 
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_2.html">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="normalul"> 
+       <li><a href="/f/page_viewtopic/t_450331.html" target="_blank" class="small_font black_font" title="MenuSifu：为什么有的餐馆生意依然如此火爆？也许就这一点！"> MenuSifu：为什么有的餐馆生意依然...</a></li> 
+       <li><a href="/f/page_viewtopic/t_450183.html" target="_blank" class="small_font black_font" title="高品质茶叶 批发零售"> 高品质茶叶 批发零售</a></li> 
+       <li><a href="/f/page_viewtopic/t_449824.html" target="_blank" class="small_font black_font" title="卓越电脑 - 北美华人最佳的点餐系统,智能云端点餐系统"> 卓越电脑 - 北美华人最佳的点餐系...</a></li> 
+       <li><a href="/f/page_viewtopic/t_402038.html" target="_blank" class="small_font black_font" title="🌹 小核桃家纯手工阿胶糕 100% 纯手工"> 🌹 小核桃家纯手工阿胶糕 ...</a></li> 
+       <li><a href="/f/page_viewtopic/t_411610.html" target="_blank" class="small_font black_font" title="好吃无比的纯手工小零食🌹"> 好吃无比的纯手工小零食🌹</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special">
+    <a href="https://www.nychinaren.com/restaurant.html" target="_blank" rel="nofollow">  </a> 
+   </div> 
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/f.html" target="_blank"><span>分类信息</span></a> 
+      <ul> 
+       <li><a href="/f/page_viewforum/f_5.html" class="active" target="_blank">租房</a></li> 
+       <li>|</li> 
+       <li><a href="/f/page_viewforum/f_3.html" class="active" target="_blank">二手商品</a></li> 
+       <li>|</li> 
+       <li><a href="/f/page_viewforum/f_29.html" class="active" target="_blank">工作求职</a></li> 
+       <li>|</li> 
+       <li><a href="/f/page_viewforum/f_8.html" class="active" target="_blank">汽车买卖</a></li> 
+      </ul> 
+     </div> 
+     <div class="one_third_1 sortcate_add"> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_5.html">房屋出租</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_5.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_5/items_1BAA.html">出租</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_5/items_6BAA.html">合租</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font" target="_blank" href="/f/page_viewforum/f_35/items_60BAA.html">二手房买卖</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_5/items_2BAA.html">求租</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_35/items_59BAA.html">买房</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_35/key_新房出售.html">新房出售</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_35/items_64BAA.html">康斗</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_35/key_独立屋.html">独立屋</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_5/items_7BAA.html">家庭旅馆</a>
+       </dd> 
+      </dl> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_46.html">搬家装修</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_46.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/key_地板.html">地板</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/key_空调.html">空调</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/items_103BAA.html">家居安装</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/items_101BAA.html">搬家</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/items_104BAA.html">清洁</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/items_102BAA.html">水暖电工</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/key_园丁.html">园丁</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/key_维修.html">维修</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_46/items_100BAA.html">房屋装修</a>
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="one_third_2 sortcate_add"> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_29.html">工作求职</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_29.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_26BAA.html">全职</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_27BAA.html">兼职</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_29BAA.html">实习生</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_28BAA.html">短期/临时</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29//items_31BAA.html">文员</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/key_助理.html">助理</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_33BAA.html">销售</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_35BAA.html">电脑相关</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font" target="_blank" href="/f/page_viewforum/f_29/items_32BAA.html">餐饮</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_30BAA.html">司机</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/items_34BAA.html">保姆/家政</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_29/key_职业介绍.html">职业介绍</a>
+       </dd> 
+      </dl> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_8.html">买车修车</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_8.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_81BAA.html">买车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_83BAA.html">租车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font" target="_blank" href="/f/page_viewforum/f_8/items_89BAA.html">奔驰/宝马</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_80BAA.html">二手车交易</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_79BAA.html">新车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_84BAA.html">维修/保养</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_87BAA.html">Toyota</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_88BAA.html">Honda</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_92BAA.html">德国车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_91BAA.html">美系车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/items_90BAA.html">日系车</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_8/key_汽车保险.html">汽车保险</a>
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="one_third_3 sortcate_add"> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_3.html">二手商品</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_3.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/key_iphone.html">Iphone</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/key_gps.html">GPS</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/key_数码.html">数码产品</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/items_49BAA.html">手机</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/key_笔记本.html">笔记本</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font" target="_blank" href="/f/page_viewforum/f_3/key_Moving.html">Moving Sale</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/items_47BAA.html">二手家具</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/items_48BAA.html">家用电器</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_3/items_51BAA.html">母婴用品</a>
+       </dd> 
+      </dl> 
+      <dl class="sortcate2"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="/f/page_viewforum/f_62.html">新品买卖</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_62.html">更多&gt;&gt;</a></span>
+       </dt> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/key_奶粉.html">奶粉</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_209BAA.html">保健品</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_213BAA.html">化妆品</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_207BAA.html">零食</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/key_饰品.html">饰品</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_210BAA.html">衣帽服饰</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_208BAA.html">电器</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/key_家具.html">家具</a>
+       </dd> 
+       <dd class="text_left">
+        <a class="small_font black_font" target="_blank" href="/f/page_viewforum/f_62/items_211BAA.html">日用百货</a>
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right sda_right_special" height="60px"> <a href="/deal.html" target="_blank" rel="nofollow"> </a> 
+   </div>
+   <link rel="stylesheet" href="https://www.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=6"> 
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/howvideo.html" target="_blank"><span>How视频</span></a> 
+      <ul> 
+       <li><a href="/live.html" class="active" target="_blank">直播</a></li> 
+       <li>|</li> 
+       <li><a href="/howvideo/task_group/gid_10.html" class="active" target="_blank">汽车交通</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_12.html" class="active" target="_blank">美国法律</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_11.html" class="active" target="_blank">生活助手</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_14.html" class="active" target="_blank">休闲娱乐</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_15.html" class="active" target="_blank">留学美国</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_18.html" class="active" target="_blank">美国房产</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_25.html" class="active" target="_blank">美国医疗</a></li> 
+       <li>|</li>
+       <li><a href="/howvideo/task_group/gid_22.html" class="active" target="_blank">保险金融</a></li> 
+      </ul> 
+     </div> 
+     <div class="focus_box video"> 
+      <ul class="left"> 
+       <li class="big"> <a href="/v/v_1714.html" target="_blank" title="羽毛球如何提升杀球速度">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>羽毛球如何提升杀球速度</span>
+         </div> </a> </li> 
+       <li> <a href="/v/v_2982.html" target="_blank" title="如何顺利通过职业移民的面试">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>如何顺利通过职业移民的面试</span>
+         </div> </a> </li> 
+       <li> <a href="/v/v_2862.html" target="_blank" title="加班费 年度奖金等收入如何合法避税">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>加班费 年度奖金等收入如何合法避税</span>
+         </div> </a> </li> 
+      </ul> 
+      <ul class="middle"> 
+       <li> <a href="/v/v_2771.html" target="_blank" title="2019年属龙运势预测">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>2019年属龙运势预测</span>
+         </div> </a> </li> 
+       <li> <a href="/v/v_3087.html" target="_blank" title="维生素保健品的食物替代品">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>维生素保健品的食物替代品</span>
+         </div> </a> </li> 
+       <li> <a href="/v/v_2061.html" target="_blank" title="羽毛球后场位如何正手挑抽球">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>羽毛球后场位如何正手挑抽球</span>
+         </div> </a> </li> 
+      </ul> 
+      <ul class="right"> 
+       <li> <a href="/v/v_1726.html" target="_blank" title="羽毛球如何平抽球">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>羽毛球如何平抽球</span>
+         </div> </a> </li> 
+       <li> <a href="/v/v_2470.html" target="_blank" title="如何种大蒜和蒜毫">  <span class="v-play icon-play"></span> 
+         <div class="memo">
+          <span>如何种大蒜和蒜毫</span>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special">
+    <a href="https://www.nychinaren.com/deal.html" target="_blank" rel="nofollow">  </a> 
+   </div> 
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/law.html" target="_blank"><span><h2>法律移民</h2></span></a> 
+      <ul> 
+      </ul> 
+     </div> 
+     <div class="one_third_1"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/f/c_6.html" class="normal_font bold_font black_font">法律最新资讯</a>
+        </div> <span><a target="_blank" href="/f/c_6.html">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <ul class="padding"> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_450289.html" target="_blank" class="black_font small_font" title="成功案例丨一名时装模特的O-1申请获得批准">成功案例丨一名时装模特的...</a></li> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_450241.html" target="_blank" class="black_font small_font" title="U签证配额激增,将不幸转变为益处 朱建丞律师事务所646-518-7998">U签证配额激增,将不幸转变...</a></li> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_450011.html" target="_blank" class="black_font small_font" title="NIW国家利益豁免,缺少论文也完全可以">NIW国家利益豁免,缺少论文...</a></li> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_449873.html" target="_blank" class="black_font small_font" title="O-1签证丨当你的O-1申请落在了一位铁面移民官手上！">O-1签证丨当你的O-1申请落...</a></li> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_449814.html" target="_blank" class="black_font small_font" title="移民局拟定新规,亲属移民经济担保要求更严格 朱建丞律师事务所646-518-7998">移民局拟定新规,亲属移民...</a></li> 
+       <li class="tags_list padding"><font class="small_font gray_font">【</font><a href="f/page_viewforum/f_4.html" class="gray_font small_font" target="_blank">法律移民</a><font class="small_font gray_font">】</font><a href="f/page_viewtopic/t_449344.html" target="_blank" class="black_font small_font" title="凯森律师楼诈骗合同协议">凯森律师楼诈骗合同协议</a></li> 
+      </ul> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a class="normal_font bold_font black_font" target="_blank" href="https://www.chineseinla.com/bulletin_table.html">最新移民排期</a>
+        </div> <span><a class="gray_font small_font" target="_blank" href="/bulletin.html">移民排期趋势图&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <ul class="houseul"> 
+       <li><a href="/bulletin_table/t_1/date_202010.html" target="_blank" class="small_font black_font"> 亲属移民排期表2020年10月</a> </li> 
+       <li><a href="/bulletin_table/t_2/date_202010.html" target="_blank" class="small_font black_font"> 职业移民排期表2020年10月</a> </li> 
+       <li><a href="/bulletin_table/t_1/date_202009.html" target="_blank" class="small_font black_font"> 亲属移民排期表2020年9月</a> </li> 
+       <li><a href="/bulletin_table/t_2/date_202009.html" target="_blank" class="small_font black_font"> 职业移民排期表2020年9月</a> </li> 
+       <li><a href="/bulletin_table/t_1/date_202008.html" target="_blank" class="small_font black_font"> 亲属移民排期表2020年8月</a> </li> 
+       <li><a href="/bulletin_table/t_2/date_202008.html" target="_blank" class="small_font black_font"> 职业移民排期表2020年8月</a> </li> 
+      </ul> 
+     </div> 
+     <div class="one_third_2"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html" class="normal_font bold_font black_font">华人律师</a>
+        </div> <span><a target="_blank" href="/lawyer/%E5%8D%8E%E4%BA%BA%E5%BE%8B%E5%B8%88/task_list.html">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_18532/.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_18532/.html" target="_blank" class="small_font black_font">徐国俊</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_19234/%E5%BE%90%E6%99%93%E5%86%B0.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_19234/%E5%BE%90%E6%99%93%E5%86%B0.html" target="_blank" class="small_font black_font">徐晓冰</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_17108/%E8%80%BF%E5%A9%B7%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_17108/%E8%80%BF%E5%A9%B7%E5%BE%8B%E5%B8%88.html" target="_blank" class="small_font black_font">耿婷</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_45094/%E6%B8%B8%E7%88%B1%E8%99%B9%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_45094/%E6%B8%B8%E7%88%B1%E8%99%B9%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank" class="small_font black_font">游爱虹</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_38922/%E6%9D%8E%E5%9C%A8%E7%A5%A5.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_38922/%E6%9D%8E%E5%9C%A8%E7%A5%A5.html" target="_blank" class="small_font black_font">李在祥</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_45151/%E7%BA%BD%E7%BA%A6%E8%B4%BE%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_45151/%E7%BA%BD%E7%BA%A6%E8%B4%BE%E5%BE%8B%E5%B8%88.html" target="_blank" class="small_font black_font">贾欧</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_47670/%E8%A1%A1%E6%88%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_47670/%E8%A1%A1%E6%88%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80.html" target="_blank" class="small_font black_font">衡成律师事务所</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="https://www.nychinaren.com/lawyer/task_view/id_45776/%E5%A4%A9%E6%88%90%E5%BE%8B%E5%B8%88%E6%89%80%E5%90%B4%E7%BB%BF%E7%BB%BF%E5%BE%8B%E5%B8%88.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="https://www.nychinaren.com/lawyer/task_view/id_45776/%E5%A4%A9%E6%88%90%E5%BE%8B%E5%B8%88%E6%89%80%E5%90%B4%E7%BB%BF%E7%BB%BF%E5%BE%8B%E5%B8%88.html" target="_blank" class="small_font black_font">吴绿绿</a>
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="one_third_3"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/law.html" class="normal_font bold_font black_font">法律移民</a>
+        </div> 
+       </dt>
+      </dl> 
+      <div class="food_map padding"> <a href="https://www.chineseinla.com/images/Immigrantion.jpg" target="_black"></a> 
+      </div> 
+      <div class="food_map padding"> <a href="https://www.chineseinla.com/images/content/983/catoon2.jpg" target="_black"></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special"> <a href="https://www.nychinaren.com/company/task_group/group_38.html" target="_blank" rel="nofollow">  </a> 
+   </div> 
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/home.html" target="_blank"><span><h2>纽约房产</h2></span></a> 
+      <ul> 
+       <li><a href="/f/page_viewforum/f_5.html" class="active" target="_blank">房屋出租</a></li> 
+       <li>|</li> 
+       <li><a href="/company/task_list/catid_100.html" class="active" target="_blank">物业管理</a></li> 
+       <li>|</li> 
+       <li><a href="/company/task_list/catid_67.html" class="active" target="_blank">房屋贷款</a></li> 
+       <li>|</li> 
+       <li><a href="/company/task_list/catid_29.html" class="active" target="_blank">建筑装修</a></li> 
+       <li>|</li> 
+       <li><a href="/company/task_list/catid_45.html" class="active" target="_blank">家居装修</a></li> 
+       <li><a href="/mortgage.html" target="_blank"></a></li> 
+      </ul> 
+     </div> 
+     <div class="one_third_1"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/f/page_viewforum/f_35.html" class="normal_font bold_font black_font">精品房源</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_35.html">更多&gt;&gt;</a></span> 
+       </dt>
+      </dl> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_38117.html" target="_blank">  <span>中城高级公寓出售</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_40085.html" target="_blank">  <span>公园大道超One57顶级全层豪华最新楼盘</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_39286.html" target="_blank">  <span>贝赛小别墅</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_38843.html" target="_blank">  <span>康州最好学区房－西哈佛市</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_38679.html" target="_blank">  <span>Chelsea最豪华大楼一室一厅</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/f/page_viewtopic/t_37676.html" target="_blank">  <span>3万5千尺 才卖55万</span> </a> 
+      </div> 
+     </div> 
+     <div class="one_third_2"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" class="normal_font bold_font black_font" href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">地产经纪</a>
+        </div> <span><a target="_blank" href="/company/catid_48/%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/task_list.html">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_18552/%E5%94%90%E5%A5%B3%E5%A3%AB.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_18552/%E5%94%90%E5%A5%B3%E5%A3%AB.html" target="_blank" class="small_font black_font">Sue Tang</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_36485/%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%8A%95%E8%B5%84%E4%B9%B0%E5%8D%96%E4%B8%93%E5%AE%B6---%E8%83%A1%E4%B8%BD%E4%B8%BD.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_36485/%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%8A%95%E8%B5%84%E4%B9%B0%E5%8D%96%E4%B8%93%E5%AE%B6---%E8%83%A1%E4%B8%BD%E4%B8%BD.html" target="_blank" class="small_font black_font">胡丽丽</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_16719/%E6%88%B4%E5%AE%89%E5%A8%9C-%E9%9F%A9%20%E6%9B%BC%E5%93%88%E9%A1%BF%E8%91%97%E5%90%8D%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_16719/%E6%88%B4%E5%AE%89%E5%A8%9C-%E9%9F%A9%20%E6%9B%BC%E5%93%88%E9%A1%BF%E8%91%97%E5%90%8D%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8.html" target="_blank" class="small_font black_font">Diana Han</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_17942/%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E5%90%B4%E5%A4%A7%E5%8D%AB%20David%20Wu.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_17942/%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E5%90%B4%E5%A4%A7%E5%8D%AB%20David%20Wu.html" target="_blank" class="small_font black_font">David Wu</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_46053/%E4%BD%95%E5%85%88%E7%94%9F%20%EF%BC%88%E5%AF%8C%E5%BA%B7%E6%88%BF%E5%9C%B0%E4%BA%A7%EF%BC%89.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_46053/%E4%BD%95%E5%85%88%E7%94%9F%20%EF%BC%88%E5%AF%8C%E5%BA%B7%E6%88%BF%E5%9C%B0%E4%BA%A7%EF%BC%89.html" target="_blank" class="small_font black_font">Ryan He</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_37278/%E7%BE%8E%E6%88%BF%E7%BD%AE%E4%B8%9A%20-%20%E4%BD%95%E4%BA%A8%E5%88%A9%20%28%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%93%E5%AE%B6%29.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_37278/%E7%BE%8E%E6%88%BF%E7%BD%AE%E4%B8%9A%20-%20%E4%BD%95%E4%BA%A8%E5%88%A9%20%28%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%93%E5%AE%B6%29.html" target="_blank" class="small_font black_font">何亨利</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_37289/Harry%20Pan%20%E6%BD%98%E5%85%88%E7%94%9F%20%EF%BC%88%E5%AE%B6%E6%BA%90%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8%EF%BC%89.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_37289/Harry%20Pan%20%E6%BD%98%E5%85%88%E7%94%9F%20%EF%BC%88%E5%AE%B6%E6%BA%90%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%85%AC%E5%8F%B8%EF%BC%89.html" target="_blank" class="small_font black_font">Harry Pan</a>
+       </dd> 
+      </dl> 
+      <dl class="house_agent"> 
+       <dt> <a href="/company/task_view/id_42930/%E9%B2%8D%E5%8D%9A%E5%A3%AB%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%9C%B0%E4%BA%A7%E5%9B%A2%E9%98%9F.html" target="_blank">  </a> 
+       </dt> 
+       <dd>
+        <a href="/company/task_view/id_42930/%E9%B2%8D%E5%8D%9A%E5%A3%AB%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%9C%B0%E4%BA%A7%E5%9B%A2%E9%98%9F.html" target="_blank" class="small_font black_font">Alex Bao</a>
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="one_third_3"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/f/page_viewforum/f_35.html" class="normal_font bold_font black_font">房屋买卖最新资讯</a>
+        </div> <span><a target="_blank" href="/f/page_viewforum/f_35.html">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <ul class="houseul"> 
+       <li><a href="f/page_viewtopic/t_449098.html" target="_blank" class="small_font black_font" title="道格拉斯独立一家庭 周日公展1-3pm">道格拉斯独立一家庭 周日公展1-3p...</a></li> 
+       <li><a href="f/page_viewtopic/t_449252.html" target="_blank" class="small_font black_font" title="Anny 独家房源 拉斯维加斯 3房2.5卫无HOA社区管理只售27.15万">Anny 独家房源 拉斯维加斯 3房2.5...</a></li> 
+       <li><a href="f/page_viewtopic/t_449269.html" target="_blank" class="small_font black_font" title="大减价 法拉盛天景豪苑新豪华康斗">大减价 法拉盛天景豪苑新豪华康斗</a></li> 
+       <li><a href="f/page_viewtopic/t_449288.html" target="_blank" class="small_font black_font" title="布鲁克林54街康斗__全层通透户型__一梯两户__车位__前后露台_曼哈顿景色">布鲁克林54街康斗__全层通透户型_...</a></li> 
+       <li><a href="f/page_viewtopic/t_449323.html" target="_blank" class="small_font black_font" title="可乐娜单边两家庭和一块空地,$1,390,000">可乐娜单边两家庭和一块空地,$1,3...</a></li> 
+       <li><a href="f/page_viewtopic/t_449570.html" target="_blank" class="small_font black_font" title="open house 布鲁克林ocean ave现代化公寓">open house 布鲁克林ocean ave现代...</a></li> 
+       <li><a href="f/page_viewtopic/t_449694.html" target="_blank" class="small_font black_font" title="72万美元 纽约Scarsdale买房 顶级学区 3房2卫浴独栋House 近小学/高中/图书馆 交通便利 屋新天推荐">72万美元 纽约Scarsdale买房 顶级...</a></li> 
+       <li><a href="f/page_viewtopic/t_450008.html" target="_blank" class="small_font black_font" title="贷款办理 免查收入√ 全美业务√ 口碑好√ 办理周期短√">贷款办理 免查收入√ 全美业务√ ...</a></li> 
+       <li><a href="f/page_viewtopic/t_450112.html" target="_blank" class="small_font black_font" title="大减价 法拉盛天景豪苑 Sky View 新豪华康斗">大减价 法拉盛天景豪苑 Sky View ...</a></li> 
+       <li><a href="f/page_viewtopic/t_450465.html" target="_blank" class="small_font black_font" title="Elmhurst Studio $210000">Elmhurst Studio $210000</a></li> 
+       <li><a href="f/page_viewtopic/t_450469.html" target="_blank" class="small_font black_font" title="牙买加172St&amp;90Ave2家庭">牙买加172St&amp;90Ave2家庭</a></li> 
+       <li><a href="f/page_viewtopic/t_450470.html" target="_blank" class="small_font black_font" title="艾姆赫2卧1浴公寓 COOP">艾姆赫2卧1浴公寓 COOP</a></li> 
+       <li><a href="f/page_viewtopic/t_450474.html" target="_blank" class="small_font black_font" title="艾姆赫独立殖民1家庭 - ELMHURST-">艾姆赫独立殖民1家庭 - ELMHURST-</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special"> <a href="https://www.nychinaren.com/company/task_list/catid_48.html" target="_blank" rel="nofollow">  </a> 
+   </div>
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/company/task_list/catid_48.html" target="_blank"><span>地产经纪</span></a> 
+      <ul> 
+       <li><a href="/company/task_list/catid_48.html" class="active" target="_blank">更多&gt;&gt;</a></li> 
+      </ul> 
+     </div> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_17060/%E7%BA%BD%E7%BA%A6%E7%99%BE%E4%BD%B3%E5%9C%B0%E4%BA%A7.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_17060/%E7%BA%BD%E7%BA%A6%E7%99%BE%E4%BD%B3%E5%9C%B0%E4%BA%A7.html" target="_blank"><span class="normal_font black_font bold_font">Shirley Chow</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">房屋中介,投资管理</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">516-639-6807</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_16819/Polly%20Chang.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_16819/Polly%20Chang.html" target="_blank"><span class="normal_font black_font bold_font">Polly Chang</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">地产经纪,租赁管理</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">646-725-7889</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_16820/%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%83%AD%E5%B0%8F%E5%A7%90.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_16820/%E7%BA%BD%E7%BA%A6%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%83%AD%E5%B0%8F%E5%A7%90.html" target="_blank"><span class="normal_font black_font bold_font">郭渝</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">地产经纪,买卖租赁</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">917-652-6638</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_17643/%E9%99%88%E6%80%A1%20%20%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_17643/%E9%99%88%E6%80%A1%20%20%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF.html" target="_blank"><span class="normal_font black_font bold_font">陈怡</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">曼哈顿地产专家</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">917-325-1998</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_20764/%E7%BA%BD%E7%BA%A6%E5%9C%B0%E4%BA%A7%E5%BC%80%E5%8F%91%E5%95%86%EF%BC%8C%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_20764/%E7%BA%BD%E7%BA%A6%E5%9C%B0%E4%BA%A7%E5%BC%80%E5%8F%91%E5%95%86%EF%BC%8C%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8.html" target="_blank"><span class="normal_font black_font bold_font">林杰瑞</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">地产经纪,投资专家</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">718-775-6070</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_36303/.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_36303/.html" target="_blank"><span class="normal_font black_font bold_font">张书瑜</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">地产经纪,投资管理</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">347-982-5912</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_36120/%E6%BD%98%E5%85%88%E7%94%9F.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_36120/%E6%BD%98%E5%85%88%E7%94%9F.html" target="_blank"><span class="normal_font black_font bold_font">Vincent Pan</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">买房卖房,地产经纪</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">646-441-7241</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+     <dl class="agent_detail"> 
+      <dt> <a href="/company/task_view/id_19932/%E5%A4%AA%E6%9E%81%E5%9C%B0%E4%BA%A7.html" target="_blank">  </a> 
+      </dt> 
+      <dd> 
+       <ul> 
+        <li class="agent_normal"><a href="/company/task_view/id_19932/%E5%A4%AA%E6%9E%81%E5%9C%B0%E4%BA%A7.html" target="_blank"><span class="normal_font black_font bold_font">Wendy Wang</span></a></li> 
+        <li class="agent_normal"><span class="small_font black_font">地产经纪,地产投资</span></li> 
+        <li class="agent_phone"><span class="small_font black_font">718-938-8377</span></li> 
+       </ul> 
+      </dd> 
+     </dl> 
+    </div> 
+   </div>
+   <div class="sda_left"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <ins class="adsbygoogle"   data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right sda_right_special"> <a href="https://www.nychinaren.com/us_citizenship_test.html" target="_blank"></a> 
+   </div> 
+   <div class="home_row with-shadow"> 
+    <div class="blue_line"> 
+     <div class="home_row_title"> <a href="/latravel.html" target="_blank"><span><h2>纽约旅游</h2></span></a> 
+      <ul> 
+       <li><a href="/travel/%E7%BA%BD%E7%BA%A6%E6%97%85%E6%B8%B8/task_list.html" class="active" target="_blank">纽约景点</a></li> 
+       <li>|</li> 
+       <li><a href="/la_weblinks/catid_44.html" class="active" target="_blank">纽约酒店预定</a></li> 
+       <li>|</li> 
+       <li><a href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="active" target="_blank">纽约旅行社</a></li> 
+       <li>|</li> 
+       <li><a href="/company/task_list/catid_63.html" class="active" target="_blank">旅游接送</a></li> 
+      </ul> 
+     </div> 
+     <div class="one_third_1"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="/travel/%E7%BA%BD%E7%BA%A6%E6%97%85%E6%B8%B8/task_list.html" target="_blank" class="normal_font bold_font black_font">纽约景点</a>
+        </div> <span><a href="/travel/%E7%BA%BD%E7%BA%A6%E6%97%85%E6%B8%B8/task_list.html" target="_blank">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_19226/%E5%85%8B%E8%8E%B1%E6%96%AF%E5%8B%92%E5%A4%A7%E6%A5%BC.html" target="_blank">  <span>克莱斯勒大楼</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_15594/%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F.html" target="_blank">  <span>自由女神像</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_13422/%E7%BA%BD%E7%BA%A6%E6%9D%9C%E8%8E%8E%E5%A4%AB%E4%BA%BA%E8%9C%A1%E5%83%8F%E9%A6%86.html" target="_blank">  <span>杜莎夫人蜡像馆</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_19223/%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82.html" target="_blank">  <span>三一教堂</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_15557/%E7%BA%BD%E7%BA%A6%E6%A4%8D%E7%89%A9%E5%9B%AD.html" target="_blank">  <span>纽约植物园</span> </a> 
+      </div> 
+      <div class="photo2"> <a href="https://www.nychinaren.com/travel/task_view/id_15539/%E5%B8%83%E6%9C%97%E5%A3%AB%E5%8A%A8%E7%89%A9%E5%9B%AD%EF%BC%88%E5%8D%B3%E7%BA%BD%E7%BA%A6%E5%8A%A8%E7%89%A9%E5%9B%AD%EF%BC%89.html" target="_blank">  <span>布朗士动物园</span> </a> 
+      </div> 
+     </div> 
+     <div class="one_third_2"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/tour.html" class="normal_font bold_font black_font">旅游路线图</a>
+        </div> <span><a target="_blank" href="/tour.html">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <dl class="tour_path"> 
+       <dd>
+        <a href="/tour/id_4222.html" target="_blank" class="tour-link">&lt;3天&gt;【小美东轻松游】华盛顿+大瀑布清爽之旅：华盛顿深</a>
+       </dd> 
+       <dd>
+        <span class="small_font bold_font">主要景点：</span><span class="small_font gray">尼加拉瓜大瀑布,神秘洞穴,沃特金斯峡谷,尼加拉瓜战争古堡,康宁玻璃中心,大漩涡州立公园,风之洞,美国国会大厦,白宫</span>
+       </dd> 
+      </dl> 
+      <dl class="tour_path"> 
+       <dd>
+        <a href="/tour/id_4159.html" target="_blank" class="tour-link">&lt;6天&gt;【十年畅销出行优选】美东经典：六大名城+充实纽约</a>
+       </dd> 
+       <dd>
+        <span class="small_font bold_font">主要景点：</span><span class="small_font gray">无畏号航舰博物馆,华尔街,大都会艺术博物馆,时代广场,纽约杜莎夫人蜡像馆,纽约世贸大厦,哈德逊河,自由女神像,独立</span>
+       </dd> 
+      </dl> 
+      <dl class="tour_path"> 
+       <dd>
+        <a href="/tour/id_4014.html" target="_blank" class="tour-link">【美东口碑担当】7日美东经典：四大名城+大瀑布日夜双景</a>
+       </dd> 
+       <dd>
+        <span class="small_font bold_font">主要景点：</span><span class="small_font gray">华尔街,大都会艺术博物馆,无畏号航舰博物馆,纽约证券交易所,自由女神像,纽约世贸大厦,纽约杜莎夫人蜡像馆,普林斯顿</span>
+       </dd> 
+      </dl> 
+      <dl class="tour_path"> 
+       <dd>
+        <a href="/tour/id_4958.html" target="_blank" class="tour-link">&lt;2天&gt;【纽约往返 • 波士顿名校历史游】常春藤知名学府</a>
+       </dd> 
+       <dd>
+        <span class="small_font bold_font">主要景点：</span><span class="small_font gray">听涛山庄,波士顿科学博物馆,耶鲁大学,波士顿港,哈佛大学,新英格兰水族馆,昆西市场</span>
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="one_third_3"> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a href="https://www.nychinaren.com/travel.html" target="_blank" class="normal_font bold_font black_font">旅游地图</a>
+        </div> <span><a href="https://www.nychinaren.com/travel.html" target="_blank" class="normal_font black_font">更多&gt;&gt;</a></span> 
+       </dt> 
+      </dl> 
+      <div class="travel_map padding">
+       <a href="https://www.nychinaren.com/travel.html" target="_blank"></a>
+      </div> 
+      <dl class="sortcate"> 
+       <dt>
+        <div class="left">
+         <a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html" class="normal_font bold_font black_font">华人旅行社</a>
+        </div> <span><a target="_blank" href="/company/catid_27/%E5%8D%8E%E4%BA%BA%E6%97%85%E8%A1%8C%E7%A4%BE/task_list.html">更多&gt;&gt;</a></span>
+       </dt> 
+      </dl> 
+      <ul class="houseul"> 
+       <li><a href="/company/task_view/id_36725/%E7%BE%8E%E5%9B%BD%E5%BE%80%E5%93%AA%E9%A3%9E%E6%97%85%E6%B8%B8%E7%BD%91.html" target="_blank" class="small_font black_font">美国往哪飞旅游网</a></li> 
+       <li><a href="/company/task_view/id_46711/%E7%BA%BD%E7%BA%A6%E8%87%AA%E7%94%B1%E9%A3%9E%E7%BF%94%E6%97%85%E8%A1%8C%E7%A4%BE.html" target="_blank" class="small_font black_font">纽约自由飞翔旅行社</a></li> 
+       <li><a href="/company/task_view/id_46759/Mr.X%E6%97%85%E8%A1%8C%E9%A1%BE%E9%97%AE.html" target="_blank" class="small_font black_font">Mr.X旅行顾问</a></li> 
+       <li><a href="/company/task_view/id_43968/%E6%98%93%E8%BE%BE%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">易达旅游</a></li> 
+       <li><a href="/company/task_view/id_47099/%E7%BE%8E%E6%84%8F%E6%97%85%E6%B8%B8.html" target="_blank" class="small_font black_font">美意旅游</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sda_right sda_right_special" height="60px"> <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow">  </a>
+   </div>
+   <div class="home_row with-shadow">
+    <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow"> </a>
+    <div class="link_exchange">
+     <a href="https://www.nychinaren.com/newsletter/task_history.html" target="_blank" rel="nofollow"> <span>友情链接</span> 
+      <ul> 
+       <li><a href="https://www.chineseinla.com" class="active" target="_blank"><span>洛杉矶华人资讯网</span></a></li> 
+       <li><a href="http://bbs.sgcn.com" class="active" target="_blank"><span>狮城网</span></a></li> 
+       <li><a href="http://www.cineseitalia.com/" class="active" target="_blank"

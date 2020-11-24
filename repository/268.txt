@@ -1,0 +1,1143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/search/key_%e8%a3%85%e4%bf%ae.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>洛杉矶华人资讯网 - 洛杉矶本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e8%a3%85%e4%bf%ae.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://c3.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://c3.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://c3.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_category" id="search_category"> <span id="recommend1"></span> 您要查找的信息，可能属于下列分类: <span class="category"> <a href="/company/task_list/catid_301.html" class="map_link" target="_blank" title="空调安装与修理"> 空调安装修理 </a> ,<a href="/company/task_list/catid_29.html" class="map_link" target="_blank" title="房屋，厨房，门窗，水电，油漆等等"> 建筑装修/建筑师 </a> ,<a href="/company/task_list/catid_275.html" class="map_link" target="_blank" title="卫浴产品，橱柜装修"> 卫浴橱柜 </a> </span> 
+    </div>
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.chineseinla.com/company/task_category/key_%E8%A3%85%E4%BF%AElicense%E6%80%8E%E4%B9%88%E8%80%83" class="map_link" target="_blank">装修licens</a> 
+      </dt> 
+      <dd>
+       在美国装修licens如何考
+      </dd> 
+     </dl> 
+     <dl class="search_ads"> 
+      <dt> <a href="/company/task_list/catid_29.html" class="map_link" target="_blank">建筑装修/建筑师</a> 
+      </dt> 
+      <dd>
+       洛杉矶华人装修公司，Contractor，油漆公司
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company sponsor_company"> 
+        <dt class="tag_title bid-dt"> <span class="tags_counter">推</span> <a href="/company/task_view/id_89750/%E6%AC%A7%E5%A7%86%E5%B0%BC%E5%9C%B0%E6%9D%BF%E3%80%81%E7%93%B7%E7%A0%96%EF%BC%88%E6%9C%80%E4%BC%98%E6%83%A0%E4%BD%8E%E4%BB%B7%EF%BC%89/bdsidw_4214918.html" class="map_link"> <span>欧姆尼地板、瓷砖批发中心 超低价</span> </a> <a class="review" href="/company/task_view/id_89750/%E6%AC%A7%E5%A7%86%E5%B0%BC%E5%9C%B0%E6%9D%BF%E3%80%81%E7%93%B7%E7%A0%96%EF%BC%88%E6%9C%80%E4%BC%98%E6%83%A0%E4%BD%8E%E4%BB%B7%EF%BC%89/bdsidw_4214918.html"></a> <a class="image" href="/company/task_view/id_89750/%E6%AC%A7%E5%A7%86%E5%B0%BC%E5%9C%B0%E6%9D%BF%E3%80%81%E7%93%B7%E7%A0%96%EF%BC%88%E6%9C%80%E4%BC%98%E6%83%A0%E4%BD%8E%E4%BB%B7%EF%BC%89/bdsidw_4214918.html"></a> <span class="bid-right">竞价</span> 
+        </dt> 
+        <dd> 
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_89750/%E6%AC%A7%E5%A7%86%E5%B0%BC%E5%9C%B0%E6%9D%BF%E3%80%81%E7%93%B7%E7%A0%96%EF%BC%88%E6%9C%80%E4%BC%98%E6%83%A0%E4%BD%8E%E4%BB%B7%EF%BC%89/bdsidw_4214918.html"></a> 
+            </div>
+           </div>
+          </div>
+         </div> 
+         <div class="tag_star"> &nbsp;13个人参与评分 &nbsp;共有14条评论 
+         </div> 
+        </dd> 
+        <dd> 
+         <div class="tag_text"> 
+          <div class="address_list_block"> 
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_89750.html" title="点击查看地图">13905 Ramona Ave, Suite K,Chino, CA 91710</a>
+           </div> 
+          </div> 
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-420-9066
+          </div> 
+          <div class="list_category">
+           分类:&nbsp;&nbsp; <span class="list_tag"> <a href="/company/task_list/catid_128.html" class="map_link" target="_blank">地毯地板</a> <span>&gt;</span> <a href="/company/catid_128/task_list/tagId_371.html" class="map_link">地板</a> , <a href="/company/catid_128/task_list/tagId_18675.html" class="map_link">地板安装</a> , <a href="/company/catid_128/task_list/tagId_32059.html" class="map_link">木地板</a> , <a href="/company/catid_128/task_list/tagId_370.html" class="map_link">瓷砖</a> , <a href="/company/catid_128/task_list/tagId_796.html" class="map_link">Chino</a> </span> 
+          </div> 
+         </div> 
+        </dd> 
+       </dl>
+       <dl class="regular_company sponsor_company"> 
+        <dt class="tag_title bid-dt"> <span class="tags_counter">推</span> <a href="/company/task_view/id_90708/%E4%B8%80%E6%B5%81%E5%AE%B6%E8%A3%85/bdsidw_4214919.html" class="map_link"> <span>一流家装 Top One Home Services</span> </a> <a class="review" href="/company/task_view/id_90708/%E4%B8%80%E6%B5%81%E5%AE%B6%E8%A3%85/bdsidw_4214919.html"></a> <a class="image" href="/company/task_view/id_90708/%E4%B8%80%E6%B5%81%E5%AE%B6%E8%A3%85/bdsidw_4214919.html"></a> <a class="message" href="/company/task_view/id_90708/%E4%B8%80%E6%B5%81%E5%AE%B6%E8%A3%85/bdsidw_4214919.html"></a> <span class="bid-right">竞价</span> 
+        </dt> 
+        <dd> 
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_90708/%E4%B8%80%E6%B5%81%E5%AE%B6%E8%A3%85/bdsidw_4214919.html"></a> 
+            </div>
+           </div>
+          </div>
+         </div> 
+         <div class="tag_star"> &nbsp;4个人参与评分 &nbsp;共有5条评论 
+         </div> 
+        </dd> 
+        <dd> 
+         <div class="tag_text"> 
+          <div class="address_list_block"> 
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_90708.html" title="点击查看地图">2691 Richter Ave, Ste. 116,Irvine, CA 92606</a>
+           </div> 
+          </div> 
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;949-418-7449
+          </div> 
+          <div class="list_category">
+           分类:&nbsp;&nbsp; <span class="list_tag"> <a href="/company/task_list/catid_29.html" class="map_link" target="_blank">建筑装修/建筑师</a> <span>&gt;</span> <a href="/company/catid_29/task_list/tagId_471.html" class="map_link">新建加建</a> , <a href="/company/catid_29/task_list/tagId_472.html" class="map_link">室内装修</a> , <a href="/company/catid_29/task_list/tagId_1922.html" class="map_link">厨浴翻新</a> , <a href="/company/catid_29/task_list/tagId_59312.html" class="map_link">橱柜地板</a> , <a href="/company/catid_29/task_list/tagId_59313.html" class="map_link">油漆窗帘</a> </span> 
+          </div> 
+         </div> 
+        </dd> 
+       </dl>
+       <dl class="regular_company sponsor_company"> 
+        <dt class="tag_title bid-dt"> <span class="tags_counter">推</span> <a href="/company/task_view/id_93065/%E5%AE%8F%E5%A4%A7%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%A5%BD%E5%8F%A3%E7%A2%91/bdsidw_4214920.html" class="map_link"> <span>宏大建筑装修，好口碑 好服务</span> </a> <a class="review" href="/company/task_view/id_93065/%E5%AE%8F%E5%A4%A7%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%A5%BD%E5%8F%A3%E7%A2%91/bdsidw_4214920.html"></a> <a class="image" href="/company/task_view/id_93065/%E5%AE%8F%E5%A4%A7%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%A5%BD%E5%8F%A3%E7%A2%91/bdsidw_4214920.html"></a> <span class="bid-right">竞价</span> 
+        </dt> 
+        <dd> 
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_93065/%E5%AE%8F%E5%A4%A7%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%A5%BD%E5%8F%A3%E7%A2%91/bdsidw_4214920.html"></a> 
+            </div>
+           </div>
+          </div>
+         </div> 
+         <div class="tag_star"> &nbsp;5个人参与评分 &nbsp;共有5条评论 
+         </div> 
+        </dd> 
+        <dd> 
+         <div class="tag_text"> 
+          <div class="address_list_block"> 
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_93065.html" title="点击查看地图">13905 ramona Ave,, chino, CA 91710</a>
+           </div> 
+          </div> 
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-420-9066
+          </div> 
+          <div class="list_category">
+           分类:&nbsp;&nbsp; <span class="list_tag"> <a href="/company/task_list/catid_29.html" class="map_link" target="_blank">建筑装修/建筑师</a> <span>&gt;</span> <a href="/company/catid_29/task_list/tagId_32512.html" class="map_link">室内外装修</a> , <a href="/company/catid_29/task_list/tagId_372.html" class="map_link">油漆</a> , <a href="/company/catid_29/task_list/tagId_371.html" class="map_link">地板</a> , <a href="/company/catid_29/task_list/tagId_1071.html" class="map_link">橱柜</a> , <a href="/company/catid_29/task_list/tagId_13745.html" class="map_link">磁砖</a> </span> 
+          </div> 
+         </div> 
+        </dd> 
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html" class="map_link" target="_blank" title="欧森地板">欧森地板</a>
+         </div><a href="/company/task_review/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html" class="review" title="点评"></a><a href="/company/task_image/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html" class="image" title="图片"></a><a href="/company/task_view/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html#coupon" class="coupon" title="Coupon"></a><a href="/company/task_message/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_93254/%E6%AC%A7%E6%A3%AE%E5%9C%B0%E6%9D%BF.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_93254.html" title="点击查看地图">2202 Santa Anita Ave, South El Monte, CA 91733</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(323)991-8888,(323)601-6777
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list.html" class="map_link" target="_blank">地毯地板</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list/tagId_371/%E5%9C%B0%E6%9D%BF.html" title="地板" class="map_link">地板</a>,&nbsp;&nbsp;<a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list/tagId_5337/%E5%9C%B0%E6%9D%BF%E6%89%B9%E5%8F%91.html" title="地板批发" class="map_link">地板批发</a>,&nbsp;&nbsp;<a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list/tagId_32059/%E6%9C%A8%E5%9C%B0%E6%9D%BF.html" title="木地板" class="map_link">木地板</a>,&nbsp;&nbsp;<a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list/tagId_5868/%E5%90%84%E7%A7%8D%E5%9C%B0%E6%9D%BF%E6%89%B9%E5%8F%91.html" title="各种地板批发" class="map_link">各种地板批发</a>,&nbsp;&nbsp;<a href="/company/catid_128/%E5%9C%B0%E6%AF%AF%E5%9C%B0%E6%9D%BF/task_list/tagId_18675/%E5%9C%B0%E6%9D%BF%E5%AE%89%E8%A3%85.html" title="地板安装" class="map_link">地板安装</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" class="map_link" target="_blank" title="顺德屋顶建材公司">顺德屋顶建材公司</a><span class="blue_font">-</span><a href="/company/task_view/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" class="map_link" target="_blank" title="SHUNDE ROOFING INC">SHUNDE ROOFING INC</a>
+         </div><a href="/company/task_review/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" class="review" title="点评"></a><a href="/company/task_image/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" class="image" title="图片"></a><a href="/company/task_message/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_90303/%E9%A1%BA%E5%BE%B7%E5%B1%8B%E9%A1%B6%E5%BB%BA%E6%9D%90%E5%85%AC%E5%8F%B8.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;3个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_90303.html" title="点击查看地图">9853 RUSH ST, SOUTH EL MONTE, CA 91733</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-542-3687,626-349-8079,949-903-9187
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list.html" class="map_link" target="_blank">建筑材料</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list/tagId_4582/%E5%B1%8B%E9%A1%B6.html" title="屋顶" class="map_link">屋顶</a>,&nbsp;&nbsp;<a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list/tagId_382/%E5%B1%8B%E9%A1%B6%20%E7%93%B7%E7%A0%96.html" title="屋顶 瓷砖" class="map_link">屋顶 瓷砖</a>,&nbsp;&nbsp;<a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list/tagId_1889/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE.html" title="建筑装修" class="map_link">建筑装修</a>,&nbsp;&nbsp;<a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list/tagId_471/%E6%96%B0%E5%BB%BA%E5%8A%A0%E5%BB%BA.html" title="新建加建" class="map_link">新建加建</a>,&nbsp;&nbsp;<a href="/company/catid_258/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99/task_list/tagId_1907/%E6%97%A7%E5%B1%8B%E7%BF%BB%E6%96%B0.html" title="旧屋翻新" class="map_link">旧屋翻新</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_83142/%E4%B8%9C%E5%8C%BA%E6%B0%B4%E6%B0%B4%E6%B0%B4%E8%B7%9F%E6%B0%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E9%83%BD%E7%BB%B4%E4%BF%AE.html" class="map_link" target="_blank" title="东区水水水/跟水相关的都维修">东区水水水/跟水相关的都维修</a>
+         </div><a href="/company/task_review/id_83142/%E4%B8%9C%E5%8C%BA%E6%B0%B4%E6%B0%B4%E6%B0%B4%E8%B7%9F%E6%B0%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E9%83%BD%E7%BB%B4%E4%BF%AE.html" class="review" title="点评"></a><a href="/company/task_image/id_83142/%E4%B8%9C%E5%8C%BA%E6%B0%B4%E6%B0%B4%E6%B0%B4%E8%B7%9F%E6%B0%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E9%83%BD%E7%BB%B4%E4%BF%AE.html" class="image" title="图片"></a><a href="/company/task_message/id_83142/%E4%B8%9C%E5%8C%BA%E6%B0%B4%E6%B0%B4%E6%B0%B4%E8%B7%9F%E6%B0%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E9%83%BD%E7%BB%B4%E4%BF%AE.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_83142/%E4%B8%9C%E5%8C%BA%E6%B0%B4%E6%B0%B4%E6%B0%B4%E8%B7%9F%E6%B0%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E9%83%BD%E7%BB%B4%E4%BF%AE.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_83142.html" title="点击查看地图">2767 Batsonave,Rowland heights,CA 91748</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-831-3192,626-622-7676
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list.html" class="map_link" target="_blank">水电工程</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_3648/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B.html" title="水电工程" class="map_link">水电工程</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_2034/%E9%80%9A%E6%B0%B4%E4%BF%AE%E6%BC%8F.html" title="通水修漏" class="map_link">通水修漏</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_1251/%E8%A3%85%E4%BF%AE.html" title="装修" class="map_link">装修</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_2036/%E7%94%9F%E6%B4%BB%E7%94%A8%E6%B0%B4.html" title="生活用水" class="map_link">生活用水</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_24095/%E4%B8%8B%E6%B0%B4%E9%81%93%E5%BD%B1%E7%85%A7.html" title="下水道影照" class="map_link">下水道影照</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" class="map_link" target="_blank" title="密西比空调维修-优惠月免费上门检测。">密西比空调维修-优惠月免费上门检测。</a>
+         </div><a href="/company/task_review/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" class="review" title="点评"></a><a href="/company/task_image/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" class="image" title="图片"></a><a href="/company/task_displayCard/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" class="card" title="商业名片"></a><a href="/company/task_message/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_65327/%E5%AF%86%E8%A5%BF%E6%AF%94%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE-%E4%BC%98%E6%83%A0%E6%9C%88%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E6%A3%80%E6%B5%8B%E3%80%82.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;49个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_65327.html" title="点击查看地图">1728 Baker st Los Angeles ca90012</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-734-8889
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list.html" class="map_link" target="_blank">空调安装修理</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_34507/%E5%86%B7%E6%B0%94%E7%BB%B4%E4%BF%AE.html" title="冷气维修" class="map_link">冷气维修</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_34180/%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" title="空调维修" class="map_link">空调维修</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_5021/%E7%A9%BA%E8%B0%83%E4%BF%AE%E7%90%86.html" title="空调修理" class="map_link">空调修理</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_7209/%E4%B8%AD%E5%A4%AE%E5%86%B7%E6%9A%96%E6%B0%94.html" title="中央冷暖气" class="map_link">中央冷暖气</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_13653/%E9%85%8D%E7%94%B5%E5%B7%A5%E7%A8%8B.html" title="配电工程" class="map_link">配电工程</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" class="map_link" target="_blank" title="美极门窗制造工厂">美极门窗制造工厂</a><span class="blue_font">-</span><a href="/company/task_view/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" class="map_link" target="_blank" title="MEAGI WINDOWS &amp; DOORS">MEAGI WINDOWS &amp; DOORS</a>
+         </div><a href="/company/task_review/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" class="review" title="点评"></a><a href="/company/task_image/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" class="image" title="图片"></a><a href="/company/task_message/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_82836/%E7%BE%8E%E6%9E%81%E9%97%A8%E7%AA%97%E5%88%B6%E9%80%A0%E5%B7%A5%E5%8E%82.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;5个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_82836.html" title="点击查看地图">526 Hofgaarden St., La Puente,CA 91744</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;909-839-0789
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list.html" class="map_link" target="_blank">门窗玻璃</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list/tagId_1494/%E7%8E%AF%E4%BF%9D%E9%97%A8%E7%AA%97.html" title="环保门窗" class="map_link">环保门窗</a>,&nbsp;&nbsp;<a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list/tagId_4022/%E5%A1%91%E9%92%A2%E6%9D%90%E6%96%99.html" title="塑钢材料" class="map_link">塑钢材料</a>,&nbsp;&nbsp;<a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list/tagId_1889/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE.html" title="建筑装修" class="map_link">建筑装修</a>,&nbsp;&nbsp;<a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list/tagId_373/%E9%97%A8%E7%AA%97.html" title="门窗" class="map_link">门窗</a>,&nbsp;&nbsp;<a href="/company/catid_131/%E9%97%A8%E7%AA%97%E7%8E%BB%E7%92%83/task_list/tagId_50/Walnut.html" title="Walnut" class="map_link">Walnut</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" class="map_link" target="_blank" title="加州建筑装修工程">加州建筑装修工程</a><span class="blue_font">-</span><a href="/company/task_view/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" class="map_link" target="_blank" title="Wisdom Construction">Wisdom Construction</a>
+         </div><a href="/company/task_review/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" class="review" title="点评"></a><a href="/company/task_image/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" class="image" title="图片"></a><a href="/company/task_message/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_21611/%E5%8A%A0%E5%B7%9E%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%B7%A5%E7%A8%8B.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;15个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_21611.html" title="点击查看地图">San Gabriel Valley CA</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-731-8077
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list.html" class="map_link" target="_blank">建筑装修/建筑师</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_472/%E5%AE%A4%E5%86%85%E8%A3%85%E4%BF%AE.html" title="室内装修" class="map_link">室内装修</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_471/%E6%96%B0%E5%BB%BA%E5%8A%A0%E5%BB%BA.html" title="新建加建" class="map_link">新建加建</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1889/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE.html" title="建筑装修" class="map_link">建筑装修</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_372/%E6%B2%B9%E6%BC%86.html" title="油漆" class="map_link">油漆</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1922/%E5%8E%A8%E6%B5%B4%E7%BF%BB%E6%96%B0.html" title="厨浴翻新" class="map_link">厨浴翻新</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" class="map_link" target="_blank" title="新大地装修--刘师傅">新大地装修--刘师傅</a>
+         </div><a href="/company/task_review/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" class="review" title="点评"></a><a href="/company/task_image/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" class="image" title="图片"></a><a href="/company/task_view/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html#coupon" class="coupon" title="Coupon"></a><a href="/company/task_message/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" class="message" title="留言"></a><a href="/company/task_view/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" class="tenyear" title="十年老店"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_13749/%E6%96%B0%E5%A4%A7%E5%9C%B0%E8%A3%85%E4%BF%AE--%E5%88%98%E5%B8%88%E5%82%85.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;29个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_13749.html" title="点击查看地图">519 N Alhambra Ave Apt B,Monterey Park, CA 91755-138</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-512-3378,626-673-6885
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list.html" class="map_link" target="_blank">建筑装修/建筑师</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1913/%E5%86%85%E5%A4%96%E6%B2%B9%E6%BC%86.html" title="内外油漆" class="map_link">内外油漆</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_471/%E6%96%B0%E5%BB%BA%E5%8A%A0%E5%BB%BA.html" title="新建加建" class="map_link">新建加建</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1908/%E5%86%85%E5%A4%96%E8%A3%85%E4%BF%AE.html" title="内外装修" class="map_link">内外装修</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1915/%E6%B0%B4%E7%94%B5%E6%9C%A8%E5%B7%A5.html" title="水电木工" class="map_link">水电木工</a>,&nbsp;&nbsp;<a href="/company/catid_29/%E5%BB%BA%E7%AD%91%E8%A3%85%E4%BF%AE%E5%BB%BA%E7%AD%91%E5%B8%88/task_list/tagId_1897/%E5%8A%A0%E5%BB%BA%E6%94%B9%E5%BB%BA.html" title="加建改建" class="map_link">加建改建</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">8</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="map_link" target="_blank" title="家佳专业空调维修">家佳专业空调维修</a><span class="blue_font">-</span><a href="/company/task_view/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="map_link" target="_blank" title="Austin" s air conditioning'>Austin's Air Conditioning</a>
+         </div><a href="/company/task_review/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="review" title="点评"></a><a href="/company/task_image/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="image" title="图片"></a><a href="/company/task_displayCard/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="card" title="商业名片"></a><a href="/company/task_message/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_82415/%E5%AE%B6%E4%BD%B3%E4%B8%93%E4%B8%9A%E7%A9%BA%E8%B0%83%E7%BB%B4%E4%BF%AE.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;15个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;9096800269
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list.html" class="map_link" target="_blank">空调安装修理</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_4911/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BF%AE%E7%90%86.html" title="空调安装与修理" class="map_link">空调安装与修理</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_4815/%E7%BB%B4%E4%BF%AE.html" title="维修" class="map_link">维修</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_5021/%E7%A9%BA%E8%B0%83%E4%BF%AE%E7%90%86.html" title="空调修理" class="map_link">空调修理</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_5026/%E7%A9%BA%E8%B0%83.html" title="空调" class="map_link">空调</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_7209/%E4%B8%AD%E5%A4%AE%E5%86%B7%E6%9A%96%E6%B0%94.html" title="中央冷暖气" class="map_link">中央冷暖气</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">9</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" class="map_link" target="_blank" title="罗兰水工">罗兰水工</a><span class="blue_font">-</span><a href="/company/task_view/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" class="map_link" target="_blank" title="和水相关的都维修">和水相关的都维修</a>
+         </div><a href="/company/task_review/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" class="review" title="点评"></a><a href="/company/task_image/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" class="image" title="图片"></a><a href="/company/task_message/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_87079/%E7%BD%97%E5%85%B0%E6%B0%B4%E5%B7%A5.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;9个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">18505 Los Machos Dr, Rowland Heights, CA 91748</a>
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">1655 loyalty, diamond bar, CA 91789</a>
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">1226 ballista ave, la puente, CA 91744</a><a class="ctrl-address-more">更多地址&gt;&gt;</a>
+           </div>
+          </div>
+          <div class="address_more">
+           <div class="address_list_block">
+            <div class="adress_text">
+             地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">14583 hillsdale st, chino, CA 91710</a>
+            </div>
+           </div>
+           <div class="address_list_block">
+            <div class="adress_text">
+             地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">20325 temple ave, walnut, CA 91789</a>
+            </div>
+           </div>
+           <div class="address_list_block">
+            <div class="adress_text">
+             地址:&nbsp;&nbsp;<a href="/company/task_map/id_87079.html" title="点击查看地图">1423 E. Verness st, west covina, CA 91791</a>
+            </div>
+           </div>
+          </div><a class="ctrl-address-more-hide">收起</a>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;626-428-0974
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list.html" class="map_link" target="_blank">水电工程</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_2034/%E9%80%9A%E6%B0%B4%E4%BF%AE%E6%BC%8F.html" title="通水修漏" class="map_link">通水修漏</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_57101/%E6%B5%8B%E6%BC%8F%E4%BF%AE%E6%BC%8F.html" title="测漏修漏" class="map_link">测漏修漏</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_52155/%E5%AE%89%E8%A3%85%E6%B0%B4%E9%BE%99%E5%A4%B4.html" title="安装水龙头" class="map_link">安装水龙头</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_52156/%E6%89%93%E7%A2%8E%E6%9C%BA.html" title="打碎机" class="map_link">打碎机</a>,&nbsp;&nbsp;<a href="/company/catid_245/%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B/task_list/tagId_52157/%E7%83%AD%E6%B0%B4%E7%82%89.html" title="热水炉" class="map_link">热水炉</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">10</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_22452/%E5%BE%B7%E5%AE%9D%E5%86%B7%E6%9A%96%E7%94%B5.html" class="map_link" target="_blank" title="德宝冷暖电">德宝冷暖电</a>
+         </div><a href="/company/task_review/id_22452/%E5%BE%B7%E5%AE%9D%E5%86%B7%E6%9A%96%E7%94%B5.html" class="review" title="点评"></a><a href="/company/task_image/id_22452/%E5%BE%B7%E5%AE%9D%E5%86%B7%E6%9A%96%E7%94%B5.html" class="image" title="图片"></a><a href="/company/task_message/id_22452/%E5%BE%B7%E5%AE%9D%E5%86%B7%E6%9A%96%E7%94%B5.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/company/task_view/id_22452/%E5%BE%B7%E5%AE%9D%E5%86%B7%E6%9A%96%E7%94%B5.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;31个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;(626) 643-1028,909-656-2242
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list.html" class="map_link" target="_blank">空调安装修理</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_4911/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BF%AE%E7%90%86.html" title="空调安装与修理" class="map_link">空调安装与修理</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_13640/%E5%86%B7%E6%9A%96%E6%B0%94.html" title="冷暖气" class="map_link">冷暖气</a>,&nbsp;&nbsp;<a href="/company/catid_301/%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E4%BF%AE%E7%90%86/task_list/tagId_5971/%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8.html" title="家用电器" class="map_link">家用电器</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <div class="page"> <a data-page="0" data-type="0" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="0" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/f/page_viewtopic/t_1976392.html" target="_blank"><h4>大理石 人造石 花岗岩厂家直供 价格优惠</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">ISC Kitchen &amp; Bath Inc位于奇诺，专业批发花岗岩、大理石、人造石，各种橱柜应有尽有。国内工厂20余年，全部一手货源，直接生产，销售，欢迎商家和个人前来采购。&nbsp; 专业<span class="key">装修</span>团队，选好材料，直接上门安装</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">6浏览</span> <span class="time">1小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976327.html" target="_blank"><h4><span class="key">装修</span>招人</h4></a> 
+         <div class="content"> 
+          <p class="p-text">本人招聘<span class="key">装修</span>师傅，需要有经验认真，有耐心，有责任心的。出现金。薪水细谈！因人而异（包吃饭） 每天都有活做<span class="key">装修</span>范围内的活都做 。详谈 联系电话213-322-5538 （关先生）其次联系电话 213-322-5540 （Sam） &nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">64浏览</span> <span class="time">2小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976282.html" target="_blank"><h4>伟屹地板0.99</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们公司有多种精美室内强化地板，实木复合地板，所有产品价格优惠，免费测量尺寸，上门安装，真正做到售后无忧。 欢迎到我们线下门店参观，洽谈。 也可以电话预约咨询：（626）567-2888 门店地址：9846 rush st，so</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">2浏览</span> <span class="time">3小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976266.html" target="_blank"><h4>平民价通管</h4></a> 
+         <div class="content"> 
+          <p class="p-text">专业上下管道疏通 ，修理 ，更换厨房粉碎机，电热水器，煤气热水器，维修水龙头，水管漏水及卫浴设备的阻塞更换，电话626 233 1514。</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">2浏览</span> <span class="time">3小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976140.html" target="_blank"><h4><span class="key">装修</span>工具及水泥推车等门锁</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">各种<span class="key">装修</span>材料岀售，无匙房门锁五元，大门锁二十元。上胶枪二元，电推锯二十五元，大理石锯三十元，天花顶灯十元，灯架五元，有一把大推锯做地板专用九成新五十元，原价三百。把手撕裂开，需要你自己加固，正常可以使</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_3.html">二手商品</a> <span class="view">0评论</span> <span class="reply">45浏览</span> <span class="time">8小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976132.html" target="_blank"><h4>亚马逊木工开孔器！九折售卖！Save 10% on Wooden Hole Saw Set</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">Wooden Hole Saw Set&nbsp; &nbsp; Code : WGET-HHE4VV-PPCHAE&nbsp; &nbsp; Line:https://www.chineseinla.com/la_weblinks/task_view/id_26011.html&nbsp; &nbsp; 【THE MOST COMPLETE HOLE SAW KIT】-VONIKKU 19 P</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_62.html">新品买卖</a> <span class="view">0评论</span> <span class="reply">13浏览</span> <span class="time">11小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1976028.html" target="_blank"><h4>招<span class="key">装修</span>中工一名</h4></a> 
+         <div class="content"> 
+          <p class="p-text">会做油漆，地板、地板楼梯等（必须手法好的。一般的免打扰）</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">92浏览</span> <span class="time">17小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975974.html" target="_blank"><h4>伟屹地板！0.99批发！最低至2.39包工包料！</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们公司有多种精美室内强化地板，实木复合地板，所有产品价格优惠，免费测量尺寸，上门安装，真正做到售后无忧。 欢迎到我们线下门店参观，洽谈。 也可以电话预约咨询：（626）567-2888 门店地址：9846 rush st，so</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">18浏览</span> <span class="time">20小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975894.html" target="_blank"><h4>平民价通管</h4></a> 
+         <div class="content"> 
+          <p class="p-text">专业上下管道疏通 ，修理 ，更换厨房粉碎机，电热水器，煤气热水器，维修水龙头，水管漏水及卫浴设备的阻塞更换，电话626 233 1514。</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">5浏览</span> <span class="time">22小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975846.html" target="_blank"><h4>伟屹地板0.99特价,2.39包工包料</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们公司有多种精美室内强化地板，实木复合地板，所有产品价格优惠，免费测量尺寸，上门安装，真正做到售后无忧。 欢迎到我们线下门店参观，洽谈。 也可以电话预约咨询：（626）567-2888 门店地址：9846 rush st，so</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">13浏览</span> <span class="time">23小时前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975586.html" target="_blank"><h4>伟屹地板0.99spc,2.39包工包料</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">我们公司有多种精美室内强化地板，实木复合地板，所有产品价格优惠，免费测量尺寸，上门安装，真正做到售后无忧。 欢迎到我们线下门店参观，洽谈。 也可以电话预约咨询：（626）567-2888 门店地址：9846 rush st，so</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">18浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975536.html" target="_blank"><h4>$2.39包工包料地板</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美家地板卫浴特惠！11年老店呀！SPC包工包料$2.39, 复合地板包工包料$2.39。实木地板包工包料$3.89。 厨柜，卫浴，马赛克，厕所马桶一个$50 ，常年特价！欢迎各位老板光临指导与选购，数量多可以免费送货。联系电话3</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">17浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975450.html" target="_blank"><h4>西雅图<span class="key">装修</span>公司招<span class="key">装修</span>工</h4></a> 
+         <div class="content"> 
+          <p class="p-text">西雅图<span class="key">装修</span>招大中小工，包吃住，薪资高，老板人好易相处，欢迎致电详谈 联系人李先生 6266203888</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">102浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975438.html" target="_blank"><h4>找<span class="key">装修</span>师傅。</h4></a> 
+         <div class="content"> 
+          <p class="p-text">需要<span class="key">装修</span>师傅。&nbsp;</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_29.html">工作求职</a> <span class="view">0评论</span> <span class="reply">103浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975387.html" target="_blank"><h4>新<span class="key">装修</span> 哈岗独立屋 (4房3浴)</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">哈岗独立屋 (4房3浴)&nbsp; Manaznita公园与Kwis小学(0.1mile) 旁边。&nbsp; 环境很好，非常干净，交通方便，中央空调，车库，洗衣机/乾衣机。&nbsp; 步行（5-10分钟）到哈岗主要商区，餐厅，面包店，公车站，Rite-A</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_5.html">房屋出租</a> <span class="view">1评论</span> <span class="reply">293浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975361.html" target="_blank"><h4>专业维修 铁门 栅栏 各种仓库门</h4></a> 
+         <div class="content"> 
+          <p class="p-text">承接各种铁艺维修 焊接 油漆工作 诚信 实惠 电话：6265929997</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">13浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975313.html" target="_blank"><h4>门窗服务 价格最低</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">承接各种门窗服务 售卖 安装 维修 工厂价格 &nbsp; Stephen 周&nbsp; 联系电话：6262338292&nbsp; 微信号：Glorywindow&nbsp; 5332278&nbsp; 5332279&nbsp; 5332280&nbsp; 5332281&nbsp; 5332282&nbsp; 5332283&amp;nb</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">14浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_1975215.html" target="_blank"><h4>龙发装饰墙板、地板促销大酬宾</h4></a> 
+         <div class="content"> 
+          <p class="p-text">为答谢新老客户的支持，龙发装饰特推出以下超值产品，数量有限，先到先得！&nbsp; 1、MDF墙板：$0.98/Sq.Ft&nbsp; 2、复合地板：$0.99/Sq.Ft &nbsp; 3、防水地板：$2.28/Sq.Ft &nbsp; 4、防水地</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_46.html">搬家装修</a> <span class="view">0评论</span> <span class="reply">11浏览</span> <span class="time">1天前</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinla.com/v/v_159.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_159.html" target="_blank"><h4>在美国如何处理装修垃圾？</h4></a> 
+          <div class="info">
+           <span>2016/07/11</span><span>5944观看</span>
+          </div> 
+          <p>装修垃圾一般是装修公司负责处理，如果垃圾量大，您也可以付费租垃圾箱装满后由垃圾公司负责拉走处理，也可以自己处理，自己将垃圾拉倒垃圾场处理。自家的垃圾箱不能装装修垃圾。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1778.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1778.html" target="_blank"><h4>如何选购装修石材</h4></a> 
+          <div class="info">
+           <span>2018/03/27</span><span>24984观看</span>
+          </div> 
+          <p>家庭装修时地面墙面、厨房台面、浴室台面等位置如何选择石材？天然石材都有哪些种类？又有哪些优缺点？人造石材又是否更有优势？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_2381.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_2381.html" target="_blank"><h4>房屋装修如何申请Permit</h4></a> 
+          <div class="info">
+           <span>2018/10/07</span><span>4928观看</span>
+          </div> 
+          <p>在美国，为房屋加建和改建都需要申请什么样的许可？什么时候申请？申请流程是什么？有什么注意事项？如果没有许可会有什么后果？今天的How视频告诉您房屋装修如何申请Permit。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_2994.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_2994.html" target="_blank"><h4>如何利用装修项目提高房产回报率</h4></a> 
+          <div class="info">
+           <span>2019/06/16</span><span>2078观看</span>
+          </div> 
+          <p>装修房屋能使居住环境得到改善，但是却往往在出售房屋时得不到较高的回报率。在资金有限的情况下，如何装修房屋能获得更好的效果，卖房时提高回报率？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_211.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_211.html" target="_blank"><h4>如何在墙上挂电视机？</h4></a> 
+          <div class="info">
+           <span>2017/06/27</span><span>54759观看</span>
+          </div> 
+          <p>美国房子大多数都是木桩结构的房屋，通常在室内挂重物都需要寻找木桩固定。本期节目我们介绍不需要寻找木桩固定、直接在墙体挂电视的方法</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_241.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_241.html" target="_blank"><h4>在美国如何补墙？</h4></a> 
+          <div class="info">
+           <span>2017/06/27</span><span>40775观看</span>
+          </div> 
+          <p>修补孔洞或者钉子眼的时候，需要注意避免眼睛和肺部被打磨墙壁时带来的灰尘伤害，因此护目镜、口罩与手套是DIY装修的三道健康防线。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_219.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_219.html" target="_blank"><h4>在美国如何DIY油漆墙面？</h4></a> 
+          <div class="info">
+           <span>2017/07/19</span><span>98773观看</span>
+          </div> 
+          <p>由于油漆有刺激性，因此护目镜、口罩与手套是DIY装修的三道健康防线。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1026.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1026.html" target="_blank"><h4>在美国买房后如何开通水电瓦斯</h4></a> 
+          <div class="info">
+           <span>2017/07/29</span><span>3715观看</span>
+          </div> 
+          <p>在美国购买房屋后需要及时开通水电瓦斯服务，那么在什么地方可以找到相关公司的信息呢？怎样才能开通相关业务呢？今天的How 视频教你在美国房屋交易后如何开通水电瓦斯。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1088.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1088.html" target="_blank"><h4>在美国如何改建自己的房屋</h4></a> 
+          <div class="info">
+           <span>2017/08/09</span><span>11686观看</span>
+          </div> 
+          <p>在美国想要改建自己的房子需要得到政府的许可，那么在改建房屋的过程中有哪些步骤需要注意呢？今天的How视频告诉您在美国如何改建自己的房子。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_160.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_160.html" target="_blank"><h4>如何使用自家电表箱</h4></a> 
+          <div class="info">
+           <span>2016/07/12</span><span>13093观看</span>
+          </div> 
+          <p>美国房屋电表箱与中国不同，是在室外。如果突发停电状况要如何检查电表？为什么在检查电表前还要观察房屋周围是否有陌生人？大房子的正副电表箱又要如何检查？本期How视频就为您解答如何使用自家电表箱。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_223.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_223.html" target="_blank"><h4>如何修补墙面——超大墙洞</h4></a> 
+          <div class="info">
+           <span>2017/06/27</span><span>125525观看</span>
+          </div> 
+          <p>修补超级大的墙洞时，需要注意避免眼睛和肺部被打磨墙壁时带来的灰尘伤害，因此护目镜、口罩与手套是DIY装修的三道健康防线。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_224.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_224.html" target="_blank"><h4>如何修补墙面——大洞</h4></a> 
+          <div class="info">
+           <span>2017/06/27</span><span>8583观看</span>
+          </div> 
+          <p>搬家的时候，墙面遗留挂物的孔洞是很多家庭都经常碰到的问题。前些时候，专家教会了我们修补小一号的墙眼，那么，大一号的墙眼该如何修补呢？</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_225.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_225.html" target="_blank"><h4>如何修补墙面——小洞</h4></a> 
+          <div class="info">
+           <span>2017/06/27</span><span>95490观看</span>
+          </div> 
+          <p>搬家的时候，墙面遗留挂物的孔洞是很多家庭都经常碰到的问题，其实，修补这些大小不一的孔洞，自己动手也可以做得非常完美，下面就请专家来教我们从最小口径的孔洞做起。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1374.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1374.html" target="_blank"><h4>如何正确使用电钻</h4></a> 
+          <div class="info">
+           <span>2017/12/06</span><span>44129观看</span>
+          </div> 
+          <p>电钻的用途很广，在家庭打钉子或拆除家居时十分省力。市面上的电钻类型也十分繁杂。这些电钻都是如何使用的呢？我们今天就拿市面上非常普遍的电钻演示，如何正确安全的使用电钻。快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1531.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1531.html" target="_blank"><h4>如何使用水平仪</h4></a> 
+          <div class="info">
+           <span>2018/01/24</span><span>18751观看</span>
+          </div> 
+          <p>在家装过程中，铺瓷砖、铺地板等等，都需要水平操作，但是，如何找到水平？有没有专业的工具？如何使用？今天的How视频告诉你如何使用水平仪。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1375.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1375.html" target="_blank"><h4>如何选择合适的电钻</h4></a> 
+          <div class="info">
+           <span>2018/01/28</span><span>11673观看</span>
+          </div> 
+          <p>在组装家居或打钉子时，一把好用的电钻会省去不少力气。在市面上的电钻类型也十分繁杂。如何挑选一把适合自己的电钻呢？哪款电钻最适合家庭使用呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1536.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1536.html" target="_blank"><h4>如何和水泥</h4></a> 
+          <div class="info">
+           <span>2018/01/29</span><span>40668观看</span>
+          </div> 
+          <p>在家装过程中，水泥是常常被用到的材料，但是，如何和水泥也是有所讲究的，用什么工具，水和水泥灰的配比是什么？怎样搅打才均匀？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1560.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1560.html" target="_blank"><h4>如何铺水泥板</h4></a> 
+          <div class="info">
+           <span>2018/02/04</span><span>9122观看</span>
+          </div> 
+          <p>很多人在家庭装修时都会选择在地面贴瓷砖，那么，贴瓷砖前我们需要对地面做什么样的处理？什么材质的地面才需要铺水泥板？如何贴水泥板呢？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1611.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1611.html" target="_blank"><h4>墙砖掉了如何DIY修复</h4></a> 
+          <div class="info">
+           <span>2018/02/08</span><span>6155观看</span>
+          </div> 
+          <p>自己家里的墙砖掉了怎么办？如何自己DIY修复呢？需要用到哪些材料呢？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinla.com/v/v_1567.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinla.com/v/v_1567.html" target="_blank"><h4>如何切割瓷砖</h4></a> 
+          <div class="info">
+           <span>2018/02/12</span><span>17667观看</span>
+          </div> 
+          <p>瓷砖在家庭装修中应用十分广泛，那么，贴瓷砖前我们如果需要改变瓷砖的尺寸，应该如何切割呢？How视频为您解答。</p> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="2" 

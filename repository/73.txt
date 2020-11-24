@@ -1,0 +1,773 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/search/key_%e7%89%99%e5%8c%bb.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达华人资讯网 - 佛罗里达本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e7%89%99%e5%8c%bb.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_top">
+    <div class="search_ads" id="search_ads"> <span id="recommend2"></span> 
+     <div id="line"></div> 
+     <dl class="search_ads"> 
+      <dt> <a href="https://www.chineseinflorida.com/doctor/task_list/catid_1.html" class="map_link" target="_blank">佛罗里达华人医生</a> 
+      </dt> 
+      <dd>
+       佛罗里达华人医生
+      </dd> 
+     </dl> 
+    </div>
+   </div> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_186/%E7%A8%8B%E6%99%93%E6%94%BE.html" class="map_link" target="_blank" title="程晓放">程晓放</a>
+         </div><a href="/doctor/task_review/id_186/%E7%A8%8B%E6%99%93%E6%94%BE.html" class="review" title="点评"></a><a href="/doctor/task_image/id_186/%E7%A8%8B%E6%99%93%E6%94%BE.html" class="image" title="图片"></a><a href="/doctor/task_message/id_186/%E7%A8%8B%E6%99%93%E6%94%BE.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/doctor/task_view/id_186/%E7%A8%8B%E6%99%93%E6%94%BE.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;12434 W.Atlantic Blvd.,Coral Springs, FL 33071
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;954-341-1888,305-431-1266
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_9/Coral%20Springs.html" title="Coral Springs" class="map_link">Coral Springs</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_232/%E6%A2%81%E6%B0%B8%E6%B8%A4.html" class="map_link" target="_blank" title="梁永渤">梁永渤</a><span class="blue_font">-</span><a href="/doctor/task_view/id_232/%E6%A2%81%E6%B0%B8%E6%B8%A4.html" class="map_link" target="_blank" title="Leung">Leung</a>
+         </div><a href="/doctor/task_review/id_232/%E6%A2%81%E6%B0%B8%E6%B8%A4.html" class="review" title="点评"></a><a href="/doctor/task_message/id_232/%E6%A2%81%E6%B0%B8%E6%B8%A4.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;16200NE 13th Ave.,North Miami Beach,FL 33162
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;305-899-1406,954-921-5553,305-944-9388
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_258/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E5%B8%88.html" title="华人医师" class="map_link">华人医师</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_272/North%20Miami%20Beach.html" title="North Miami Beach" class="map_link">North Miami Beach</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">3</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_182/%E6%9D%8E%E8%BE%BE%E6%99%BA.html" class="map_link" target="_blank" title="李达智">李达智</a><span class="blue_font">-</span><a href="/doctor/task_view/id_182/%E6%9D%8E%E8%BE%BE%E6%99%BA.html" class="map_link" target="_blank" title="Raymond T.Lee">Raymond T.Lee</a>
+         </div><a href="/doctor/task_review/id_182/%E6%9D%8E%E8%BE%BE%E6%99%BA.html" class="review" title="点评"></a><a href="/doctor/task_message/id_182/%E6%9D%8E%E8%BE%BE%E6%99%BA.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;7840 Glades Rd #235 Boca Raton, FL 33434
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;561-482-2005
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">4</span>
+         <div class="company-title">
+          <a href="/company/task_view/id_68/Darsh%20Persaud.html" class="map_link" target="_blank" title="Darsh Persaud">Darsh Persaud</a>
+         </div><a href="/company/task_review/id_68/Darsh%20Persaud.html" class="review" title="点评"></a><a href="/company/task_message/id_68/Darsh%20Persaud.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;14463 University Cove Place, Tampa, FL 33613
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;813-910-3333
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list.html" class="map_link" target="_blank">佛罗里达医院</a><span>&gt;</span><span class="list_tag"><a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list/tagId_170/%E5%8D%8E%E4%BA%BA.html" title="华人" class="map_link">华人</a>,&nbsp;&nbsp;<a href="/company/catid_84/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8C%BB%E9%99%A2/task_list/tagId_29/Tampa.html" title="Tampa" class="map_link">Tampa</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">5</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_211/%E6%9D%A8%E5%A4%A7%E4%B8%AD.html" class="map_link" target="_blank" title="杨大中">杨大中</a>
+         </div><a href="/doctor/task_review/id_211/%E6%9D%A8%E5%A4%A7%E4%B8%AD.html" class="review" title="点评"></a><a href="/doctor/task_image/id_211/%E6%9D%A8%E5%A4%A7%E4%B8%AD.html" class="image" title="图片"></a><a href="/doctor/task_message/id_211/%E6%9D%A8%E5%A4%A7%E4%B8%AD.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/doctor/task_view/id_211/%E6%9D%A8%E5%A4%A7%E4%B8%AD.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;10189 Cleary Blvd .,Suite 201 ,Platation ,FL 33324
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;954-715-7593
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_258/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E5%B8%88.html" title="华人医师" class="map_link">华人医师</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_265/Platation.html" title="Platation" class="map_link">Platation</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">6</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_187/%E9%82%B1%E6%AD%A6%E4%B8%89.html" class="map_link" target="_blank" title="邱武三">邱武三</a><span class="blue_font">-</span><a href="/doctor/task_view/id_187/%E9%82%B1%E6%AD%A6%E4%B8%89.html" class="map_link" target="_blank" title="W.S.Chiou">W.S.Chiou</a>
+         </div><a href="/doctor/task_review/id_187/%E9%82%B1%E6%AD%A6%E4%B8%89.html" class="review" title="点评"></a><a href="/doctor/task_message/id_187/%E9%82%B1%E6%AD%A6%E4%B8%89.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;104 S.E 8TH AVE FT LAUDERDALE
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;954-463-3994
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">7</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_180/%E9%BB%84%E5%AD%90%E5%BA%94.html" class="map_link" target="_blank" title="黄子应">黄子应</a>
+         </div><a href="/doctor/task_review/id_180/%E9%BB%84%E5%AD%90%E5%BA%94.html" class="review" title="点评"></a><a href="/doctor/task_message/id_180/%E9%BB%84%E5%AD%90%E5%BA%94.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;300NW. 70th Avenue Suite 304 Plantation ,FL
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;954-791-4100
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">8</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_178/%E8%AE%B8%E8%AF%81%E7%88%B5.html" class="map_link" target="_blank" title="许证爵">许证爵</a><span class="blue_font">-</span><a href="/doctor/task_view/id_178/%E8%AE%B8%E8%AF%81%E7%88%B5.html" class="map_link" target="_blank" title="Harold Hui">Harold Hui</a>
+         </div><a href="/doctor/task_review/id_178/%E8%AE%B8%E8%AF%81%E7%88%B5.html" class="review" title="点评"></a><a href="/doctor/task_message/id_178/%E8%AE%B8%E8%AF%81%E7%88%B5.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;16209 NE 13th Ave。North Miami Beach ,FL33162
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;17901 NW 5th Street ,206 Pembroke Pines ,FL 33029
+           </div>
+          </div>
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;12651 S.Dixie Hwy.,400 Miami,FL 33157<a class="ctrl-address-more">更多地址&gt;&gt;</a>
+           </div>
+          </div>
+          <div class="address_more">
+           <div class="address_list_block">
+            <div class="adress_text">
+             地址:&nbsp;&nbsp;600 S.Dixie Hwy .,105A West Palm Beach,FL 33401
+            </div>
+           </div>
+          </div><a class="ctrl-address-more-hide">收起</a>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;305-940-9888,654-430-2188,305-595-4548,561-820-8898
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_62/206%20Pembroke%20Pines.html" title="206 Pembroke Pines" class="map_link">206 Pembroke Pines</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_63/400%20Miami.html" title="400 Miami" class="map_link">400 Miami</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_64/105A%20West%20Palm%20Beach.html" title="105A West Palm Beach" class="map_link">105A West Palm Beach</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">9</span>
+         <div class="company-title">
+          <a href="/doctor/task_view/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="map_link" target="_blank" title="生雨晨">生雨晨</a><span class="blue_font">-</span><a href="/doctor/task_view/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="map_link" target="_blank" title="Yuchen Sheng">Yuchen Sheng</a>
+         </div><a href="/doctor/task_review/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="review" title="点评"></a><a href="/doctor/task_image/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="image" title="图片"></a><a href="/doctor/task_displayVideo/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="video" title="视频"></a><a href="/doctor/task_message/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/doctor/task_view/id_490/%E7%94%9F%E9%9B%A8%E6%99%A8.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;100 Lincoln Road, CU-7,Miami Beach, FL 33139
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;3055326977
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list.html" class="map_link" target="_blank">华人医生</a><span>&gt;</span><span class="list_tag"><a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_169/%E7%89%99%E5%8C%BB.html" title="牙医" class="map_link">牙医</a>,&nbsp;&nbsp;<a href="/doctor/%E5%8D%8E%E4%BA%BA%E5%8C%BB%E7%94%9F/task_list/tagId_36/Miami%20Beach.html" title="Miami Beach" class="map_link">Miami Beach</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/f/page_viewtopic/t_26465.html" target="_blank"><h4>给您的孩子戴牙套</h4></a> 
+         <div class="content"> 
+          <p class="p-text">给您的孩子戴牙套？&nbsp; &nbsp; 我们都知道我们的孩子甚至我们自己的牙套都很贵，我们想帮你省钱!我们一直在帮助家庭节省高达80%的牙套和牙科费用。 27年的关爱，我们很高兴能帮助您!&nbsp; &nbsp; &nbsp; 计划还</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_6.html">投资理财</a> <span class="view">1评论</span> <span class="reply">54浏览</span> <span class="time">2019/06/15</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_26463.html" target="_blank"><h4>牙科计划每月$24.95</h4></a> 
+         <div class="content"> 
+          <p class="p-text">你想去看<span class="key">牙医</span>吗?&nbsp; 在清洁丶检查丶填充物丶牙冠丶牙根管丶牙套丶美容等方面节省80%。&nbsp; 家庭计划是每月25美元&nbsp; 计划还包括视力丶处方和脊椎按摩。&nbsp; &nbsp; 没有等待时间&nbsp; 无免赔额&nbsp; 没</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_6.html">投资理财</a> <span class="view">0评论</span> <span class="reply">103浏览</span> <span class="time">2019/06/15</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_26461.html" target="_blank"><h4>你想去看<span class="key">牙医</span>吗？</h4></a> 
+         <div class="content"> 
+          <p class="p-text">你想去看<span class="key">牙医</span>吗? 在清洁丶检查丶填充物丶牙冠丶牙根管丶牙套丶美容等方面节省80%。家庭计划是每月25美元 计划还包括视力丶处方和脊椎按摩。 没有等待时间 无免赔额 没有文件 没有限制 即时储蓄 30天退款保证，今天注</p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_32.html">医疗健康</a> <span class="view">0评论</span> <span class="reply">105浏览</span> <span class="time">2019/06/15</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_8083.html" target="_blank"><h4>韩国政府认证的卓越的牙科材料销售</h4></a> 
+         <div class="content"> 
+          <p class="p-text">你好我韩国政府认证的卓越的牙科材料销售公司认识你很高兴。 种植系,奥齿泰-OSSTEM, 覆盖义齿, kerator,人工骨 可以加微信jidental https://hanguoyakecailiao.modoo.at </p> 
+          <div class="bottom"> <a href="/f/page_viewforum/f_32.html">医疗健康</a> <span class="view">0评论</span> <span class="reply">301浏览</span> <span class="time">2017/07/26</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_472.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_472.html" target="_blank"><h4>美国牙医教您如何正确刷牙</h4></a> 
+          <div class="info">
+           <span>2016/12/22</span><span>36156观看</span>
+          </div> 
+          <p>在美国，人们把牙齿健康看的格外重要，但是有很多人的其实并不会“刷牙”，本期How视频请来了美国牙医，教您如何正确刷牙。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_474.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_474.html" target="_blank"><h4>在美国如何选择牙医</h4></a> 
+          <div class="info">
+           <span>2016/12/28</span><span>9094观看</span>
+          </div> 
+          <p>在美国如何选择牙医呢？接下来介绍几种有效方法，教你快速有效的选到合适牙医。有请李晶晶钻石吧牙科的李晶晶博士为您答疑解惑。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_491.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_491.html" target="_blank"><h4>如何成为一名美国牙医？</h4></a> 
+          <div class="info">
+           <span>2016/12/30</span><span>5595观看</span>
+          </div> 
+          <p>在美国，牙医是一个很好的职业，但是要成为一名牙医并不是一件简单的事。本期How视频给大家详细讲解在如何成为一名美国牙医。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_708.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_708.html" target="_blank"><h4>美国牙医教你牙齿怕冷怕热怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/29</span><span>3781观看</span>
+          </div> 
+          <p>牙齿怕冷怕热非常敏感，不能吃想吃的食物是很多人烦恼的事情，牙齿敏感是由于牙周病导致的牙龈萎缩牙根暴露造成的，如何缓解牙齿敏感维护牙齿健康呢？How视频请来专业的牙医告诉你方法。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_709.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_709.html" target="_blank"><h4>美国牙医教你吃饭塞牙怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/29</span><span>4493观看</span>
+          </div> 
+          <p>每次吃完饭，食物残渣塞在牙缝里实在是一件尴尬又难受的事情，什么情况导致自己的牙缝变大呢？如何预防和治疗塞牙呢？答案就在这期How视频里。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_710.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_710.html" target="_blank"><h4>美国牙医教你牙痛怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/29</span><span>15540观看</span>
+          </div> 
+          <p>牙痛不是病，疼起来真要命，当我们牙痛不止寻找牙医帮助时，牙医会用那些方法治疗我们牙痛的症状呢？抽出坏死的牙神经就可以一劳永逸的解决牙痛吗？让我们听听美国牙医教你牙痛怎么办。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_728.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_728.html" target="_blank"><h4>美国牙医教你如何正确使用牙线</h4></a> 
+          <div class="info">
+           <span>2017/03/30</span><span>44185观看</span>
+          </div> 
+          <p>为什么要使用牙线，如何正确使用牙线呢？ 正常的刷牙过程无法清理到牙齿之间的邻接面，久而久之导致牙齿病变。这期How视频告诉你正确使用牙线的方法。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_731.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_731.html" target="_blank"><h4>美国牙医教你牙齿有臭味怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/31</span><span>25948观看</span>
+          </div> 
+          <p>牙齿发臭是一件非常尴尬的事情，在人际交流时不好意思说话，影响自信心。那么如何治疗牙齿发臭的情况呢？又是什么原因导致的牙齿发臭呢？快来看看这一期How视频，美国专业牙医告诉你牙齿有臭味怎么办，以后牙齿发臭也不用发愁啦。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_732.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_732.html" target="_blank"><h4>美国牙医教您如何为老人选择假牙</h4></a> 
+          <div class="info">
+           <span>2017/03/31</span><span>34276观看</span>
+          </div> 
+          <p>俗话说，牙好胃口就好。对于上了年纪的人或意外缺牙的人来说，没有牙齿吃什么都不香。装上假牙就能解决这一问题。那么市面上可以选择的假牙品种这么多，该如何选择合适自己的假牙呢？这期How视频我们邀请了美国专业牙医告诉您如何选择假牙。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_733.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_733.html" target="_blank"><h4>美国牙医教你牙龈出血怎么办</h4></a> 
+          <div class="info">
+           <span>2017/03/31</span><span>16390观看</span>
+          </div> 
+          <p>平时刷牙时，是否留意到牙龈有出血的状况呢？你是否忽视了这个牙齿给你的讯号呢？为什么牙龈会出血呢？牙龈出血应该怎么办呢？How视频邀请了美国牙周病专科牙医教你牙龈出血怎么办。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_736.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_736.html" target="_blank"><h4>美国牙医教你牙齿松动怎么办</h4></a> 
+          <div class="info">
+           <span>2017/04/05</span><span>130871观看</span>
+          </div> 
+          <p>牙齿的松动和人的年龄是没有关系的，小小的牙龈出血不注意也会引发牙齿松动和脱落。如果我们的牙齿已经松动了会采用哪些治疗手段呢？日常中我们应该如何自己维护已经松动的牙齿呢？来看这期How视频，美国专业牙医给建议。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_738.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_738.html" target="_blank"><h4>美国牙医教你如何做牙齿美白</h4></a> 
+          <div class="info">
+           <span>2017/04/07</span><span>6429观看</span>
+          </div> 
+          <p>无论在哪里，洁白的牙齿总会给人很好地第一印象，那么如何才能美白自己的牙齿呢？牙齿美白有哪些方法呢？这期How视频告诉你牙齿美白的方法和窍门。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_780.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_780.html" target="_blank"><h4>美国牙医教您如何缓解牙痛</h4></a> 
+          <div class="info">
+           <span>2017/04/26</span><span>90747观看</span>
+          </div> 
+          <p> 牙痛不是病，疼起来真要命，那么，当我们牙疼不已，却无法及时就医的时候，如何有效的缓解牙痛呢？网络上流传的缓解牙痛的偏方是正确的吗？让我们听听美国牙医是如何缓解牙痛的 。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_781.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_781.html" target="_blank"><h4>美国牙医教您睡觉磨牙怎么办</h4></a> 
+          <div class="info">
+           <span>2017/04/26</span><span>22611观看</span>
+          </div> 
+          <p>有些人会发现自己的牙齿变短了，或者打哈气时关节会有明显的响声。这都是磨牙导致的状况，那么如何刚好的保护自己的牙齿，预防下颌关节紊乱变形呢？这期How视频带你找答案。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_782.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_782.html" target="_blank"><h4>美国牙医教你如何清洁牙齿</h4></a> 
+          <div class="info">
+           <span>2017/04/26</span><span>4861观看</span>
+          </div> 
+          <p>与人交谈时整齐白洁的牙齿和清新的口气是建立良好第一印象的第一步。现代社会中的人们越来越重视维持口腔健康。那么如何正确的清洁牙齿，保持牙齿的清洁和口气的清新呢？这期How视频邀请专业的牙科专家帮你解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1815.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1815.html" target="_blank"><h4>在美国看牙医那点事儿</h4></a> 
+          <div class="info">
+           <span>2018/10/25</span><span>10529观看</span>
+          </div> 
+          <p>俗话说“牙疼不是病，疼起来真要命”，很多人会觉得自己不需要去看牙医，但是防患于未然还是有必要的！因为万一牙痛起来真是hold不住啊！ 相信很多在美华人对看牙都这这种想法：在美国看牙齿太贵啦！ 那么，在美国看牙是否真的太贵？在美国该如何看牙医呢? 保险又该怎么买呢?不同年龄段，牙齿的护理有什么区别吗?一旦牙齿出现问题，应该怎样处理? 本次直播中牙医博士李晶晶，将为大家一一解答这些问题。 欢迎大家在直播中提问哦~ 直播已开通电话热线，有移民面试疑问的可以在直播时，电话咨询哦~ 热线电话： 1(909)757-</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_473.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_473.html" target="_blank"><h4>如何正确维护牙齿</h4></a> 
+          <div class="info">
+           <span>2016/12/22</span><span>3705观看</span>
+          </div> 
+          <p>在美国，人们把牙齿健康看的格外重要，那么我们应该如何正确维护牙齿呢？本期How视频请来了美国牙医给大家详细解答如何正确的维护牙齿。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_482.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_482.html" target="_blank"><h4>在美国如何拔牙</h4></a> 
+          <div class="info">
+           <span>2016/12/28</span><span>47587观看</span>
+          </div> 
+          <p>不用锤子凿子锯子，不用在担心疼痛，轻松拔牙。那么哪

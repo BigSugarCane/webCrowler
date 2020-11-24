@@ -1,0 +1,1039 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinla.com/education.html">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinla.com/page_second/task_education.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>美国留学条件_美国留学费用_美国留学签证全攻略 - 洛杉矶华人资讯网</title> 
+  <meta name="description" content="洛杉矶教育培训,包含洛杉矶大学，中学，小学，学区，洛杉矶语言学院，成人学校等信息以及美国知名大学，升学培训，留学机构等信息"> 
+  <meta name="keywords" content="洛杉矶大学,美国知名大学,洛杉矶语言学校,洛杉矶成人学校,洛杉矶职业培训,洛杉矶高中,洛杉矶中学，洛杉矶小学，洛杉矶学区"> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/second_page.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"></div>
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li class="active"><a href="/education.html" class="brand">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/wiki.html" id="inactive_menu1139">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/education.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1139"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_1"> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.chineseinla.com/f/page_viewforum/f_25.html" title="留学美国" target="_blank"><span>留学美国</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/task_list/catid_209.html" target="_blank">美国名校</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_1598.html" target="_blank">签证办理</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_75.html" target="_blank">留学中介</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_1186.html" target="_blank">身份转换</a></span> <span><a href="https://www.chineseinla.com/public_library/task_list.html" target="_blank">公共图书馆</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E6%94%BB%E7%95%A5.html" target="_blank">申请攻略</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.chineseinla.com/f/page_viewforum/f_63.html" title="培训家教" target="_blank"><span>培训家教</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_574.html" target="_blank">职业培训</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_214.html" target="_blank">语言学校</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_7663.html" target="_blank">升学辅导</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_215.html" target="_blank">中文学校</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_305.html" target="_blank">成人学校</a></span> <span><a href="https://www.chineseinla.com/company/task_group/group_55.html" target="_blank">才艺培训</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_81.html" title="洛杉矶学校" target="_blank"><span>洛杉矶学校</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_50/task_list/tagId_13576.html" target="_blank">私立高中</a></span> <span><a href="https://www.chineseinla.com/school/type_2.html" target="_blank">初中排名</a></span> <span><a href="https://www.chineseinla.com/university.html" target="_blank">大学分布</a></span> <span><a href="https://www.chineseinla.com/school/type_1.html" target="_blank">小学排名</a></span> <span><a href="https://www.chineseinla.com/company/task_map/catid_50.html" target="_blank">高中分布图</a></span> <span><a href="https://www.chineseinla.com/company/task_map/catid_81.html" target="_blank">学区分布</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="sda_left3"> <a href="https://www.chineseinla.com/bulletin_table.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.chineseinla.com/sort_news/type_5.html" target="_blank">最新资讯</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.chineseinla.com/sort_news/type_5.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1"> <a href="https://www.chineseinla.com/hotnews/1860684.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article"> 
+        <div class="title">
+         <a href="https://www.chineseinla.com/hotnews/1860684.html" target="_blank">美国各大学开始考虑在2021年之前取消面对面授课</a>
+        </div> 
+        <div class="article">
+         <p>在2022年之前，美国可能不得不忍受社会疏远的措施，比如在家办公和关闭学校。</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="picture_article1"> 
+       <div class="picture1"> <a href="https://www.chineseinla.com/hotnews/1857965.html" target="_blank"></a> 
+       </div> 
+       <div class="title_article"> 
+        <div class="title">
+         <a href="https://www.chineseinla.com/hotnews/1857965.html" target="_blank">新冠疫情下 华人H1B合法身份面临新变数</a>
+        </div> 
+        <div class="article">
+         <p>新冠疫情下 华人合法身份面临新变数! 美国移民局"不作为" 华裔何去何从?</p>
+        </div> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_1123677.html" title="国际学生维持身份,除了GPA还要？" target="_blank">国际学生维持身份,除了GPA还要？</a></li> 
+        <li><a href="https://www.chineseinla.com/v/v_105.html" title="H1B抽签失败如何合法留在美国" target="_blank">H1B抽签失败如何合法留在美国</a></li> 
+        <li><a href="https://www.chineseinla.com/v/v_2344.html" title="在美国如何申请留学生公寓" target="_blank">在美国如何申请留学生公寓</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_909123.html" title="加州课本将加LGBT内容" target="_blank">加州课本将加LGBT内容</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_894501.html" title="教你如何在美帝看奥运直播！" target="_blank">教你如何在美帝看奥运直播！</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_862800.html" title="美国名校申请策略与案例" target="_blank">美国名校申请策略与案例</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_851547.html" title="新版I-20表格解析 不想被拉进小黑屋就赶快更新吧" target="_blank">新版I-20表格解析 不想被拉进小黑屋就赶快更新吧</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_705467.html" title="美国10所最好的私立大学" target="_blank">美国10所最好的私立大学</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_698742.html" title="2016年十所最佳公立大学" target="_blank">2016年十所最佳公立大学</a></li> 
+        <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_692160.html" title="教你一次性搞定美国大学网申" target="_blank">教你一次性搞定美国大学网申</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/f/page_viewforum/f_74.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/deal.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="http://bluedataesl.com/?lang=zh-hant" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/living.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/university_map.html" target="_blank"></a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/la_weblinks.html" target="_blank" rel="nofollow">  </a> 
+     </div>
+     <div class="sda_right4"> <a href="https://www.chineseinla.com/company.html" target="_blank">  </a> 
+     </div>
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="/howvideo.html" target="_blank"></a> 
+   </div>
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_2"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html" target="_blank">留学美国</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.chineseinla.com/company/catid_75/task_list.html" class="right_vertical_line" target="_blank">留学服务</a><a href="https://www.chineseinla.com/company/task_list/catid_209.html" class="right_vertical_line" target="_blank">美国名校</a><a href="https://www.chineseinla.com/university/task_list.html" target="_blank">洛杉矶大学</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left"> 
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.chineseinla.com/f/page_viewforum/f_25.html" title="留学申请" target="_blank"><span>留学申请</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/task_list/catid_75.html" target="_blank">留学中介</a></span> <span><a href="https://www.chineseinla.com/university_map.html" target="_blank">名校地图</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_1185.html" target="_blank">学历认证</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E6%94%BB%E7%95%A5.html" target="_blank">申请攻略</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E7%A0%94%E7%A9%B6%E7%94%9F.html" target="_blank">研究生申请</a></span> <span><a href="https://www.chineseinla.com/university.html" target="_blank">大学分布图</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_75.html" title="签证身份" target="_blank"><span>签证身份</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_42/key_%E9%9D%A2%E7%AD%BE.html" target="_blank">面签</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_11245.html" target="_blank">OPT</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_9403.html" target="_blank">转学</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_42/key_H-1B.html" target="_blank">H-1B</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_9405.html" target="_blank">恢复身份</a></span> <span><a href="https://www.chineseinla.com/company/catid_75/task_list/tagId_9404.html" target="_blank">挂名</a></span> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.chineseinla.com/university/task_list.html" target="_blank">洛杉矶大学</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.chineseinla.com/university/task_list.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_5403/Antelope%20Valley%20College.html" title="Antelope Valley College" target="_blank">Antelope Valley College</a></li> 
+        <li><a href="/company/task_view/id_5404/Art%20Center%20College%20Of%20Design%28HILLSIDE%20CAMPUS%29.html" title="Art Center College Of Design(HILLSIDE CAMPUS)" target="_blank">Art Center College Of Design(HILLSIDE CAMPUS)</a></li> 
+        <li><a href="/company/task_view/id_5405/Art%20Center%20College%20Of%20Design%28SOUTH%20CAMPUS%29.html" title="Art Center College Of Design(SOUTH CAMPUS)" target="_blank">Art Center College Of Design(SOUTH CAMPUS)</a></li> 
+        <li><a href="/company/task_view/id_5406/Art%20Institute%20Of%20Southern%20California.html" title="Art Institute Of Southern California" target="_blank">Art Institute Of Southern California</a></li> 
+        <li><a href="/company/task_view/id_5407/Azusa%20Pacific%20University.html" title="Azusa Pacific University" target="_blank">Azusa Pacific University</a></li> 
+        <li><a href="/company/task_view/id_5408/Biola%20University.html" title="Biola University" target="_blank">Biola University</a></li> 
+        <li><a href="/company/task_view/id_5409/Cal%20State%20Polytechnic%20University%20Pomona.html" title="Cal State Polytechnic University Pomona" target="_blank">Cal State Polytechnic University Pomona</a></li> 
+        <li><a href="/company/task_view/id_5410/%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2.html" title="加州理工学院" target="_blank">加州理工学院--California Institute Of Technology</a></li> 
+        <li><a href="/company/task_view/id_5411/%E5%8A%A0%E5%B7%9E%E8%89%BA%E6%9C%AF%E5%AD%A6%E9%99%A2.html" title="加州艺术学院" target="_blank">加州艺术学院--California Institute of the Arts</a></li> 
+        <li><a href="/company/task_view/id_5412/Cerritos%20College.html" title="Cerritos College" target="_blank">Cerritos College</a></li> 
+        <li><a href="/company/task_view/id_5413/Chapman%20University.html" title="Chapman University" target="_blank">Chapman University</a></li> 
+        <li><a href="/company/task_view/id_5414/Citrus%20College.html" title="Citrus College" target="_blank">Citrus College</a></li> 
+        <li><a href="/company/task_view/id_5415/Claremont%20Colleges.html" title="Claremont Colleges" target="_blank">Claremont Colleges</a></li> 
+        <li><a href="/company/task_view/id_5416/Cleveland%20Chiropractic%20College.html" title="Cleveland Chiropractic College" target="_blank">Cleveland Chiropractic College</a></li> 
+        <li><a href="/company/task_view/id_5417/Coastline%20Community%20College.html" title="Coastline Community College" target="_blank">Coastline Community College</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle"> 
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html" target="_blank">留学快讯</a>
+       </div> 
+       <div class="more2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html" target="_blank">进入论坛&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_1965677.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/f/page_viewtopic/t_1965677.html" target="_blank">加州大学翻旧账严查招生,挖出64名有钱人的孩子</a>
+        </div> 
+       </div> 
+       <div class="article_div2"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.chineseinla.com/hotnews/1857965.html" title="新冠疫情下 华人H1B合法身份面临新变数" target="_blank">新冠疫情下 华人H1B合法身份面临新变数</a></li> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_1860684.html" title="受疫情影响 美国各大学或取消秋季入学！" target="_blank">受疫情影响 美国各大学或取消秋季入学！</a></li> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_918145.html" title="入境美国不能带的东西" target="_blank">入境美国不能带的东西</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E7%AD%BE%E8%AF%81" target="_blank">留学签证</a>
+       </div> 
+       <div class="v2_article_dottleline"></div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_1857965.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/f/page_viewtopic/t_1857965.html" target="_blank">被裁后合法身份面临变数,他们何去何从</a>
+        </div> 
+       </div> 
+       <div class="article_div2"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_917884.html" title="中国留学生被遣返" target="_blank">中国留学生被遣返</a></li> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_909292.html" title="在美创业签证如何选择" target="_blank">在美创业签证如何选择</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E6%94%BB%E7%95%A5.html" target="_blank">申请攻略</a>
+       </div> 
+       <div class="v2_article_dottleline"></div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.chineseinla.com/v/task_view/vid_35.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/v/task_view/vid_35.html" target="_blank">申请美国公立中小学</a>
+        </div> 
+       </div> 
+       <div class="article_div2"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_672887.html" title="加州高中选校攻略" target="_blank">加州高中选校攻略</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E5%B0%8F%E7%95%99%E5%AD%A6%E7%94%9F" target="_blank">小留学生</a>
+       </div> 
+       <div class="v2_article_dottleline"></div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_908649.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/f/page_viewtopic/t_908649.html" target="_blank">45万留学家庭的焦虑从</a>
+        </div> 
+       </div> 
+       <div class="article_div2"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.chineseinla.com/f/page_viewtopic/t_607656.html" title="小留学生的烦恼" target="_blank">小留学生的烦恼</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="sponsor_div"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html" target="_blank">留学机构</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.chineseinla.com/company/task_list/page_1/catid_75.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_73602.html" target="_blank">全美留学</a> </span> <span class="sponsor_contact"> <span class="tel">626-905-3216</span> </span> <span class="sponsor_introduce">最专业美国本土服务,解决您各项学务问题</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_73602.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_228731.html" target="_blank">ACEG-LA</a> </span> <span class="sponsor_contact"> <span class="tel">626-423-9936</span> </span> <span class="sponsor_introduce">专业处理学业疑难杂症</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_228731.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/company/task_view/id_21738.html" target="_blank">美捷留学</a> </span> <span class="sponsor_contact"> <span class="tel">626-551-1306</span> </span> <span class="sponsor_introduce">洛杉矶的专业留学咨询中介</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/company/task_view/id_21738.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_461297.html" target="_blank">立足加州服务全美-加州留学</a> </span> <span class="sponsor_contact"> <span class="tel">626-600-4099</span> </span> <span class="sponsor_introduce">高中本科研究生名校捷径</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/f/page_viewtopic/t_461297.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/company/task_view/id_34942.html" target="_blank">卓美留学</a> </span> <span class="sponsor_contact"> <span class="tel">626-733-4740</span> </span> <span class="sponsor_introduce">卓美留学崇尚专业跟卓越的服务理念，核心谘询团队全部由美国名校</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/company/task_view/id_34942.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/company/task_view/id_17504.html" target="_blank">留学学务服务公司</a> </span> <span class="sponsor_contact"> <span class="tel">626-566-5123</span> </span> <span class="sponsor_introduce">世纪长青留学学务中心</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/company/task_view/id_17504.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+      <div class="dotline3"></div>
+      <div class="sponsor_inline"> 
+       <div class="sponsor_details"> <span class="sponsor_title"> <a href="https://www.chineseinla.com/company/task_view/id_82444.html" target="_blank">艾维国际教育集团</a> </span> <span class="sponsor_contact"> <span class="tel">626-804-1818</span> </span> <span class="sponsor_introduce">美国留学，语言学校</span> 
+       </div> 
+       <div class="sponsor_image"> <a href="https://www.chineseinla.com/company/task_view/id_82444.html" target="_blank">  </a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="sda_right3"> <a href="https://www.chineseinla.com/f/page_viewforum/f_25.html" target="_blank"></a> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_video"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.chineseinla.com/howvideo.html" target="_blank">How视频</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.chineseinla.com/howvideo/task_listNode/nid_20.html" class="right_vertical_line" target="_blank">学校申请</a><a href="https://www.chineseinla.com/howvideo/task_listNode/nid_21.html" class="right_vertical_line" target="_blank">学生住宿</a><a href="https://www.chineseinla.com/howvideo/task_listNode/nid_23.html" class="right_vertical_line" target="_blank">签证身份</a><a href="https://www.chineseinla.com/howvideo/task_listNode/nid_44.html" target="_blank">美国转学</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="focus_box video"> 
+     <ul class="left"> 
+      <li class="big"> <a href="/v/v_3341.html" target="_blank" title="孩子成绩全A，还用提前做大学规划吗？孩子成绩不理想，还有必要做规划吗？《文美大学申请规划》2020.10.02第18期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>孩子成绩全A，还用提前做大学规划吗？孩子成绩不理想，还有必要做规划吗？《文美大学申请规划》2020.10.02第18期</span>
+        </div> </a> </li> 
+      <li> <a href="/v/v_3328.html" target="_blank" title="什么原因会被学校开除？被学校开除了怎么办？《文美大学申请规划》2020.09.04第15期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>什么原因会被学校开除？被学校开除了怎么办？《文美大学申请规划》2020.09.04第15期</span>
+        </div> </a> </li> 
+      <li> <a href="/v/v_3327.html" target="_blank" title="UC加州大学申请最新招生政策分析及注意事项《美国升学直通车》2020.09.09第17期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>UC加州大学申请最新招生政策分析及注意事项《美国升学直通车》2020.09.09第17期</span>
+        </div> </a> </li> 
+     </ul> 
+     <ul class="middle"> 
+      <li> <a href="/v/v_3322.html" target="_blank" title="疫情！山火！“非常时期”如何常态学习？">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>疫情！山火！“非常时期”如何常态学习？</span>
+        </div> </a> </li> 
+      <li> <a href="/v/v_3321.html" target="_blank" title="大学申请如何选择推荐人？课外实习项目含金量《文美大学申请规划》2020.08.28第14期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>大学申请如何选择推荐人？课外实习项目含金量《文美大学申请规划》2020.08.28第14期</span>
+        </div> </a> </li> 
+      <li> <a href="/v/v_3315.html" target="_blank" title="什么样的专业好就业？什么样的专业好录取？《文美大学申请规划》2020.08.21第13期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>什么样的专业好就业？什么样的专业好录取？《文美大学申请规划》2020.08.21第13期</span>
+        </div> </a> </li> 
+     </ul> 
+     <ul class="right"> 
+      <li> <a href="/v/v_3339.html" target="_blank" title="如何利用个人特长进名校？如何发现自己的特长？《文美大学申请规划》2020.09.25第17期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>如何利用个人特长进名校？如何发现自己的特长？《文美大学申请规划》2020.09.25第17期</span>
+        </div> </a> </li> 
+      <li> <a href="/v/v_3337.html" target="_blank" title="大学申请规划从几年级开始最合适？如何选择适合自己的规划机构？《文美大学申请规划》2020.09.18第16期">  <span class="v-play icon-play"></span> 
+        <div class="memo">
+         <span>大学申请规划从几年级开始最合适？如何选择适合自己的规划机构？《文美大学申请规划》2020.09.18第16期</span>
+        </div> </a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+    $(document).ready(function(){focusVideoAction();});
+</script> 
+   <div class="clear"></div> 
+   <div class="sda_right3"> 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+    <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+   </div>
+   <div class="sda_right3"> <a href="https://www.chineseinla.com/company/task_list/catid_81.html" target="_blank" rel="nofollow">  </a> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_3"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.chineseinla.com/f/page_viewforum/f_63.html" target="_blank">培训家教</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.chineseinla.com/company/catid_57/task_list/tagId_5849.html" class="right_vertical_line" target="_blank">Day Care</a><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E5%AE%B6%E6%95%99.html" class="right_vertical_line" target="_blank">家教</a><a href="https://www.chineseinla.com/company/task_list/catid_267.html" class="right_vertical_line" target="_blank">音乐</a><a href="https://www.chineseinla.com/company/task_list/catid_290.html" target="_blank">美术</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left">
+     <div class="sort_nav"> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.chineseinla.com/company/catid_53/task_list/tagId_7663.html" title="升学辅导" target="_blank"><span>升学辅导</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_7663.html" target="_blank">升学辅导</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_1485.html" target="_blank">升学咨询</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_532.html" target="_blank">SAT</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_5982.html" target="_blank">课后班</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E5%AE%B6%E6%95%99" target="_blank">家教</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_25/key_%E5%8D%87%E5%A4%A7%E5%AD%A6.html" target="_blank">高中升大学</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.chineseinla.com/company/catid_53/task_list/tagId_574.html" title="职业培训" target="_blank"><span>职业培训</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_5925.html" target="_blank">地产经纪培训</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_3183.html" target="_blank">按摩学院</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_1490.html" target="_blank">美容学校</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_1298.html" target="_blank">护理培训</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_1968.html" target="_blank">会计培训</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_12200.html" target="_blank">电脑培训</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_group/group_55.html" title="才艺培训" target="_blank"><span>才艺培训</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/task_list/catid_267.html" target="_blank">音乐学校</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_290.html" target="_blank">美术学校</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_173.html" target="_blank">舞蹈学校</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E8%8C%B6%E8%89%BA.html" target="_blank">茶艺培训</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_429.html" target="_blank">运动教练</a></span> <span><a href="https://www.chineseinla.com/company/catid_53/task_list/tagId_2645.html" target="_blank">武术</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item background_gray"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_214.html" title="语言培训" target="_blank"><span>语言培训</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_214/task_list/tagId_5943.html" target="_blank">汉语</a></span> <span><a href="https://www.chineseinla.com/company/catid_214/task_list/tagId_1337.html" target="_blank">ESL</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.html" target="_blank">西班牙语</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E6%97%A5%E8%AF%AD.html" target="_blank">日语</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD.html" target="_blank">英语口语</a></span> <span><a href="https://www.chineseinla.com/company/task_list/catid_214.html" target="_blank">语言学校</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_middle">
+     <div class="v2_article_div"> 
+      <div class="title_div">
+       <div class="title2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_63.html" target="_blank">升学培训</a>
+       </div> 
+       <div class="more2">
+        <a href="https://www.chineseinla.com/f/page_viewforum/f_63.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="picture_article2"> 
+       <div class="picture2"> <a href="https://www.chineseinla.com/company/task_view/id_82190/%E5%9C%A3%E7%8E%9B%E5%88%A9%E8%AF%BA%E4%B8%AD%E6%96%87%E5%AD%A6%E6%A0%A1.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/company/task_view/id_82190/%E5%9C%A3%E7%8E%9B%E5%88%A9%E8%AF%BA%E4%B8%AD%E6%96%87%E5%AD%A6%E6%A0%A1.html" target="_blank">圣玛利诺中文学校</a>
+        </div> 
+        <div class="clear"></div> <a href="https://www.chineseinla.com/company/task_view/id_5746/.html" target="_blank"></a> 
+        <div class="imgintro">
+         <a href="https://www.chineseinla.com/company/task_view/id_5746/.html" target="_blank">培名学院</a>
+        </div> 
+       </div> 
+       <div class="article_div2"> 
+        <ul class="dotli"> 
+         <li><a href="https://www.chineseinla.com/company/task_view/id_17975.html" title="罗兰岗中文学校" target="_blank">罗兰岗中文学校</a></li> 
+         <li><a href="https://www.chineseinla.com/company/task_view/id_69868.html" title="橙县 启迪教育学院" target="_blank">橙县 启迪教育学院</a></li> 
+         <li><a href="https://www.chineseinla.com/company/task_view/id_35163.html" title="加州青少年教育学院" target="_blank">加州青少年教育学院</a></li> 
+         <li><a href="https://www.chineseinla.com/company/task_view/id_68052.html" title="博文华语学院" target="_blank">博文华语学院</a></li> 
+         <li><a href="https://www.chineseinla.com/company/task_view/id_69716.html" title="国家优秀奖学金保证班" target="_blank">国家优秀奖学金保证班</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="sort_nav2"> 
+      <div class="head_div"> 
+       <div class="title">
+        <a href="https://www.chineseinla.com/company/task_group/group_16.html" target="_blank">才艺培训</a>
+       </div> 
+       <div class="more">
+        <a href="https://www.chineseinla.com/company/task_group/group_16.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="sort_nav_item_t1"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_267.html" title="音乐" target="_blank"><span>音乐</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_2067.html" target="_blank">钢琴</a></span> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_2066.html" target="_blank">小提琴</a></span> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_13257.html" target="_blank">歌唱</a></span> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_13256.html" target="_blank">声乐</a></span> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_13619.html" target="_blank">大提琴</a></span> <span><a href="https://www.chineseinla.com/company/catid_267/task_list/tagId_18864.html" target="_blank">长笛</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item_t1"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_290.html" title="美术" target="_blank"><span>美术</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_290/task_list/tagId_3414.html" target="_blank">素描</a></span> <span><a href="https://www.chineseinla.com/company/catid_290/task_list/tagId_13225.html" target="_blank">水彩</a></span> <span><a href="https://www.chineseinla.com/company/catid_290/task_list/tagId_5373.html" target="_blank">绘画</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E6%BC%AB%E7%94%BB.html" target="_blank">漫画</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_63/key_%E8%AE%BE%E8%AE%A1.html" target="_blank">设计</a></span> <span><a href="https://www.chineseinla.com/company/catid_290/task_list/tagId_1124.html" target="_blank">油画</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item_t1"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_173.html" title="舞蹈" target="_blank"><span>舞蹈</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_173/task_list/tagId_2424.html" target="_blank">表演</a></span> <span><a href="https://www.chineseinla.com/company/catid_173/task_list/tagId_2425.html" target="_blank">京剧</a></span> <span><a href="https://www.chineseinla.com/company/catid_173/task_list/tagId_2008.html" target="_blank">芭蕾舞</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_61/key_%E8%A1%97%E8%88%9E.html" target="_blank">街舞</a></span> <span><a href="https://www.chineseinla.com/company/task_category/key_%E6%8B%89%E4%B8%81%E8%88%9E" target="_blank">拉丁舞</a></span> <span><a href="https://www.chineseinla.com/company/catid_173/task_list/tagId_4724.html" target="_blank">社交舞</a></span> 
+       </div> 
+      </div> 
+      <div class="sort_nav_item_t1"> <a class="pic_tu" href="https://www.chineseinla.com/company/task_list/catid_429.html" title="运动" target="_blank"><span>运动</span></a> 
+       <div class="sort_nav_text"> <span><a href="https://www.chineseinla.com/company/catid_429/task_list/tagId_376.html" target="_blank">羽毛球</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_10/key_%E7%91%9C%E4%BC%BD.html" target="_blank">瑜伽</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_10/key_%E6%B8%B8%E6%B3%B3" target="_blank">游泳</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_10/key_%E8%B6%B3%E7%90%83" target="_blank">足球</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_10/key_%E4%B9%92%E4%B9%93%E7%90%83" target="_blank">乒乓球</a></span> <span><a href="https://www.chineseinla.com/f/page_viewforum/f_10/key_%E9%AB%98%E5%B0%94%E5%A4%AB" target="_blank">高尔夫</a></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1">
+        <a href="https://www.chineseinla.com/f/c_10.html" target="_blank">留学服务专栏</a>
+       </div> 
+       <div class="more1">
+        <a href="https://www.chineseinla.com/f/c_10.html" target="_blank">更多&gt;&gt;</a>
+       </div> 
+      </div> 
+      <div class="content"> 
+      </div> 
+     </div> 
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.chineseinla.com/company/task_list/catid_53.html" target="_blank">教育培训</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.chineseinla.com/company/task_list/catid_53.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_5774/%E5%8D%8E%E5%A4%8F%E5%AD%A6%E9%99%A2.html" title="华夏学院" target="_blank">华夏学院--Dynasty School</a></li> 
+        <li><a href="/company/task_view/id_5810/%E8%8E%B1%E5%85%8B%E4%BE%9D%28%E4%B8%BD%E7%90%A6%29%E5%A4%A7%E5%AD%A6.html" title="莱克依(丽琦)大学" target="_blank">莱克依(丽琦)大学--Likie College</a></li> 
+        <li><a href="/company/task_view/id_10247/%E6%A0%B8%E6%A1%83%E7%BE%8E%E6%9C%AF.html" title="核桃美术" target="_blank">核桃美术--Walnut Art Studio</a></li> 
+        <li><a href="/company/task_view/id_11025/%E5%93%88%E4%BD%9B%E5%85%A8%E6%96%B9%E4%BD%8D%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%20--%202019%E5%B9%B4%E6%8F%90%E6%97%A9%E5%BD%95%E5%8F%96%E5%86%8D%E9%80%A0%E4%BD%B3%E7%BB%A9.html" title="哈佛全方位教育机构 -- 2019年提早录取再造佳绩" target="_blank">哈佛全方位教育机构 -- 2019年提早录取再造佳绩--Harvard Square Academy（HS2 Academy）</a></li> 
+        <li><a href="/company/task_view/id_11040/Quest%20Learning%20Center.html" title="Quest Learning Center" target="_blank">Quest Learning Center</a></li> 
+        <li><a href="/company/task_view/id_11043/%E6%B5%B7%E5%8D%8E%E8%B7%86%E6%8B%B3%E9%81%93%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83.html" title="海华跆拳道训练中心" target="_blank">海华跆拳道训练中心--C. K. Taekwondo Academy</a></li> 
+        <li><a href="/company/task_view/id_11064/%E6%88%B4%E7%BB%B4%E6%80%9D%E8%AE%B0%E5%BF%86%E8%AE%AD%E7%BB%83.html" title="戴维思记忆训练" target="_blank">戴维思记忆训练--Davis Memory Training</a></li> 
+        <li><a href="/company/task_view/id_12226/%E6%A0%BC%E5%85%B0%E4%B8%80%E5%AD%97%E5%8A%9F%20%E5%85%A5%E7%B1%8D%E6%96%B0%E9%A2%98%E7%8F%AD.html" title="格兰一字功 入籍新题班" target="_blank">格兰一字功 入籍新题班</a></li> 
+        <li><a href="/company/task_view/id_12242/%E7%BE%8E%E5%9B%BD%E5%86%85%E7%94%B3%E5%A4%A7%E5%AD%A6%E5%8C%97%E7%BE%8E%E5%AD%A6%E5%8C%BA.html" title="美国内申大学北美学区" target="_blank">美国内申大学北美学区--Nation University of USA, North America</a></li> 
+        <li><a href="/company/task_view/id_12471/%E7%89%9B%E6%B4%A5%E7%A7%81%E7%AB%8B%E4%B8%AD%E5%AD%A6.html" title="牛津私立中学" target="_blank">牛津私立中学--Oxford School</a></li> 
+        <li><a href="/company/task_view/id_12778/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%89%A7%E7%85%A7%E7%8F%AD.html" title="房地产执照班" target="_blank">房地产执照班</a></li> 
+        <li><a href="/company/task_view/id_13612/%E9%80%A0%E5%9E%8B%E7%BE%8E%E5%AE%B9%E7%BE%8E%E5%8F%91%E5%9B%BD%E9%99%85%E5%AD%A6%E9%99%A2.html" title="造型美容美发国际学院" target="_blank">造型美容美发国际学院--Hair California Beauty Academy</a></li> 
+        <li><a href="/company/task_view/id_13613/ABC%20%E7%BE%8E%E5%AE%B9%E5%AD%A6%E9%99%A2.html" title="ABC 美容学院" target="_blank">ABC 美容学院--Alhambra Beauty College</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Travel Landing Bottom --> 
+     <ins class="adsbygoogle" data-ad-client="ca-pub-8275565583908081" data-ad-slot="1994199263"></ins> 
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div class="sda_right4"> <a href="https://www.chineseinla.com/f/page_viewforum/f_89.html" target="_blank">  </a> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <div class="row group_row" id="education_4"> 
+    <div class="group_title"> 
+     <div class="title_left">
+      <a href="https://www.chineseinla.com/company/task_list/catid_81.html" target="_blank">洛杉矶学校</a>
+     </div> 
+     <div class="title_more"> <a href="https://www.chineseinla.com/company/task_list/catid_50.html" class="right_vertical_line" target="_blank">高中</a><a href="https://www.chineseinla.com/company/task_list/catid_79.html" class="right_vertical_line" target="_blank">初中</a><a href="https://www.chineseinla.com/company/task_list/catid_80.html" class="right_vertical_line" target="_blank">小学</a><a href="https://www.chineseinla.com/company/task_list/catid_81.html" target="_blank">学区</a> 
+     </div> 
+     <div class="title_line"></div> 
+    </div> 
+    <div class="group_left_middle">  
+     <div class="v2_thumb_div"> 
+      <div class="content_head1"> 
+       <div class="head_title"> <a href="https://www.chineseinla.com/school/type_3.html" class="active" target="_blank"><span><h2>洛杉矶高中TOP 10</h2></span></a> 
+       </div> 
+       <div class="head_more"> <a href="https://www.chineseinla.com/company/task_map/catid_50.html" target="_blank">分布图&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="content"> 
+       <div class="thumb3"> <a href="/company/task_view/id_65798/Saint%20Joseph%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_65798/Saint%20Joseph%20High%20School.html" target="_blank" class="topictitle" title="Saint Joseph High School"><span>Saint Joseph High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8089/Oxford%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8089/Oxford%20High%20School.html" target="_blank" class="topictitle" title="Oxford High School"><span>Oxford High School</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8090/San%20Marino%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8090/San%20Marino%20High%20School.html" target="_blank" class="topictitle" title="San Marino High School"><span>San Marino High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8091/University%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8091/University%20High%20School.html" target="_blank" class="topictitle" title="University High School"><span>University High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8092/Northwood%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8092/Northwood%20High%20School.html" target="_blank" class="topictitle" title="Northwood High School"><span>Northwood High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8093/Troy%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8093/Troy%20High%20School.html" target="_blank" class="topictitle" title="Troy High School"><span>Troy High School</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8094/South%20Pasadena%20Senior%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8094/South%20Pasadena%20Senior%20High%20School.html" target="_blank" class="topictitle" title="South Pasadena Senior High School"><span>South Pasadena</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8095/Walnut%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8095/Walnut%20High%20School.html" target="_blank" class="topictitle" title="Walnut High School"><span>Walnut High School</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8096/Mira%20Costa%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8096/Mira%20Costa%20High%20School.html" target="_blank" class="topictitle" title="Mira Costa High School"><span>Mira Costa High</span></a> 
+       </div> 
+       <div class="thumb3"> <a href="/company/task_view/id_8097/Corona%20Del%20Mar%20High%20School.html" target="_blank">  </a> <a href="/company/task_view/id_8097/Corona%20Del%20Mar%20High%20School.html" target="_blank" class="topictitle" title="Corona Del Mar High School"><span>Corona Del Mar High</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.chineseinla.com/company/task_list/catid_81.html" target="_blank">洛杉矶学区</a> | <a href="https://www.chineseinla.com/company/task_map/catid_81.html" target="_blank">分布图</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.chineseinla.com/company/task_list/catid_81.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li class="lmr"><a href="/company/task_view/id_8884/Downey%20Unified.html" title="Downey Unified" target="_blank">Downey Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8885/Duarte%20Unified.html" title="Duarte Unified" target="_blank">Duarte Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8886/East%20San%20Gabriel%20Valley%20Regional%20Occupational%20Program.html" title="East San Gabriel Valley Regional Occupational Program" target="_blank">East San Gabriel Valley Regional Occupational Program</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8887/Eastside%20Union%20Elementary.html" title="Eastside Union Elementary" target="_blank">Eastside Union Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8888/El%20Centro%20Elementary.html" title="El Centro Elementary" target="_blank">El Centro Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8889/El%20Monte%20City%20Elementary.html" title="El Monte City Elementary" target="_blank">El Monte City Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8890/El%20Monte%20Union%20High.html" title="El Monte Union High" target="_blank">El Monte Union High</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8891/El%20Rancho%20Unified.html" title="El Rancho Unified" target="_blank">El Rancho Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8892/El%20Segundo%20Unified.html" title="El Segundo Unified" target="_blank">El Segundo Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8893/Fillmore%20Unified.html" title="Fillmore Unified" target="_blank">Fillmore Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8894/Fontana%20Unified.html" title="Fontana Unified" target="_blank">Fontana Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8895/Fullerton%20Elementary.html" title="Fullerton Elementary" target="_blank">Fullerton Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8896/Fullerton%20Joint%20Union%20High.html" title="Fullerton Joint Union High" target="_blank">Fullerton Joint Union High</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8897/Garvey%20Elementary.html" title="Garvey Elementary" target="_blank">Garvey Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8898/Glendale%20Unified.html" title="Glendale Unified" target="_blank">Glendale Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8899/Glendora%20Unified.html" title="Glendora Unified" target="_blank">Glendora Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8900/Hacienda%20La%20Puente%20Unified.html" title="Hacienda La Puente Unified" target="_blank">Hacienda La Puente Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8901/Hart%20District%20Regional%20Occupational%20Program.html" title="Hart District Regional Occupational Program" target="_blank">Hart District Regional Occupational Program</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8902/Hawthorne%20Elementary.html" title="Hawthorne Elementary" target="_blank">Hawthorne Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8903/Hemet%20Unified.html" title="Hemet Unified" target="_blank">Hemet Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8904/Hermosa%20Beach%20City%20Elementary.html" title="Hermosa Beach City Elementary" target="_blank">Hermosa Beach City Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8905/Holtville%20Unified.html" title="Holtville Unified" target="_blank">Holtville Unified</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8906/Hueneme%20Elementary.html" title="Hueneme Elementary" target="_blank">Hueneme Elementary</a></li> 
+        <li class="lmr"><a href="/company/task_view/id_8907/Huntington%20Beach%20City%20Elementary.html" title="Huntington Beach City Elementary" target="_blank">Huntington Beach City Elementary</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="group_right">
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.chineseinla.com/school/type_2.html" target="_blank">洛杉矶初中TOP 10</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.chineseinla.com/company/task_list/catid_79.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_7736/Huntington%20Middle.html" title="Huntington Middle" target="_blank">Huntington Middle</a></li> 
+        <li><a href="/company/task_view/id_7737/Sierra%20Vista%20Middle.html" title="Sierra Vista Middle" target="_blank">Sierra Vista Middle</a></li> 
+        <li><a href="/company/task_view/id_7738/South%20Lake%20Middle.html" title="South Lake Middle" target="_blank">South Lake Middle</a></li> 
+        <li><a href="/company/task_view/id_7739/Rancho%20San%20Joaquin%20Middle.html" title="Rancho San Joaquin Middle" target="_blank">Rancho San Joaquin Middle</a></li> 
+        <li><a href="/company/task_view/id_7740/McAuliffe%20%28Sharon%20Christa%29%20Middle.html" title="McAuliffe (Sharon Christa) Middle" target="_blank">McAuliffe (Sharon Christa) Middle</a></li> 
+        <li><a href="/company/task_view/id_7741/Lakeside%20Middle.html" title="Lakeside Middle" target="_blank">Lakeside Middle</a></li> 
+        <li><a href="/company/task_view/id_7742/Manhattan%20Beach%20Middle.html" title="Manhattan Beach Middle" target="_blank">Manhattan Beach Middle</a></li> 
+        <li><a href="/company/task_view/id_7743/Venado%20Middle.html" title="Venado Middle" target="_blank">Venado Middle</a></li> 
+        <li><a href="/company/task_view/id_7744/Foothills%20Middle.html" title="Foothills Middle" target="_blank">Foothills Middle</a></li> 
+        <li><a href="/company/task_view/id_7745/South%20Pasadena%20Middle.html" title="South Pasadena Middle" target="_blank">South Pasadena Middle</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div>
+     <div class="v2_article_div"> 
+      <div class="title_div"> 
+       <div class="title1"> <a href="https://www.chineseinla.com/school/type_1.html" target="_blank">洛杉矶小学TOP 10</a> 
+       </div> 
+       <div class="more1"> <a href="https://www.chineseinla.com/company/task_list/catid_80.html" target="_blank">更多&gt;&gt;</a> 
+       </div> 
+      </div> 
+      <div class="article_div1"> 
+       <ul class="dotli"> 
+        <li><a href="/company/task_view/id_6004/Cornerstone%20At%20Pedregal%20Elementary.html" title="Cornerstone At Pedregal Elementary" target="_blank">Cornerstone At Pedregal Elementary</a></li> 
+        <li><a href="/company/task_view/id_6005/Robinson%20%280pal%29%20Elementary.html" title="Robinson (0pal) Elementary" target="_blank">Robinson (0pal) Elementary</a></li> 
+        <li><a href="/company/task_view/id_6006/Pacific%20Elementary.html" title="Pacific Elementary" target="_blank">Pacific Elementary</a></li> 
+        <li><a href="/company/task_view/id_6007/Turtle%20Rock%20Elementary.html" title="Turtle Rock Elementary" target="_blank">Turtle Rock Elementary</a></li> 
+        <li><a href="/company/task_view/id_6008/Wonderland%20Avenue%20Elementary.html" title="Wonderland Avenue Elementary" target="_blank">Wonderland Avenue Elementary</a></li> 
+        <li><a href="/company/task_view/id_6009/Leal%20%28Frank%20C.%29%20Elementary.html" title="Leal (Frank C.) Elementary" target="_blank">Leal (Frank C.) Elementary</a></li> 
+        <li><a href="/company/task_view/id_6010/Silver%20Spur%20Elementary.html" title="Silver Spur Elementary" target="_blank">Silver Spur Elementary</a></li> 
+        <li><a href="/company/task_view/id_6011/Gonsalves%20%28Joe%20A.%29%20Elementary.html" title="Gonsalves (Joe A.) Elementary" target="_blank">Gonsalves (Joe A.) Elementary</a></li> 
+        <li><a href="/company/task_view/id_6012/Weaver%20%28Jack%20L.%29%20Elementary.html" title="Weaver (Jack L.) Elementary" target="_blank">Weaver (Jack L.) Elementary</a></li> 
+        <li><a href="/company/task_view/id_6013/Baldwin%20Stocker%20Elementary.html" title="Baldwin Stocker Elementary" target="_blank">Baldwin Stocker Elementary</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div class="row">
+    <div class="sda_right3"> 
+     <script async src="//pagead2.googlesyndicati

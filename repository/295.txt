@@ -1,0 +1,809 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="1374035468">
+  <title>教育留学百科 - 百科 - 洛杉矶华人资讯网</title> 
+  <base href="https://www.chineseinla.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/wiki.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css">
+  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
+  <input type="hidden" id="weixin_login_link" weixin_login_link="https://open.weixin.qq.com/connect/qrconnect?appid=wx9097bda892aefe00&amp;redirect_uri=http%3a%2f%2fwww.chineseinla.com%2fincludes%2fthirdpart_auth%2fweixin_login_callback.php&amp;response_type=code&amp;scope=snsapi_login&amp;state=esdaca#wechat_redirect">
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
+  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_wb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_tw">
+     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_newsletter">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinla_com</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975024.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975475.html"><i class="icon_num_orange m_icon_num">2</i>暂停纾困金谈判后 川普又改口支持具体救济措施</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976072.html"><i class="icon_num_gray m_icon_num">3</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975932.html"><i class="icon_num_gray m_icon_num">4</i>去Shopping！洛县购物中心重开第一天,民众一家大小鞋店扫货</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1976031.html"><i class="icon_num_gray m_icon_num">5</i>2020年副总统辩论会看点：多次谈及中国 彭斯遭苍蝇抢戏…</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974764.html"><i class="icon_num_gray m_icon_num">6</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975044.html"><i class="icon_num_gray m_icon_num">7</i>Chowbus用户信息泄露受害者现身说法,律师表示有三点危害</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1975717.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974681.html"><i class="icon_num_gray m_icon_num">9</i>洛杉矶本周重启商场、棋牌室！暂不进入下一层级</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/1974581.html"><i class="icon_num_gray m_icon_num">10</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="https://www.chineseinla.com/aboutus/task_app.html">华人资讯APP</a></span> <span><a href="/la_weblinks.html">常用网站</a></span> <span><a href="/search/key_%E6%96%B0%E5%86%A0.html">新冠</a></span> <span><a href="/search/key_%E5%AE%A0%E7%89%A9.html">宠物</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E9%92%88%E7%81%B8.html">针灸</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E6%90%AC%E5%AE%B6.html">搬家</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li><a class="brand" href="/" id="inactive_menu38">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deals.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/latravel.html" id="inactive_menu159">旅游</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/law.html" id="inactive_menu122">法律</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/home.html" id="inactive_menu158">房产</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/auto.html" id="inactive_menu157">汽车</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/food.html" id="inactive_menu160">美食</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">洛杉矶论坛</a></li> 
+       <li></li> 
+       <li class="active"><a href="/wiki.html" class="brand">百科</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/wiki/title_Category:移民百科.html">移民百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:法律法规.html">法律法规</a></span><span class="inactiveText"><a href="/wiki/title_Category:保险百科.html">保险百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:福利待遇.html">福利待遇</a></span><span class="inactiveText"><a href="/wiki/title_Category:医疗百科.html">医疗百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:汽车百科.html">汽车百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:房产百科.html">房产百科</a></span><span class="activeText"><a href="/wiki/title_Category:教育留学百科.html">教育留学百科</a></span><span class="inactiveText"><a href="/wiki/title_Category:LA生活百科.html">LA生活百科</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu38"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">洛杉矶论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_11.html">活动预告</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/travel.html">旅游图</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/bulletin_table.html">最新移民排期</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/company/task_group/type_3.html">旅游</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_latest_rate.html">最新评分</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/focus.html">焦点播报</a></span><span class="inactiveText"><a href="/focus/mId_2.html">焦点早知道</a></span><span class="inactiveText"><a href="/focus/mId_3.html">焦点追踪</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deals.html">所有优惠</a></span><span class="inactiveText"><a href="/deals/m_2.html">折扣券</a></span><span class="inactiveText"><a href="/deals/m_1.html">团购</a></span><span class="inactiveText"><a href="/deals/m_3.html">超市打折</a></span><span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu159"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/latravel.html">洛杉矶旅游首页</a></span><span class="inactiveText"><a href="/travel.html">洛杉矶旅游图</a></span><span class="inactiveText"><a href="/tour.html">美国旅行路线图</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_7.html">洛杉矶旅游论坛</a></span><span class="inactiveText"><a href="http://www.chineseinlv.com">拉斯维加斯旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_27.html">华人旅行社</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">洛杉矶酒店预订</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_43.html">洛杉矶旅游接送</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu122"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/law.html">法律移民</a></span><span class="inactiveText"><a href="/lawyer/task_list.html">洛杉矶华人律师</a></span><span class="inactiveText"><a href="/bulletin_table.html">美国移民排期</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">洛杉矶警察局</a></span><span class="inactiveText"><a href="/company/task_map/catid_147.html">洛杉矶法院</a></span><span class="inactiveText"><a href="/company/task_list/catid_171.html">南加州监狱</a></span><span class="inactiveText"><a href="/company/task_map/catid_148.html">洛杉矶DMV分布图</a></span><span class="inactiveText"><a href="/company/task_map/catid_110.html">各国领馆</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">洛杉矶大学</a></span><span class="inactiveText"><a href="/university_map.html">美国名校地图</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu158"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/realtor.html">房管家</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_35.html">买房卖房</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">房屋出租</a></span><span class="inactiveText"><a href="/company/task_list/catid_100.html">物业管理</a></span><span class="inactiveText"><a href="/company/task_list/catid_67.html">房屋贷款</a></span><span class="inactiveText"><a href="/company/task_list/catid_29.html">建筑装修</a></span><span class="inactiveText"><a href="/company/task_list/catid_60.html">保全公司</a></span><span class="inactiveText"><a href="/company/task_list/catid_45.html">家具装饰</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_82.html">民宿月子</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_83.html">旅馆短租</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu157"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/auto.html">汽车频道首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/catid_36/task_list.html">汽车经销商</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_47.html">驾照罚单</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_32.html">驾驶教练</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_155.html">拖车服务</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_28.html">汽车维修</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_8.html">汽车买卖</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_64.html">汽车租售</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/company/task_list/catid_250.html">汽车租赁</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu160"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="https://www.chineseinla.com/food.html">洛杉矶美食首页</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant/task_list.html">洛杉矶中餐厅</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/f/page_viewforum/f_2.html">美食论坛</a></span><span class="inactiveText"><a href="/deals/c_2.html">餐厅折扣券</a></span><span class="inactiveText"><a href="/deals/c_6.html">美食团购</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/restaurant_rank.html">美食排行榜</a></span><span class="inactiveText"><a href="https://www.chineseinla.com/comparison/page_food2019.html">美食大侦探</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume.html">人才库</a></span><span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume_company.html">企业入口</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/f/page_recruitmentList/f_29.html">名企招聘</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站大全</a></span><span class="inactiveText"><a href="/la_weblinks/catid_89.html">工作执照网站</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/la_holiday.html">LA主要节日</a></span><span class="inactiveText"><a href="/time.html">洛杉矶时间</a></span><span class="inactiveText"><a href="/weather.html">LA天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/wiki/title_category:%e6%95%99%e8%82%b2%e7%95%99%e5%ad%a6%e7%99%be%e7%a7%91.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">洛杉矶华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form>
+   </div> 
+   <div class="common_pathway"> <a href="/" class="common_pathway1">首页</a> <a href="/wiki.html" class="common_pathway2">百科</a> <a href="/wiki/title_Category:教育留学百科.html" class="common_pathway2">教育留学百科</a> 
+   </div> 
+   <div class="home_row"> 
+    <div class="wiki_left company_left" id="company_left"> 
+     <div class="company_category" id="company_category"> 
+      <div class="title">
+       百科分类
+      </div> 
+      <div class="navbar1"> 
+       <div class="navbar1-inner"> 
+        <ul id="nav"> 
+         <li class="group_group" id="group_group0"> 
+          <div class="group_name" id="group_name0"> 
+           <div class="group_title_area"> <a href="/wiki/title_Category:移民百科.html" class="group_title">移民百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:材料清单"> 材料清单 </a> <a href="/wiki/title_Category:常用表格"> 常用表格 </a> <a href="/wiki/title_Category:亲属移民"> 亲属移民 </a> <a href="/wiki/title_Category:职业移民"> 职业移民 </a> <a href="/wiki/title_Category:投资移民"> 投资移民 </a> <a href="/wiki/title_Category:政治庇护"> 政治庇护 </a> <a href="/wiki/title_Category:移民知识扫盲"> 移民知识扫盲 </a> <a href="/wiki/title_Category:非移民签证"> 非移民签证 </a> 
+          </div> 
+          <div class="category_list" id="category_list0"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:材料清单.html" class="group_title"> 材料清单 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_B1.html" title="B1" class="map_link">B1</a> <a href="/wiki/title_H1B.html" title="H1B" class="map_link">H1B</a> <a href="/wiki/title_入籍.html" title="入籍" class="map_link">入籍</a> <a href="/wiki/title_公民申请父母移民.html" title="公民申请父母移民" class="map_link">公民申请父母移民</a> <a href="/wiki/title_婚姻绿卡.html" title="婚姻绿卡" class="map_link">婚姻绿卡</a> <a href="/wiki/title_工卡.html" title="工卡" class="map_link">工卡</a> <a href="/wiki/title_移民体检.html" title="移民体检" class="map_link">移民体检</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:常用表格.html" class="group_title"> 常用表格 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_AR-11.html" title="AR-11" class="map_link">AR-11</a> <a href="/wiki/title_AR-11_SR.html" title="AR-11 SR" class="map_link">AR-11 SR</a> <a href="/wiki/title_DS-160.html" title="DS-160" class="map_link">DS-160</a> <a href="/wiki/title_EOIR-29.html" title="EOIR-29" class="map_link">EOIR-29</a> <a href="/wiki/title_G-1041.html" title="G-1041" class="map_link">G-1041</a> <a href="/wiki/title_G-1145.html" title="G-1145" class="map_link">G-1145</a> <a href="/wiki/title_G-28.html" title="G-28" class="map_link">G-28</a> <a href="/wiki/title_G-325A.html" title="G-325A" class="map_link">G-325A</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:亲属移民.html" class="group_title"> 亲属移民 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_F1美国公民的成年未婚子女.html" title="F1美国公民的成年未婚子女" class="map_link">F1美国公民的成年未婚子女</a> <a href="/wiki/title_F2-A_永久居民的配偶及未成年子女.html" title="F2-A 永久居民的配偶及未成年子女" class="map_link">F2-A 永久居民的配偶及未成年子女</a> <a href="/wiki/title_F2-B_永久居民的成年子女.html" title="F2-B 永久居民的成年子女" class="map_link">F2-B 永久居民的成年子女</a> <a href="/wiki/title_F3_公民已婚子女.html" title="F3 公民已婚子女" class="map_link">F3 公民已婚子女</a> <a href="/wiki/title_F4_公民兄弟姐妹.html" title="F4 公民兄弟姐妹" class="map_link">F4 公民兄弟姐妹</a> <a href="/wiki/title_亲属移民.html" title="亲属移民" class="map_link">亲属移民</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:职业移民.html" class="group_title"> 职业移民 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_EB-1（杰出人才）.html" title="EB-1（杰出人才）" class="map_link">EB-1（杰出人才）</a> <a href="/wiki/title_EB-2专业/技术人才.html" title="EB-2专业/技术人才" class="map_link">EB-2专业/技术人才</a> <a href="/wiki/title_EB-2专业技术人才.html" title="EB-2专业技术人才" class="map_link">EB-2专业技术人才</a> <a href="/wiki/title_EB-3技术/非技术工人.html" title="EB-3技术/非技术工人" class="map_link">EB-3技术/非技术工人</a> <a href="/wiki/title_EB-3技术非技术工人.html" title="EB-3技术非技术工人" class="map_link">EB-3技术非技术工人</a> <a href="/wiki/title_EB-4特殊人员移民.html" title="EB-4特殊人员移民" class="map_link">EB-4特殊人员移民</a> <a href="/wiki/title_职业移民.html" title="职业移民" class="map_link">职业移民</a> <a href="/wiki/title_职业移民名词解释.html" title="职业移民名词解释" class="map_link">职业移民名词解释</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:投资移民.html" class="group_title"> 投资移民 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_投资移民名词解释.html" title="投资移民名词解释" class="map_link">投资移民名词解释</a> <a href="/wiki/title_投资移民申请事宜.html" title="投资移民申请事宜" class="map_link">投资移民申请事宜</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:政治庇护.html" class="group_title"> 政治庇护 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_政治庇护其他事项.html" title="政治庇护其他事项" class="map_link">政治庇护其他事项</a> <a href="/wiki/title_申请庇护.html" title="申请庇护" class="map_link">申请庇护</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:移民知识扫盲.html" class="group_title"> 移民知识扫盲 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_AOS.html" title="AOS" class="map_link">AOS</a> <a href="/wiki/title_COS.html" title="COS" class="map_link">COS</a> <a href="/wiki/title_再次入境许可.html" title="再次入境许可" class="map_link">再次入境许可</a> <a href="/wiki/title_出入境卡.html" title="出入境卡" class="map_link">出入境卡</a> <a href="/wiki/title_回美证.html" title="回美证" class="map_link">回美证</a> <a href="/wiki/title_居留身份.html" title="居留身份" class="map_link">居留身份</a> <a href="/wiki/title_归化入籍.html" title="归化入籍" class="map_link">归化入籍</a> <a href="/wiki/title_护照.html" title="护照" class="map_link">护照</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:非移民签证.html" class="group_title"> 非移民签证 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_A类——外交人员.html" title="A类——外交人员" class="map_link">A类——外交人员</a> <a href="/wiki/title_B签证.html" title="B签证" class="map_link">B签证</a> <a href="/wiki/title_C-1过境签证.html" title="C-1过境签证" class="map_link">C-1过境签证</a> <a href="/wiki/title_D类机组人员.html" title="D类机组人员" class="map_link">D类机组人员</a> <a href="/wiki/title_E类签证.html" title="E类签证" class="map_link">E类签证</a> <a href="/wiki/title_F-1留学签证.html" title="F-1留学签证" class="map_link">F-1留学签证</a> <a href="/wiki/title_G类国际组织员工签证.html" title="G类国际组织员工签证" class="map_link">G类国际组织员工签证</a> <a href="/wiki/title_H类签证.html" title="H类签证" class="map_link">H类签证</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group1"> 
+          <div class="group_name" id="group_name1"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:法律法规.html" class="group_title">法律法规</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:婚姻相关"> 婚姻相关 </a> <a href="/wiki/title_Category:新移民法律常识"> 新移民法律常识 </a> <a href="/wiki/title_Category:2015年新法"> 2015年新法 </a> <a href="/wiki/title_Category:加州交通法"> 加州交通法 </a> <a href="/wiki/title_Category:报税相关"> 报税相关 </a> <a href="/wiki/title_Category:SCA-5"> SCA-5 </a> 
+          </div> 
+          <div class="category_list" id="category_list1"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:婚姻相关.html" class="group_title"> 婚姻相关 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_洛杉矶离婚常见问题.html" title="洛杉矶离婚常见问题" class="map_link">洛杉矶离婚常见问题</a> <a href="/wiki/title_洛杉矶离婚流程.html" title="洛杉矶离婚流程" class="map_link">洛杉矶离婚流程</a> <a href="/wiki/title_洛杉矶结婚流程.html" title="洛杉矶结婚流程" class="map_link">洛杉矶结婚流程</a> <a href="/wiki/title_留学生结婚流程.html" title="留学生结婚流程" class="map_link">留学生结婚流程</a> <a href="/wiki/title_离婚财产分割.html" title="离婚财产分割" class="map_link">离婚财产分割</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:新移民法律常识.html" class="group_title"> 新移民法律常识 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_华人常见6类警察.html" title="华人常见6类警察" class="map_link">华人常见6类警察</a> <a href="/wiki/title_怎样管教孩子不违法.html" title="怎样管教孩子不违法" class="map_link">怎样管教孩子不违法</a> <a href="/wiki/title_知识产权及版权.html" title="知识产权及版权" class="map_link">知识产权及版权</a> <a href="/wiki/title_租房法律常识.html" title="租房法律常识" class="map_link">租房法律常识</a> <a href="/wiki/title_陪审员信件详解.html" title="陪审员信件详解" class="map_link">陪审员信件详解</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:2015年新法.html" class="group_title"> 2015年新法 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_交通相关.html" title="交通相关" class="map_link">交通相关</a> <a href="/wiki/title_劳工雇员利益.html" title="劳工雇员利益" class="map_link">劳工雇员利益</a> <a href="/wiki/title_学生安全.html" title="学生安全" class="map_link">学生安全</a> <a href="/wiki/title_无证移民相关.html" title="无证移民相关" class="map_link">无证移民相关</a> <a href="/wiki/title_网络安全及个人隐私.html" title="网络安全及个人隐私" class="map_link">网络安全及个人隐私</a> <a href="/wiki/title_美国海关禁止入境物品清单.html" title="美国海关禁止入境物品清单" class="map_link">美国海关禁止入境物品清单</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:加州交通法.html" class="group_title"> 加州交通法 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_儿童交通安全法规.html" title="儿童交通安全法规" class="map_link">儿童交通安全法规</a> <a href="/wiki/title_加州2014交规罚款条例.html" title="加州2014交规罚款条例" class="map_link">加州2014交规罚款条例</a> <a href="/wiki/title_加州交通罚款数额都包括什么.html" title="加州交通罚款数额都包括什么" class="map_link">加州交通罚款数额都包括什么</a> <a href="/wiki/title_加州自行车法.html" title="加州自行车法" class="map_link">加州自行车法</a> <a href="/wiki/title_留学生及游客交通法常识.html" title="留学生及游客交通法常识" class="map_link">留学生及游客交通法常识</a> <a href="/wiki/title_美西自驾交通规则.html" title="美西自驾交通规则" class="map_link">美西自驾交通规则</a> <a href="/wiki/title_超速罚单申诉攻略.html" title="超速罚单申诉攻略" class="map_link">超速罚单申诉攻略</a> <a href="/wiki/title_驾车安全法律常识.html" title="驾车安全法律常识" class="map_link">驾车安全法律常识</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:报税相关.html" class="group_title"> 报税相关 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_个人报税资料清单.html" title="个人报税资料清单" class="map_link">个人报税资料清单</a> <a href="/wiki/title_合理避税的方法.html" title="合理避税的方法" class="map_link">合理避税的方法</a> <a href="/wiki/title_标准免税额一览表.html" title="标准免税额一览表" class="map_link">标准免税额一览表</a> <a href="/wiki/title_洛杉矶免费报税.html" title="洛杉矶免费报税" class="map_link">洛杉矶免费报税</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:SCA-5.html" class="group_title"> SCA-5 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_SCA-5对华裔的影响.html" title="SCA-5对华裔的影响" class="map_link">SCA-5对华裔的影响</a> <a href="/wiki/title_SCA-5简介.html" title="SCA-5简介" class="map_link">SCA-5简介</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group2"> 
+          <div class="group_name" id="group_name2"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:保险百科.html" class="group_title">保险百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:商业保险"> 商业保险 </a> <a href="/wiki/title_Category:汽车保险"> 汽车保险 </a> <a href="/wiki/title_Category:养老保险"> 养老保险 </a> <a href="/wiki/title_Category:医疗保险"> 医疗保险 </a> 
+          </div> 
+          <div class="category_list" id="category_list2"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:商业保险.html" class="group_title"> 商业保险 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_产品保险.html" title="产品保险" class="map_link">产品保险</a> <a href="/wiki/title_企业中断保险.html" title="企业中断保险" class="map_link">企业中断保险</a> <a href="/wiki/title_关键人物保险.html" title="关键人物保险" class="map_link">关键人物保险</a> <a href="/wiki/title_刑事保险.html" title="刑事保险" class="map_link">刑事保险</a> <a href="/wiki/title_员工赔偿保险.html" title="员工赔偿保险" class="map_link">员工赔偿保险</a> <a href="/wiki/title_小型企业保险.html" title="小型企业保险" class="map_link">小型企业保险</a> <a href="/wiki/title_常规责任保险.html" title="常规责任保险" class="map_link">常规责任保险</a> <a href="/wiki/title_玩忽职守保险.html" title="玩忽职守保险" class="map_link">玩忽职守保险</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:汽车保险.html" class="group_title"> 汽车保险 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_九大汽车保险公司介绍.html" title="九大汽车保险公司介绍" class="map_link">九大汽车保险公司介绍</a> <a href="/wiki/title_买车险省钱攻略.html" title="买车险省钱攻略" class="map_link">买车险省钱攻略</a> <a href="/wiki/title_保对方无险或保额过低的保险.html" title="保对方无险或保额过低的保险" class="map_link">保对方无险或保额过低的保险</a> <a href="/wiki/title_售后保固服务.html" title="售后保固服务" class="map_link">售后保固服务</a> <a href="/wiki/title_差额保险.html" title="差额保险" class="map_link">差额保险</a> <a href="/wiki/title_意外保险.html" title="意外保险" class="map_link">意外保险</a> <a href="/wiki/title_查保险公司排名网站.html" title="查保险公司排名网站" class="map_link">查保险公司排名网站</a> <a href="/wiki/title_碰撞保险.html" title="碰撞保险" class="map_link">碰撞保险</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:养老保险.html" class="group_title"> 养老保险 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_个人储蓄养老保险计划.html" title="个人储蓄养老保险计划" class="map_link">个人储蓄养老保险计划</a> <a href="/wiki/title_老年与遗属保险计划OASI.html" title="老年与遗属保险计划OASI" class="map_link">老年与遗属保险计划OASI</a> <a href="/wiki/title_雇主养老保险计划.html" title="雇主养老保险计划" class="map_link">雇主养老保险计划</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:医疗保险.html" class="group_title"> 医疗保险 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Medicare卡.html" title="Medicare卡" class="map_link">Medicare卡</a> <a href="/wiki/title_“医疗照顾”保险.html" title="“医疗照顾”保险" class="map_link">“医疗照顾”保险</a> <a href="/wiki/title_“贫民医疗”计划.html" title="“贫民医疗”计划" class="map_link">“贫民医疗”计划</a> <a href="/wiki/title_医疗储蓄账户.html" title="医疗储蓄账户" class="map_link">医疗储蓄账户</a> <a href="/wiki/title_奥巴马健保.html" title="奥巴马健保" class="map_link">奥巴马健保</a> <a href="/wiki/title_访问者医疗保险.html" title="访问者医疗保险" class="map_link">访问者医疗保险</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group3"> 
+          <div class="group_name" id="group_name3"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:福利待遇.html" class="group_title">福利待遇</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:低收入住房申请"> 低收入住房申请 </a> <a href="/wiki/title_Category:社会保障"> 社会保障 </a> <a href="/wiki/title_Category:粮食券"> 粮食券 </a> <a href="/wiki/title_Category:救济金"> 救济金 </a> <a href="/wiki/title_Category:补助"> 补助 </a> 
+          </div> 
+          <div class="category_list" id="category_list3"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:低收入住房申请.html" class="group_title"> 低收入住房申请 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_低收入住房申请程序.html" title="低收入住房申请程序" class="map_link">低收入住房申请程序</a> <a href="/wiki/title_低收入住房申请补助对象.html" title="低收入住房申请补助对象" class="map_link">低收入住房申请补助对象</a> <a href="/wiki/title_加州对低收入者的定义.html" title="加州对低收入者的定义" class="map_link">加州对低收入者的定义</a> <a href="/wiki/title_房租补贴项目（section8）.html" title="房租补贴项目（section8）" class="map_link">房租补贴项目（section8）</a> <a href="/wiki/title_老年公寓申请.html" title="老年公寓申请" class="map_link">老年公寓申请</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:社会保障.html" class="group_title"> 社会保障 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_丧偶者保障.html" title="丧偶者保障" class="map_link">丧偶者保障</a> <a href="/wiki/title_残疾人保障.html" title="残疾人保障" class="map_link">残疾人保障</a> <a href="/wiki/title_老人及残疾人医疗保障.html" title="老人及残疾人医疗保障" class="map_link">老人及残疾人医疗保障</a> <a href="/wiki/title_贫困保障.html" title="贫困保障" class="map_link">贫困保障</a> <a href="/wiki/title_退休保障.html" title="退休保障" class="map_link">退休保障</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:粮食券.html" class="group_title"> 粮食券 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_申请粮食券的途径.html" title="申请粮食券的途径" class="map_link">申请粮食券的途径</a> <a href="/wiki/title_粮食券改革.html" title="粮食券改革" class="map_link">粮食券改革</a> <a href="/wiki/title_粮食券最高福利额.html" title="粮食券最高福利额" class="map_link">粮食券最高福利额</a> <a href="/wiki/title_粮食券申请条件.html" title="粮食券申请条件" class="map_link">粮食券申请条件</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:救济金.html" class="group_title"> 救济金 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_失业救济金申请的条件.html" title="失业救济金申请的条件" class="map_link">失业救济金申请的条件</a> <a href="/wiki/title_如何申请加州失业金.html" title="如何申请加州失业金" class="map_link">如何申请加州失业金</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:补助.html" class="group_title"> 补助 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_伤残福利金.html" title="伤残福利金" class="map_link">伤残福利金</a> <a href="/wiki/title_助学补助.html" title="助学补助" class="map_link">助学补助</a> <a href="/wiki/title_医疗补助（Medicaid）.html" title="医疗补助（Medicaid）" class="map_link">医疗补助（Medicaid）</a> <a href="/wiki/title_失业补助.html" title="失业补助" class="map_link">失业补助</a> <a href="/wiki/title_家庭福利金.html" title="家庭福利金" class="map_link">家庭福利金</a> <a href="/wiki/title_残疾补助.html" title="残疾补助" class="map_link">残疾补助</a> <a href="/wiki/title_白卡与红蓝卡的区别.html" title="白卡与红蓝卡的区别" class="map_link">白卡与红蓝卡的区别</a> <a href="/wiki/title_白卡申请的条件.html" title="白卡申请的条件" class="map_link">白卡申请的条件</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group4"> 
+          <div class="group_name" id="group_name4"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:医疗百科.html" class="group_title">医疗百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:求医问药"> 求医问药 </a> <a href="/wiki/title_Category:洛杉矶医院"> 洛杉矶医院 </a> <a href="/wiki/title_Category:赴美生子"> 赴美生子 </a> <a href="/wiki/title_Category:白卡"> 白卡 </a> <a href="/wiki/title_Category:疫苗"> 疫苗 </a> 
+          </div> 
+          <div class="category_list" id="category_list4"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:求医问药.html" class="group_title"> 求医问药 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_买处方药攻略.html" title="买处方药攻略" class="map_link">买处方药攻略</a> <a href="/wiki/title_美国就医指南.html" title="美国就医指南" class="map_link">美国就医指南</a> <a href="/wiki/title_美国看病常用英语.html" title="美国看病常用英语" class="map_link">美国看病常用英语</a> <a href="/wiki/title_超市常见药品.html" title="超市常见药品" class="map_link">超市常见药品</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:洛杉矶医院.html" class="group_title"> 洛杉矶医院 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_华人区的医院.html" title="华人区的医院" class="map_link">华人区的医院</a> <a href="/wiki/title_南加大医院.html" title="南加大医院" class="map_link">南加大医院</a> <a href="/wiki/title_希望之城医院.html" title="希望之城医院" class="map_link">希望之城医院</a> <a href="/wiki/title_洛杉矶儿童医院.html" title="洛杉矶儿童医院" class="map_link">洛杉矶儿童医院</a> <a href="/wiki/title_洛杉矶最好的医疗系统.html" title="洛杉矶最好的医疗系统" class="map_link">洛杉矶最好的医疗系统</a> <a href="/wiki/title_洛杉矶生孩子医院.html" title="洛杉矶生孩子医院" class="map_link">洛杉矶生孩子医院</a> <a href="/wiki/title_西达赛奈医疗中心.html" title="西达赛奈医疗中心" class="map_link">西达赛奈医疗中心</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:赴美生子.html" class="group_title"> 赴美生子 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_出生证办理.html" title="出生证办理" class="map_link">出生证办理</a> <a href="/wiki/title_办理中国旅行证.html" title="办理中国旅行证" class="map_link">办理中国旅行证</a> <a href="/wiki/title_新生儿护照办理.html" title="新生儿护照办理" class="map_link">新生儿护照办理</a> <a href="/wiki/title_美国政府官方回应赴美生子合法性.html" title="美国政府官方回应赴美生子合法性" class="map_link">美国政府官方回应赴美生子合法性</a> <a href="/wiki/title_赴美生子DIY流程.html" title="赴美生子DIY流程" class="map_link">赴美生子DIY流程</a> <a href="/wiki/title_领事认证.html" title="领事认证" class="map_link">领事认证</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:白卡.html" class="group_title"> 白卡 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Medicaid医疗卡.html" title="Medicaid医疗卡" class="map_link">Medicaid医疗卡</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:疫苗.html" class="group_title"> 疫苗 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_中美不同疫苗的注意事项.html" title="中美不同疫苗的注意事项" class="map_link">中美不同疫苗的注意事项</a> <a href="/wiki/title_加州入学必打疫苗.html" title="加州入学必打疫苗" class="map_link">加州入学必打疫苗</a> <a href="/wiki/title_新生儿疫苗接种时间.html" title="新生儿疫苗接种时间" class="map_link">新生儿疫苗接种时间</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group5"> 
+          <div class="group_name" id="group_name5"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:汽车百科.html" class="group_title">汽车百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:汽车维护"> 汽车维护 </a> <a href="/wiki/title_Category:租车流程"> 租车流程 </a> <a href="/wiki/title_Category:买车卖车"> 买车卖车 </a> <a href="/wiki/title_Category:路考笔试"> 路考笔试 </a> <a href="/wiki/title_Category:事故处理"> 事故处理 </a> <a href="/wiki/title_Category:驾照相关"> 驾照相关 </a> 
+          </div> 
+          <div class="category_list" id="category_list5"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:汽车维护.html" class="group_title"> 汽车维护 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_夏季保养.html" title="夏季保养" class="map_link">夏季保养</a> <a href="/wiki/title_汽油标号及影响.html" title="汽油标号及影响" class="map_link">汽油标号及影响</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:租车流程.html" class="group_title"> 租车流程 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_外国人租车所需证件.html" title="外国人租车所需证件" class="map_link">外国人租车所需证件</a> <a href="/wiki/title_洛杉矶常用租车公司.html" title="洛杉矶常用租车公司" class="map_link">洛杉矶常用租车公司</a> <a href="/wiki/title_租车保险.html" title="租车保险" class="map_link">租车保险</a> <a href="/wiki/title_租车公司.html" title="租车公司" class="map_link">租车公司</a> <a href="/wiki/title_租车合同样本.html" title="租车合同样本" class="map_link">租车合同样本</a> <a href="/wiki/title_美西租车选择建议.html" title="美西租车选择建议" class="map_link">美西租车选择建议</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:买车卖车.html" class="group_title"> 买车卖车 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_买车攻略.html" title="买车攻略" class="map_link">买车攻略</a> <a href="/wiki/title_买车过户.html" title="买车过户" class="map_link">买车过户</a> <a href="/wiki/title_卖车注意事项.html" title="卖车注意事项" class="map_link">卖车注意事项</a> <a href="/wiki/title_排烟检查.html" title="排烟检查" class="map_link">排烟检查</a> <a href="/wiki/title_汽车免费估价网站.html" title="汽车免费估价网站" class="map_link">汽车免费估价网站</a> <a href="/wiki/title_汽车贷款.html" title="汽车贷款" class="map_link">汽车贷款</a> <a href="/wiki/title_留学生买车注意事项.html" title="留学生买车注意事项" class="map_link">留学生买车注意事项</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:路考笔试.html" class="group_title"> 路考笔试 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_笔试模拟题.html" title="笔试模拟题" class="map_link">笔试模拟题</a> <a href="/wiki/title_考试指南.html" title="考试指南" class="map_link">考试指南</a> <a href="/wiki/title_路考攻略.html" title="路考攻略" class="map_link">路考攻略</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:事故处理.html" class="group_title"> 事故处理 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_事故处理流程.html" title="事故处理流程" class="map_link">事故处理流程</a> <a href="/wiki/title_法庭.html" title="法庭" class="map_link">法庭</a> <a href="/wiki/title_警察局.html" title="警察局" class="map_link">警察局</a> <a href="/wiki/title_车祸处理技巧.html" title="车祸处理技巧" class="map_link">车祸处理技巧</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:驾照相关.html" class="group_title"> 驾照相关 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_DMV.html" title="DMV" class="map_link">DMV</a> <a href="/wiki/title_临时驾照.html" title="临时驾照" class="map_link">临时驾照</a> <a href="/wiki/title_交通规则.html" title="交通规则" class="map_link">交通规则</a> <a href="/wiki/title_加州非法移民驾照.html" title="加州非法移民驾照" class="map_link">加州非法移民驾照</a> <a href="/wiki/title_图标考试.html" title="图标考试" class="map_link">图标考试</a> <a href="/wiki/title_申请驾照流程.html" title="申请驾照流程" class="map_link">申请驾照流程</a> <a href="/wiki/title_美国驾照换中国驾照.html" title="美国驾照换中国驾照" class="map_link">美国驾照换中国驾照</a> <a href="/wiki/title_路考.html" title="路考" class="map_link">路考</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group6"> 
+          <div class="group_name" id="group_name6"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:房产百科.html" class="group_title">房产百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:房产类型"> 房产类型 </a> <a href="/wiki/title_Category:房屋买卖"> 房屋买卖 </a> <a href="/wiki/title_Category:美国房贷"> 美国房贷 </a> <a href="/wiki/title_Category:房屋管理"> 房屋管理 </a> <a href="/wiki/title_Category:南加房产"> 南加房产 </a> <a href="/wiki/title_Category:南加房地产税"> 南加房地产税 </a> 
+          </div> 
+          <div class="category_list" id="category_list6"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:房产类型.html" class="group_title"> 房产类型 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Apartment.html" title="Apartment" class="map_link">Apartment</a> <a href="/wiki/title_Commercial.html" title="Commercial" class="map_link">Commercial</a> <a href="/wiki/title_Condo.html" title="Condo" class="map_link">Condo</a> <a href="/wiki/title_Coop_Unit.html" title="Coop Unit" class="map_link">Coop Unit</a> <a href="/wiki/title_Farm.html" title="Farm" class="map_link">Farm</a> <a href="/wiki/title_Mobile_Home.html" title="Mobile Home" class="map_link">Mobile Home</a> <a href="/wiki/title_Muti-Family_House.html" title="Muti-Family House" class="map_link">Muti-Family House</a> <a href="/wiki/title_PUD.html" title="PUD" class="map_link">PUD</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:房屋买卖.html" class="group_title"> 房屋买卖 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Contingency.html" title="Contingency" class="map_link">Contingency</a> <a href="/wiki/title_Escrow_Company.html" title="Escrow Company" class="map_link">Escrow Company</a> <a href="/wiki/title_买卖房产全部费用.html" title="买卖房产全部费用" class="map_link">买卖房产全部费用</a> <a href="/wiki/title_买地自建.html" title="买地自建" class="map_link">买地自建</a> <a href="/wiki/title_低收入买房.html" title="低收入买房" class="map_link">低收入买房</a> <a href="/wiki/title_加州标准购屋合约.html" title="加州标准购屋合约" class="map_link">加州标准购屋合约</a> <a href="/wiki/title_卖房流程.html" title="卖房流程" class="map_link">卖房流程</a> <a href="/wiki/title_法拍屋.html" title="法拍屋" class="map_link">法拍屋</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:美国房贷.html" class="group_title"> 美国房贷 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_FHA_Loan.html" title="FHA Loan" class="map_link">FHA Loan</a> <a href="/wiki/title_HELOC房屋净值贷款.html" title="HELOC房屋净值贷款" class="map_link">HELOC房屋净值贷款</a> <a href="/wiki/title_VA_Loan.html" title="VA Loan" class="map_link">VA Loan</a> <a href="/wiki/title_外国人贷款.html" title="外国人贷款" class="map_link">外国人贷款</a> <a href="/wiki/title_贷款经纪人挑选.html" title="贷款经纪人挑选" class="map_link">贷款经纪人挑选</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:房屋管理.html" class="group_title"> 房屋管理 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_房产维修管理.html" title="房产维修管理" class="map_link">房产维修管理</a> <a href="/wiki/title_租房合同.html" title="租房合同" class="map_link">租房合同</a> <a href="/wiki/title_租赁程序.html" title="租赁程序" class="map_link">租赁程序</a> <a href="/wiki/title_租金回报率计算.html" title="租金回报率计算" class="map_link">租金回报率计算</a> <a href="/wiki/title_驱逐房客.html" title="驱逐房客" class="map_link">驱逐房客</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:南加房产.html" class="group_title"> 南加房产 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_南加华人聚居城市.html" title="南加华人聚居城市" class="map_link">南加华人聚居城市</a> <a href="/wiki/title_南加学区一览.html" title="南加学区一览" class="map_link">南加学区一览</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:南加房地产税.html" class="group_title"> 南加房地产税 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Home_Exemption.html" title="Home Exemption" class="map_link">Home Exemption</a> <a href="/wiki/title_地税估值.html" title="地税估值" class="map_link">地税估值</a> <a href="/wiki/title_房产税违约.html" title="房产税违约" class="map_link">房产税违约</a> <a href="/wiki/title_租赁收入报税.html" title="租赁收入报税" class="map_link">租赁收入报税</a> <a href="/wiki/title_预扣税.html" title="预扣税" class="map_link">预扣税</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group7"> 
+          <div class="group_name" id="group_name7"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:教育留学百科.html" class="group_title">教育留学百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:南加州学校"> 南加州学校 </a> <a href="/wiki/title_Category:私立学校"> 私立学校 </a> <a href="/wiki/title_Category:南加州学区"> 南加州学区 </a> <a href="/wiki/title_Category:留学美国"> 留学美国 </a> <a href="/wiki/title_Category:教育留学名词解释"> 教育留学名词解释 </a> 
+          </div> 
+          <div class="category_list" id="category_list7"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:南加州学校.html" class="group_title"> 南加州学校 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Adult_School攻略.html" title="Adult School攻略" class="map_link">Adult School攻略</a> <a href="/wiki/title_东洛杉矶学院_East_Los_Angeles_College.html" title="东洛杉矶学院 East Los Angeles College" class="map_link">东洛杉矶学院 East Los Angeles College</a> <a href="/wiki/title_佩珀代因大学_Pepperdine_University.html" title="佩珀代因大学 Pepperdine University" class="map_link">佩珀代因大学 Pepperdine University</a> <a href="/wiki/title_加州大学_University_of_California.html" title="加州大学 University of California" class="map_link">加州大学 University of California</a> <a href="/wiki/title_加州州立大学洛杉矶分校.html" title="加州州立大学洛杉矶分校" class="map_link">加州州立大学洛杉矶分校</a> <a href="/wiki/title_加州理工学院_California_Institute_of_Technology.html" title="加州理工学院 California Institute of Technology" class="map_link">加州理工学院 California Institute of Technology</a> <a href="/wiki/title_南加州中学排名.html" title="南加州中学排名" class="map_link">南加州中学排名</a> <a href="/wiki/title_南加州大学_University_Of_Southern_California.html" title="南加州大学 University Of Southern California" class="map_link">南加州大学 University Of Southern California</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:私立学校.html" class="group_title"> 私立学校 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Crossroads_School.html" title="Crossroads School" class="map_link">Crossroads School</a> <a href="/wiki/title_Harvard-Westlake_School.html" title="Harvard-Westlake School" class="map_link">Harvard-Westlake School</a> <a href="/wiki/title_Le_Lycée_Francais_de_Los_Angeles.html" title="Le Lycée Francais de Los Angeles" class="map_link">Le Lycée Francais de Los Angeles</a> <a href="/wiki/title_Loyola_High_School.html" title="Loyola High School" class="map_link">Loyola High School</a> <a href="/wiki/title_Marlborough_School.html" title="Marlborough School" class="map_link">Marlborough School</a> <a href="/wiki/title_Marymount_High_School.html" title="Marymount High School" class="map_link">Marymount High School</a> <a href="/wiki/title_The_Buckley_School.html" title="The Buckley School" class="map_link">The Buckley School</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:南加州学区.html" class="group_title"> 南加州学区 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_亚凯迪亚学区Arcadia_Unified.html" title="亚凯迪亚学区Arcadia Unified" class="map_link">亚凯迪亚学区Arcadia Unified</a> <a href="/wiki/title_加州学区制度.html" title="加州学区制度" class="map_link">加州学区制度</a> <a href="/wiki/title_南帕萨迪纳学区_South_Pasadena_Unified.html" title="南帕萨迪纳学区 South Pasadena Unified" class="map_link">南帕萨迪纳学区 South Pasadena Unified</a> <a href="/wiki/title_圣玛利诺学区San_Marino_Unified.html" title="圣玛利诺学区San Marino Unified" class="map_link">圣玛利诺学区San Marino Unified</a> <a href="/wiki/title_天普学区_Temple_City_Unified.html" title="天普学区 Temple City Unified" class="map_link">天普学区 Temple City Unified</a> <a href="/wiki/title_尔湾学区_Irvine_Unified.html" title="尔湾学区 Irvine Unified" class="map_link">尔湾学区 Irvine Unified</a> <a href="/wiki/title_核桃学区Walnut_Valley_Unified.html" title="核桃学区Walnut Valley Unified" class="map_link">核桃学区Walnut Valley Unified</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:留学美国.html" class="group_title"> 留学美国 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_寄宿家庭.html" title="寄宿家庭" class="map_link">寄宿家庭</a> <a href="/wiki/title_本科生留学申请条件.html" title="本科生留学申请条件" class="map_link">本科生留学申请条件</a> <a href="/wiki/title_留学生专享福利.html" title="留学生专享福利" class="map_link">留学生专享福利</a> <a href="/wiki/title_留学生回国后认证学历.html" title="留学生回国后认证学历" class="map_link">留学生回国后认证学历</a> <a href="/wiki/title_留学申请攻略.html" title="留学申请攻略" class="map_link">留学申请攻略</a> <a href="/wiki/title_留学租房.html" title="留学租房" class="map_link">留学租房</a> <a href="/wiki/title_研究生留学申请条件.html" title="研究生留学申请条件" class="map_link">研究生留学申请条件</a> <a href="/wiki/title_社区大学申请攻略.html" title="社区大学申请攻略" class="map_link">社区大学申请攻略</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:教育留学名词解释.html" class="group_title"> 教育留学名词解释 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_ACT.html" title="ACT" class="map_link">ACT</a> <a href="/wiki/title_AP.html" title="AP" class="map_link">AP</a> <a href="/wiki/title_CPT.html" title="CPT" class="map_link">CPT</a> <a href="/wiki/title_I-94.html" title="I-94" class="map_link">I-94</a> <a href="/wiki/title_OPT.html" title="OPT" class="map_link">OPT</a> <a href="/wiki/title_SAT.html" title="SAT" class="map_link">SAT</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+         <li class="group_group" id="group_group8"> 
+          <div class="group_name" id="group_name8"> 
+           <div class="group_title_area1"> <a href="/wiki/title_Category:LA生活百科.html" class="group_title">LA生活百科</a> <span class="right_bracket">&gt;</span> 
+           </div> <a href="/wiki/title_Category:洛杉矶机场"> 洛杉矶机场 </a> <a href="/wiki/title_Category:著名景点"> 著名景点 </a> <a href="/wiki/title_Category:证件相关"> 证件相关 </a> <a href="/wiki/title_Category:主要华人城市"> 主要华人城市 </a> <a href="/wiki/title_Category:洛杉矶旅游"> 洛杉矶旅游 </a> <a href="/wiki/title_Category:日常生活"> 日常生活 </a> 
+          </div> 
+          <div class="category_list" id="category_list8"> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:洛杉矶机场.html" class="group_title"> 洛杉矶机场 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_伯克班机场BUR.html" title="伯克班机场BUR" class="map_link">伯克班机场BUR</a> <a href="/wiki/title_安大略国际机场ONT.html" title="安大略国际机场ONT" class="map_link">安大略国际机场ONT</a> <a href="/wiki/title_橙县机场SNA.html" title="橙县机场SNA" class="map_link">橙县机场SNA</a> <a href="/wiki/title_洛杉矶国际机场LAX.html" title="洛杉矶国际机场LAX" class="map_link">洛杉矶国际机场LAX</a> <a href="/wiki/title_长滩国际机场LGB.html" title="长滩国际机场LGB" class="map_link">长滩国际机场LGB</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:著名景点.html" class="group_title"> 著名景点 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_LAGUNA海滩.html" title="LAGUNA海滩" class="map_link">LAGUNA海滩</a> <a href="/wiki/title_六旗魔术山主题公园.html" title="六旗魔术山主题公园" class="map_link">六旗魔术山主题公园</a> <a href="/wiki/title_农夫市集.html" title="农夫市集" class="map_link">农夫市集</a> <a href="/wiki/title_加利福尼亚科技中心.html" title="加利福尼亚科技中心" class="map_link">加利福尼亚科技中心</a> <a href="/wiki/title_华特•迪斯尼音乐厅.html" title="华特•迪斯尼音乐厅" class="map_link">华特•迪斯尼音乐厅</a> <a href="/wiki/title_卡布里洛海洋水族馆.html" title="卡布里洛海洋水族馆" class="map_link">卡布里洛海洋水族馆</a> <a href="/wiki/title_圣塔莫尼卡海滩.html" title="圣塔莫尼卡海滩" class="map_link">圣塔莫尼卡海滩</a> <a href="/wiki/title_好莱坞.html" title="好莱坞" class="map_link">好莱坞</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:证件相关.html" class="group_title"> 证件相关 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_加州工作执照申请.html" title="加州工作执照申请" class="map_link">加州工作执照申请</a> <a href="/wiki/title_加州钓鱼证.html" title="加州钓鱼证" class="map_link">加州钓鱼证</a> <a href="/wiki/title_各类证件补办攻略.html" title="各类证件补办攻略" class="map_link">各类证件补办攻略</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:主要华人城市.html" class="group_title"> 主要华人城市 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_Alhambra.html" title="Alhambra" class="map_link">Alhambra</a> <a href="/wiki/title_Arcadia.html" title="Arcadia" class="map_link">Arcadia</a> <a href="/wiki/title_Baldwin_Park.html" title="Baldwin Park" class="map_link">Baldwin Park</a> <a href="/wiki/title_Chino_Hills.html" title="Chino Hills" class="map_link">Chino Hills</a> <a href="/wiki/title_Diamond_Bar.html" title="Diamond Bar" class="map_link">Diamond Bar</a> <a href="/wiki/title_Eastvale.html" title="Eastvale" class="map_link">Eastvale</a> <a href="/wiki/title_El_Monte.html" title="El Monte" class="map_link">El Monte</a> <a href="/wiki/title_Hacienda_Heights.html" title="Hacienda Heights" class="map_link">Hacienda Heights</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:洛杉矶旅游.html" class="group_title"> 洛杉矶旅游 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_博物馆免费日.html" title="博物馆免费日" class="map_link">博物馆免费日</a> <a href="/wiki/title_国家公园.html" title="国家公园" class="map_link">国家公园</a> <a href="/wiki/title_房车租赁.html" title="房车租赁" class="map_link">房车租赁</a> <a href="/wiki/title_钓螃蟹.html" title="钓螃蟹" class="map_link">钓螃蟹</a> <a href="/wiki/title_鲍鱼捕捞.html" title="鲍鱼捕捞" class="map_link">鲍鱼捕捞</a> 
+            </dd> 
+           </dl> 
+           <dl> 
+            <dt> <a href="/wiki/title_Category:日常生活.html" class="group_title"> 日常生活 </a> 
+            </dt> 
+            <dd> <a href="/wiki/title_宠物寄养.html" title="宠物寄养" class="map_link">宠物寄养</a> <a href="/wiki/title_紧急电话.html" title="紧急电话" class="map_link">紧急电话</a> 
+            </dd> 
+           </dl> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <script type="text/javascript">
+					var aDt = document.getElementById("category_list"+0).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 90 + "px";
+			}
+						var aDt = document.getElementById("category_list"+1).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 105 + "px";
+			}
+						var aDt = document.getElementById("category_list"+2).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 60 + "px";
+			}
+						var aDt = document.getElementById("category_list"+3).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 105 + "px";
+			}
+						var aDt = document.getElementById("category_list"+4).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 75 + "px";
+			}
+						var aDt = document.getElementById("category_list"+5).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 60 + "px";
+			}
+						var aDt = document.getElementById("category_list"+6).getElementsByTagName("dt");
+			for(var j = 0; j < aDt.length; j++)
+			{
+				aDt[j].style.width = 90 + "px";
+			}
+						var aDt = document.getElementById("category_list"+7).getElementsByTagName("dt");

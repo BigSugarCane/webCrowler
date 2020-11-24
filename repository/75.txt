@@ -1,0 +1,548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+ <head> 
+  <link rel="canonical" href="https://www.chineseinflorida.com/search/key_%e8%9b%8b%e7%b3%95.html">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="ir-site-verification-token" value="603515771">
+  <title>佛罗里达华人资讯网 - 佛罗里达本地的华人信息分享交流平台</title> 
+  <base href="https://www.chineseinflorida.com/"> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
+  <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
+  <script src="https://florida.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script> 
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
+  <script src="https://florida.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+ </head> 
+ <body>
+  <input type="hidden" id="weibo_link" weibo_link>
+  <input type="hidden" id="weixin_login_link" weixin_login_link>
+  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91-816807955092613/?ref=hl">
+  <input type="hidden" id="tw_link" tw_link>
+  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/fl_weixin.jpg">
+  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInFlorida.com">
+  <div class="topline"> 
+   <div class="top_row"> 
+    <div class="top_item">
+     <a href="https://www.chineseinflorida.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_fb">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_weixin">
+     <a href="javascript:void(0)"></a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_item">
+     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_register">
+     <a href="register.html" class="register-link" target="_blank">注册</a>
+    </div> 
+    <div class="top_shutiao"></div> 
+    <div class="top_login">
+     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
+    </div> 
+    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
+    </div> 
+    <div class="top_details"> <a class="home-city" href="javascript:void(0)">佛罗里达</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
+     <div class="city-list"> 
+      <div class="top-city-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="cities"> 
+     <div class="city-list">
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
+      </div>
+      <div class="other-city">
+       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
+      </div>
+     </div> 
+    </div> 
+    <div id="wexin"> 
+     <div class="weixin_img"></div>
+     <div class="weixin_txt">
+      <p>1.查看公共账号:</p>
+      <p>&nbsp;&nbsp;佛罗里达华人资讯网</p>
+      <p>2.搜索账号:</p>
+      <p>&nbsp;&nbsp;chineseinflorida</p>
+     </div> 
+    </div> 
+    <div id="contact"> 
+     <div class="contact_form"> 
+      <p class="contact-title">给我们留言</p> 
+      <input data-id="c-name" type="text" value="姓名...">
+      <br>
+      <br> 
+      <input data-id="c-email" type="text" value="邮箱地址...">
+      <br>
+      <br> <textarea data-id="c-content">消息内容...</textarea>
+      <br>
+      <br> <a href="javascript:void(0)" id="c-submit"></a> 
+     </div> 
+     <div class="contact_txt"> 
+      <p class="contact-title">联系方式</p> 
+      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
+        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
+        --> 
+      <p class="contact-text">邮箱: Support@ChineseInFlorida.com</p> 
+      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
+      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
+     </div> 
+    </div>
+   </div> 
+  </div>
+  <div class="center" id="pageCenter"> 
+   <div class="row"> 
+   </div>
+   <div class="row for-user-info-dropdown">
+    <div class="logo"> <a href="/" title="佛罗里达华人资讯网">  </a> 
+    </div> 
+    <div class="search"> 
+     <div class="searchframe"> 
+      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
+      <div class="button-panel">
+       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+      </div>
+      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63479.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63519.html"><i class="icon_num_orange m_icon_num">2</i>飓风Delta即将登陆美国！多州进入紧急状态</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63516.html"><i class="icon_num_gray m_icon_num">3</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63457.html"><i class="icon_num_gray m_icon_num">4</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63459.html"><i class="icon_num_gray m_icon_num">5</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63525.html"><i class="icon_num_gray m_icon_num">6</i>佛州男子加油站中彩 花5块赢得100万美元</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63513.html"><i class="icon_num_gray m_icon_num">7</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63530.html"><i class="icon_num_gray m_icon_num">8</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63468.html"><i class="icon_num_gray m_icon_num">9</i>动物园鹦鹉互教脏话大骂游客,被教“重新做鸟”</span>
+       </div>
+       <div class="m_search_topic_item">
+        <span href="/hotnews/63449.html"><i class="icon_num_gray m_icon_num">10</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
+       </div>
+      </div> 
+      <div id="search_key_div"></div> 
+     </div> 
+     <div class="searchwords"> 
+      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E7%89%99%E5%8C%BB.html">牙医</a></span> <span><a href="/search/key_%E7%9F%B3%E6%9D%90.html">石材</a></span> <span><a href="/search/key_%E8%9B%8B%E7%B3%95.html">蛋糕</a></span> <span><a href="/search/key_%E5%8D%8E%E4%B8%9C.html">华东</a></span> <span><a href="/search/key_%E6%A9%B1%E6%9F%9C.html">橱柜</a></span> <span><a href="/search/key_%E9%BC%BB%E7%A7%91.html">鼻科</a></span> <span><a href="/search/key_%E5%8D%8E%E5%9F%A0.html">华埠</a></span> <span><a href="/search/key_%E6%B0%B4%E7%94%B5.html">水电</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
+     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    </div> 
+   </div>
+   <div class="row">
+    <div class="navbar"> 
+     <div class="navbar-inner"> 
+      <ul class="nav"> 
+       <li class="active"><a href="/" class="brand">首页</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/news.html" id="inactive_menu42">佛罗里达新闻</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/f.html" id="inactive_menu37">佛罗里达论坛</a></li> 
+       <li></li> 
+       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="submenu_list" id="active_submenu"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">佛罗里达论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu100"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1151"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu1095"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu161"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu80"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu132"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">佛罗里达大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu42"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <div class="submenu_list" id="inactive_submenu67"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">佛罗里达主要节日</a></span><span class="inactiveText"><a href="/time.html">佛罗里达时间</a></span><span class="inactiveText"><a href="/weather.html">佛罗里达天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <form name="menu_logout" action="f/page_login/logout_true" method="post">
+     <input type="hidden" name="redirect" value="/search/key_%e8%9b%8b%e7%b3%95.html"> 
+     <div class="submenu_list" id="inactive_submenu37"> 
+      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody> 
+        <tr> 
+         <td align="left"> <span class="inactiveText"><a href="/f.html">佛罗里达华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+    </form> 
+    <div class="submenu_list" id="inactive_submenu1163"> 
+     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.html">简历搜索</a></span><span class="inactiveText"><a href="/resume/task_jobs.html">职位搜索</a></span><span class="inactiveText"><a href="/resume/task_companyList.html">企业列表</a></span><span class="inactiveText"><a href="/resume_company.html">企业管理</a></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+   </div>
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/company.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/templates/horse/css/search.css?v=v1638" type="text/css"> 
+   <link rel="stylesheet" href="https://florida.nychinaren.com/includes/bootstrap/css/bootstrap.min.css?v=v1638"> 
+   <script src="https://florida.nychinaren.com/includes/bootstrap/js/bootstrap.min.js?v=v1662"></script> 
+   <script src="https://florida.nychinaren.com/templates/horse/js/search.js?v=v1662"></script> 
+   <div class="s_content"> 
+    <div class="sea_left"> 
+     <ul class="nav nav-tabs" role="tablist"> 
+      <li role="presentation" class="active"><a href="#company" aria-controls="company" role="tab" data-toggle="tab">商家</a></li> 
+      <li role="presentation"><a href="#topic" aria-controls="topic" role="tab" data-toggle="tab">论坛</a></li> 
+      <li role="presentation"><a href="#video" aria-controls="video" role="tab" data-toggle="tab">视频</a></li> 
+     </ul> 
+     <div class="tab-content"> 
+      <div role="tabpanel" class="tab-pane active" id="company">
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">1</span>
+         <div class="company-title">
+          <a href="/restaurant/task_view/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" class="map_link" target="_blank" title="圣宝蛋糕店">圣宝蛋糕店</a><span class="blue_font">-</span><a href="/restaurant/task_view/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" class="map_link" target="_blank" title="Sun Pearl Bakery">Sun Pearl Bakery</a>
+         </div><a href="/restaurant/task_review/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" class="review" title="点评"></a><a href="/restaurant/task_image/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" class="image" title="图片"></a><a href="/restaurant/task_message/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/restaurant/task_view/id_299/%E5%9C%A3%E5%AE%9D%E8%9B%8B%E7%B3%95%E5%BA%97.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;2个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/restaurant/id_299.html" title="点击查看地图">5082 W. Colonial Dr., Orlando, FL 32808</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;407-299-3256
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" class="map_link" target="_blank">佛罗里达美食</a><span>&gt;</span><span class="list_tag"><a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_566/%E7%82%B9%E5%BF%83%3B%E8%9B%8B%E7%B3%95.html" title="点心;蛋糕" class="map_link">点心;蛋糕</a>,&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_14/Orlando.html" title="Orlando" class="map_link">Orlando</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+       <dl class="regular_company">
+        <dt class="tag_title">
+         <span class="tags_counter">2</span>
+         <div class="company-title">
+          <a href="/restaurant/task_view/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" class="map_link" target="_blank" title="雅阁饼屋">雅阁饼屋</a><span class="blue_font">-</span><a href="/restaurant/task_view/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" class="map_link" target="_blank" title="Mary Ann Bakery">Mary Ann Bakery</a>
+         </div><a href="/restaurant/task_review/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" class="review" title="点评"></a><a href="/restaurant/task_image/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" class="image" title="图片"></a><a href="/restaurant/task_message/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" class="message" title="留言"></a>
+        </dt>
+        <dd class="company_detail">
+         <div class="company_img">
+          <div class="wrap1">
+           <div class="wrap2">
+            <div class="wrap3"> <a href="/restaurant/task_view/id_53/%E9%9B%85%E9%98%81%E9%A5%BC%E5%B1%8B.html" target="_blank"> </a> 
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="tag_star">
+          &nbsp;1个人参与评分
+         </div>
+         <div class="tag_text">
+          <div class="address_list_block">
+           <div class="adress_text">
+            地址:&nbsp;&nbsp;<a href="/restaurant/id_53.html" title="点击查看地图">1284 NE 163rd St, Miami, FL 33162</a>
+           </div>
+          </div>
+          <div class="list_phone">
+           电话:&nbsp;&nbsp;305-945-0333
+          </div>
+          <div class="list_category">
+           分类:&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list.html" class="map_link" target="_blank">佛罗里达美食</a><span>&gt;</span><span class="list_tag"><a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_71/%E7%82%B9%E5%BF%83.html" title="点心" class="map_link">点心</a>,&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_566/%E7%82%B9%E5%BF%83%3B%E8%9B%8B%E7%B3%95.html" title="点心;蛋糕" class="map_link">点心;蛋糕</a>,&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_2/Miami.html" title="Miami" class="map_link">Miami</a>,&nbsp;&nbsp;<a href="/restaurant/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%BE%8E%E9%A3%9F/task_list/tagId_53/N.%20Miami%20Beach.html" title="N. Miami Beach" class="map_link">N. Miami Beach</a></span>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="topic">
+       <ul class="search_topic_wrap"> 
+        <li> <a href="/hotnews/50214.html" target="_blank"><h4>老外在家里憋神经了,买不到厕纸就买个带“屎”厕纸<span class="key">蛋糕</span></h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">75170&nbsp; &nbsp; 在一个星期三的凌晨3点，澳大利亚人凯特无法入睡。大家可能都经历过那种不眠之夜，当你似乎无法入睡，因为担心以及脑海中的各种想法。而在冠状病毒爆发期间，这种焦虑可能达到了顶峰。&nbsp; 凯</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">04/12</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_48894.html" target="_blank"><h4>配方分享 伯爵红茶达克瓦兹 伯爵红茶冰激凌奶油</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">伯爵红茶面糊，外表酥酥脆脆，<span class="key">蛋糕</span>里则软润绵密。 &nbsp; 再搭配伯爵红茶冰激凌奶油的夹心，一口咬下去，有如云朵般软润绵密。 &nbsp; 视频教程请戳下方~~&nbsp; &nbsp; https://youtu.be/Qg8gR_9hOd8&nbsp; &nbsp;</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">181浏览</span> <span class="time">03/30</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/f/page_viewtopic/t_48724.html" target="_blank"><h4>[原创视频教程] 伯爵红茶舒芙蕾—疫情宅家下午茶</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">* 使用伯爵红茶，风味更加浓郁的舒芙蕾。高雅的香气充满口中，弥漫在空气中。 &nbsp; * 最佳赏味期是刚出炉后，漂亮的蓬松舒芙蕾这时候最好吃了。 &nbsp; * 搭配卡仕达酱或发泡鲜奶油也很好吃哦。 &nbsp; 配方见</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_2.html">佛罗里达美食</a> <span class="view">0评论</span> <span class="reply">145浏览</span> <span class="time">03/28</span> 
+          </div> 
+         </div> </li> 
+        <li> <a href="/hotnews/25924.html" target="_blank"><h4>沃尔玛竟买到“泡沫馅”<span class="key">蛋糕</span>！让我如何下口？事后60美元便了事！</h4></a> 
+         <div class="content"> 
+          <div class="img-wrap"></div> 
+          <p class="p-img">美国时间6月3日，据KTLA报道，德克萨斯州Pasadena的一名高中毕业生准备吃<span class="key">蛋糕</span>庆祝毕业时，发现她买的<span class="key">蛋糕</span>竟然是聚苯乙烯泡沫塑料做的。&nbsp; 32151&nbsp; 据报道，这名高中毕业生的母亲Marsy Flores本想为女儿庆祝</p> 
+          <div class="img-bottom"> <a href="/f/page_viewforum/f_149.html">新闻</a> <span class="view">0评论</span> <span class="reply">0浏览</span> <span class="time">2019/06/03</span> 
+          </div> 
+         </div> </li> 
+       </ul>
+       <div class="page"> <a data-page="0" data-type="1" class="disabled" href="javascript:void (0)">上一页</a> <span>1</span> <a data-page="2" data-type="1" class="disabled" href="javascript:void (0)">下一页</a> 
+       </div>
+      </div> 
+      <div role="tabpanel" class="tab-pane" id="video">
+       <ul class="search_video_wrap"> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2093.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2093.html" target="_blank"><h4>做蛋糕时如何打发蛋白</h4></a> 
+          <div class="info">
+           <span>2018/07/08</span><span>5826观看</span>
+          </div> 
+          <p>做蛋糕时如何打发蛋白？蛋白打发过程中有哪些注意事项？打发到什么程度才是最好的状态？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2109.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2109.html" target="_blank"><h4>做蛋糕时如何制作面糊</h4></a> 
+          <div class="info">
+           <span>2018/07/12</span><span>487观看</span>
+          </div> 
+          <p>做蛋糕的时候如何制作面糊？把打发的蛋白和面糊混合时要注意什么？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2152.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2152.html" target="_blank"><h4>如何制作蛋糕坯</h4></a> 
+          <div class="info">
+           <span>2018/07/17</span><span>3373观看</span>
+          </div> 
+          <p>如何才能制作出松软的蛋糕坯？制作蛋糕坯的时候需要注意什么？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2157.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2157.html" target="_blank"><h4>如何制作蛋糕韩式裱花</h4></a> 
+          <div class="info">
+           <span>2018/07/22</span><span>3419观看</span>
+          </div> 
+          <p>如何在蛋糕上制作出韩式裱花？制作裱花时有哪些技巧和注意事项？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2204.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2204.html" target="_blank"><h4>如何制作戚风蛋糕</h4></a> 
+          <div class="info">
+           <span>2018/08/01</span><span>34702观看</span>
+          </div> 
+          <p>如何制作戚风蛋糕？制作戚风蛋糕时有哪些技巧？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2211.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2211.html" target="_blank"><h4>如何用水果装点蛋糕</h4></a> 
+          <div class="info">
+           <span>2018/08/19</span><span>4768观看</span>
+          </div> 
+          <p>如何用水果装点蛋糕？把水果放在蛋糕上有哪些注意事项？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1249.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1249.html" target="_blank"><h4>如何蒸鸡蛋羹 蒸水蛋</h4></a> 
+          <div class="info">
+           <span>2017/10/10</span><span>5190观看</span>
+          </div> 
+          <p>蒸鸡蛋是深受华人欢迎的家常菜，从老至幼几乎适合所有人食用。但是将鸡蛋蒸得口感滑嫩却不是一件简单的事。如何蒸出滑嫩细腻的鸡蛋呢？快来看看今天的How视频吧。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1504.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1504.html" target="_blank"><h4>如何做海参蒸蛋</h4></a> 
+          <div class="info">
+           <span>2018/01/14</span><span>21010观看</span>
+          </div> 
+          <p>海参丰富的营养众所周知，但很多人将海参买回家后却苦于不知如何烹饪才好吃，因此，How视频特别制作了系列节目海参的家常食谱，为您提供海参的美味料理方式。本期How视频将为您带来海参蒸蛋的制作方法。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2110.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2110.html" target="_blank"><h4>如何分离蛋黄和蛋清</h4></a> 
+          <div class="info">
+           <span>2018/07/03</span><span>10819观看</span>
+          </div> 
+          <p>做蛋糕之前如何把蛋黄和蛋清分离开？有哪些简便易学的好办法？打发蛋白需要注意什么？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_2094.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_2094.html" target="_blank"><h4>如何制作Mickey and Minnie cupcake</h4></a> 
+          <div class="info">
+           <span>2018/07/24</span><span>776观看</span>
+          </div> 
+          <p>如何在小朋友过生日时制作出一款好看又美味的米奇和米妮蛋糕呢？制作翻糖杯子蛋糕需要注意什么？How视频为您解答。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_877.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_877.html" target="_blank"><h4>如何做蛋挞</h4></a> 
+          <div class="info">
+           <span>2017/05/22</span><span>361634观看</span>
+          </div> 
+          <p>蛋挞是一种以蛋浆做成馅料的西式馅饼，外层挞皮松脆，内层蛋浆香甜润滑的口感备受各个年龄层人们的喜爱。那么自己在家该如何做蛋挞呢？做蛋挞需要准备哪些材料？哪些工具？又有哪些步骤呢？How视频为您解答。 </p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1633.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1633.html" target="_blank"><h4>如何DIY情人节饼干</h4></a> 
+          <div class="info">
+           <span>2018/02/22</span><span>1993观看</span>
+          </div> 
+          <p>情人节为你心爱的他送上一盒既美味又好看的心型饼干是不是既有创意又有心意呢？本期How视频将为您带来情人节饼干的制作方法。</p> 
+         </div> </li> 
+        <li> <a href="https://www.chineseinflorida.com/v/v_1725.html" target="_blank"></a> 
+         <div class="content"> <a href="https://www.chineseinflorida.com/v/v_1725.html" target="_blank"><h4>如何做双色花卷</h4></a> 
+          <div class="info">
+           <span>2018/0
