@@ -1,165 +1,241 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
  <head> 
-  <link rel="canonical" href="https://www.nychinaren.com/f/page_login.html">
-  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="ir-site-verification-token" value="654412760">
-  <title>纽约华人资讯网 - 纽约本地的华人信息分享交流平台</title> 
-  <base href="https://www.nychinaren.com/"> 
-  <link rel="shortcut icon" href="/favicon.ico"> 
-  <link rel="stylesheet" href="https://www.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296485" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/includes/js/forum.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://www.nychinaren.com/includes/js/thickbox.v3.css?v=v1638" type="text/css">
-  <script src="https://www.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
-  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
-  <script>
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-</script> 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1065665763"></script> 
-  <script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'AW-1065665763');
-</script> 
-  <script src="https://www.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
-  <script src="https://www.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
-  <script src="https://www.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296485" type="text/javascript"></script>
-  <script src="https://www.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+			About Cal Poly Pomona
+		</title> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2020-07-16T16:18Z" property="date"> 
+  <link href="https://www.cpp.edu/aboutcpp/index.shtml" rel="canonical"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
  </head> 
- <body>
-  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/nychinaren">
-  <input type="hidden" id="weixin_login_link" weixin_login_link="https://www.chineseinla.com/includes/thirdpart_auth/get_weixin_code.php?appid=wx9097bda892aefe00&amp;scope=snsapi_login&amp;state=esdaca&amp;redirect_uri=https%3A%2F%2Fwww.nychinaren.com%2Fincludes%2Fthirdpart_auth%2Fweixin_login_callback.php">
-  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E7%BA%BD%E7%BA%A6%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/297426903735540">
-  <input type="hidden" id="tw_link" tw_link>
-  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/ny_weixin.jpg">
-  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@NYChinaRen.com">
-  <div class="topline"> 
-   <div class="top_row"> 
-    <div class="top_item">
-     <a href="https://www.nychinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
+ <body>  
+  <div id="consent-box" role="alert" tabindex="0">
+   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
+   <div>
+    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
+   </div> 
+  </div> 
+  <div class="cpp-alert-bar">
+   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
+    <div> 
+     <p>2020-21 academic year is predominantly virtual/remote. University critical services continue.</p> 
     </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_wb">
-     <a href="javascript:void(0)"></a>
+   </div>
+  </div> 
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  </a> <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
     </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_fb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_weixin">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_newsletter">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_item">
-     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_register">
-     <a href="register.html" class="register-link" target="_blank">注册</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_login">
-     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
-    </div> 
-    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
-    </div> 
-    <div class="top_details"> <a class="home-city" href="javascript:void(0)">纽约</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
-     <div class="city-list"> 
-      <div class="top-city-arrow"></div> 
+    <script async src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script> 
+    <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div> 
+    <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+     <div aria-labelledby="suggestedh2" aria-live="polite" class="" id="searchhelp"> 
+      <h2 id="suggestedh2">Popular Searches</h2> 
+      <ul id="autocomplete-results"></ul> 
      </div> 
     </div> 
-    <div id="cities"> 
-     <div class="city-list">
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
-      </div>
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="About Cal Poly Pomona"> <custom /> 
+   <section id="jumbotron">  
+   </section> 
+   <div id="dept-title"> <a href="https://www.cpp.edu/aboutcpp">About Cal Poly Pomona</a> 
+   </div> 
+  </header> 
+  <main class="container flex-grow"> 
+   <div class="row"> 
+    <div class="col-12" id="main"> 
+     <h1 class="sr-only">About Cal Poly Pomona</h1> 
+     <section class="text-images" id="s0">
+       Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, we cultivate success through experiential learning, discovery and innovation. Our graduates are ready to succeed in the professional world on Day 1. 
+      <p>Faculty in all disciplines put theory to practice, providing students with opportunities to apply their knowledge in hands-on projects, research collaborations, and valuable internship and service-learning programs.</p> 
+      <p>Our history and geography are unlike any other university in the region. Nowhere else can students ride an Arabian horse, practice on a Steinway piano, bring a new product to market, and build a liquid-fueled rocket</p> 
+     </section> 
+     <section class="row align-items-center landing-page"> 
+      <div class="col-md-4 lp-image order-1">  
+      </div> 
+      <div class="col-md-8 landing-group-left primary-blue order-2"> 
+       <h2 class="featurette-heading">Cal Poly Pomona Overview</h2> 
+       <p class="lead"> </p>
+       <p>Cal Poly Pomona offers an affordable, life-changing education. Less than 30 miles east of Los Angeles, it enjoys the excitement of a diverse metropolitan while retaining the serenity of a foothill community.</p> 
+       <ul class="landing-group"> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/calpolypomona-overview/presidents-message.shtml">President's Welcome</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/calpolypomona-overview/mission-and-values.shtml">Mission, Vision &amp; Values</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/calpolypomona-overview/campus-community.shtml">Campus Community</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/calpolypomona-overview/facts-and-figures.shtml">Facts &amp; Figures</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/calpolypomona-overview/public-good.shtml">Public Good</a></li> 
+       </ul>
+       <p></p> 
+      </div> 
+     </section> 
+     <section class="row align-items-center landing-page"> 
+      <div class="col-md-8 landing-group-right primary-green order-2"> 
+       <h2 class="featurette-heading">Why Cal Poly Pomona</h2> 
+       <p class="lead"> </p>
+       <p>As a polytechnic university, Cal Poly Pomona utilizes a technology-enhanced, learn-by-doing approach to education. Students enjoy endless opportunities for involvement in a vibrant and diverse community.</p> 
+       <ul class="landing-group"> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml">A Polytechnic Approach</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#learn">Learning By Doing</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#poly">A Diverse Community</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/affordable-and-accessible.shtml">Affordable and Accessible</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/quality-learning-experiences.shtml">High Quality</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/why-cpp/well-ranked.shtml">Well Ranked</a></li> 
+       </ul>
+       <p></p> 
+      </div> 
+      <div class="col-md-4 lp-image order-1 order-md-3">  
+      </div> 
+     </section> 
+     <section class="row align-items-center landing-page"> 
+      <div class="col-md-4 lp-image order-1">  
+      </div> 
+      <div class="col-md-8 landing-group-left primary-yellow order-2"> 
+       <h2 class="featurette-heading">Heritage</h2> 
+       <p class="lead"> </p>
+       <p>Discover Cal Poly Pomona’s rich legacy and its connection to cereal company magnate W.K. Kellogg, a boys’ school founder, and Arabian horses.</p> 
+       <ul class="landing-group"> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/heritage/index.shtml">A Brief History</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/heritage/kellogg-connection.shtml">The Kellogg Connection</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/heritage/history-archives.shtml">University Archives</a></li> 
+        <li><a href="https://www.cpp.edu/~aboutcpp/heritage/kellogg-house-pomona.shtml">Kellogg House Pomona</a></li> 
+       </ul>
+       <p></p> 
+      </div> 
+     </section> 
+     <section class="row card-section" id="s1"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100">  
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-0">Visitor Information</h2> 
+         <p><span>Cal Poly Pomona is best experienced in person. We invite you to explore our 1,438-acre campus, with its rolling hills and gardens. The university is alive with year-round events and activities.</span></p> 
+         <ul class="landing-group"> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml">Directions</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/parking.shtml">Parking</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/getting-around.shtml">Getting Around Campus</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/dining.shtml">Dining</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/shopping.shtml">Shopping</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/lodging.shtml">Lodging</a></li> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/attractions.shtml">Nearby Attractions</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100">  
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-1">Campus Maps and Tours</h2> 
+         <p><span>Easily accessible from the 10 and 57 freeways, Cal Poly Pomona is strategically located at the nexus of Los Angeles, Orange, San Bernardino and Riverside counties.</span></p> 
+         <ul class="landing-group"> 
+          <li><a href="http://www.cpp.edu/maps/">Campus &amp; Area Maps</a></li> 
+          <li><a href="https://www.cpp.edu/outreach/tours.shtml">Campus Tours</a></li> 
+          <li><a href="http://www.cpp.edu/~virtual-tour/index.shtml">Virtual Tours</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100">  
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-2">News and Events</h2> 
+         <p><span>An active community of faculty, staff and students provide a constant stream of news and events.</span></p> 
+         <ul class="landing-group"> 
+          <li><a href="https://www.cpp.edu/~stratcomm/getting-news.shtml">Ways to Get News</a></li> 
+          <li><a href="https://www.cpp.edu/~stratcomm/sharing-news.shtml">Ways to Share News</a></li> 
+          <li><a href="https://www.cpp.edu/~stratcomm/for-the-media.shtml">Media Contacts</a></li> 
+          <li><a href="https://www.cpp.edu/~stratcomm/">Strategic Communications</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="row card-section" id="s2"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-3">Administration</h2> 
+         <p><span>Many academic, administrative and support groups contribute to the university’s success and growth. Learn about the university’s management and organizational structure.</span></p> 
+         <ul class="landing-group"> 
+          <li><a href="http://www.cpp.edu/~aboutcpp/administration.shtml">Administration Overview</a></li> 
+          <li><a href="http://www.cpp.edu/~president/">President's Office</a></li> 
+          <li><a href="http://www.cpp.edu/~academic-affairs/index.shtml">Academic Affairs</a></li> 
+          <li><a href="http://www.cpp.edu/~admin-affairs/index.shtml">Administrative Affairs</a></li> 
+          <li><a href="http://www.cpp.edu/~student-affairs/index.shtml">Student Affairs</a></li> 
+          <li><a href="http://www.cpp.edu/~it/index.shtml">Information Technology</a></li> 
+          <li><a href="https://www.cpp.edu/giving/about-us.shtml">University Advancement</a></li> 
+          <li><a href="https://www.cpp.edu/~philanthropy/">CPP Philanthropic Foundation</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-4">Other Governing Bodies</h2> 
+         <p><span>A number of organizations are involved in the university's governance and administration. Learn more about these critical groups.</span></p> 
+         <br> 
+         <ul class="landing-group"> 
+          <li><a href="http://www.cpp.edu/~senate/">Academic Senate</a></li> 
+          <li><a href="http://asi.cpp.edu/">Associated Students Incorporated</a></li> 
+          <li><a href="http://foundation.cpp.edu/">Cal Poly Pomona Foundation, Inc.</a></li> 
+          <li><a href="https://www.cpp.edu/philanthropy/governance/index.shtml">CPP Philanthropic Foundation</a></li> 
+          <li><a href="http://www.calstate.edu/">The California State University system</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-5">Popular Contacts</h2> 
+         <p class="CPP">Operator<br>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-POLY</p> 
+         <p class="CPP"><a href="http://www.cpp.edu/~admissions/index.shtml">Admissions<br></a>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-5299</p> 
+         <p class="CPP"><a href="http://www.cpp.edu/~alumni/index.shtml">Alumni Affairs<br></a>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-2963</p> 
+         <p class="CPP"><a href="https://www.cpp.edu/~extended-education/index.shtml">Extended University<br></a>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-2288</p> 
+         <p class="CPP"><a href="http://www.cpp.edu/~giving/index.shtml">Giving</a><br>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-4997</p> 
+         <p class="CPP"><a href="http://www.cpp.edu/~jobs/index.shtml">Job Openings</a><br>&nbsp;&nbsp;&nbsp; (909) 869-2100</p> 
+         <p class="CPP"><a href="https://www.cpp.edu/~stratcomm/">Strategic Communications<br></a>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-3342</p> 
+         <p class="CPP"><a href="https://www.cpp.edu/outreach/tours.shtml">Tours</a>&nbsp;<br>&nbsp;&nbsp;&nbsp; (909) 869-3529</p> 
+         <p class="CPP"><a href="https://www.cpp.edu/registrar//transcripts/index.shtml">Transcripts<br></a>&nbsp;&nbsp;&nbsp;&nbsp; (909) 869-3000</p> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+    </div> 
+   </div> 
+  </main> 
+  <footer class="container-fluid" id="main-footer"> 
+   <div class="row"> 
+    <div class="col-lg col-md col-sm-6 address text-left"> 
+     <p>3801 West Temple Avenue, Pomona, CA 91768</p> 
+     <div class="copyright"> 
+      <p class="copyright-text">©2020 California State Polytechnic University, Pomona</p> 
+      <p class="copyright-text">All Rights Reserved</p> 
      </div> 
     </div> 
-    <div id="wexin"> 
-     <div class="weixin_img"></div>
-     <div class="weixin_txt">
-      <p>1.查看公共账号:</p>
-      <p>&nbsp;&nbsp;纽约华人资讯网</p>
-      <p>2.搜索账号:</p>
-      <p>&nbsp;&nbsp;nychinaren_com</p>
-     </div> 
+    <div class="col-lg col-md-7 col-sm-6 footer-links">
+     <a href="https://www.cpp.edu/~aboutcpp/index.shtml" title="Cpp About">About Cal Poly Pomona</a> <a aria-label="Cpp Feedback" href="https://www.cpp.edu/website-feedback.shtml" title="Cpp Feedback">Feedback</a> <a aria-label="Cpp Privacy" href="https://www.cpp.edu/privacy.shtml" title="footer - Privacy">Privacy</a> <a href="https://www.cpp.edu/accessibility.shtml">Accessibility</a> <a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
     </div> 
-    <div id="contact"> 
-     <div class="contact_form"> 
-      <p class="contact-title">给我们留言</p> 
-      <input data-id="c-name" type="text" value="姓名...">
-      <br>
-      <br> 
-      <input data-id="c-email" type="text" value="邮箱地址...">
-      <br>
-      <br> <textarea data-id="c-content">消息内容...</textarea>
-      <br>
-      <br> <a href="javascript:void(0)" id="c-submit"></a> 
-     </div> 
-     <div class="contact_txt"> 
-      <p class="contact-title">联系方式</p> 
-      <p class="contact-text">地址: Forest Hills, NY 11375</p> 
-      <p cl
+   </div> 
+   <div class="row" id="csu-footer">
+    <a href="https://www2.calstate.edu" title="California state university"></a>
+   </div> 
+   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="ano

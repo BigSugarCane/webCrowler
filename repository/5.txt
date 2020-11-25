@@ -1,296 +1,360 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
  <head> 
-  <link rel="canonical" href="https://www.chineseinla.com/f/page_login.html">
-  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="ir-site-verification-token" value="1374035468">
-  <title>洛杉矶华人资讯网 - 洛杉矶本地的华人信息分享交流平台</title> 
-  <base href="https://www.chineseinla.com/"> 
-  <link rel="shortcut icon" href="/favicon.ico"> 
-  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/js/forum.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://c3.nychinaren.com/includes/js/thickbox.v3.css?v=v1638" type="text/css">
-  <script src="https://c3.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
-  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
-  <script>
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-</script> 
-  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+			Cal Poly Pomona
+		</title> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2020-11-16T12:33Z" property="date"> 
+  <link href="https://www.cpp.edu/index.shtml" rel="canonical"> 
+  <meta content="Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, we cultivate success through experiential learning, discovery and innovation. Our graduates are ready to succeed in the professional world on Day 1." name="description"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
  </head> 
- <body>
-  <input type="hidden" id="weibo_link" weibo_link="http://www.weibo.com/chineseinla">
-  <input type="hidden" id="weixin_login_link" weixin_login_link="https://www.chineseinla.com/includes/thirdpart_auth/get_weixin_code.php?appid=wx9097bda892aefe00&amp;scope=snsapi_login&amp;state=esdaca&amp;redirect_uri=https%3A%2F%2Fwww.chineseinla.com%2Fincludes%2Fthirdpart_auth%2Fweixin_login_callback.php">
-  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/ChineseInLA/">
-  <input type="hidden" id="tw_link" tw_link="https://twitter.com/ChineseInLA_com?lang=zh-cn">
-  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/la_weixin.jpg">
-  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInLA.com">
-  <div class="topline"> 
-   <div class="top_row"> 
-    <div class="top_item">
-     <a href="https://www.chineseinla.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_wb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_fb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_tw">
-     <a href="https://twitter.com/ChineseInLA_com?lang=zh-cn"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_weixin">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_newsletter">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_item">
-     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_register">
-     <a href="register.html" class="register-link" target="_blank">注册</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_login">
-     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
-    </div> 
-    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
-    </div> 
-    <div class="top_details"> <a class="home-city" href="javascript:void(0)">洛杉矶</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
-     <div class="city-list"> 
-      <div class="top-city-arrow"></div> 
-     </div> 
-    </div> 
-    <div id="cities"> 
-     <div class="city-list">
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
-      </div>
-     </div> 
-    </div> 
-    <div id="wexin"> 
-     <div class="weixin_img"></div>
-     <div class="weixin_txt">
-      <p>1.查看公共账号:</p>
-      <p>&nbsp;&nbsp;洛杉矶华人资讯网</p>
-      <p>2.搜索账号:</p>
-      <p>&nbsp;&nbsp;chineseinla_com</p>
-     </div> 
-    </div> 
-    <div id="contact"> 
-     <div class="contact_form"> 
-      <p class="contact-title">给我们留言</p> 
-      <input data-id="c-name" type="text" value="姓名...">
-      <br>
-      <br> 
-      <input data-id="c-email" type="text" value="邮箱地址...">
-      <br>
-      <br> <textarea data-id="c-content">消息内容...</textarea>
-      <br>
-      <br> <a href="javascript:void(0)" id="c-submit"></a> 
-     </div> 
-     <div class="contact_txt"> 
-      <p class="contact-title">联系方式</p> 
-      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
-        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
-        --> 
-      <p class="contact-text">邮箱: Support@ChineseInLA.com</p> 
-      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
-      <p class="contact-text hastab"> 竞价：562-275-7269 &nbsp;9:00-18:00(西部时间) </p> 
-      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
-     </div> 
-    </div>
+ <body>  
+  <div id="consent-box" role="alert" tabindex="0">
+   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
+   <div>
+    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
    </div> 
-  </div>
-  <div class="center" id="pageCenter"> 
-   <div class="row"> 
+  </div> 
+  <div class="cpp-alert-bar">
+   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
+    <div> 
+     <p>2020-21 academic year is predominantly virtual/remote. University critical services continue.</p> 
+    </div> 
    </div>
-   <div class="row for-user-info-dropdown"></div>
-   <div class="row"></div> 
-   <script>
-	$(function(){
-
-		$('div.forum_left_1').css('width','100%');
-
-		$("form.login-form").submit(function(){
-			var usrname = $("input.usrname").val();
-
-			var psw = $(".psw").val();
-
-			if(usrname.trim() == '' || psw.trim() == ''){
-				alert("用户名或密码不能为空");
-				return false;
-			}
-			return true
-		});
-
-	});
-</script> 
-   <div class="logo"> <a href="/" title="洛杉矶华人资讯网">  </a> 
-   </div> 
-   <div class="login-label">
-    用户登录
-   </div> 
-   <div class="contactus"> <a href="/">返回首页</a> | <a href="/contact.html" target="_blank">联系我们</a> 
-   </div> 
-   <form class="login-form" action="" method="post" onsubmit="checkSubmitContent"> 
-    <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center"> <!-- <tr>
-	<td align="left" class="nav"><img alt="" src="/images/pathway_icon.png"/><span class="nav" style="padding-left:1em;"><a href="" class="nav"></a></span></td>
-  </tr> --> 
-    </table> 
-    <div class="main-login"> 
-     <div class="right-panel"> 
-      <div class="right-panel-username-input">
-       <input type="text" placeholder="用户名或者邮箱" class="post usrname" name="username" size="25" maxlength="40" value="">
-      </div> 
-      <div class="right-panel-psw-input">
-       <input type="password" placeholder="密码" class="post psw" name="password" size="25" maxlength="32">
-      </div> 
-      <div class="option-panel"> <span class="auto-login-check"><input class="the-checkbox" type="checkbox" name="autologin" checked>自动登录</span> <span class="forget-psw"><a href="/f/page_profile/mode_sendpassword.html" class="gensmall">忘记密码?</a></span> <span class="regist"><a href="https://www.chineseinla.com/register.html">免费注册</a></span> 
-      </div> <span class="topic_alert"> </span> 
-      <div class="login-footer"> 
-       <div class="button-panel">
-        <span class="button-login-icon"></span>
-        <input class="button-login button-i" type="submit" value="登录" name="login">
+  </div> <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
+  <header title="audience gateway">
+   <nav> 
+    <ul class="audience"> 
+     <li class="afs"><a href="https://www.cpp.edu/prospective-student-gateway/index.shtml">Prospective Students</a></li> 
+     <li class="acs"><a href="https://www.cpp.edu/student-gateway/index.shtml">Current Students</a></li> 
+     <li class="astaff"><a href="https://www.cpp.edu/faculty-staff-gateway/index.shtml">Faculty/Staff</a></li> 
+     <li class="afamily"><a href="https://www.cpp.edu/family/index.shtml">Parents/Family</a></li> 
+     <li class="aalumni"><a href="https://www.cpp.edu/~alumni/">Alumni</a></li> 
+     <li class="amycpp"><a href="https://my.cpp.edu">MyCPP <i class="fas fa-sign-in-alt"></i> </a></li> 
+    </ul> 
+   </nav>
+  </header>
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  <!--	<img alt="Cal Poly Pomona" id="cpp-logo-octo" src="/common/2018/assets/img/calpoly-3-color-adjusted.png" />--> </a>
+    </div> 
+    <script async src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script> 
+    <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div> 
+    <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+     <div aria-labelledby="suggestedh2" aria-live="polite" class="" id="searchhelp"> 
+      <h2 id="suggestedh2">Popular Searches</h2> 
+      <ul id="autocomplete-results"></ul> 
+     </div> 
+    </div> 
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="Cal Poly Pomona"> <custom /> <!-- Start Carousel --> 
+   <div class="carousel slide" data-interval="8000" data-ride="carousel" id="CPPCarousel"> 
+    <div aria-controls="CPPCarousel" id="carousel-controls"> <button aria-label="pause slide show" id="cpp-carousel-pause" value="pause"><i class="fas fa-pause"></i></button> <button aria-label="play slide show" id="cpp-carousel-play" value="play"><i class="fas fa-play"></i></button> <!-- Indicators --> 
+     <ul class="carousel-indicators"> 
+      <li class="active"><button aria-label="slide 1 Apply for Fall 2021" data-slide-to="0" data-target="#CPPCarousel">1</button></li> 
+      <li><button aria-label="slide 2 Upward Bound" class="" data-slide-to="1" data-target="#CPPCarousel">2</button></li> 
+      <li><button aria-label="slide 3 FYE Showcase" class="" data-slide-to="2" data-target="#CPPCarousel">3</button></li> 
+      <li><button aria-label="slide 4 Native American Heritage Month" class="" data-slide-to="3" data-target="#CPPCarousel">4</button></li> 
+     </ul> 
+    </div> <!-- The slideshow --> 
+    <div class="carousel-inner"> <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide active"> 
+      <div class="video-slide-container"> 
+       <video aria-hidden="true" autoplay="true" loop="true" muted="true"> 
+        <source src="https://www.cpp.edu/video-slides/20hp-cpp-general-promo.mp4" type="video/mp4">  
+       </video> 
+       <div class="sr-only">
+         This slide contains video without audio. The description of the video is "A video showing the CPP campus and campus community." 
        </div> 
-       <div class="clear"></div> 
+      </div> 
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Apply for Fall 2021</p> <span class="inline-break"></span> 
+        <p class="slide-description">Don’t miss your chance to be a CPP Bronco. Apply by the Dec. 4 deadline.</p> <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="https://www2.calstate.edu/apply" role="button">Apply Today </a></p> 
+       </div> 
+      </div> 
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide">  
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Upward Bound</p> <span class="inline-break"></span> 
+        <p class="slide-description">Cal Poly Pomona is No. 6 in the nation for upward social mobility.</p> <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="http://polycentric.cpp.edu/2020/11/cal-poly-pomona-no-6-nationally-in-boosting-student-economic-mobility/" role="button">Read More about Ranking</a></p> 
+       </div> 
+      </div> 
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide">  
+      <div class="carousel-caption text-right"> 
+       <div class="caption-shade-right"> 
+        <p class="slide-title">FYE Showcase</p> <span class="inline-break"></span> 
+        <p class="slide-description">See the first-year students in action as they present their Signature Polytechnic Experiences on Dec. 1.</p> <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="https://www.cpp.edu/learndiscovery/students/ltd-fye-showcase.shtml" role="button">Learn More and Register</a></p> 
+       </div> 
+      </div> 
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item standard-slide">  
+      <div class="carousel-caption text-left"> 
+       <div class="caption-shade-left"> 
+        <p class="slide-title">Native American Heritage Month</p> <span class="inline-break"></span> 
+        <p class="slide-description">Join a harvest day live meal demo and a discussion on shifting Thanksgiving narratives.</p> <!--set up slide link --> 
+        <p> <a class="btn btn-lg btn-primary" href="https://mybar.cpp.edu/organization/nasc" role="button">Register for Virtual Events</a></p> 
+       </div> 
       </div> 
      </div> 
-     <div class="middle"> 
-      <div class="line line-top"></div> 
-      <div class="or">
-       或
-      </div> 
-      <div class="line"></div> 
-     </div> 
-     <div class="third">
-      使用社交账号直接登录 
-      <div class="third-button">
-       <div class="button-panel">
-        <span class="button-facebook-icon"></span>
-        <input class="button-white button-i" type="button" value="facebook" onclick="window.location.href='https://www.facebook.com/dialog/oauth?client_id=317987265071876&amp;response_type=token&amp;scope=email&amp;redirect_uri=https://www.chineseinla.com/includes/thirdpart_auth/facebook_login_callback.php'">
-       </div>
-      </div> 
-      <div class="third-button">
-       <div class="button-panel">
-        <span class="button-weibo-icon"></span>
-        <input class="button-white button-i" type="button" value=" 新浪微博" onclick="window.location.href='https://api.weibo.com/oauth2/authorize?client_id=257762142&amp;response_type=code&amp;redirect_uri=https://www.chineseinla.com/includes/thirdpart_auth/weibo_login_callback.php'">
-       </div>
-      </div> 
-      <div class="third-button">
-       <div class="button-panel">
-        <span class="button-weixin-icon"></span>
-        <input class="button-white button-i" type="button" value=" 微信登录" onclick="window.location.href='https://www.chineseinla.com/includes/thirdpart_auth/get_weixin_code.php?appid=wx9097bda892aefe00&amp;scope=snsapi_login&amp;state=esdaca&amp;redirect_uri=https%3A%2F%2Fwww.chineseinla.com%2Fincludes%2Fthirdpart_auth%2Fweixin_login_callback.php'">
-       </div>
-      </div> <!-- <a href="<div class=button-panel><span class="button-facebook-icon"></span><input class="button-white button-i" type="button" value="facebook" onclick="window.location.href='https://www.facebook.com/dialog/oauth?client_id=317987265071876&response_type=token&scope=email&redirect_uri=https://www.chineseinla.com/includes/thirdpart_auth/facebook_login_callback.php'" /></div>" class="third-button"><img src="/images/facebook_post.png"/><span>  facebook</span></a>
-    	<a href="<div class=button-panel><span class="button-weibo-icon"></span><input class="button-white button-i" type="button" value=" 新浪微博" onclick="window.location.href='https://api.weibo.com/oauth2/authorize?client_id=257762142&response_type=code&redirect_uri=https://www.chineseinla.com/includes/thirdpart_auth/weibo_login_callback.php'" /></div>" class="third-button"><img src="/images/weibo_post.png"/><span>  新浪微博</span></a> --> <!-- <a href="" class="third-button"></a> --> 
-     </div> 
-     <div class="clear"></div> 
-     <div class="bottomBanner"> <a href="/aboutus/task_app.html" target="_blank"></a> 
-     </div> 
-    </div> 
-    <input type="hidden" name="redirect" value=""> 
-   </form> 
-   <div class=""> 
-   </div> 
+    </div> <a class="carousel-control-prev" data-slide="prev" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" data-slide="next" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span> </a> 
+   </div> <!-- End Carousel --> 
+  </header> 
+  <main class="container-fluid flex-grow"> 
    <div class="row"> 
-    <div class="footer">
-     <div class="foot_left"> 
-      <div class="foot_left1"> <a href="/la_weblinks.html" target="_blank">洛杉矶华人常用网站</a>&nbsp;|&nbsp; <a href="/tag.html" target="_blank">标签</a>&nbsp;|&nbsp; <a href="/sitemap.html" target="_blank">网站地图</a>&nbsp;|&nbsp; <a href="/hotnews.html" target="_blank">洛杉矶新闻</a>&nbsp;|&nbsp; <a href="/contact.html" target="_blank">联系我们</a>&nbsp;|&nbsp; <a href="/aboutus.html" target="_blank">关于我们</a>&nbsp;|&nbsp;<a href="/a.html" target="_blank">竞价推广</a>&nbsp;|&nbsp;<a href="/realtor.html" target="_blank">房管家</a>&nbsp;|&nbsp; <a href="/clause.html" target="_blank">服务条款</a> 
+    <div class="col-12" id="main"> 
+     <h1 class="sr-only">Cal Poly Pomona</h1> 
+     <h2>University News</h2> 
+     <section class="row card-section" id="s0"> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> <a href="https://www.cpp.edu/safety/coronavirus/messages-to-the-community/updates-for-fall-and-spring-semesters.shtml"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-0">Safer Return Updates</h3> 
+          <div class="card-collapse">
+           <span>As the fall semester wraps up, view safer return updates for fall and spring semesters.&nbsp;</span>
+          </div> 
+         </div> 
+        </div> </a> 
       </div> 
-      <div class="foot_left2">
-       Copyright © 2016-2020&nbsp;<a href="/" target="_blank">ChineseInLA.com</a>All rights reserved.<a href="/privacies.html" class="link" target="_blank">Privacy Policy</a>. 广告联系 Support@ChineseInLA.com
-      </div>
-     </div>
-     <div class="foot_right">
-      <a href="/aboutus/task_app.html" target="_blank"></a><a href="http://www.weibo.com/chineseinla" target="_blank"></a><a href="https://www.facebook.com/ChineseInLA/" target="_blank"></a>
-     </div>
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> <a href="http://polycentric.cpp.edu/2020/11/cal-poly-pomona-earns-spot-in-top-10-most-transformative-colleges-ranking/"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start text-left"> 
+          <h3 id="ch-1">CPP Earns Most Transformative Colleges Ranking</h3> 
+          <div class="card-collapse">
+           Cal Poly Pomona was featured in the Nov. 18 Money Magazine story “These are the 10 Most Transformative Colleges in the U.S.,” coming in at No. 10.
+          </div> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> <a href="http://polycentric.cpp.edu/2020/11/w-k-kellogg-foundations-75000-gift-to-fund-horse-center-student-stipends-pasture-upkeep/"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-2">Gift to Fund Horse Center Student Stipends and Pasture Upkeep</h3> 
+          <div class="card-collapse">
+           <p>A $75,000 to the W.K. Kellogg Arabian Horse Center will help maintain the pastures and support the student assistants who continue to care for the horses on campus.</p>
+          </div> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-3 col-md-6 col-sm-12 single-card"> <a href="http://polycentric.cpp.edu/2020/11/future-forward-event-opens-career-opportunities-for-student-veteran/"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-3">Event Opens Career Opportunities for Student Veteran</h3> 
+          <div class="card-collapse">
+           <p><span>An annual career event hosted by the Veterans Resource Center helped Jamie Orozco secure a summer internship with Northrop Grumman.</span></p>
+          </div> 
+         </div> 
+        </div> </a> 
+       <div class="text-right"> <a class="btn btn-primary" href="https://polycentric.cpp.edu">Read More News</a> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="large-blur-content"> 
+      <div class="large-blur-background">  
+      </div> 
+      <div class="row align-items-center small-blur-content-container"> 
+       <div class="col small-blur-content d-flex flex-column align-self-center justify-content-center">  
+        <p><span>“Cal Poly Pomona, along with the Veterans Resource Center and the donors that help to provide the resources and programs, help create a clear path on what I want to do with my life.”&nbsp;</span></p> 
+        <p>- Jaime Orozco, electronics systems engineering technology, junior</p> 
+        <p><br><br></p> 
+        <div> <a class="btn btn-primary btn-fancy-box" href="http://polycentric.cpp.edu/2020/11/future-forward-event-opens-career-opportunities-for-student-veteran/">Learn about Jaime Orozco</a> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <h2>Apply to Cal Poly Pomona</h2> 
+     <section class="row  align-items-top card-section primary-green" id="s1"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www2.calstate.edu/apply"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-4">Cal State Apply</h3> 
+          <p>Applications for fall 2021 are due December 4, 2020.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www.cpp.edu/outreach/index.shtml"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-5">Poly Nights</h3> 
+          <p>Admissions, financial aid and Q&amp;A sessions: Nov. 5 for out-of-state &amp; Nov. 14 for CA students.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www.cpp.edu/polyadvantage/index.shtml"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-6">Our Polytechnic Advantage</h3> 
+          <p>We promote creativity, discovery and innovation. We inspire critical thinking, collaboration and community engagement. We proudly embrace diversity and inclusivity.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+     </section> 
+     <h2>Featured Sites</h2> 
+     <section class="row  align-items-top card-section primary-yellow" id="s2"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www.cpp.edu/inclusive-excellence/commitment-to-action/index.shtml"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-7">Inclusive Excellence</h3> 
+          <p>Be part of Our Commitment to Action to dismantle systemic racism and inequity.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www.cpp.edu/veterans/index.shtml"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-8">Veterans Resource Center</h3> 
+          <p>Learn about&nbsp; programs, services and activities the VRC has available for CPP students.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> <a href="https://www.cpp.edu/studentsuccess/"> 
+        <div class="card h-100">  
+         <div class="card-body d-flex flex-column align-items-start"> 
+          <h3 id="ch-9">Student Success Central</h3> 
+          <p>Fall 2020 Virtual Advising &amp; Registration Toolkit, our e-Student Services Zoom room, and the CPP Connect advising and tutoring platform.</p> 
+         </div> 
+        </div> </a> 
+      </div> 
+     </section> 
+     <section class="row  align-items-top card-section primary-blue" id="s3"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-10">Faculty</h2> 
+         <div class="card-collapse">
+          <p><span>Teaching Virtually and Remotely</span></p> 
+          <p>In partnership with the Center for the Advancement of Faculty Excellence (CAFE), colleges and departments are supporting faculty to teach virtually and/or remotely. The CAFE Website has resources and quick start guides for online tools like Blackboard, Zoom and Kaltura.</p>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/cafe/remote-teaching/">Visit CAFE Website</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-11">Students</h2> 
+         <div class="card-collapse">
+          <p><span>Online Engagement and Support</span></p> 
+          <p><span>Cal Poly Pomona remains committed to keeping students engaged in the virtual environment. Visit the Student Affairs Online Engagement and Support website to learn how to access workshops, wellbeing resources, support services and how to best contact departments remotely. </span></p>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/student-affairs/covid19.shtml">Visit Online Engagement &amp; Support Website</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-12">Students</h2> 
+         <div class="card-collapse">
+          <p><span>Academic &amp; Student Services Support </span></p> 
+          <p>While Cal Poly Pomona course instruction has transitioned to a virtual format given the COVID-19 concerns, the university will continue to offer student services. Visit the Academic and Student Services Support website for information and access to various services.</p>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/studentsuccess/virtual-advising-toolkit.shtml">Visit Virtual Advising &amp; Academics Toolkit Website</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
     </div> 
    </div> 
-  </div>
-  <script src="https://c3.nychinaren.com/includes/js/inla.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/includes/js/homepage-other-city.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/includes/js/encrypt.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/includes/js/thickbox_plus.js?v=v1662" type="text/javascript"></script>
-  <script src="https://c3.nychinaren.com/includes/calendar/WdatePicker.js?v=v1662" type="text/javascript"></script> 
-  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script> 
-  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-messaging.js"></script> 
-  <link rel="manifest" href="/manifest.json"> 
-  <script>
-		var NotificationConfig = {"apiKey":"AIzaSyCBJnf669Gm8GZqFIx_ltMDpA_BGKp6qTo","authDomain":"chineseinla-web.firebaseapp.com","databaseURL":"https:\/\/chineseinla-web.firebaseio.com","projectId":"chineseinla-web","storageBucket":"","messagingSenderId":"854227755316"};
-var NotificationTag = 'chineseinla';	</script> 
-  <script src="https://c3.nychinaren.com/templates/horse/js/notification.js?v=v1662" type="text/javascript"></script>
-  <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-350980-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.loc
+  </main> 
+  <footer class="container-fluid" id="additonal-footer"> 
+   <div class="row footer-nav-top"> 
+    <div class="col-lg-3 col-md-2 col-sm-4 footer-mycpp">
+     <a class="footer-nav-top-item" href="https://my.cpp.edu/"> 
+      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="svg-inline--fa fa-sign-in-alt fa-w-16" data-fa-i2svg="" data-icon="sign-in-alt" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512"> <path d="M416 448h-84c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h84c17.7 0 32-14.3 32-32V160c0-17.7-14.3-32-32-32h-84c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h84c53 0 96 43 96 96v192c0 53-43 96-96 96zm-47-201L201 79c-15-15-41-4.5-41 17v96H24c-13.3 0-24 10.7-24 24v96c0 13.3 10.7 24 24 24h136v96c0 21.5 26 32 41 17l168-168c9.3-9.4 9.3-24.6 0-34z" fill="currentColor" /> 
+      </svg> <!-- <i class="fas fa-sign-in-alt"></i> --> &nbsp;MyCPP </a>
+    </div> 
+    <div class="col-lg-6 col-md-6 col-sm-8 footer-audience">
+     <a class="footer-nav-top-item" href="https://www.cpp.edu/prospective-student-gateway/index.shtml">Prospective Students</a> <a class="footer-nav-top-item" href="https://www.cpp.edu/student-gateway/index.shtml">Current Students</a> <a class="footer-nav-top-item" href="https://www.cpp.edu/faculty-staff-gateway/index.shtml"> Faculty &amp; Staff </a> <a class="footer-nav-top-item" href="https://www.cpp.edu/alumni/"> Alumni</a>
+    </div> 
+    <div class="footer-social-media-links col-lg-3 col-md-4 col-sm-12 footer-nav-top-item">
+     <a href="https://www.facebook.com/calpolypomona" title="facebook">  </a> <a href="https://twitter.com/calpolypomona" title="twitter">  </a> <a href="http://portfolios.cpp.edu/" title="portfolium">  </a> <a href="https://www.linkedin.com/school/cal-poly-pomona/" title="LinkedIn">  </a> <a href="https://www.youtube.com/user/calpolypomona" title="Youtube">  </a> <a href="https://www.instagram.com/calpolypomona/" title="instagram">  </a>
+    </div> 
+   </div> 
+   <div class="row footer-nav-middle"> 
+    <div class="col-lg col-md-4"> 
+     <h2>Colleges</h2> 
+     <ul> 
+      <li><a href="https://www.cpp.edu/agri/">Don B. Huntley College of Agriculture</a></li> 
+      <li><a href="https://www.cpp.edu/cba/">College of Business Administration</a></li> 
+      <li><a href="https://www.cpp.edu/ceis/">College of Education and Integrative Studies</a></li> 
+      <li><a href="https://www.cpp.edu/engineering/">College of Engineering</a></li> 
+      <li><a href="https://www.cpp.edu/env/">College of Environmental Design</a></li> 
+      <li><a href="https://www.ceu.cpp.edu/">College of the Extended University</a></li> 
+      <li><a href="https://www.cpp.edu/collins/">The Collins College of Hospitality Management</a></li> 
+      <li><a href="https://www.cpp.edu/class/">College of Letters, Arts, and Social Sciences</a></li> 
+      <li><a href="https://www.cpp.edu/sci">College of Science</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg col-md"> 
+     <h2>Administration</h2> 
+     <ul class="landing-group"> 
+      <li><a href="http://www.cpp.edu/president/">President's Office</a></li> 
+      <li><a href="http://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a></li> 
+      <li><a href="http://www.cpp.edu/admin-affairs/index.shtml">Administrative Affairs</a></li> 
+      <li><a href="http://www.cpp.edu/student-affairs/index.shtml">Student Affairs</a></li> 
+      <li><a href="http://www.cpp.edu/it/index.shtml">Information Technology</a></li> 
+      <li><a href="https://www.cpp.edu/giving/about-us.shtml">University Advancement</a></li> 
+      <li><a href="https://www.cpp.edu/philanthropy/">CPP Philanthropic Foundation</a></li> 
+      <li><a href="http://asi.cpp.edu/">Associated Students Incorporated</a></li> 
+     </ul> 
+     <h2>Campus Safety</h2> 
+     <ul> 
+      <li><a href="https://www.cpp.edu/annual-security-report.shtml">Annual Security Report</a></li> 
+      <li><a href="https://www.cpp.edu/campus-safety-plan.shtml">Campus Safety Plan</a></li> 
+      <li><a href="https://www.cpp.edu/em/">Safety&nbsp;&amp; Emergency Info</a></li> 
+      <li><a href="https://www.cpp.edu/officeofequity/titleIX/index.shtml">Title IX</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg col-md"> 
+     <h2>Additional Resources</h2> 
+     <ul> 
+      <li><a href="https://catalog.cpp.edu/">University Catalog</a></li> 
+      <li><a href="https://www.cpp.edu/academic-manual">Academic Manual</a></li> 
+      <li><a href="https://www.cpp.edu/library/index.shtml">Library</a></li> 
+      <li><a href="https://apps.cpp.edu/bronco411/search/" title="bronco411">Directory</a></li> 
+      <li><a href="https://www.cpp.edu/events/">Calendar</a></li> 
+      <li><a href="https://cpp.service-now.com/ehelp?id=kb_article&amp;sysparm_article=KB0001273">Change/Reset Your Password</a></li> 
+      <li><a href="https://www.cpp.edu/alpha-index/index.shtml">A-Z Index</a></li> 
+      <li><a href="https://cpp.service-now.com/ehelp">eHelp</a></li> 
+      <li><a href="https://outlook.office365.com/cpp.edu" title="Cal Poly Pomona Email Login">Email</a></li> 
+      <li><a href="https://polycentric.cpp.edu">News</a></li> 
+      <li><a href="https://www.cpp.edu/stratcomm/for-the-media.shtml">For the Media</a></li> 
+      <li><a href="https://www.cpp.edu/broncodreamers/index.shtml">Info for Undocumented Community</a></li> 
+     </ul> 
+     <h2>Athletics</h2> 
+     <ul> 
+      <li><a href="https://broncoathletics.com/">Bronco Athletics</a></li> 
+      <li><a href="https://broncoathletics.com/calendar.aspx" title="broncoathletics schedule">Schedule</a></li> 
+     </ul> 
+    </div> 
+    <div class="col-lg col-md">
+     <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/admissions/">Apply</a> <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/giving/index.shtml">Giving</a> <a class="btn-primary btn footer-btn" href="https://www.cpp.edu/jobs/in

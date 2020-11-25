@@ -1,342 +1,188 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
  <head> 
-  <link rel="canonical" href="https://www.chineseinpa.com/register.html">
-  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chineseinpa.com/page_login/task_stipulation/type_protocol.html">
-  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="ir-site-verification-token" value="-1470456897">
-  <title>费城华人资讯网 - 费城本地的华人信息分享交流平台</title> 
-  <base href="https://www.chineseinpa.com/"> 
-  <link rel="shortcut icon" href="/favicon.ico"> 
-  <link rel="stylesheet" href="https://pa.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296485" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://pa.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
-  <script src="https://pa.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
-  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
-  <script>
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-</script> 
-  <script src="https://pa.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
-  <script src="https://pa.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
-  <script src="https://pa.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296485" type="text/javascript"></script>
-  <script src="https://pa.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+			Mission, Vision &amp; Values
+		</title> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2019-11-18T10:52Z" property="date"> 
+  <link href="https://www.cpp.edu/aboutcpp/calpolypomona-overview/mission-and-values.shtml" rel="canonical"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
  </head> 
- <body>
-  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769823776">
-  <input type="hidden" id="weixin_login_link" weixin_login_link>
-  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E8%B4%B9%E5%9F%8E%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/295083450670109">
-  <input type="hidden" id="tw_link" tw_link>
-  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/pa_weixin.jpg">
-  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@ChineseInPA.com">
-  <div class="topline"> 
-   <div class="top_row"> 
-    <div class="top_item">
-     <a href="https://www.chineseinpa.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_wb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_fb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_weixin">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_item">
-     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_register">
-     <a href="register.html" class="register-link" target="_blank">注册</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_login">
-     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
-    </div> 
-    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
-    </div> 
-    <div class="top_details"> <a class="home-city" href="javascript:void(0)">费城</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
-     <div class="city-list"> 
-      <div class="top-city-arrow"></div> 
-     </div> 
-    </div> 
-    <div id="cities"> 
-     <div class="city-list">
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
-      </div>
-     </div> 
-    </div> 
-    <div id="wexin"> 
-     <div class="weixin_img"></div>
-     <div class="weixin_txt">
-      <p>1.查看公共账号:</p>
-      <p>&nbsp;&nbsp;费城华人资讯网</p>
-      <p>2.搜索账号:</p>
-      <p>&nbsp;&nbsp;chineseinpa</p>
-     </div> 
-    </div> 
-    <div id="contact"> 
-     <div class="contact_form"> 
-      <p class="contact-title">给我们留言</p> 
-      <input data-id="c-name" type="text" value="姓名...">
-      <br>
-      <br> 
-      <input data-id="c-email" type="text" value="邮箱地址...">
-      <br>
-      <br> <textarea data-id="c-content">消息内容...</textarea>
-      <br>
-      <br> <a href="javascript:void(0)" id="c-submit"></a> 
-     </div> 
-     <div class="contact_txt"> 
-      <p class="contact-title">联系方式</p> 
-      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
-        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
-        --> 
-      <p class="contact-text">邮箱: Support@ChineseInPA.com</p> 
-      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
-      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
-     </div> 
-    </div>
+ <body>  
+  <div id="consent-box" role="alert" tabindex="0">
+   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
+   <div>
+    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
    </div> 
-  </div>
-  <div class="center" id="pageCenter"> 
+  </div> 
+  <div class="cpp-alert-bar">
+   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
+    <div> 
+     <p>2020-21 academic year is predominantly virtual/remote. University critical services continue.</p> 
+    </div> 
+   </div>
+  </div> 
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  </a> <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
+    </div> 
+    <script async src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script> 
+    <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div> 
+    <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+     <div aria-labelledby="suggestedh2" aria-live="polite" class="" id="searchhelp"> 
+      <h2 id="suggestedh2">Popular Searches</h2> 
+      <ul id="autocomplete-results"></ul> 
+     </div> 
+    </div> 
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="About Cal Poly Pomona"> <custom /> 
+   <section id="jumbotron">  
+   </section> 
+   <div id="dept-title">
+     About Cal Poly Pomona 
+   </div> 
+  </header> 
+  <main class="container flex-grow"> 
    <div class="row"> 
-   </div>
-   <div class="row for-user-info-dropdown">
-    <div class="logo"> <a href="/" title="费城华人资讯网">  </a> 
-    </div> 
-    <div class="search"> 
-     <div class="searchframe"> 
-      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
-      <div class="button-panel">
-       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
+    <div class="col-12 col-md-4 col-lg-3"> 
+     <nav class="navbar navbar-expand-md navbar-light"> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button"> <span class="navbar-toggler-icon"></span> </button> 
+      <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+       <ul class="nav nav-pills left-nav" id="site-nav"> 
+        <li id="li-1"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/index.shtml">Home</a> </li> 
+        <li class="nav-item collapsed" id="li-2"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-1">Why CPP<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-1"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-3"> <a class="nav-link" data-parent="#item-1" href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#poly">A Polytechnic Approach</a> </li> 
+          <li class="nav-item" id="li-4"> <a class="nav-link" data-parent="#item-1" href="https://www.cpp.edu/~aboutcpp/why-cpp/index.shtml#learn">Learning By Doing</a> </li> 
+          <li class="nav-item" id="li-5"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/diverse.shtml">A Diverse Community</a> </li> 
+          <li class="nav-item" id="li-6"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/affordable-and-accessible.shtml">Affordable and Accessible</a> </li> 
+          <li class="nav-item" id="li-7"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/quality-learning-experiences.shtml">Quality Learning Experience</a> </li> 
+          <li class="nav-item" id="li-8"> <a class="nav-link" data-parent="#item-1" href="/aboutcpp/why-cpp/well-ranked.shtml">Well Ranked</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-9"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-2">CPP Overview<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-2"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-10"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/presidents-message.shtml">President's Welcome</a> </li> 
+          <li class="nav-item" id="li-11"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/mission-and-values.shtml">Mission, Vision &amp; Values</a> </li> 
+          <li class="nav-item" id="li-12"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/campus-community.shtml">Campus Community</a> </li> 
+          <li class="nav-item" id="li-13"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/facts-and-figures.shtml">Facts &amp; Figures</a> </li> 
+          <li class="nav-item" id="li-14"> <a class="nav-link" data-parent="#item-2" href="/aboutcpp/calpolypomona-overview/public-good.shtml">Public Good</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-15"> <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-3">Heritage<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="collapse" id="item-3"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-16"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/index.shtml">A Brief History</a> </li> 
+          <li class="nav-item" id="li-17"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/kellogg-connection.shtml">The Kellogg Connection</a> </li> 
+          <li class="nav-item" id="li-18"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/history-archives.shtml">University History and Archives</a> </li> 
+          <li class="nav-item" id="li-19"> <a class="nav-link" data-parent="#item-3" href="/aboutcpp/heritage/kellogg-house-pomona.shtml">Kellogg House Pomona</a> </li> 
+         </ul>
+        </div> 
+        <li class="nav-item collapsed" id="li-20"> <a aria-controls="menu" aria-expanded="true" class="nav-link expanded-nav" data-parent="#site-nav" data-toggle="collapse" href="#item-4">Visitor Information<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a> </li> 
+        <div class="show" id="item-4"> 
+         <ul class="nav flex-column ml-3"> 
+          <li class="nav-item" id="li-21"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/directions.shtml">Directions</a> </li> 
+          <li class="nav-item" id="li-22"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/parking.shtml">Parking</a> </li> 
+          <li class="nav-item" id="li-23"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/getting-around.shtml">Getting Around Campus</a> </li> 
+          <li class="nav-item" id="li-24"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/dining.shtml">Dining</a> </li> 
+          <li class="nav-item" id="li-25"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/shopping.shtml">Shopping</a> </li> 
+          <li class="nav-item" id="li-26"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/lodging.shtml">Lodging</a> </li> 
+          <li class="nav-item" id="li-27"> <a class="nav-link" data-parent="#item-4" href="/aboutcpp/visitor-information/attractions.shtml">Attractions</a> </li> 
+         </ul>
+        </div> 
+        <li id="li-28"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/administration.shtml">Administration</a> </li> 
+        <li id="li-29"> <a class="nav-link" data-parent="#site-nav" href="/aboutcpp/news.shtml">News and Events</a> </li> 
+       </ul>
       </div>
-      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63155.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63133.html"><i class="icon_num_orange m_icon_num">2</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63129.html"><i class="icon_num_gray m_icon_num">3</i>千万别吃！九个州沃尔玛召回切片水果 可能感染李斯特菌！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63130.html"><i class="icon_num_gray m_icon_num">4</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63195.html"><i class="icon_num_gray m_icon_num">5</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63123.html"><i class="icon_num_gray m_icon_num">6</i>专家预测,新冠疫情即将进入新高峰</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63124.html"><i class="icon_num_gray m_icon_num">7</i>Costco必买的水果清单 西瓜之外还有这些“好果子”！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63122.html"><i class="icon_num_gray m_icon_num">8</i>与父亲乱伦还想嫁给他 美女子谋杀男友并碎尸</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63208.html"><i class="icon_num_gray m_icon_num">9</i>彭斯贺锦丽辩论谁赢了？总结七大看点：视中国是敌是友问题上 两人回应差别大！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/63157.html"><i class="icon_num_gray m_icon_num">10</i>亚马逊推出“云旅游”服务 70美元可参观豪宅</span>
-       </div>
-      </div> 
-      <div id="search_key_div"></div> 
-     </div> 
-     <div class="searchwords"> 
-      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E4%BF%9D%E9%99%A9.html">保险</a></span> <span><a href="/search/key_%E6%8C%89%E6%91%A9.html">按摩</a></span> <span><a href="/search/key_%E6%9D%A8%E6%96%8C.html">杨斌</a></span> <span><a href="/search/key_%E4%B9%B0%E9%85%92.html">买酒</a></span> <span><a href="/search/key_%E7%94%B5%E5%B7%A5.html">电工</a></span> <span><a href="/search/key_%E8%82%A0%E8%83%83.html">肠胃</a></span> <span><a href="/search/key_%E7%9C%BC%E7%A7%91.html">眼科</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
-      </div> 
-     </div> 
+     </nav> 
     </div> 
-    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
-     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
-    </div> 
-   </div>
-   <div class="row">
-    <div class="navbar"> 
-     <div class="navbar-inner"> 
-      <ul class="nav"> 
-       <li class="active"><a href="https://www.chineseInPA.com" class="brand">首页</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/latravel.html" id="inactive_menu114">费城旅游</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/news.html" id="inactive_menu42">费城新闻</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/f.html" id="inactive_menu37">费城论坛</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
+    <div class="col-sm col-md-8 col-lg-9" id="main"> 
+     <h1 class="cpp-h1">Mission, Vision &amp; Values</h1> 
+     <section class="row card-section" id="s0"> 
+      <div class="col single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-0">Mission</h2> <span>We cultivate success through a diverse culture of experiential learning, discovery, and innovation.</span> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col single-card"> 
+       <div class="card h-100"> 
+        <div class="card-body d-flex flex-column align-items-start"> 
+         <h2 id="ch-1">Vision</h2> <span>Cal Poly Pomona will be the model for an inclusive polytechnic university that inspires creativity and innovation, embraces local and global challenges, and transforms lives.</span> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="row featurette align-items-center primary-blue mb-5"> 
+      <div class="col-md-5 order-1">  
+      </div> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Strategic Plan <br><span class="text-muted"></span> </h2> 
+       <p class="lead"> <span>Cal Poly Pomona launched a new&nbsp;strategic planning initiative&nbsp;&nbsp;in winter quarter 2016. The Strategic Planning website has been launched, giving the campus community an opportunity to share vital input as Cal Poly Pomona charts a course for the next several years.</span></p> <a class="btn btn-primary" href="http://www.cpp.edu/~strategicplan/index.shtml">Strategic Plan</a> 
+      </div> 
+     </section> 
+     <section class="text-images" id="s1"> 
+      <h2>This is Cal Poly Pomona</h2> 
+      <p>Discover the university's core principles in this campaign video.</p> 
+      <div class="video-container">
+       <iframe allow="autoplay; encrypted-media" allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/IiRE14MvdJo" title="campaign video" width="560"></iframe>
+      </div> 
+     </section> 
+     <section class="text-images" id="s2"> 
+      <h2>Values</h2> 
+      <ul type="disc"> 
+       <li><strong>Academic Excellence</strong><span>&nbsp;</span>– We demonstrate academic quality, relevance, and excellence through our teaching, learning, scholarship, and creative activities with student centered faculty in an evidence-based culture.</li> 
+       <li><strong>Experiential Learning</strong><span>&nbsp;</span>– Our polytechnic identity fosters an integrative approach to education through collaboration, discovery, learn-by-doing, and innovation. Our approach encourages reflection, informed risk-taking, and continuous learning.</li> 
+       <li><strong>Student Learning and Success</strong><span>&nbsp;</span>– We are deeply committed to educational experiences and supportive services that engage our students, enhance personal well-being and growth, provide career opportunities, and foster ethical citizenship.</li> 
+       <li><strong>Inclusivity</strong><span>&nbsp;</span>– Our diversity across multiple dimensions reflects and enhances our community. We are welcoming and respectful, and we value diversity.</li> 
+       <li><strong>Community Engagement</strong><span>&nbsp;</span>– We nurture mutually beneficial and meaningful relationships with community partners and stakeholders.</li> 
+       <li><strong>Social and Environmental Responsibility</strong><span>&nbsp;</span>– As global citizens, our individual and collective actions reflect our commitment to one another, society, and the environment.</li> 
       </ul> 
-     </div> 
-    </div> 
-    <div class="submenu_list" id="active_submenu"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="activeText"><a href="https://www.chineseInPA.com">首页</a></span><span class="inactiveText"><a href="/f.html">费城论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/tour/city_拉斯维加斯.html">旅行团</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">酒店</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu100"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu80"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">中餐厅</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu1151"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu1095"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu161"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu114"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/latravel.html">费城旅游</a></span><span class="inactiveText"><a href="/company/task_list/catid_144.html">酒店</a></span><span class="inactiveText"><a href="/shoppingmall/task_list/catid_9.html">购物</a></span><span class="inactiveText"><a href="/tour.html">旅游路线图</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span><span class="inactiveText"><a href="/company/task_list/catid_63.html">旅游接送</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu132"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">费城大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu42"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu67"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">费城主要节日</a></span><span class="inactiveText"><a href="/time.html">费城时间</a></span><span class="inactiveText"><a href="/weather.html">费城天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <form name="menu_logout" action="f/page_login/logout_true" method="post">
-     <input type="hidden" name="redirect" value="/register.html"> 
-     <div class="submenu_list" id="inactive_submenu37"> 
-      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-       <tbody> 
-        <tr> 
-         <td align="left"> <span class="inactiveText"><a href="/f.html">费城华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a
+      <h2>Strategic Initiatives</h2> 
+      <h3>Deliver quality programs that promote integrative learning, discovery and creativity</h3> 
+      <ul> 
+       <li>As an expression of our polytechnic identity, all students at Cal Poly Pomona will engage in experiential applied learning across all disciplines.&nbsp;</li> 
+       <li>Expand opportunities for students to experience the distinguishing hallmarks of a Cal Poly Pomona education: integrative learning, discovery, and creativity.&nbsp;</li> 
+       <li>Establish centers of excellence that will capitalize on our polytechnic identity, strengths and synergistic opportunities for discovery, innovation, and creative expression.&nbsp;</li> 
+       <li>Revitalize the General Education program by reimagining the integration of the liberal arts and sciences within the context of our polytechnic identity.</li> 
+      </ul> 
+      <h3>Enhance student learning, development, and success</h3> 
+      <ul> 
+       <li>Re-envision the co-curricular experience of students as they move in, through and beyond the University community.&nbsp;</li> 
+       <li>Design effective strategies that optimize the retention, persistence and achievement of students from historically underserved communities.&nbsp;</li> 
+       <li>Develop innovative strategies to increase the graduation rates of all students.&nbsp;</li> 
+       <li>Expand the digital student experience to provide timely and effective services that support students and their success.&nbsp;</li> 
+       <li>Encourage widespread student engagement in experiences that foster strong and enduring relationships and a sense of belonging in a vibrant campus community.&nbsp;</li> 
+       <li>Create a culture that promotes wellbeing and resiliency.</li> 
+      </ul> 
+      <h3>Prepare our students for the future of work and civic engagement</h3> 
+      <ul> 
+       <li>Implement a plan for student success that spans preadmission to one-year post-graduation.&nbsp;</li> 
+       <li>Develop a career readiness model that provides students with early and on-going opportunities to engage with alumni, the community, and industry leaders.&nbsp;</li> 
+       <li>Create a civic engagement i-Lab to address and solve community concerns and regional needs.</li> 
+      </ul> 
+      <h3>Strengthen our economic vitality and impact</h3> 
+      <ul> 
+       <li>Boldly elevate our reputation and showcase our unique polytechnic identity.&nbsp;</li> 
+       <li>Generate diverse revenue streams that enable the university to increase tenure density, expand and enhance its programs, and invest in research 

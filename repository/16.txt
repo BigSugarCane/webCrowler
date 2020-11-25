@@ -1,351 +1,260 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="zh" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"> 
  <head> 
-  <link rel="canonical" href="https://www.sdchinaren.com/aboutus/task_app.html">
-  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-  <meta name="ir-site-verification-token" value="-1391556571">
-  <title>圣地亚哥华人资讯网 - 圣地亚哥本地的华人信息分享交流平台</title> 
-  <base href="https://www.sdchinaren.com/"> 
-  <link rel="shortcut icon" href="/favicon.ico"> 
-  <link rel="stylesheet" href="https://sd.nychinaren.com/includes/Font-Awesome-3.2.1/css/font-awesome.min.css?v=1529647562" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/includes/Swiper-3.4.1/dist/css/swiper.min.css?v=1487296487" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/templates/horse/css/template.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/templates/horse/css/cygj_yy.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/templates/horse/css/zys.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/templates/v2_mobile/css/button.css?v=v1638" type="text/css">
-  <link rel="stylesheet" href="https://sd.nychinaren.com/templates/horse/css/notification.css?v=v1638" type="text/css">
-  <script src="https://sd.nychinaren.com/includes/js/umeditor2/third-party/jquery.min.js?v=v1662" type="text/javascript"></script>
-  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
-  <script>
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-</script> 
-  <script src="https://sd.nychinaren.com/templates/v2_mobile/js/baseApi.js?v=v1662" type="text/javascript"></script>
-  <script src="https://sd.nychinaren.com/templates/v2_mobile/js/validate.js?v=v1662" type="text/javascript"></script>
-  <script src="https://sd.nychinaren.com/includes/Swiper-3.4.1/dist/js/swiper.jquery.min.js?v=1487296487" type="text/javascript"></script>
-  <script src="https://sd.nychinaren.com/templates/horse/js/jquery.qrcode.min.js?v=v1662" type="text/javascript"></script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+			Parents and Families
+		</title> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"> 
+  <meta content="CPP" property="cludo:category"> 
+  <meta content="2020-10-29T08:43Z" property="date"> 
+  <link href="https://www.cpp.edu/family/index.shtml" rel="canonical"> 
+  <meta content="Connect with other parents in the CPP community and learn how to stay informed and engaged with both CPP and your college student. " name="description"> 
+  <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script> 
+  <script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script> 
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"> 
+  <script crossorigin="anonymous" defer integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"> 
+  <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"> 
+  <link href="https://customer.cludo.com/assets/10000600/10000921/cludo-search.min.css" rel="stylesheet" type="text/css"> 
  </head> 
- <body>
-  <input type="hidden" id="weibo_link" weibo_link="http://weibo.com/u/5769912314">
-  <input type="hidden" id="weixin_login_link" weixin_login_link>
-  <input type="hidden" id="fb_link" fb_link="https://www.facebook.com/pages/%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%E5%8D%8E%E4%BA%BA%E8%B5%84%E8%AE%AF%E7%BD%91/1463302657246429?fref=ts">
-  <input type="hidden" id="tw_link" tw_link>
-  <input type="hidden" id="weixin_img_path" weixin_img_path="/images/home_page/sd_weixin.jpg">
-  <input type="hidden" id="mosConfig_mailfrom" mosconfig_mailfrom="Support@SDChinaRen.com">
-  <div class="topline"> 
-   <div class="top_row"> 
-    <div class="top_item">
-     <a href="https://www.sdchinaren.com" onclick="AddFolderFavourite(document.title,this.href);return false;">收藏本站</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_wb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_fb">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_weixin">
-     <a href="javascript:void(0)"></a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_item">
-     <a href="/aboutus/task_app.html" class="app" target="_blank">手机APP</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_register">
-     <a href="register.html" class="register-link" target="_blank">注册</a>
-    </div> 
-    <div class="top_shutiao"></div> 
-    <div class="top_login">
-     <a href="/f/page_login.html" class="login-link" target="_blank">登录</a>
-    </div> 
-    <div class="top_lang"> <a href="javascript:setSiteLanguage('zlang','gb',15)"></a> <a href="javascript:setSiteLanguage('zlang','tw',15)"></a> 
-    </div> 
-    <div class="top_details"> <a class="home-city" href="javascript:void(0)">圣地亚哥</a>&nbsp;&nbsp; <a class="top_contact" href="javascript:void(0)">联系我们</a> 
-     <div class="city-list"> 
-      <div class="top-city-arrow"></div> 
-     </div> 
-    </div> 
-    <div id="cities"> 
-     <div class="city-list">
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinla.com">洛杉矶</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.vegaschinaren.com">拉斯维加斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinsfbay.com">旧金山</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.sdchinaren.com">圣地亚哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.nychinaren.com">纽约</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chicagochinaren.com">芝加哥</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinpa.com">费城</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dcchinaren.com">大华府</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinoz.com">悉尼</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinboston.com">波士顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhouston.com">休斯顿</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.seattlechinaren.com">西雅图</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinhi.com">夏威夷</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinvan.com">温哥华</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinatlanta.com">亚特兰大</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.dallasren.com">达拉斯</a>
-      </div>
-      <div class="other-city">
-       <a target="_blank" href="https://www.chineseinflorida.com">佛罗里达</a>
-      </div>
-     </div> 
-    </div> 
-    <div id="wexin"> 
-     <div class="weixin_img"></div>
-     <div class="weixin_txt">
-      <p>1.查看公共账号:</p>
-      <p>&nbsp;&nbsp;圣地亚哥华人资讯网</p>
-      <p>2.搜索账号:</p>
-      <p>&nbsp;&nbsp;chineseinsd</p>
-     </div> 
-    </div> 
-    <div id="contact"> 
-     <div class="contact_form"> 
-      <p class="contact-title">给我们留言</p> 
-      <input data-id="c-name" type="text" value="姓名...">
-      <br>
-      <br> 
-      <input data-id="c-email" type="text" value="邮箱地址...">
-      <br>
-      <br> <textarea data-id="c-content">消息内容...</textarea>
-      <br>
-      <br> <a href="javascript:void(0)" id="c-submit"></a> 
-     </div> 
-     <div class="contact_txt"> 
-      <p class="contact-title">联系方式</p> 
-      <p class="contact-text">地址: Ontario, CA 91761</p> <!--
-        <p class='contact-text hastab'>地址: Ontario, CA 91761</p>
-        --> 
-      <p class="contact-text">邮箱: Support@SDChinaRen.com</p> 
-      <p class="contact-text "> 电话: 总机：626-657-6046 &nbsp;9:00-18:00(西部时间) </p> 
-      <p class="contact-text orange hastab">(周一到周五, 周六周日休息)</p> 
-     </div> 
-    </div>
+ <body>  
+  <div id="consent-box" role="alert" tabindex="0">
+   We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>. 
+   <div>
+    <button class="btn btn-primary" id="accept-btn" type="submit">Accept</button>
    </div> 
-  </div>
-  <div class="center" id="pageCenter"> 
+  </div> 
+  <div class="cpp-alert-bar">
+   <div class="alert alert-cpp-yellow" role="alert"> <strong><a href="https://www.cpp.edu/safety/safer-return/index.shtml">Safer Return to Campus</a> | <a href="https://www.cpp.edu/safety/coronavirus/">COVID-19 Health Alert</a></strong> 
+    <div> 
+     <p>2020-21 academic year is predominantly virtual/remote. University critical services continue.</p> 
+    </div> 
+   </div>
+  </div> 
+  <header class="fixed-top" title="Cal Poly Pomona Search">
+   <nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar"> 
+    <div class="navbar-nav mr-auto">
+     <a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link">  </a> <a class="sr-only" href="#main" id="skip-to-nav">Skip To Main Content</a>
+    </div> 
+    <script async src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script> 
+    <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div> 
+    <div aria-expanded="false" class="show dropdown-toggle" data-toggle="dropdown" id="shcontainer"> 
+     <div aria-labelledby="suggestedh2" aria-live="polite" class="" id="searchhelp"> 
+      <h2 id="suggestedh2">Popular Searches</h2> 
+      <ul id="autocomplete-results"></ul> 
+     </div> 
+    </div> 
+   </nav>
+  </header> 
+  <div id="alert"></div> 
+  <header title="Parents and Families"> <custom /> <!-- Start Carousel --> 
+   <div class="carousel slide carousel-fade" data-interval="4000" data-ride="carousel" id="CPPCarousel"> 
+    <div aria-controls="CPPCarousel" id="carousel-controls"> <button aria-label="pause slide show" id="cpp-carousel-pause" value="pause"><i class="fas fa-pause"></i></button> <button aria-label="play slide show" id="cpp-carousel-play" value="play"><i class="fas fa-play"></i></button> <!-- Indicators --> 
+     <ul class="carousel-indicators"> 
+      <li class="active"><button aria-label="slide 1 " data-slide-to="0" data-target="#CPPCarousel">1</button></li> 
+      <li><button aria-label="slide 2 " class="" data-slide-to="1" data-target="#CPPCarousel">2</button></li> 
+      <li><button aria-label="slide 3 A student and her mom talk at an event" class="" data-slide-to="2" data-target="#CPPCarousel">3</button></li> 
+      <li><button aria-label="slide 4 " class="" data-slide-to="3" data-target="#CPPCarousel">4</button></li> 
+     </ul> 
+    </div> <!-- The slideshow --> 
+    <div class="carousel-inner"> <!--make sure slide has text information --> 
+     <div class="carousel-item active img-only-slide">  
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item img-only-slide">  
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item img-only-slide">  
+     </div> <!--make sure slide has text information --> 
+     <div class="carousel-item img-only-slide">  
+     </div> 
+    </div> <a class="carousel-control-prev" data-slide="prev" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" data-slide="next" href="#CPPCarousel" role="button"> <span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span> </a> 
+   </div> <!-- End Carousel --> 
+   <div id="dept-title"> <a href="http://www.cpp.edu/family">Parents and Families</a> 
+   </div> 
+  </header> 
+  <main class="container flex-grow"> 
    <div class="row"> 
-   </div>
-   <div class="row for-user-info-dropdown">
-    <div class="logo"> <a href="/" title="圣地亚哥华人资讯网">  </a> 
-    </div> 
-    <div class="search"> 
-     <div class="searchframe"> 
-      <input type="text" id="com_search_key" name="com_search_key" value="请输入您要查询的内容" onkeypress="CheckEnterPress(event)" autocomplete="off"> 
-      <div class="button-panel">
-       <span class="button-b-search"></span><a class="button-white button-a" href="javascript:searchCompanyGlobal()"></a>
-      </div>
-      <div id="m_search_topic_hot_block" class="m_search_topic_hot_block ">
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74942.html"><i class="icon_num_red m_icon_num">1</i>突发：$1200悬了 川普发推宣布终止纾困金谈判！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74999.html"><i class="icon_num_orange m_icon_num">2</i>美卫生局强烈建议：疫情严重,不要去这个州！</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74991.html"><i class="icon_num_gray m_icon_num">3</i>突发! 加州州长纽森办公室一名员工确诊新冠!</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74915.html"><i class="icon_num_gray m_icon_num">4</i>“美国队长”发文怒怼川普：“荒唐到令人发指”</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74968.html"><i class="icon_num_gray m_icon_num">5</i>彭斯反对辩论设有机玻璃防疫 美媒揭获胜关键</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74913.html"><i class="icon_num_gray m_icon_num">6</i>川普返回白宫擅自脱下口罩 工作人员就在他身后…</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74951.html"><i class="icon_num_gray m_icon_num">7</i>川普正在失去盟友！暂停纾困金谈判致参议院共和党员与其决裂</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74993.html"><i class="icon_num_gray m_icon_num">8</i>白宫幕僚长已与国会停止磋商 达成纾困金案不乐观</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74936.html"><i class="icon_num_gray m_icon_num">9</i>白宫批准FDA严格试验新冠疫苗政策 大选前获准上市或无望</span>
-       </div>
-       <div class="m_search_topic_item">
-        <span href="/hotnews/74908.html"><i class="icon_num_gray m_icon_num">10</i>Costco必买的水果清单 西瓜之外还有这些“好果子”！</span>
-       </div>
+    <div class="col-12" id="main"> 
+     <h1 class="sr-only">Parents and Families</h1> 
+     <section class="row featurette align-items-center Normal mb-5"> 
+      <div class="col-md-5 order-1">  
       </div> 
-      <div id="search_key_div"></div> 
-     </div> 
-     <div class="searchwords"> 
-      <div class="company_search_more"> <span class="search_most">常用搜索:</span> <span><a href="/search/key_%E8%B5%B5%E8%9E%8D.html">赵融</a></span> <span><a href="/search/key_%E7%BB%B4%E4%BF%AE.html">维修</a></span> <span><a href="/search/key_%E4%B9%B0%E7%83%9F.html">买烟</a></span> <span><a href="/search/key_%E8%A3%85%E4%BF%AE.html">装修</a></span> <span><a href="/search/key_%E5%8D%8E%E7%9B%9B.html">华盛</a></span> <span><a href="/search/key_%E8%AF%89%E8%AE%BC.html">诉讼</a></span> <span><a href="/search/key_%E5%AE%B6%E5%BA%AD.html">家庭</a></span> <span><a href="/search/key_%E8%BD%A6%E8%A1%8C.html">车行</a></span> <span><a href="/company/task_morekey.html">&gt;&gt;</a></span> 
+      <div class="col-md-7 order-2"> 
+       <h2 class="featurette-heading">Welcome, Parents &amp; Families <br><span class="text-muted"></span> </h2> 
+       <p class="lead"> </p>
+       <p><span><span>The Parent and Family team speaks for everyone at the university when we say we're honored you and your student have chosen or are considering Cal Poly Pomona. Parents and family members are a crucial partner in the success of our students. There are many ways to get involved -- please sign up for the&nbsp;</span><a href="https://www.cpp.edu/family/volunteer.shtml"><span>parent and family newsletter</span></a> to stay informed on important information (archive can be <a href="archive.shtml">accessed here</a>) and download the <a href="https://www.docdroid.net/RQ6dyDg/cpp-parent-and-family-resource-guide-pdf">Parent and Family Resource Guide</a> to familiarize yourself with CPP.</span></p> 
+       <p><span>COVID-19 has had an enormous impact on our university and our nation. As a result, we'd like to take a moment to recognize your patience and understanding as we navigate a new reality, together.&nbsp;Ensuring our students have adequate resources to succeed in the virtual environment remains our top priority, whether it be <a href="https://www.cpp.edu/studentsuccess/zoom-resources.shtml" title="https://www.cpp.edu/studentsuccess/zoom-resources.shtml">Zoom and online learning resources</a>, information about <a href="https://www.cpp.edu/studentsuccess/accessing-services.shtml" title="https://www.cpp.edu/studentsuccess/accessing-services.shtml">academic advising</a>&nbsp;<a href="https://www.cpp.edu/studentsuccess/accessing-services.shtml" title="https://www.cpp.edu/studentsuccess/accessing-services.shtml"></a>or staying <a href="https://www.cpp.edu/student-affairs/covid19.shtml">up-to-date</a> on the many ways students can remain supported as an active member of their community in an online setting.</span></p> 
+       <p><span><span>We encourage you to reach out with any questions, concerns or comments using the contact methods listed below. Go Broncos!</span></span></p>
+       <p></p> 
       </div> 
+     </section> 
+     <section class="row  align-items-top card-section primary-blue" id="s0"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-0">Stay Informed </h2> 
+         <div>
+          <span>Get started with important CPP resources, including Orientation Services, the academic calendar and campus news.</span>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/family/informing.shtml">Access Resources</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-1">Navigating CPP</h2> 
+         <div>
+          <span><span>Become familiar with campus policies and procedures, health and wellbeing services, Title IX, FERPA information and campus safety.</span></span>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/family/educating.shtml">Access Information</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 circle-image-card">  
+        <div class="card-body d-flex flex-column align-items-center center-card text-center"> 
+         <h2 id="ch-2">Be Engaged</h2> 
+         <div>
+          <span><span>Stay informed about special family events and get up-to-date information on volunteer and participation opportunities.</span></span>
+         </div> 
+         <div class="card-btn"> <a class="btn btn-primary mt-3" href="https://www.cpp.edu/family/events.shtml">See Opportunities</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="row align-items-center landing-page"> 
+      <div class="col-md-4 lp-image order-1">  
+      </div> 
+      <div class="col-md-8 landing-group-left primary-green order-2"> 
+       <h2 class="featurette-heading">Subscribe to the Newsletter</h2> 
+       <p class="lead"> <span>The Bronco Parent and Family newsletter is the easiest way to stay informed about important university news, updates and ways to support your college student throughout their time at CPP. Simply fill out the sign-up form by clicking below and adding your email to officially subscribe.</span> </p>
+       <p>&nbsp;</p> 
+       <p><a class="btn btn-primary" href="https://forms.gle/h6nK8L6ApuiMbvsp8">Sign Up Now</a></p> 
+       <p><a class="btn btn-primary" href="archive.shtml">Newsletter Archive</a></p>
+       <p></p> 
+       <ul class="landing-group"> 
+       </ul> 
+      </div> 
+     </section> 
+     <section class="row  align-items-top card-section secondary-blue" id="s1"> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 normal"> 
+        <div class="card-body d-flex flex-column align-items-start text-left"> 
+         <h2 id="ch-3">Parent and Family Hotline</h2> 
+         <br> 
+         <div>
+          <span><span>Questions or concerns? Need help? Contact the Parent and Family Hotline:</span></span>
+         </div> 
+         <br> 
+         <div>
+          <span><span></span></span>
+         </div> 
+         <div>
+          <span><strong><span face="helvetica, arial, sans-serif" size="3">(909) 869-3009</span></strong><span face="helvetica, arial, sans-serif" size="3"></span></span>
+         </div> 
+         <br> 
+         <div>
+          <span><span face="helvetica, arial, sans-serif" size="3"></span></span>
+         </div> 
+         <div>
+          <span><strong><span face="helvetica, arial, sans-serif" size="3">Matthew Walsh</span></strong></span>
+         </div> 
+         <div>
+          <span><strong><span face="helvetica, arial, sans-serif" size="3">Senior Coordinator, Parent and Family Engagement</span></strong></span>
+         </div> 
+         <div>
+          <span><span face="helvetica, arial, sans-serif" size="3"></span></span>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 normal"> 
+        <div class="card-body d-flex flex-column align-items-start text-left"> 
+         <h2 id="ch-4">Other Ways to Reach Us</h2> 
+         <br> 
+         <p><span face="helvetica, arial, sans-serif" size="3"><span face="helvetica, arial, sans-serif" size="3"><em><strong>COVID-19 Notice:&nbsp;</strong></em>Bronco Parent and Family is working remotely at this time and is not available in person. Please reach out through email or the hotline.</span></span></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="col-lg-4 col-md-4 col-sm-12 single-card"> 
+       <div class="card h-100 normal"> 
+        <div class="card-body d-flex flex-column align-items-start text-left"> 
+         <h2 id="ch-5">Campus Links</h2> 
+         <br> 
+         <div>
+          <span><a href="https://www.cpp.edu/admissions/index.shtml">Admissions</a></span>
+         </div> 
+         <div>
+          <span><a href="https://broncoathletics.com/"><span size="4">Athletics</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.broncobookstore.com/"><span size="4">Bookstore</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/studentsuccess/bronco-advising-center/index.shtml"><span size="4">Bronco Advising Center</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/campus-safety-plan.shtml"><span size="4">Campus Safety Information</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/career/"><span size="4">Career Center</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/student-accounting/index.shtml">Cashier Services</a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/commencement/index.shtml"><span size="4">Commencement</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/oslcc/index.shtml"><span size="4">Cultural Centers</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/financial-aid/">Financial Aid</a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/oslcc/greek-life/index.shtml"><span size="4">Greek Life</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/housing/index.shtml"><span size="4">Housing</span></a></span>
+         </div> 
+         <div>
+          <span><a href="https://www.rosefloat.org/"><span size="4">Rose Float</span></a><span size="4"></span></span>
+         </div> 
+         <div>
+          <span><a href="https://www.cpp.edu/~student-affairs/"><span size="4">Student Life</span></a></span>
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+    </div> 
+   </div> 
+  </main> 
+  <footer class="container-fluid" id="main-footer"> 
+   <div class="row"> 
+    <div class="col-lg col-md col-sm-6 address text-left"> 
+     <p>3801 West Temple Avenue, Pomona, CA 91768</p> 
+     <div class="copyright"> 
+      <p class="copyright-text">©2020 California State Polytechnic University, Pomona</p> 
+      <p class="copyright-text">All Rights Reserved</p> 
      </div> 
     </div> 
-    <div class="userlogin"> <!--<script type="text/javascript">--> <!-- function changeCheckbox() {--> <!--	     var mylabel = document.getElementById('formyCheckBox');--> <!--	     if (mylabel.innerHTML == "√"){--> <!--		        mylabel.innerHTML = "";--> <!--		        document.getElementById('autologin').checked=false;--> <!--		     }--> <!--	     else{--> <!--		        mylabel.innerHTML = "√";--> <!--		        document.getElementById('autologin').checked=true;--> <!--		     }--> <!--	 }</script>--> <!--	<form action="/f/page_login.html" method="post" class="loginleft">--> <!--		<div class="login">--> <!--			帐号:<input type="text" name="username" class="input1">--> <!--    		<label id="formyCheckBox" onclick="changeCheckbox()" class="checkbox">√</label>--> <!--			<input type="checkbox" name="autologin" checked="checked" id="autologin" style="display:none">自动登录</div>--> <!--		<div class="login">--> <!--			密码:<input type="password" name="password" class="input1"><input--> <!--				type="submit" name="login" class="input2" value="登录">--> <!--		</div>--> <!--		<input type="hidden" name="redirect"--> <!--			value="--><!--">--> <!--	</form>--> <!--	<div class="loginright">--> <!--		<div class="login">--> <!--			<span><a href="/f/page_profile/mode_sendpassword.html">找回密码</a></span>--> <!--		</div>--> <!--		<div class="login">--> <!--			<span><a href="/register.html">立即注册</a></span>--> <!--		</div>--> <!--	</div>--> 
-     <p> <a href="javascript:TB_show(null,'/index3.php?option=com_v2_forum&amp;task=login.tb')">登录</a><a href="/register.html">注册</a> </p> 
+    <div class="col-lg col-md-7 col-sm-6 footer-links">
+     <a href="https://www.cpp.edu/~aboutcpp/index.shtml" title="Cpp About">About Cal Poly Pomona</a> <a aria-label="Cpp Feedback" href="https://www.cpp.edu/website-feedback.shtml" title="Cpp Feedback">Feedback</a> <a aria-label="Cpp Privacy" href="https://www.cpp.edu/privacy.shtml" title="footer - Privacy">Privacy</a> <a href="https://www.cpp.edu/accessibility.shtml">Accessibility</a> <a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
     </div> 
-   </div>
-   <div class="row">
-    <div class="navbar"> 
-     <div class="navbar-inner"> 
-      <ul class="nav"> 
-       <li class="active"><a href="/" class="brand">首页</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/company.html" id="inactive_menu100">商家点评</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/v.html" id="inactive_menu1151">How视频</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/deal.html" id="inactive_menu1095">特价</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/job.html" id="inactive_menu161">工作</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/living.html" id="inactive_menu80">生活资讯</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/latravel.html" id="inactive_menu114">圣地亚哥旅游</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/education.html" id="inactive_menu132">教育培训</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/news.html" id="inactive_menu42">圣地亚哥新闻</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/la_weblinks.html" id="inactive_menu67">常用工具</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/f.html" id="inactive_menu37">圣地亚哥论坛</a></li> 
-       <li></li> 
-       <li><a class="brand" href="/resume.html" id="inactive_menu1163">人才库</a></li> 
-      </ul> 
-     </div> 
-    </div> 
-    <div class="submenu_list" id="active_submenu"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="activeText"><a href="/">首页</a></span><span class="inactiveText"><a href="/f.html">圣地亚哥论坛</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_5.html">租房</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">找工作</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_3.html">二手商品</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/tag.html">标签</a></span><span class="inactiveText"><a href="/f/page_login.html">登陆</a></span><span class="inactiveText"><a href="register.html">注册</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu100"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/company.html">商家点评首页</a></span><span class="inactiveText"><a href="/company/task_group/type_1.html">全部分类</a></span><span class="inactiveText"><a href="/company/task_group/type_2.html">新移民常用</a></span><span class="inactiveText"><a href="/restaurant.html">美食</a></span><span class="inactiveText"><a href="/company/task_group/group_4.html">教育</a></span><span class="inactiveText"><a href="/company/task_latest_review.html">最新点评</a></span><span class="inactiveText"><a href="/company/task_guideline.html">商家点评说明</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu1151"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/v.html">How视频</a></span><span class="inactiveText"><a href="/live.html">直播</a></span><span class="inactiveText"><a href="/v/task_group/gid_10.html">汽车交通</a></span><span class="inactiveText"><a href="/v/task_group/gid_11.html">生活日常</a></span><span class="inactiveText"><a href="/v/task_group/gid_12.html">美国法律</a></span><span class="inactiveText"><a href="/v/task_group/gid_14.html">休闲娱乐</a></span><span class="inactiveText"><a href="/v/task_group/gid_15.html">留学美国</a></span><span class="inactiveText"><a href="/v/task_group/gid_18.html">美国房产</a></span><span class="inactiveText"><a href="/v/task_group/gid_22.html">保险金融</a></span><span class="inactiveText"><a href="/v/task_group/gid_25.html">美国医疗</a></span><span class="inactiveText"><a href="/v/task_group/gid_30.html">影视</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu1095"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/deal.html">折扣信息</a></span><span class="inactiveText"><a href="creditcard.html">信用卡</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu161"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/job.html">工作资讯</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_29.html">工作求职论坛</a></span><span class="inactiveText"><a href="/bulletin_table.html">职业移民</a></span><span class="inactiveText"><a href="/company/task_list/catid_56.html">职业介绍所</a></span><span class="inactiveText"><a href="/la_weblinks/catid_21.html">求职网站</a></span><span class="inactiveText"><a href="/resume.html">人才库</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu80"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/living.html">生活资讯</a></span><span class="inactiveText"><a href="/lawyer.html">律师</a></span><span class="inactiveText"><a href="/restaurant.html">美食地图</a></span><span class="inactiveText"><a href="/doctor.html">医生</a></span><span class="inactiveText"><a href="/accountant.html">会计师</a></span><span class="inactiveText"><a href="/supermarket.html">华人超市</a></span><span class="inactiveText"><a href="/company/task_list/catid_48.html">地产经纪</a></span><span class="inactiveText"><a href="/shoppingmall.html">购物中心</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/company/task_map/catid_149.html">警察局</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu114"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/latravel.html">圣地亚哥旅游</a></span><span class="inactiveText"><a href="/travel.html">圣地亚哥旅游图</a></span><span class="inactiveText"><a href="/la_weblinks/catid_44.html">酒店预订</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu132"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/education.html">教育培训首页</a></span><span class="inactiveText"><a href="/university.html">圣地亚哥大学</a></span><span class="inactiveText"><a href="/school/type_3.html">高中</a></span><span class="inactiveText"><a href="/school/type_2.html">初中</a></span><span class="inactiveText"><a href="/school/type_1.html">小学</a></span><span class="inactiveText"><a href="/school.html">学区</a></span><span class="inactiveText"><a href="/company/task_list/catid_53.html">培训机构</a></span><span class="inactiveText"><a href="/public_library.html">图书馆</a></span><span class="inactiveText"><a href="/f/page_viewforum/f_25.html">留学美国论坛</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu42"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/news.html">新闻摘要</a></span><span class="inactiveText"><a href="/news/type_total_popular.html">最多推荐</a></span><span class="inactiveText"><a href="/news/type_total_weekly_popular.html">本周最多推荐</a></span><span class="inactiveText"><a href="/news/type_monthly_popular.html">本月最多推荐</a></span><span class="inactiveText"><a href="/news/type_latest.html">新推荐新闻</a></span><span class="inactiveText"><a href="/news/type_shownewform.html">发布您的新闻</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <div class="submenu_list" id="inactive_submenu67"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/la_weblinks.html">常用网站</a></span><span class="inactiveText"><a href="/rate_exchange.html">中美度量换算</a></span><span class="inactiveText"><a href="/language_convert.html">中文繁简转换</a></span><span class="inactiveText"><a href="/lastname.html">姓氏查询</a></span><span class="inactiveText"><a href="/mortgage.html">房贷计算</a></span><span class="inactiveText"><a href="/zipcode.html">邮政编码</a></span><span class="inactiveText"><a href="/holiday.html">圣地亚哥主要节日</a></span><span class="inactiveText"><a href="/time.html">圣地亚哥时间</a></span><span class="inactiveText"><a href="/weather.html">圣地亚哥天气</a></span><span class="inactiveText"><a href="/shenfenzheng.html">身份证升位</a></span><span class="inactiveText"><a href="/sizemap.html">尺码换算</a></span><span class="inactiveText"><a href="/tariff.html">关税税率</a></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div> 
-    <form name="menu_logout" action="f/page_login/logout_true" method="post">
-     <input type="hidden" name="redirect" value="/aboutus/task_app.html"> 
-     <div class="submenu_list" id="inactive_submenu37"> 
-      <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-       <tbody> 
-        <tr> 
-         <td align="left"> <span class="inactiveText"><a href="/f.html">圣地亚哥华人论坛</a></span> <span class="inactiveText"><a href="/f/page_grade.html">等级介绍</a></span> <span class="inactiveText"><a href="/f/page_masterapply.html">版主申请</a></span> <span class="inactiveText"><a href="/qa.html">问题征解</a></span> <span class="inactiveText"><a href="/tag.html">标签</a></span> <span class="inactiveText"><a href="/register.html">注册</a></span> <span class="inactiveText"><a href="/f/page_login.html">登录</a></span> </td> 
-        </tr> 
-       </tbody> 
-      </table> 
-     </div> 
-    </form> 
-    <div class="submenu_list" id="inactive_submenu1163"> 
-     <table id="subTabs" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="left"> <span class="inactiveText"><a href="/resume/task_manage.html">个人简历管理</a></span><span class="inactiveText"><a href="/resume/task_search.h
+   </div> 
+   <div class="row" id="csu-footer">
+    <a href="https://www2.calstate.edu" title="California state university"></a>
+   <
