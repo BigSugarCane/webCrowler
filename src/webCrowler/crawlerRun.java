@@ -30,13 +30,19 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.io.Writer;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Objects;
 import java.io.IOException;
 import org.jsoup.Jsoup;
 public class crawlerRun {
@@ -74,7 +80,7 @@ public class crawlerRun {
 //    	}
     	
         // Check if you have already crawled the URLs
-        if (!links.contains(URL) && URL != ""  && limit < 20) {
+        if (!links.contains(URL) && URL != ""  && limit < 200) {
             try {
             Document doc = Jsoup.connect(URL).ignoreContentType(true).userAgent("Mozilla").get();
             	String title = doc.title();
@@ -228,7 +234,7 @@ public class crawlerRun {
  //       bwc.getURLs("http://"+url,lan);
    
     	
-    	bwc.getURLs("https://www.cpp.edu");
+    	bwc.getURLs("https://www.cpp.edu/index.shtml");
 //    	System.out.println("OutPut: ");
 //    	for (Map.Entry<String, Integer> entry : outPut.entrySet()) {
 //    	    System.out.println(entry.getKey()+" : "+entry.getValue());
@@ -236,10 +242,12 @@ public class crawlerRun {
     	//removeNoneOut(inCome,outPut);
     	printHash(inCome);
     	PRcalculator(inCome,outPut);
-     //    printHash(inCome);
+    	
         
     }
     public static void PRcalculator(Map<String, List<String>> inCome,HashMap<String,  Integer> outPut) {
+//    	outPut.remove("https://www.cpp.edu");
+//    	inCome.remove("https://www.cpp.edu");
     	HashMap<String,Double> pr = new HashMap<String, Double>();
     	double size = outPut.size();
     	
@@ -249,39 +257,58 @@ public class crawlerRun {
     		pr.put(key, iPR);
     	}
     	
-    
-    	
-//    		for(HashMap.Entry<String, Double> me :pr.entrySet()) {
-//        		String key = me.getKey();
-//        		double temSum = 0;
-//        		List<String> tem = inCome.get(key);
-//        	//	tem.removeAll(Collections.singleton(null));
-////        		int index = tem.size() - 1; 
-////        		  
-////                // Delete last element by passing index 
-////                tem.remove(index); 
-//        		
-//        		System.out.println(tem);
-//        		System.out.println();
-////        		for (String s : tem) { 
-////        	           temSum = temSum+pr.get(s)/ outPut.get(s);	
-////        	      }
-////        		pr.put(key,temSum);
-//      
-//        		
-//        		
-//        		
-//        	}
-//    	
-    	//tester
+    	int couter=0;
+    	HashMap<String,Double> temp = new HashMap<String, Double>();
+    	temp.putAll(pr);
     	for(HashMap.Entry<String, Double> me :pr.entrySet()) {
     		String key = me.getKey();
-    		System.out.println(key);
+    		temp.put(key, pr.get(key));
     	}
     	
     	
     	
     	
+    	
+		HashMap<String,Double> temp2 = new HashMap<String, Double>();
+		
+    	
+    	do {
+    		for(HashMap.Entry<String, Double> me :pr.entrySet()) {
+        		String key = me.getKey();
+        		temp2.put(key, pr.get(key));
+        	}
+    		double cons = 0.15;
+    		for(HashMap.Entry<String, Double> me :pr.entrySet()) {
+        		String key = me.getKey();
+        		double temSum = 0;
+        		List<String> tem = inCome.get(key);
+        		
+        	//	if(tem != null) {
+        		for (String s : tem) {     			
+        	           temSum = temSum+temp2.get(s)/ outPut.get(s);	     
+       	        	}  
+        		temSum= cons/size +(1-cons)*temSum;
+        		DecimalFormat df = new DecimalFormat("#.00000");
+        		temSum =Double.parseDouble( df.format(temSum));
+        		
+        		pr.put(key,temSum);
+        	}
+       couter++;
+      
+    	}while(check_pagerank(pr,temp2));
+    	//tester
+    	System.out.println(couter);
+//    	for(HashMap.Entry<String, Double> me :pr.entrySet()) {
+//    		String key = me.getKey();
+//    		System.out.println(key);
+//    		System.out.println(me.getValue());
+//   	}    	
+    	Map<String, Double> hm1 = sortByValue(pr); 
+    	for (Map.Entry<String, Double> en : hm1.entrySet()) { 
+            System.out.println("Key = " + en.getKey() +  
+                          ", Value = " + en.getValue()); 
+        } 
+    	System.out.println(size);
     	
     }
     
@@ -317,10 +344,10 @@ public class crawlerRun {
     	
     	for(HashMap.Entry<String, Integer> me :outPut.entrySet()) {
     		String key = me.getKey();
-    		if(outPut.get(key) == 0) {
-    			inCome.remove(key);
-    			System.out.println(key+" has been removed.");
-    		}
+    		
+    			
+    			System.out.println(key+": "+me.getValue());
+    		
     		
     		
     		
@@ -375,7 +402,50 @@ public class crawlerRun {
 //       // System.out.println(language.equals("en"));
 //        return language ;
 //    }
+    public static HashMap<String, Double> sortByValue(HashMap<String, Double> hm) 
+    { 
+        // Create a list from elements of HashMap 
+        List<Map.Entry<String, Double> > list = 
+               new LinkedList<Map.Entry<String, Double> >(hm.entrySet()); 
+  
+        // Sort the list 
+        Collections.sort(list, new Comparator<Map.Entry<String, Double> >() { 
+            public int compare(Map.Entry<String, Double> o1,  
+                               Map.Entry<String, Double> o2) 
+            { 
+                return (o1.getValue()).compareTo(o2.getValue()); 
+            } 
+        }); 
+          
+        // put data from sorted list to hashmap  
+        HashMap<String, Double> temp = new LinkedHashMap<String, Double>(); 
+        for (Map.Entry<String, Double> aa : list) { 
+            temp.put(aa.getKey(), aa.getValue()); 
+        } 
+        return temp; 
+    } 
     
-    
+ public static boolean check_pagerank(HashMap<String,Double> a, HashMap<String,Double> b) {
+    	
+    	int tem = 0;
+    	
+    	for(HashMap.Entry<String, Double> me :a.entrySet()) {
+    		
+    		String key_ = me.getKey();
+    		System.out.println(a.get(key_));
+    		System.out.println(b.get(key_));
+    		
+    		if(!a.get(key_).equals( b.get(key_))) {
+    		
+    			tem++;
+    			
+    		}
+    	}
+    	//System.out.println("tem is :"+tem);
+    	if(tem == 0) {
+    		return false;
+    	}
+    	return true ;
+    }
 
 }
